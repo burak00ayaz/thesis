@@ -1,16 +1,33 @@
-from mistral_test import answer_question as mistral_answer_question
-from pisco_test import answer_question as pisco_answer_question
+from transformers import AutoTokenizer
+
+MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.2"
+tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
+sentence = "Paris is the capital of France."
+
+def tokenize(sentence: str):
+    return tokenizer.tokenize(sentence)
+
+
+# 1. Get token strings
+# tokens = tokenizer.tokenize(sentence)
+# print(tokens)
+
+# 2. Get token IDs
+# token_ids = tokenizer.encode(sentence)
+# print(token_ids)
+
+# 3. Recommended: get model-ready inputs
+# inputs = tokenizer(sentence, return_tensors="pt")
+# print(inputs)
+
 
 
 context_1 = """
 Mistral-7B-Instruct-v0.2 is an instruction-tuned version of Mistral-7B-v0.2.
 Compared to v0.1, Mistral-7B-v0.2 has a 32k context window.
 """
-
 question_1 = "What is the context window of Mistral-7B-Instruct-v0.2?"
 expected_answer_1 = "32k."
-
-
 
 context_2 = """
 Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary.
@@ -63,12 +80,30 @@ question_12 = "Why did the company select Route L-27?"
 expected_answer_12 = "Because it had the lowest fuel consumption, and fuel cost was more important than delivery speed."
 
 
-answer_mistral = mistral_answer_question(context_3, question_3)
-print('Mistral-7B-Instruct-v0.2 answer:', answer_mistral)
 
-answer_pisco = pisco_answer_question(context_3, question_3)
-print('PISCO answer:', answer_pisco)
+print('Number of tokens in context_1:', len(tokenize(context_1)))
+print('Number of tokens in context_2:', len(tokenize(context_2)))
+print('Number of tokens in context_3:', len(tokenize(context_3)))
+print('Number of tokens in context_4:', len(tokenize(context_4)))
+print('Number of tokens in context_5:', len(tokenize(context_5)))
+print('Number of tokens in context_6:', len(tokenize(context_6)))
+print('Number of tokens in context_7:', len(tokenize(context_7)))
+print('Number of tokens in context_8:', len(tokenize(context_8)))
+print('Number of tokens in context_9:', len(tokenize(context_9)))
+print('Number of tokens in context_10:', len(tokenize(context_10)))
+print('Number of tokens in context_11:', len(tokenize(context_11)))
+print('Number of tokens in context_12:', len(tokenize(context_12)))
 
 
-
-
+print('Tokens in context_1:', tokenize(context_1))
+print('Tokens in context_2:', tokenize(context_2))
+print('Tokens in context_3:', tokenize(context_3))
+print('Tokens in context_4:', tokenize(context_4))
+print('Tokens in context_5:', tokenize(context_5))
+print('Tokens in context_6:', tokenize(context_6))
+print('Tokens in context_7:', tokenize(context_7))
+print('Tokens in context_8:', tokenize(context_8))
+print('Tokens in context_9:', tokenize(context_9))
+print('Tokens in context_10:', tokenize(context_10))
+print('Tokens in context_11:', tokenize(context_11))
+print('Tokens in context_12:', tokenize(context_12))
