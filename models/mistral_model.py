@@ -11,7 +11,7 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto"
 )
 
-def answer_question(context: str, question: str, max_new_tokens: int = 128) -> str:
+def answer_question(question: str, context: str, max_new_tokens: int = 128) -> str:
     prompt = f"""
 You are a question-answering assistant.
 

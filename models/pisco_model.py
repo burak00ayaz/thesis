@@ -6,7 +6,7 @@ pisco = AutoModel.from_pretrained(
 ).to('cuda')
 
 
-def answer_question(context: str, question: str, max_new_tokens: int = 128) -> str:
+def answer_question(question: str, context: str, max_new_tokens: int = 128) -> str:
     question_array = [question]
     context_array = [[context]]
 
