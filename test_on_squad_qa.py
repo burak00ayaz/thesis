@@ -9,10 +9,10 @@ for i, triple in enumerate(get_question_context_answer_triples()):
     log("Question:", triple["question"])
     log("Context:", triple["context"])
     log("Answer:", triple["answer"])
-    log()
+    log("-------------------------------")
 
     out_mistral = mistral_answer_question(triple["question"], triple["context"])
     log("Mistral Answer:", out_mistral)
     out_pisco = pisco_answer_question(triple["question"], triple["context"])
     log("Pisco Answer:", out_pisco)
-    log()
+    log("-------------------------------")

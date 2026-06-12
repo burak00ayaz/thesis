@@ -35,12 +35,3 @@ def get_question_context_answer_triples():
         question = example["question"]
         answer = example["answers"]["text"][0]  # Get the first answer from the list
         yield {"question": question, "context": context, "answer": answer}
-
-
-
-for i, triple in enumerate(get_question_context_answer_triples()):
-    print(f"Example {i}:")
-    print("Question:", triple["question"])
-    print("Context:", triple["context"])
-    print("Answer:", triple["answer"])
-    print()
