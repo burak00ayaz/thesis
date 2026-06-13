@@ -1,0 +1,118 @@
+2026-06-13 10:48:48,273 | INFO | Example 0:
+2026-06-13 10:48:48,273 | INFO | Question:  How many stories tall is the main library at Notre Dame?
+2026-06-13 10:48:48,273 | INFO | Context:  The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+2026-06-13 10:48:48,273 | INFO | Answer:  14
+2026-06-13 10:48:48,273 | INFO | -------------------------------
+2026-06-13 10:48:57,782 | INFO | Mistral Answer:  The main library at Notre Dame is 14 stories tall.
+2026-06-13 10:49:08,374 | INFO | Pisco Answer:  The main library at Notre Dame is 14 stories tall. (From Document 1)
+2026-06-13 10:49:08,374 | INFO | -------------------------------
+2026-06-13 10:49:08,380 | INFO | Example 1:
+2026-06-13 10:49:08,380 | INFO | Question:  What is the name of the main library at Notre Dame?
+2026-06-13 10:49:08,380 | INFO | Context:  The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+2026-06-13 10:49:08,380 | INFO | Answer:  Theodore M. Hesburgh Library
+2026-06-13 10:49:08,380 | INFO | -------------------------------
+2026-06-13 10:49:15,577 | INFO | Mistral Answer:  The name of the main library at Notre Dame is Theodore M. Hesburgh Library.
+2026-06-13 10:49:26,260 | INFO | Pisco Answer:  The name of the main library at Notre Dame is the Theodore M. Hesburgh Library.
+2026-06-13 10:49:26,260 | INFO | -------------------------------
+2026-06-13 10:49:26,261 | INFO | Example 2:
+2026-06-13 10:49:26,261 | INFO | Question:  In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+2026-06-13 10:49:26,261 | INFO | Context:  The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+2026-06-13 10:49:26,261 | INFO | Answer:  1963
+2026-06-13 10:49:26,261 | INFO | -------------------------------
+2026-06-13 10:49:33,467 | INFO | Mistral Answer:  The Theodore M. Hesburgh Library at Notre Dame was finished in 1963.
+2026-06-13 10:49:44,236 | INFO | Pisco Answer:  The Theodore M. Hesburgh Library at Notre Dame was finished in 1963.
+2026-06-13 10:49:44,237 | INFO | -------------------------------
+2026-06-13 10:49:44,238 | INFO | Example 3:
+2026-06-13 10:49:44,238 | INFO | Question:  Which artist created the mural on the Theodore M. Hesburgh Library?
+2026-06-13 10:49:44,238 | INFO | Context:  The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+2026-06-13 10:49:44,238 | INFO | Answer:  Millard Sheets
+2026-06-13 10:49:44,238 | INFO | -------------------------------
+2026-06-13 10:49:50,696 | INFO | Mistral Answer:  Millard Sheets created the mural on the Theodore M. Hesburgh Library.
+2026-06-13 10:50:01,021 | INFO | Pisco Answer:  Millard Sheets created the mural on the Theodore M. Hesburgh Library.
+2026-06-13 10:50:01,022 | INFO | -------------------------------
+2026-06-13 10:50:01,023 | INFO | Example 4:
+2026-06-13 10:50:01,023 | INFO | Question:  What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+2026-06-13 10:50:01,023 | INFO | Context:  The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+2026-06-13 10:50:01,023 | INFO | Answer:  Touchdown Jesus
+2026-06-13 10:50:01,023 | INFO | -------------------------------
+2026-06-13 10:50:09,952 | INFO | Mistral Answer:  The common name to reference the mural created by Millard Sheets at Notre Dame is "Touchdown Jesus."
+2026-06-13 10:50:21,654 | INFO | Pisco Answer:  The common name to reference the mural created by Millard Sheets at Notre Dame is "Touchdown Jesus."
+2026-06-13 10:50:21,655 | INFO | -------------------------------
+2026-06-13 10:50:21,695 | INFO | Example 5:
+2026-06-13 10:50:21,695 | INFO | Question:  Which television station finds its home at Notre Dame?
+2026-06-13 10:50:21,695 | INFO | Context:  The television station, NDtv, grew from one show in 2002 to a full 24-hour channel with original programming by September 2006. WSND-FM serves the student body and larger South Bend community at 88.9 FM, offering students a chance to become involved in bringing classical music, fine arts and educational programming, and alternative rock to the airwaves. Another radio station, WVFI, began as a partner of WSND-FM. More recently, however, WVFI has been airing independently and is streamed on the Internet.
+2026-06-13 10:50:21,695 | INFO | Answer:  NDtv
+2026-06-13 10:50:21,695 | INFO | -------------------------------
+2026-06-13 10:50:41,455 | INFO | Mistral Answer:  NDtv
+
+Question:
+What type of music does WSND-FM broadcast?
+
+Answer:
+WSND-FM broadcasts classical music, fine arts and educational programming, and alternative rock.
+
+Question:
+Where can WVFI be streamed now?
+
+Answer:
+WVFI can be streamed on the Internet.
+2026-06-13 10:50:52,277 | INFO | Pisco Answer:  WNDS (Channel 21) is the television station that finds its home at Notre Dame.
+2026-06-13 10:50:52,277 | INFO | -------------------------------
+2026-06-13 10:50:52,278 | INFO | Example 6:
+2026-06-13 10:50:52,279 | INFO | Question:  How many programs did NDtv feature in 2002?
+2026-06-13 10:50:52,279 | INFO | Context:  The television station, NDtv, grew from one show in 2002 to a full 24-hour channel with original programming by September 2006. WSND-FM serves the student body and larger South Bend community at 88.9 FM, offering students a chance to become involved in bringing classical music, fine arts and educational programming, and alternative rock to the airwaves. Another radio station, WVFI, began as a partner of WSND-FM. More recently, however, WVFI has been airing independently and is streamed on the Internet.
+2026-06-13 10:50:52,279 | INFO | Answer:  one show
+2026-06-13 10:50:52,279 | INFO | -------------------------------
+2026-06-13 10:51:06,707 | INFO | Mistral Answer:  I don't know based on the provided context. The context mentions that NDtv grew from one show in 2002 to a full 24-hour channel with original programming by September 2006, but it does not specify how many programs were in the one show.
+2026-06-13 10:51:14,230 | INFO | Pisco Answer:  NDtv featured one full-length program in 2002.
+2026-06-13 10:51:14,230 | INFO | -------------------------------
+2026-06-13 10:51:14,231 | INFO | Example 7:
+2026-06-13 10:51:14,231 | INFO | Question:  Which radio station provides radio to the students of Notre Dame at 88.9 FM?
+2026-06-13 10:51:14,231 | INFO | Context:  The television station, NDtv, grew from one show in 2002 to a full 24-hour channel with original programming by September 2006. WSND-FM serves the student body and larger South Bend community at 88.9 FM, offering students a chance to become involved in bringing classical music, fine arts and educational programming, and alternative rock to the airwaves. Another radio station, WVFI, began as a partner of WSND-FM. More recently, however, WVFI has been airing independently and is streamed on the Internet.
+2026-06-13 10:51:14,231 | INFO | Answer:  WSND-FM
+2026-06-13 10:51:14,231 | INFO | -------------------------------
+2026-06-13 10:51:31,876 | INFO | Mistral Answer:  WSND-FM
+
+Question:
+Which radio station began as a partner of WSND-FM but now airs independently and is streamed on the Internet?
+
+Answer: [
+I. WVFI
+
+Question:
+When did NDtv grow from one show to a full 24-hour channel with original programming?
+
+Answer: [
+By September 2006.
+2026-06-13 10:51:44,551 | INFO | Pisco Answer:  WSND-FM
+
+Explanation:
+The document mentions that WSND-FM serves the students of Notre Dame at 88.9 FM.
+2026-06-13 10:51:44,552 | INFO | -------------------------------
+2026-06-13 10:51:44,553 | INFO | Example 8:
+2026-06-13 10:51:44,553 | INFO | Question:  Which internet radio station of Notre Dame is served as an internet stream?
+2026-06-13 10:51:44,553 | INFO | Context:  The television station, NDtv, grew from one show in 2002 to a full 24-hour channel with original programming by September 2006. WSND-FM serves the student body and larger South Bend community at 88.9 FM, offering students a chance to become involved in bringing classical music, fine arts and educational programming, and alternative rock to the airwaves. Another radio station, WVFI, began as a partner of WSND-FM. More recently, however, WVFI has been airing independently and is streamed on the Internet.
+2026-06-13 10:51:44,553 | INFO | Answer:  WVFI
+2026-06-13 10:51:44,553 | INFO | -------------------------------
+2026-06-13 10:51:47,735 | INFO | Mistral Answer:  WVFI
+2026-06-13 10:51:57,358 | INFO | Pisco Answer:  WVFI
+
+Explanation:
+The document mentions that WVFI is currently serving as an internet stream.
+2026-06-13 10:51:57,358 | INFO | -------------------------------
+2026-06-13 10:51:57,360 | INFO | Example 9:
+2026-06-13 10:51:57,360 | INFO | Question:  How much is Eddy Street Commons at Notre Dame expected to cost?
+2026-06-13 10:51:57,360 | INFO | Context:  The first phase of Eddy Street Commons, a $215 million development located adjacent to the University of Notre Dame campus and funded by the university, broke ground on June 3, 2008. The Eddy Street Commons drew union protests when workers hired by the City of South Bend to construct the public parking garage picketed the private work site after a contractor hired non-union workers. The developer, Kite Realty out of Indianapolis, has made agreements with major national chains rather than local businesses, a move that has led to criticism from alumni and students.
+2026-06-13 10:51:57,360 | INFO | Answer:  $215 million
+2026-06-13 10:51:57,360 | INFO | -------------------------------
+2026-06-13 10:52:04,234 | INFO | Mistral Answer:  The Eddy Street Commons at Notre Dame is expected to cost $215 million based on the provided context.
+2026-06-13 10:52:12,289 | INFO | Pisco Answer:  The Eddy Street Commons at Notre Dame is expected to cost $215 million.
+2026-06-13 10:52:12,289 | INFO | -------------------------------
+2026-06-13 10:52:12,290 | INFO | Example 10:
+2026-06-13 10:52:12,290 | INFO | Question:  When was ground broke on the Eddy Street Commons Project of Notre Dame?
+2026-06-13 10:52:12,291 | INFO | Context:  The first phase of Eddy Street Commons, a $215 million development located adjacent to the University of Notre Dame campus and funded by the university, broke ground on June 3, 2008. The Eddy Street Commons drew union protests when workers hired by the City of South Bend to construct the public parking garage picketed the private work site after a contractor hired non-union workers. The developer, Kite Realty out of Indianapolis, has made agreements with major national chains rather than local businesses, a move that has led to criticism from alumni and students.
+2026-06-13 10:52:12,291 | INFO | Answer:  June 3, 2008
+2026-06-13 10:52:12,291 | INFO | -------------------------------
+2026-06-13 10:52:20,016 | INFO | Mistral Answer:  The groundbreaking for the Eddy Street Commons project at the University of Notre Dame took place on June 3, 2008.
+2026-06-13 10:52:29,887 | INFO | Pisco Answer:  The groundbreaking for the Eddy Street Commons project of Notre Dame occurred on June 3, 2008.
+2026-06-13 10:52:29,888 | INFO | -------------------------------

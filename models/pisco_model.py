@@ -18,4 +18,4 @@ def answer_question(question: str, context: str, max_new_tokens: int = 128) -> s
 
     # Generation from compressed documents:
     # out = pisco.generate_from_compressed_documents_and_questions(questions=question_array, compressed_documents=embeddings)
-    return out
+    return out[0]

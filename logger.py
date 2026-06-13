@@ -20,5 +20,5 @@ logging.basicConfig(
     force=True  # useful if logging was already configured, e.g. notebooks
 )
 
-def log(message: str):
-    logging.info(message)
+def log(*messages: str) -> None:
+    logging.info(" ".join(messages))
