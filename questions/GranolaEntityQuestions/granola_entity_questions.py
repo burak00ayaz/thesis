@@ -26,9 +26,10 @@ class GranolaEntityQuestions:
             self.ds["train"] = self.ds["train"].sort(column_names="answer_entity_popularity", reverse=False)
 
         # filter out examples where the answer entity popularity is below a certain threshold
-        self.ds["train"] = self.ds["train"].filter(
-            lambda x: x["answer_entity_popularity"] is not None
-            and x["answer_entity_popularity"] >= answer_popularity_threshold
+        if answer_popularity_threshold is not None:
+            self.ds["train"] = self.ds["train"].filter(
+                lambda x: x["answer_entity_popularity"] is not None
+                and x["answer_entity_popularity"] >= answer_popularity_threshold
         )
 
     def get_question_answer_tuples(self):
