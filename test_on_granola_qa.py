@@ -1,4 +1,4 @@
-from questions.granola_entity_questions import GranolaEntityQuestions
+from questions.GranolaEntityQuestions.granola_entity_questions import GranolaEntityQuestions
 from retrieval.pyserini_sparse_and_reranking import retrieve_and_rerank
 from logger import log
 from models.mistral_model import MistralModel
@@ -51,7 +51,7 @@ def test_mistral_on_granola_qa():
         log("=" * 80)
         total_count += 1
 
-        if i >= 100:
+        if total_count >= 100:
             break
 
     log(f"Correct answers: {correct_answer_count}/{total_count}")
@@ -102,7 +102,7 @@ def test_pisco_on_granola_qa():
         log("=" * 80)
         total_count += 1
 
-        if i >= 100:
+        if total_count >= 100:
             break
 
     log(f"Correct answers: {correct_answer_count}/{total_count}")
