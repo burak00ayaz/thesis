@@ -55,11 +55,11 @@ def test_model_on_granola_qa(model_id: str):
         log("=" * 80)
         total_count += 1
 
-        if total_count >= 100:
+        if total_count >= 1000:
             break
 
     log(f"Correct answers: {correct_answer_count}/{total_count}")
 
 
-granola = GranolaEntityQuestions(relations=["P26"], sort_by_answer_popularity=True, answer_popularity_threshold=100)
-test_model_on_granola_qa("Mistral")
+granola = GranolaEntityQuestions(sort_by_answer_popularity=True)
+test_model_on_granola_qa("Pisco")
