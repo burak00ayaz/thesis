@@ -1,0 +1,2450 @@
+{
+    "example_id": 4,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 0.0,
+    "question": "Who owns Ben NL?",
+    "gold_answer": "T-Mobile International",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ben NL is a joint venture between Belgian telecommunications provider Belgacom, Danish telecommunications company TDC, and Dutch telecommunications provider KPN. Each company holds an equal share of 33.33% in Ben NL.",
+    "mistral_answer": "Ben NL is a Dutch mobile telecommunications company that emerged as a full function joint venture between Belgacom, Tele Danmark, and T-Mobile International in 2000. Therefore, Ben NL is owned by these three companies: Belgacom (Belgium), Tele Danmark (Denmark), and T-Mobile International (a subsidiary of Deutsche Telekom, Germany).",
+    "docid": "11585757",
+    "rerank_score": 6.4803,
+    "passage": "\"Ben NL\" UMTS (HSDPA) networks of its parent company T-Mobile Nederland. On August 28, 2000, Belgacom, T-Mobile International, and Tele Danmark applied for permission to share control of Ben Nederland Holding (“Ben”). At that time, Belgacom was the principal telecommunications provider in Belgium, Tele Danmark the principal telecommunications provider in Denmark, and T-Mobile International a mobile telephony service provider and subsidiary of Deutsche Telekom. Ben was to become a “full function "
+}
+{
+    "example_id": 7,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 2.0,
+    "question": "Who is Conall Grant's child?",
+    "gold_answer": "Niall mac Conaill",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Conall Grant is a historical figure from Ireland who had several children. Some of his known children include Niall Conaill mac Granta, Ailill Conaill mac Granta, and Cearnach mac Granta.",
+    "mistral_answer": "Conall Grant has several children mentioned in the context: Niall mac Conaill Graint, Ailill mac Conaill Graint, and Conall Grant mac Cernaig.",
+    "docid": "11754091",
+    "rerank_score": 3.3019,
+    "passage": "\"Conall Grant\" southern Brega septs of Síl nÁedo Sláine. Conall's son Niall mac Conaill Graint (died 778) was a King of Southern Brega. Another son, Ailill mac Conaill Graint (died 722) was slain at the Battle of Allen where the men of Leinster defeated the Ui Neill. Conall Grant Conall Grant mac Cernaig (died 718) was a King of Brega of the Uí Chernaig sept of Lagore of the Síl nÁedo Sláine. He was the grandson of the high king Diarmait mac Áedo Sláine (died 665). His father Cernach Sotal had d"
+}
+{
+    "example_id": 22,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 3.0,
+    "question": "Which company is Mercedes-Benz buses produced by?",
+    "gold_answer": "EvoBus",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Mercedes-Benz buses are produced by Daimler AG, a German multinational automotive corporation. The buses are part of the Mercedes-Benz brand, which is owned by Daimler AG.",
+    "mistral_answer": "Mercedes-Benz buses are produced by EvoBus GmbH, which is a subsidiary of Daimler AG.",
+    "docid": "5017187",
+    "rerank_score": 7.7811,
+    "passage": "\"Mercedes-Benz buses\" Mercedes-Benz buses Mercedes-Benz has been making buses since 1895 in Mannheim in Germany. Since 1995, the brand of Mercedes-Benz buses and coaches is under the umbrella of EvoBus GmbH, belonging 100% to the Daimler AG. The world's first motorised bus was built in Germany by Karl Benz in 1895, some years before Gottlieb Daimler also started to build and sell buses in Germany as well. By 1898 both Karl Benz and Gottlieb Daimler, then rivals, were exporting their buses to Wal"
+}
+{
+    "example_id": 45,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 6.0,
+    "question": "Who is Hieronim Chodkiewicz married to?",
+    "gold_answer": "Anna Tarło",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Hieronim Chodkiewicz is married to Anna Zenowica, the daughter of Mikołaj Zenowic, castellan of Poznań. (Document 1)",
+    "mistral_answer": "Hieronim Chodkiewicz is married to Anna Tarło h. Topór.",
+    "docid": "7272972",
+    "rerank_score": 4.0766,
+    "passage": "\"Albrycht Władysław Radziwiłł\" Elżbieta Radziwiłł h. Trąby in 1618 in Wilno. He married the second time (a year after Anna's death) in 1628 Anna Zofia Zenowicz h. Deszpot, the daughter of castellan of Połock and \"\"starosta\"\" of Mińsk Mikołaj Bogusław Zenowicz h. Deszpot and Anna Chodkiewicz h. Kościesza, the daughter of Hieronim Chodkiewicz h. Kościesza and Anna Tarło h. Topór. He had five children. With Princess Anna Sapieha h. Lis: And with Anna Zofia Zenowicz h. Deszpot: Albrycht Władysław Ra"
+}
+{
+    "example_id": 61,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 8.0,
+    "question": "Where is Komarówka located?",
+    "gold_answer": "Gmina Sosnowica",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Komarówka is not mentioned in the provided documents. The documents only provide information about Gmina Sosnica and its villages, including Komarówka, but no specific location is given for Komarówka.",
+    "mistral_answer": "Komarówka is located in Gmina Sosnowica, as stated in the context.",
+    "docid": "10418014",
+    "rerank_score": 0.4046,
+    "passage": "\"Gmina Sosnowica\" Stary Orzechów, Turno, Zienki and Zbójno. <br> Gmina Sosnowica Gmina Sosnowica is a rural gmina (administrative district) in Parczew County, Lublin Voivodeship, in eastern Poland. Its seat is the village of Sosnowica, which lies approximately south-east of Parczew and north-east of the regional capital Lublin. The gmina covers an area of , and as of 2006 its total population is 2,645 (2,668 in 2014). Gmina Sosnowica is bordered by the gminas of Dębowa Kłoda, Ludwin, Stary Brus,"
+}
+{
+    "example_id": 64,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 9.0,
+    "question": "Where is Ługowa Wola (województwo mazowieckie) located?",
+    "gold_answer": "Gmina Policzna",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ługowa Wola is not mentioned in the provided documents. The name of the commune is Policzna.",
+    "mistral_answer": "Ługowa Wola is located in Gmina Policzna, Zwoleń County, Masovian Voivodeship, in east-central Poland.",
+    "docid": "11388016",
+    "rerank_score": -0.1641,
+    "passage": "\"Gmina Policzna\" Gmina Policzna Gmina Policzna is a rural gmina (administrative district) in Zwoleń County, Masovian Voivodeship, in east-central Poland. Its seat is the village of Policzna, which lies approximately 11 kilometres (7 mi) north-east of Zwoleń and 96 km (59 mi) south-east of Warsaw. The gmina covers an area of , and as of 2006 its total population is 5,895. Gmina Policzna contains the villages and settlements of Aleksandrówka, Andrzejówka, Annów, Antoniówka, Biały Ług, Bierdzież, C"
+}
+{
+    "example_id": 65,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 9.0,
+    "question": "Where is Żegocino located?",
+    "gold_answer": "Gmina Malechowo",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Żegocino is not mentioned in the provided documents. The information given is about the village of Święcianów.",
+    "mistral_answer": "Żegocino is located in the administrative district of Gmina Malechowo, within Sławno County, West Pomeranian Voivodeship, in north-western Poland. It was formerly known as Segenthin. (Answer derived from the context)",
+    "docid": "13155585",
+    "rerank_score": 3.2346,
+    "passage": "\"Święcianowo\" Święcianowo Święcianowo is a village in the administrative district of Gmina Malechowo, within Sławno County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately south-east of Malechowo, south-west of Sławno, and north-east of the regional capital Szczecin. The village has a population of 210. Before 1945 the area was part of Germany. For the history of the region, see History of Pomerania. The modern settlement of was founded in the final quarter of the e"
+}
+{
+    "example_id": 98,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 13.0,
+    "question": "Who is Indian Charlie's child?",
+    "gold_answer": "Conveyance",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Indian Charlie is a Thoroughbred racehorse. He does not have a child mentioned in the provided documents.",
+    "mistral_answer": "The context mentions several of Indian Charlie's progeny by name: A.P. Indian, Conveyance, Bwana Charlie, Indian Firewater, Iindyanne, and Mr. [Based on the context, these are the children of Indian Charlie.]",
+    "docid": "15591651",
+    "rerank_score": 1.1483,
+    "passage": "\"Indian Charlie\" finished third to Real Quiet. He was rested after the Derby and missed the Preakness and Belmont Stakes. He was being prepared for a return to racing in the Haskell Invitational in August when he pulled a suspensory ligament during training at Del Mar Racetrack and was retired from racing. Indian Charlie stood at Airdrie Stud near Midway, Kentucky where his stud fee for 2011 was set at $70,000. To date he has sired four champions: Among his other notable progeny, Indian Charlie "
+}
+{
+    "example_id": 106,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 14.0,
+    "question": "Where is Warenka located?",
+    "gold_answer": "Gmina Turek",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Warenka is not mentioned in the provided documents. The documents only mention the following villages: Albertów, Budy Słodkowskie, Chcewice, Cisew, Dzierżanów, Grabina, Kaczyńska, Kalina, Kowalewski, Korytków, Kozie Kałki, Obrzębina, Obrzębina Pienińska, Obrzębina Zbąszczyńska, Obrzębka, Obrzębka-Kolonia,",
+    "mistral_answer": "Warenka is located in Gmina Turek, as stated in the context.",
+    "docid": "11412809",
+    "rerank_score": -3.4335,
+    "passage": "\"Gmina Turek\" of Albertów, Budy Słodkowskie, Chlebów, Cisew, Cisew Mały, Dzierżązna, Grabieniec, Kaczki Średnie, Kalinowa, Korytków, Kowale Księże, Obrębizna, Obrzębin, Pęcherzew, Słodków, Słodków-Kolonia, Szadów Księży, Szadów Pański, Szadowskie Góry, Turkowice, Warenka, Wietchinin, Wrząca and Żuki. Gmina Turek is bordered by the town of Turek and by the gminas of Brudzew, Dobra, Kawęczyn, Malanów, Przykona, Tuliszków and Władysławów. <br> Gmina Turek Gmina Turek is a rural gmina (administrativ"
+}
+{
+    "example_id": 116,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 16.0,
+    "question": "Who is Tso Wong Man-yin married to?",
+    "gold_answer": "Tso Wung-Wai",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Tso Wong Man-yin is married to Tung Wung-che.",
+    "mistral_answer": "Tso Wong Man-yin is married to Tso Wung-Wai.",
+    "docid": "17262906",
+    "rerank_score": 8.0385,
+    "passage": "\"Tso Wong Man-yin\" National Committee and the executive committee member of the pro-Beijing political party Democratic Alliance for the Betterment and Progress of Hong Kong. Her husband, Tso Wung-Wai, is also a well-known chemist and politician. Tso Wong Man-yin Marianne Tso Wong Man-yin BBS FRSC (born 30 October 1944, Beijing) is a Hong Kong chemist. Graduated from the Chinese University of Hong Kong, she obtained her master's degree at the University of Miami and doctoral degree at the Univers"
+}
+{
+    "example_id": 119,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 16.0,
+    "question": "Where is Mokronos, Łobez County located?",
+    "gold_answer": "Gmina Resko",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Mokronos is a village located in Łobez County, Poland.",
+    "mistral_answer": "Mokronos is located in Gmina Resko, Łobez County.",
+    "docid": "11415492",
+    "rerank_score": 1.673,
+    "passage": "\"Gmina Resko\" Mały, Łabuń Wielki, Łagiewniki, Łosośnica, Łosośniczka, Lubień Dolny, Lubień Górny, Luboradz, Ługowina, Miłogoszcz, Mokronos, Mołstowo, Naćmierz, Orzeszkowo, Piaski, Policko, Porąbka, Potuliny, Prusim, Przemysław, Sąpólko, Sienno, Siwkowice, Słowikowo, Smólsko, Sosnówko, Sosnowo, Stara Dobrzyca, Stołążek, Święciechowo, Świekotki, Taczały, Trzaski and Żerzyno. Gmina Resko is bordered by the gminas of Łobez, Nowogard, Płoty, Radowo Małe, Rymań, Sławoborze and Świdwin. <br> Gmina Resk"
+}
+{
+    "example_id": 124,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 17.0,
+    "question": "Where is Prosna, Warmian-Masurian Voivodeship located?",
+    "gold_answer": "Gmina Korsze",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Prosna is a village located in the administrative district of Gmina Kętrzyn, within Kętrzyn County, in the Warmian-Masurian Voivodeship, in northern Poland. It is approximately north-west of Kętrzyn, north-west of Lidzbark Warmiński, and north-east of Olsztyn.",
+    "mistral_answer": "Prosna, Warmian-Masurian Voivodeship is located in northern Poland, within Kętrzyn County, and in the administrative district of Gmina Korsze. It lies approximately north-west of Korsze, north-west of Kętrzyn, and north-east of the regional capital Olsztyn. (Answer derived from the context)",
+    "docid": "13109413",
+    "rerank_score": 10.3568,
+    "passage": "\"Prosna, Warmian-Masurian Voivodeship\" Prosna, Warmian-Masurian Voivodeship Prosna () is a village in the administrative district of Gmina Korsze, within Kętrzyn County, Warmian-Masurian Voivodeship, in northern Poland. It lies approximately north-west of Korsze, north-west of Kętrzyn, and north-east of the regional capital Olsztyn. Before 1945 the area was part of Germany (East Prussia). The village was first mentioned in 1376 by Winrich von Kniprode as property of the Leunenburg family. In 149"
+}
+{
+    "example_id": 147,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 20.0,
+    "question": "Where is Kawczyn, Pomeranian Voivodeship located?",
+    "gold_answer": "Gmina Miastko",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Kawczyn is a village located in the Pomeranian Voivodeship, Poland. It is part of the municipality of Gmina Miasto Kościerzyna.",
+    "mistral_answer": "Kawczyn is located in Gmina Miastko, Bytów County, Pomeranian Voivodeship, Poland.",
+    "docid": "11390909",
+    "rerank_score": 1.8073,
+    "passage": "\"Gmina Miastko\" Gołębsko, Gomole, Grądzień, Jeżewsko, Kamnica, Kawcze, Kawczyn, Klewno, Kołacin, Kowalewice, Krzeszewo, Kwisno, Lipczyno, Lubkowo, Łaziska, Łąkoć, Łodzierz, Łosośniki, Malęcino, Męciny, Miłocice, Obrowo, Okunino, Olszewiec, Ostrowo, Pasieka, Piaszczyna, Ponikła, Popowice, Potok, Potok-Młyn, Pożyczki, Przemkowo, Przeradz, Przęsin, Role, Słosinko, Stachowo, Studnica, Szydlice, Świerzenko, Świerznik, Świerzno, Świeszynko, Świeszyno, Toczeń, Trzcinno, Trzebieszyno, Turowo, Tursko, Wa"
+}
+{
+    "example_id": 160,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 22.0,
+    "question": "Where is Źródła, Lesser Poland Voivodeship located?",
+    "gold_answer": "Gmina Alwernia",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Źródła is not mentioned in the provided documents. Therefore, I cannot determine its location based on the given information.",
+    "mistral_answer": "Źródła is a part of Gmina Alwernia, which is located in Chrzanów County, Lesser Poland Voivodeship, in southern Poland. According to the context, the borderning gminas are Babice, Chrzanów, Czernichów, Krzeszowice, Spytkowice, Trzebinia and Zator. However, the exact location of Źródła within Gmina Alwernia is not specified in the context.",
+    "docid": "11364168",
+    "rerank_score": 4.3857,
+    "passage": "\"Gmina Alwernia\" of Brodła, Grojec, Kwaczała, Mirów, Nieporaz, Okleśna, Podłęże, Poręba Żegoty, Regulice and Źródła. Gmina Alwernia is bordered by the gminas of Babice, Chrzanów, Czernichów, Krzeszowice, Spytkowice, Trzebinia and Zator. <br> Gmina Alwernia Gmina Alwernia is an urban-rural gmina (administrative district) in Chrzanów County, Lesser Poland Voivodeship, in southern Poland. Its seat is the town of Alwernia, which lies approximately south-east of Chrzanów and west of the regional capi"
+}
+{
+    "example_id": 167,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 24.0,
+    "question": "Which company is USS Nina produced by?",
+    "gold_answer": "Reaney, Son & Archbold",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The USS Nina was produced by Reaney, Son & Archibald, a shipbuilding company based in Chester, Pennsylvania.",
+    "mistral_answer": "Reaney, Son & Archbold",
+    "docid": "13296218",
+    "rerank_score": 3.6123,
+    "passage": "\"USS Nina (1865)\" USS Nina (1865) USS \"\"Nina\"\", a 4th rate iron screw steamer, was laid down by Reaney, Son & Archbold, at Chester, Pennsylvania, in 1864; launched 27 May 1865; delivered at New York Navy Yard 26 September 1865; and placed in service as a yard tug at the Washington Navy Yard 6 January 1866, Ensign F. C. Hall commanding that ship and sister tugs \"\"Primrose\"\" and \"\"Rescue\"\". \"\"Nina\"\" operated as a yard tug for the Washington Navy Yard and Naval Gun Factory through May 1869 and was "
+}
+{
+    "example_id": 171,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 25.0,
+    "question": "Who owns Osservatorio Astronomico di Gnosca?",
+    "gold_answer": "Stefano Sposetti",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Stefano Sposito, a Swiss amateur astronomer, owns and operates Osservatorio Astronomico di Gnosca.",
+    "mistral_answer": "Stefano Sposetti owns Osservatorio Astronomico di Gnosca. (Based on the context)",
+    "docid": "3349178",
+    "rerank_score": -3.5227,
+    "passage": "\"Stefano Sposetti\" Stefano Sposetti Stefano Sposetti (born December 22, 1958) is a Swiss amateur astronomer, and a prolific discoverer of minor planets. He lives in Gnosca, in the Italian-speaking part of Switzerland in the Ticino Alps, where the Gnosca Observatory is located. Sposetti took images of the Aten asteroid 2004 FH which made a close (closer than the moon) flyby of planet Earth. In addition, he detects the optical counterparts of gamma-ray bursts and conducts transit photometry on exo"
+}
+{
+    "example_id": 173,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 26.0,
+    "question": "Who is John Blaquiere, 1st Baron de Blaquiere's child?",
+    "gold_answer": "Peter de Blaquière",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Peter de Blaquiere is one of John Blaquiere, 1st Baron de Blaquiere's children.",
+    "mistral_answer": "John Blaquiere, 1st Baron de Blaquiere had four sons and three daughters based on the provided context. Therefore, any of his sons or daughters could be identified as his child. However, if you're asking about a specific child mentioned in the context, then Peter de Blaquière is one of them.",
+    "docid": "7470842",
+    "rerank_score": 8.0221,
+    "passage": "\"John Blaquiere, 1st Baron de Blaquiere\" 1802 and for Downton from 1802 to 1806. He was elected a Fellow of the Royal Society in 1803. Lord de Blaquiere married Eleanor, daughter of Robert Dobson, in 1775. They had four sons, including Peter de Blaquière, and three daughters. Lord de Blaquiere died at Bray, County Wicklow, in August 1812, aged 80. He was succeeded in his titles by his eldest son, John. Lady de Blaquiere died at Regent's Park, Marylebone, London, in December 1833. John Blaquiere,"
+}
+{
+    "example_id": 181,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 28.0,
+    "question": "Which company is Port Victoria P.V.2 produced by?",
+    "gold_answer": "Port Victoria Marine Experimental Aircraft Depot",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Port Victoria P.V.2 was produced by the Royal Naval Air Service (RNAS) at their Port Victoria Marine Aircraft Experimental Station.",
+    "mistral_answer": "The Port Victoria P.V.2 was produced by the Royal Naval Air Service at their Port Victoria Marine Experimental Aircraft Depot.",
+    "docid": "12788962",
+    "rerank_score": 6.1201,
+    "passage": "\"Port Victoria P.V.2\" Port Victoria P.V.2 The Port Victoria P.V.2 was a British prototype floatplane fighter of the First World War, designed and built at the Royal Naval Air Service's Port Victoria Marine Experimental Aircraft Depot on the Isle of Grain. Only a single aircraft was built, with the type not being chosen for production. The Port Victoria Depot's second design, designated Port Victoria P.V.2 was a floatplane fighter intended to intercept German Zeppelins. The P.V.2 was a small sing"
+}
+{
+    "example_id": 189,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 31.0,
+    "question": "Who is Per Theodor Haugen married to?",
+    "gold_answer": "Sissel Sellæg",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Per Theodor Haugen is married to Nadia Hasnaoui.",
+    "mistral_answer": "Per Theodor Haugen is married to Sissel Sellæg. (Answer derived from context)",
+    "docid": "14358610",
+    "rerank_score": 6.7682,
+    "passage": "\"Kim Haugen\" Kim Haugen Kim Haugen (born 1958) is a Norwegian actor. He is a son of actors Per Theodor Haugen and Sissel Sellæg, and is married to Nadia Hasnaoui. He made his stage debut at Den Nationale Scene in 1982. From 1985 he worked as an actor at Nationaltheatret (The Norwegian National Theatre). In 1992 he played the title role in \"\"Hamlet\"\" at Oslo Nye Teater. He has also appeared for Fjernsynsteatret, and participated in several television series, such as \"\"Vestavind\"\" from 1994 to 199"
+}
+{
+    "example_id": 196,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 32.0,
+    "question": "Who founded Scientific Atlanta?",
+    "gold_answer": "Gerald Rosselot",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Scientific Atlanta was founded by six Georgia Institute of Technology research engineers: James E. Boyd, Charles Griffin, Robert Hon, Charles H. McEwen, Robert E. Patterson, and Robert W. Smith in October 1956.",
+    "mistral_answer": "Scientific Atlanta was founded by six Georgia Tech Research Institute researchers: James E. Boyd, Charles Griffin, Robert E. Honer, Gerald Rosselot, Lamar Whittle, and Vernon Widerquist, with Glen P. Robinson joining later in late 1952.",
+    "docid": "5034117",
+    "rerank_score": 8.534,
+    "passage": "\"Scientific Atlanta\" products for traditional coaxial and fiber service operators, Scientific Atlanta also expanded its IPTV solutions offerings after the merger with Cisco. Before this, on August 18, 2005, Scientific-Atlanta and SBC (now AT&T) signed a deal for Scientific-Atlanta to be the exclusive set-top provider for SBC U-verse TV. Founded in October 1951 by six Georgia Tech Research Institute researchers: James E. Boyd (future station director), Charles Griffin, Robert E. Honer (MSEE), Ger"
+}
+{
+    "example_id": 197,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 33.0,
+    "question": "Who is Helmut Damerius married to?",
+    "gold_answer": "Emmy Damerius-Koenen",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Helmut Damerius was married to Emmy Damerius-Koenig from 1922 to 1927. Later, he was married to Wilhelm Koenen.",
+    "mistral_answer": "Emmy Damerius-Koenen was married to Helmut Damerius. (Answer based on context)",
+    "docid": "16142862",
+    "rerank_score": 8.6236,
+    "passage": "\"Emmy Damerius-Koenen\" Emmy Damerius-Koenen Emmy Damerius-Koenen (March 15, 1903 – May 21, 1987) was an East German politician. She was married to Helmut Damerius from 1922 to 1927 and later, was married to Wilhelm Koenen. She was a member of the Communist Party of Germany and spent most of the Nazi era outside Germany, in the Soviet Union and other countries. She returned to Germany in December 1945, where she was active in East German women's organizations. Damerius-Koenen was born Emma Zadach"
+}
+{
+    "example_id": 200,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 34.0,
+    "question": "Where is the headquarter of Huppenkothen Baumaschinen?",
+    "gold_answer": "Lauterach",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The headquarter of Huppenkothen Baumaschinen is in Germany. (No specific location is mentioned in the document.)",
+    "mistral_answer": "The headquarter of Huppenkothen Baumaschinen is in Lauterach, Vorarlberg.",
+    "docid": "14817320",
+    "rerank_score": 2.985,
+    "passage": "\"Huppenkothen Baumaschinen\" Huppenkothen Baumaschinen Huppenkothen GmbH & Co KG is a company specializing in compact and mini excavators in Europe. It was founded in 1956 in Bregenz. Besides Takeuchi compact and mini excavators, the company also sells and rents out dumpers, skid steer loaders, wheel loaders, single drum rollers and tracked carriers. Right now the rental park comprises 3500 machines. In 2008 the enterprise employed 136 persons throughout Europe whereof 45 worked in the headquarte"
+}
+{
+    "example_id": 204,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 35.0,
+    "question": "Who is Myoma U Than Kywe's child?",
+    "gold_answer": "Myoma Myint Kywe",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Myoma U Than Kywe is the father of Myoma Myint Myint Aung.",
+    "mistral_answer": "Myoma Myint Kywe is Myoma U Than Kywe's child. (Based on the context provided)",
+    "docid": "16028210",
+    "rerank_score": 7.9512,
+    "passage": "\"Than Kywe\" Ama (also known as Myint Myint Win). The couple had two sons and two daughters. Their youngest child is Myoma Myint Kywe, a writer and historian. He died on 22 September 1983. Than Kywe Myoma Than Kywe (, ; 26 December 1924 – 22 September 1983) was a Burmese politician. He was one of the negotiators of the historical Panglong Conference. The signing of Panglong Agreement is now celebrated as a national holiday, Union Day, in Myanmar. He was born in Thongwa, Burma on 26 December 1924 "
+}
+{
+    "example_id": 213,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 37.0,
+    "question": "Who is Li Delin's child?",
+    "gold_answer": "Li Baiyao",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Li Delin is a Chinese official from the Northern Dynasties period. He is the father of Li Shimin, who later became the Emperor Taizong of the Tang Dynasty.",
+    "mistral_answer": "Li Baiyao is Li Delin's child.",
+    "docid": "9719742",
+    "rerank_score": 3.4739,
+    "passage": "\"Li Delin\" Li Delin Li Delin (李德林), courtesy name Gongfu (公輔), formally either Duke Wen of Anping (安平文公) (according to the \"\"Book of Sui\"\") or Viscount Wen of Cheng'an (成安文子) (according to the \"\"Zizhi Tongjian\"\"), was an official of the Chinese dynasties Northern Qi, Northern Zhou, and Sui Dynasty. He was a prolific writer whose writing ability was greatly praised by his contemporaries and the emperors that he served under. He began the compilation of the \"\"Book of Northern Qi\"\", a work that he "
+}
+{
+    "example_id": 214,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 37.0,
+    "question": "Where is Sierakowska Huta located?",
+    "gold_answer": "Gmina Sierakowice",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Sierakowska Huta is not mentioned in the provided documents. The documents only list various villages and hamlets in the area of Gmina Sieraków.",
+    "mistral_answer": "Sierakowska Huta is located in Gmina Sierakowice, as stated in the context.",
+    "docid": "11392800",
+    "rerank_score": 3.646,
+    "passage": "\"Gmina Sierakowice\" Jelonko, Kamienica Królewska, Kamienicka Huta, Kamienicki Młyn, Kamionka Gowidlińska, Karczewko, Karłowo, Karwacja, Kokwino, Koryta, Kowale, Kujaty, Kukówka, Łączki, Lemany, Leszczynki, Lisie Jamy, Łyśniewo Sierakowickie, Migi, Moczydło, Mojusz, Mojuszewska Huta, Mrozy, Nowa Ameryka, Nowalczysko, Olszewko, Paczewo, Pałubice, Patoki, Piekiełko, Poljańska, Poręby, Przylesie, Puzdrowo, Puzdrowski Młyn, Rębienica, Sierakowice, Sierakowice-Wybudowanie, Sierakowska Huta, Skrzeszewo"
+}
+{
+    "example_id": 220,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 40.0,
+    "question": "Who founded Alliance for Justice and Democracy/Movement for Renewal?",
+    "gold_answer": "Ibrahima Moctar Sarr",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ibrahima Sarr founded the Alliance for Justice and Democracy/Movement for Renewal in 2007.",
+    "mistral_answer": "Ibrahima Moctar Sarr founded Alliance for Justice and Democracy/Movement for Renewal through a merger of his Movement for National Reconciliation and the Alliance for Justice and Democracy (AJD) party in August 2007.",
+    "docid": "13287924",
+    "rerank_score": 8.0413,
+    "passage": "\"Alliance for Justice and Democracy/Movement for Renewal\" in August 2007 by a merger of Ibrahima Moctar Sarr's Movement for National Reconciliation and the Alliance for Justice and Democracy (AJD) party, with Sarr elected as the leader of the new party. Sarr, a Serer journalist, had been a high profile activist since the 1980s, and his party defined itself as campaigning for equal rights for Pulaar-speakers, Soninké and Wolof people alongside Moors, and the return of Mauritanian refugees from Se"
+}
+{
+    "example_id": 230,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 44.0,
+    "question": "Who founded Suomen Filmiteollisuus?",
+    "gold_answer": "Erkki Karu",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Toivo Särkkä founded Suomen Filmiteollisuus. (Document 1 and Document 2)",
+    "mistral_answer": "Erkki Karu founded Suomen Filmiteollisuus, according to the provided context.",
+    "docid": "7724755",
+    "rerank_score": 7.0666,
+    "passage": "\"Toivo Särkkä\" Toivo Särkkä Toivo Jalmari Särkkä (20 November 1890, Mikkeli – 9 February 1975, Helsinki), born Toivo Hjalmar Silén, was a Finnish film producer and director. He was CEO of the production company Suomen Filmiteollisuus. Before his career in filmmaking, Särkkä worked as a bank manager and chairman in Kotimainen Työ, an organization promoting Finnish work and products. After the death of Erkki Karu, founder and owner of Suomen Filmiteollisuus, Särkkä became the CEO thus producing "
+}
+{
+    "example_id": 233,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 46.0,
+    "question": "Who is Henrik Horn married to?",
+    "gold_answer": "Beata Magdalena Wittenberg",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Henrik Horn is not mentioned to be married in the provided documents.",
+    "mistral_answer": "Henrik Horn is married to Beata Magdalena Wittenberg.",
+    "docid": "9530406",
+    "rerank_score": 5.9366,
+    "passage": "\"Henrik Horn\" member of the Privy Council of Sweden (\"\"Reichsrat\"\"). That same year, he was defeated by Denmark in the Battle of Køge Bay during the Scanian War. He was appointed to the head of the College of Amiralities in 1677. In 1678, he was appointed as the Commander-in-Chief of Livonia which was a dominion of the Swedish Empire from 1629 until 1721. In 1680, Horn left Livonia and returned to help rebuild Stade which had been besieged in 1676 during the Swedish-Brandenburg War. Horn married"
+}
+{
+    "example_id": 234,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 46.0,
+    "question": "Who founded MusicWriter?",
+    "gold_answer": "Jon Monday",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "MusicWriter was founded by Jon and Larry Mondello in 1989.",
+    "mistral_answer": "MusicWriter was founded by music industry veterans Jon Monday and Larry Heller.",
+    "docid": "12964089",
+    "rerank_score": 9.1428,
+    "passage": ""
+}
+{
+    "example_id": 237,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 47.0,
+    "question": "Who is Roger Fouts married to?",
+    "gold_answer": "Deborah Fouts",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Roger Fouts is married to Deborah Harris Fouts.",
+    "mistral_answer": "Roger Fouts is married to Deborah Fouts.",
+    "docid": "9372763",
+    "rerank_score": 9.318,
+    "passage": "\"Roger Fouts\" He has written on animal law and on the ethics of animal testing. He is also an adviser to the Oxford Centre for Animal Ethics. He is married to Deborah Fouts, who was the co-director and co-founder of CHCI. Fouts was born in Sacramento, California. He received his B.A in child psychology from the college that became California State University, Long Beach a few years later. In 1964, he married Deborah Harris, who became his life-time collaborator. Fouts earned his Ph.D. from the U"
+}
+{
+    "example_id": 240,
+    "popularity_bucket": "0-50",
+    "answer_entity_popularity": 48.0,
+    "question": "Who is Djamaluddin Malik married to?",
+    "gold_answer": "Elly Yunara",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Djamaluddin Malik is married to Elly Malik. They had four children together: Zulkarnain Malik, Camelia Malik, Yudas Malik, and Laila Malika Asmara.",
+    "mistral_answer": "Djamaluddin Malik was married to Elly Yunara.",
+    "docid": "13409337",
+    "rerank_score": 8.2735,
+    "passage": "\"Djamaluddin Malik\" was also as the chairman of National Film Council. Malik married Elly Yunara. They had four children: Zainal Malik, Camelia Malik, Yudha Asmara Malik, and Lailasari Malik. Camelia follows his career, as an actress and pop-dangdut singer. His wife, continued the family interests by founding PT. Remaja Ellynda Film. It successfully produced \"\"Malin Kundang\"\" and \"\"Jembatan Merah\"\". The government appointed Djamaluddin and Usmar Ismail as Cinema of Indonesian figures. Djamaluddi"
+}
+{
+    "example_id": 246,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 50.0,
+    "question": "Who is Ollie Kirkby married to?",
+    "gold_answer": "George Larkin",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ollie Kirkby is married to Lillian Larkin in the context of the provided document, which is about the 1922 film \"Bulldog Courage.\"",
+    "mistral_answer": "Ollie Kirkby is married to George Larkin. (Based on the context, Ollie Kirkby is mentioned as the wife of George Larkin.)",
+    "docid": "18568597",
+    "rerank_score": 3.5471,
+    "passage": "\"Bulldog Courage (1922 film)\" Bulldog Courage (1922 film) Bulldog Courage is a 1922 silent Western film directed by Edward A. Kull, and starring George Larkin and Bessie Love. It was written by Larkin and his wife Ollie Kirkby, with a screenplay by Jeanne Poe. The film is extant, in the collection of the British Film Institute. College athlete Jimmy Brent (Larkin) is sent to Wyoming to beat up Big Bob Phillips, his uncle's rival for the hand of Mary Allen. When Jimmy arrives in Wyoming, he falls"
+}
+{
+    "example_id": 249,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 50.0,
+    "question": "Where is the headquarter of Right Stuf Inc.?",
+    "gold_answer": "Grimes",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The headquarters of Right Stuf Inc. is located in Granada Hills, California.",
+    "mistral_answer": "The headquarter of Right Stuf Inc is in Grimes, Iowa.",
+    "docid": "6829963",
+    "rerank_score": 4.801,
+    "passage": "\"Right Stuf Inc.\" Right Stuf Inc. Right Stuf Inc. (formerly known as The Right Stuf International Inc.) is an independent video publisher and distributor of video programming that specializes in Asian entertainment (anime and live action films). The company has several divisions including: Nozomi Entertainment (production), Critical Mass (adult programming), RightStuf.com (online store) and 5 Points Pictures (live action). In March 2012, Right Stuf launched 5 Points Pictures, its live action lab"
+}
+{
+    "example_id": 256,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 51.0,
+    "question": "Where is the headquarter of Korean Air?",
+    "gold_answer": "Gonghang-dong",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The headquarters of Korean Air is located at 137 Ganghang-dong 1000, Seongnam, Gyeonggi-do, South Korea.",
+    "mistral_answer": "The headquarter of Korean Air is located in Gonghang-dong, Gangseo-gu in Seoul, South Korea. (Refer to the context for the exact address.)",
+    "docid": "2099009",
+    "rerank_score": 2.9558,
+    "passage": "\"Korean Air\" acquired a 44% stake in Czech Airlines. It sold the stake in October 2017. Korean Air's headquarters, the Korean Air Operations Center (대한항공 빌딩<ref name=\"\"일반현황 / 기업개요\"\"> \"\"주소: 서울 특별시 강서구 공항동 1370번지 대현항공 빌딩\"\"</ref>), is located in Gonghang-dong, Gangseo-gu in Seoul. Korean Air also has offices at Gimpo International Airport in Seoul. Korean Air's other hubs are at Jeju International Airport, Jeju and Gimhae International Airport, Busan. The maintenance facilities are located in Gimha"
+}
+{
+    "example_id": 258,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 52.0,
+    "question": "Where did Friedrich von Hahn die?",
+    "gold_answer": "Remplin",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Friedrich von Hahn died in 1805. No specific location is mentioned in the provided document.",
+    "mistral_answer": "Friedrich von Hahn died in Remplin, Mecklenburg.",
+    "docid": "6744708",
+    "rerank_score": 8.0616,
+    "passage": "\"Friedrich von Hahn\" Friedrich von Hahn Friedrich II. Graf von Hahn (July 27, 1742 – October 9, 1805) was a German nobleman, a philosopher and astronomer. He suggested the Doppler effect before Doppler. Von Hahn was born in Neuhaus, Holstein. In 1793 he started the construction of a private observatory, the first in Mecklenburg, which was well equipped. He owned some of the largest mirrors made by William Herschel and precision instruments for determining the position of stars. In 1800, he disco"
+}
+{
+    "example_id": 259,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 52.0,
+    "question": "Who is Eva Ahnert-Rohlfs married to?",
+    "gold_answer": "Paul Oswald Ahnert",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Eva Ahnert-Rohlfs is married to Paul Oswald Rohlfs.",
+    "mistral_answer": "Eva Ahnert-Rohlfs is married to Paul Oswald Ahnert.",
+    "docid": "2961225",
+    "rerank_score": 8.7705,
+    "passage": "\"Eva Ahnert-Rohlfs\" Rohlfs met the astronomer Paul Oswald Ahnert and they were married in 1952. Eva Ahnert-Rohlfs died at the age of 41 in Sonneberg. Eva Ahnert-Rohlfs Eva Ahnert-Rohlfs (11 August 1912 – 9 March 1954) was a German astronomer. She made important observations of variable stars. Eva Ahner-Rohlfs was born in Coburg (Duchy Saxe-Coburg-Gotha). She studied in Würzburg, Munich and Kiel from 1931 to 1933. After nine years of withdrawal into family life, she studied from 1942 until the en"
+}
+{
+    "example_id": 261,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 52.0,
+    "question": "Who is Pabo Post Prydain's child?",
+    "gold_answer": "Dunod Fawr",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Pabo Post Prydain is the father of Dunwel Fawr, Sawyl Benas, and Arthfael Prydain. He is also the grandfather of Saint Deiniol.",
+    "mistral_answer": "Pabo Post Prydain is the father of Dunod Fawr, Sawyl Penuchel, and Ardun Benasgell according to the context provided.",
+    "docid": "6177601",
+    "rerank_score": 5.9562,
+    "passage": "\"Pabo Post Prydain\" British Library, Harleian MS 3859, calls him a son of Cenau son of Coel Hen. Later Welsh genealogies insert two generations by making him son of Arthwys son of Mar son of Cenau son of Coel, though this presents greater chronological problems. The genealogies give him a royal line of descendants as the father of Dunod Fawr, Sawyl Penuchel and Ardun Benasgell, and a saintly one as the grandfather of Deiniol, Asaph and Tysilio. As to his period, Elis Gruffydd's \"\"Chronicle\"\" say"
+}
+{
+    "example_id": 303,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 62.0,
+    "question": "What music label is Huron (Canadian band) represented by?",
+    "gold_answer": "Latent Recordings",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Huron (Canadian band) is represented by Dine Alone Records.",
+    "mistral_answer": "Huron (Canadian band) is represented by Latent Recordings. (Answer based on the provided context.)",
+    "docid": "14519617",
+    "rerank_score": 5.8402,
+    "passage": "\"Huron (Canadian band)\" Huron (Canadian band) Huron is a Canadian rock band from Hamilton, Ontario. Members include pedal-steel player/guitarist Aaron Goldstein, known for his session work with Cowboy Junkies, and Cam Malcolm, who was previously in the band Sweet Homewreckers, bassist Adam Melnick, and drummer Pete Hall who was also a founding member of A Northern Chorus. Huron was formed in January 2008 in Hamilton. The band worked with record producer Ian Blurton for their debut album, which w"
+}
+{
+    "example_id": 309,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 63.0,
+    "question": "What music label is Dungen 2 represented by?",
+    "gold_answer": "Subliminal Sounds",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Dungen has been represented by various music labels throughout their career. They started with Swedish record label Subliminal Records, then signed a short-term contract with Dolores Recordings (a subsidiary of Virgin Records), and later returned to Subliminal Records.",
+    "mistral_answer": "I don't know based on the provided context if there is a music label called \"Dungen 2\" represented in the text. The context mentions that Dungen has released albums on Swedish record label Subliminal Sounds and briefly signed to Dolores Recordings, a subset of Virgin Records.",
+    "docid": "5340493",
+    "rerank_score": 5.7971,
+    "passage": ""
+}
+{
+    "example_id": 314,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 65.0,
+    "question": "Who is Acamapichtli married to?",
+    "gold_answer": "Tezcatlan Miyahuatzin",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Acamapichtli is married to Tezcatlan Huaymi, the daughter of the Tepanec ruler, in the first part of his reign. Later, he marries Tezcatlan Huaymi again, and their son Huitzilíhuitl becomes the next Aztec ruler.",
+    "mistral_answer": "Acamapichtli is married to two women mentioned in the context: his first wife, whose name is not given, and Tezcatlan Miyahuatzin. The first wife bore him no children, but Tezcatlan Miyahuatzin was the mother of Huitzilíhuitl and Itzcóatl.",
+    "docid": "2601150",
+    "rerank_score": 5.3843,
+    "passage": ""
+}
+{
+    "example_id": 329,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 70.0,
+    "question": "Who was Memorial to the Murdered Members of the Reichstag created by?",
+    "gold_answer": "Dieter Appelt",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Memorial to the Murdered Members of the Reichstag was created by the German government.",
+    "mistral_answer": "The Memorial to the Murdered Members of the Reichstag was created by Dieter Appelt, Klaus W. Eisenlohr, Justus Müller, and Christian Zwirner.",
+    "docid": "17987022",
+    "rerank_score": 9.9164,
+    "passage": "\"Memorial to the Murdered Members of the Reichstag\" Memorial to the Murdered Members of the Reichstag The Memorial to the Murdered Members of the Reichstag is a memorial in Berlin, Germany. The memorial is located in front of the Reichstag building, and commemorates the 96 members of the parliament who died unnaturally between 1933 and 1945 (1948). The idea of creating the monument started in the 1980s, and the memorial was erected in September 1992. It was designed by Dieter Appelt, Klaus W. Ei"
+}
+{
+    "example_id": 333,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 71.0,
+    "question": "Who owns New Braunfels Herald-Zeitung?",
+    "gold_answer": "Southern Newspapers",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The New Braunfels Herald-Zeitung is a newspaper based in New Braunfels, Texas, covering the Comal County area. It was first published as a German-language newspaper in 1852 by Ferdinand Lindheimer. The current ownership information is not provided in the given document.",
+    "mistral_answer": "New Braunfels Herald-Zeitung is owned by Southern Newspapers. (Answer based on the provided context.)",
+    "docid": "17357128",
+    "rerank_score": 8.8861,
+    "passage": "\"New Braunfels Herald-Zeitung\" New Braunfels Herald-Zeitung The New Braunfels Herald-Zeitung is a newspaper based in New Braunfels, Texas, covering the Comal County area of Central Texas. It publishes six days a week (excluding Monday). It is owned by Southern Newspapers. Early Texas German settler and botanist Ferdinand Lindheimer was the first editor when the newspaper began as the weekly German-language publication \"\"Neu-Braunfelser Zeitung\"\" in 1852. The enterprise, begun to boost the reputa"
+}
+{
+    "example_id": 337,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 72.0,
+    "question": "Who is Laurent-Olivier David's child?",
+    "gold_answer": "Athanase David",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Laurent-Olivier David did not have any children mentioned in the provided documents.",
+    "mistral_answer": "Louis-Athanase David is Laurent-Olivier David's child, based on the provided context.",
+    "docid": "11360671",
+    "rerank_score": 4.5441,
+    "passage": "\"Laurent-Olivier David\" de Montréal. In 1890, he was made a Fellow of the Royal Society of Canada. From 1892 to 1918, he was a clerk for the Montreal City Council. He was called to the Senate of Canada for the senatorial division of Mille Isles on the advice of Wilfrid Laurier in 1903. He served until his death in 1926. He was awarded the \"\"Bene merenti de patria\"\" in 1924. His son Louis-Athanase David and his grandson Paul David both also became senators. Laurent-Olivier David Laurent-Olivier D"
+}
+{
+    "example_id": 338,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 72.0,
+    "question": "Who is Euryganeia's child?",
+    "gold_answer": "Eteocles",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Euryganeia is not mentioned as having any children in the provided document.",
+    "mistral_answer": "Euryganeia is the mother of Polynices, Eteocles, Ismene, and Antigone in Greek mythology.",
+    "docid": "16568537",
+    "rerank_score": 6.4035,
+    "passage": ""
+}
+{
+    "example_id": 343,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 73.0,
+    "question": "Who is David Tomblin's child?",
+    "gold_answer": "Lisa Tomblin",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "David Tomblin does not have a mentioned child in the provided documents.",
+    "mistral_answer": "Lisa Tomblin. (Based on the provided context.)",
+    "docid": "13673148",
+    "rerank_score": 4.7218,
+    "passage": "\"David Tomblin\" For \"\"Gandhi\"\", Tomblin supervised the reconstruction of Gandhi's funeral in Delhi, to which the general public were invited, involving the direction of 250,000 extras. With Sydney Pollack, Tomblin worked on \"\"Out of Africa\"\" and \"\"Havana\"\". Tomblin was awarded OBE in the 1994 Birthday Honours. He was presented with BAFTA's Michael Balcon Award (now known as The Outstanding British Contribution to Cinema Award) in 2003. With Richard Attenborough, he was named as a winner of the 1"
+}
+{
+    "example_id": 345,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 74.0,
+    "question": "Where did Salima Machamba die?",
+    "gold_answer": "Pesmes",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Salima Machamba died in France. (Document 1 and 2 do not provide information on the location of her death, but Document 3 mentions that she was deported to France and died there.)",
+    "mistral_answer": "Salima Machamba died in Pesmes.",
+    "docid": "15885082",
+    "rerank_score": 6.5713,
+    "passage": "\"Salima Machamba\" Machamba bint Saidi Hamadi Makadara. She was chosen as puppet queen of Mohéli by the French who made Comoros a French protectorate. She fell in love with and on 28 August 1901 married a French gendarme, Camille Paule, in Saint Denis, Réunion. In 1909 she was deposed by the French government and Comoros was annexed by France. She was deported with her family to France. She gave birth to three children. The French government provided her a yearly allowance of 3,000 gold Francs. S"
+}
+{
+    "example_id": 356,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 78.0,
+    "question": "Where did Myfanwy Piper die?",
+    "gold_answer": "Fawley Bottom",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Myfanwy Piper died in Henley-on-Thames, near her home. (Document 1)",
+    "mistral_answer": "Myfanwy Piper died at her home in Fawley Bottom.",
+    "docid": "6970061",
+    "rerank_score": 6.6641,
+    "passage": "\"Myfanwy Piper\" Bottom near Henley-on-Thames for much of her life. Between 1954 and 1973 she collaborated with the composer Benjamin Britten on several of his operas, and between 1977 and 1981 with composer Alun Hoddinott on most of his operatic works. She was a friend of the poet John Betjeman, who wrote several poems addressing her, such as \"\"Myfanwy\"\" and \"\"Myfanwy at Oxford\"\". John and Myfanwy Piper had two sons and two daughters. Her elder son, painter Edward Piper, predeceased her. She die"
+}
+{
+    "example_id": 360,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 78.0,
+    "question": "Who was PVCS created by?",
+    "gold_answer": "Polytron",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "PVCS was created by Kinzer in 1985.",
+    "mistral_answer": "The Polytron Version Control System (PVCS) was created by Kinzer, one of the three remaining founders of Polytron after Perkins left the company.",
+    "docid": "12074360",
+    "rerank_score": 6.6176,
+    "passage": ""
+}
+{
+    "example_id": 365,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 80.0,
+    "question": "Who is the author of Ciklamen?",
+    "gold_answer": "Janko Kersnik",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The author of \"Ciklamen\" is not mentioned in the provided document. The document only discusses Slovene authors and their works, including \"Ciklamen\" by Josip Juraj Strossmayer, but it does not provide the author's full name or any other relevant information about him.",
+    "mistral_answer": "Janko Kersnik",
+    "docid": "17004977",
+    "rerank_score": 2.2413,
+    "passage": "\"Slovene fiction\" Josip Jurčič's novels about poor intellectuals trying to socially rise through marriage (\"\"Deseti brat\"\", 1866, renowned as the first Slovene novel, \"\"Doktor Zober\"\", 1876, \"\"Cvet in sad\"\", 1877), Josip Stritar's sentimental novel in letters (\"\"Zorin\"\", 1870), Ivan Tavčar's (\"\"Otok in struga\"\", 1881, \"\"Izza kongresa\"\", 1905) and Janko Kersnik's novels (\"\"Ciklamen\"\", 1883, \"\"Jara gospoda\"\", 1893) following Jurčič's model, naturalistic novel by Alojz Kraigher (\"\"Kontrolor Škrobar"
+}
+{
+    "example_id": 369,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 81.0,
+    "question": "Who is Wang Chuzhi's child?",
+    "gold_answer": "Wang Du",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Liu Yunlang is Wang Chuzhi's child.",
+    "mistral_answer": "Wang Du is considered as Wang Chuzhi's child based on the context provided.",
+    "docid": "17165427",
+    "rerank_score": 5.8702,
+    "passage": "\"Wang Du\" still an officer under his brother Wang Chucun or Wang Chucun's son and successor Wang Gao, or whether he was already military governor after succeeding Wang Gao—and healed Wang Chuzhi of an illness. As a result, Wang Chuzhi believed that Li had supernatural powers and came to trust him. At that time, Wang Chuzhi did not yet have a son, and Li gave Liu Yunlang to him to be his child, stating to him, \"\"This boy has an honored appearance.\"\" Wang agreed to take the boy as a son, renaming "
+}
+{
+    "example_id": 373,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 81.0,
+    "question": "What music label is Dangerous Diamonds represented by?",
+    "gold_answer": "Lion Music",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Dangerous Diamonds is not mentioned in the provided documents. The information given pertains to Steve Vawamas and the music labels he has been signed to throughout his career.",
+    "mistral_answer": "Lion Music",
+    "docid": "19552386",
+    "rerank_score": 4.4352,
+    "passage": "\"Steve Vawamas\" 2008 he was chosen to join Mastercastle with whom he recorded the albums The Phoenix (2009), Last Desire (2010), Dangerous Diamonds (2011) and On Fire (2013) under the label Lion Music, Enfer (2014) under the label Scarlet Records. In April of this same year, with this band, he participated with other international artists (among Jennifer Batten) to the project ‘Embrace the Sun’, a double album produced by Lion Music, for a donation to the Japanese Red Cross for the earthquake of"
+}
+{
+    "example_id": 374,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 81.0,
+    "question": "Where is Fielding Garr Ranch located?",
+    "gold_answer": "Antelope Island State Park",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Fielding Garr Ranch is located on the southeastern portion of Antelope Island in Great Salt Lake State Park, Utah, United States. Specifically, it is at Garr Springs, which is one of the strongest and most consistent springs on the island.",
+    "mistral_answer": "The Fielding Garr Ranch is located on the southeastern portion of Antelope Island State Park in the Great Salt Lake, Utah, United States.",
+    "docid": "15483379",
+    "rerank_score": 10.8845,
+    "passage": "\"Fielding Garr Ranch\" Fielding Garr Ranch The Fielding Garr Ranch is a ranch located on the southeastern portion of Antelope Island State Park in the Great Salt Lake, Utah, United States and is part of the Utah State Parks system. The Fielding Garr Ranch is located at Garr Springs which is one of the strongest and most consistent springs of the 40 known springs on Antelope Island, though even this spring has shown some signs of drying up in recent years. The ranch is one of the oldest working ra"
+}
+{
+    "example_id": 376,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 82.0,
+    "question": "Who is Ramai Hayward married to?",
+    "gold_answer": "Rudall Hayward",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ramai Hayward was first married to Fred Mawhiney, then to Jim Miller after her husband's death in 1917.",
+    "mistral_answer": "Ramai Hayward was married to Jim Miller in the 1910s, and later married director Rudall Hayward in the late 1930s.",
+    "docid": "18153450",
+    "rerank_score": 7.3406,
+    "passage": "\"Ramai Hayward\" 1916, the daughter of Roihi Te Miha and Fred Mawhiney, a motor mechanic. Her father served in the New Zealand Machine Gun Corps and died of wounds in Belgium in 1917. In 1917 her mother married Jim Miller, and Hayward was subsequently known as Patricia Miller for a period. Ramai trained in stills photography when she became an apprentice to French photographer Henri Harrison in Wellington. In the 1930s she set up her own photography studio in Auckland, and soon had eight employee"
+}
+{
+    "example_id": 377,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 82.0,
+    "question": "Who is Alexandre Brongniart's child?",
+    "gold_answer": "Adolphe-Théodore Brongniart",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Alexandre Brongniart is the father of Eugène Brongniart.",
+    "mistral_answer": "The botanist Adolphe-Théodore Brongniart is Alexandre Brongniart's child.",
+    "docid": "5392713",
+    "rerank_score": 4.2413,
+    "passage": "\"Alexandre Brongniart\" Alexandre Brongniart Alexandre Brongniart (5 February 17707 October 1847) was a French chemist, mineralogist, and zoologist, who collaborated with Georges Cuvier on a study of the geology of the region around Paris. Brongniart was also the founder of the Musée national de Céramique-Sèvres (National Museum of Ceramics), having been director of the Sèvres Porcelain Factory from 1800 to 1847. He was born in Paris, the son of the architect Alexandre-Théodore Brongniart and fat"
+}
+{
+    "example_id": 386,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 83.0,
+    "question": "Which company is USS Edamena II produced by?",
+    "gold_answer": "George Lawley & Son",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The USS Edamena II was produced by George Lawson & Son at their Neponset, Massachusetts shipyard.",
+    "mistral_answer": "George Lawley & Son",
+    "docid": "12921979",
+    "rerank_score": 6.5435,
+    "passage": "\"USS Edamena II (SP-14)\" USS Edamena II (SP-14) USS \"\"Edamena II\"\" (SP-14) was an armed motorboat that served in the United States Navy as a patrol vessel from 1917 to 1919. \"\"Edamena II\"\" was built in 1916 by George Lawley & Son at Neponset, Massachusetts, as a private motorboat of the same name. The U.S. Navy acquired her from her owner, E.P. Charlton of Fall River, Massachusetts, on 22 May 1917 for World War I service. She was commissioned as USS \"\"Edamena II\"\" (SP-14) on 24 May 1917 with Ens"
+}
+{
+    "example_id": 390,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 85.0,
+    "question": "Who is Patience Dabany's child?",
+    "gold_answer": "Ali Bongo Ondimba",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Patience Dabany is a Gabonese singer and musician. She is the mother of two children, but the names of her children are not mentioned in the provided documents.",
+    "mistral_answer": "Ali Bongo Ondimba",
+    "docid": "7793831",
+    "rerank_score": 6.4206,
+    "passage": "\"Patience Dabany\" Patience Dabany Patience Marie Josephine Kama Dabany (born 22 January 1941; member of the Order of Gabriela Silang), also known by the names Marie Joséphine Kama and Josephine Bongo, is a Gabonese singer and musician. Dabany served as the First Lady of Gabon from 1967 to 1987. For nearly 30 years she was married to Omar Bongo Ondimba, who was President of Gabon from 1967 to 2009. After their divorce, she successfully pursued a career in music. She is the mother of the current P"
+}
+{
+    "example_id": 392,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 85.0,
+    "question": "Where is Coprates Chasma located?",
+    "gold_answer": "Coprates quadrangle",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Coprates Chasma is located in the Valles Marineris canyon system on Mars, specifically at coordinates 13.4° south latitude and 161.4° west longitude.",
+    "mistral_answer": "Coprates Chasma is located in the Coprates quadrangle of Mars, at 13.4° south latitude and 61.4° west longitude.",
+    "docid": "13333656",
+    "rerank_score": 10.1494,
+    "passage": "\"Coprates Chasma\" Coprates Chasma Coprates Chasma is a huge canyon in the Coprates quadrangle of Mars, located at 13.4° south latitude and 61.4° west longitude, part of the Valles Marineris canyon system. It is long and was named after a classical albedo feature name. Keith Harrison and Mary Chapman described strong evidence for a lake in the eastern part of Valles Marineris, especially in Coprates Chasma. It would have had an average depth of only 842 m—much smaller than the 5–10 km depth of pa"
+}
+{
+    "example_id": 395,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 86.0,
+    "question": "Where was Roosevelt Nix educated?",
+    "gold_answer": "Scott High School",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Roosevelt Nix attended the College of DuPage before transferring to Central State University.",
+    "mistral_answer": "Roosevelt Nix attended Scott High School in Toledo, Ohio, before enrolling at the College of DuPage and transferring to Central State University.",
+    "docid": "18469183",
+    "rerank_score": 6.053,
+    "passage": "\"Roosevelt Nix (defensive end)\" to make child support payments. Roosevelt Nix (defensive end) Roosevelt Theodore Nix (born April 17, 1967) is a former American football defensive end who played three seasons in the National Football League with the Cincinnati Bengals and Minnesota Vikings. He was drafted by the Cincinnati Bengals in the eighth round of the 1992 NFL Draft. He first enrolled at the College of DuPage before transferring to Central State University. Nix attended Scott High School in"
+}
+{
+    "example_id": 401,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 88.0,
+    "question": "Who is Sergei Legat married to?",
+    "gold_answer": "Marie Petipa",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Sergei Legat is not mentioned to be married in the provided documents.",
+    "mistral_answer": "Marie Petipa",
+    "docid": "12994143",
+    "rerank_score": 6.5655,
+    "passage": "\"Sergei Legat\" Sergei Legat Sergei Gustavovich Legat (; 27 September 1875 – 1 November 1905) was a Russian ballet dancer. Sergei Gustavovich Legat was born on 27 September, 1875, in Moscow. The younger brother of Nikolai Legat, he studied at the imperial ballet school with Pavel Gerdt, Christian Johansson, Lev Ivanov and his brother. Legat joined the Mariinsky Theatre in 1894 and quickly became a soloist. Admired for his stylistic performances he also taught, with pupils including Vaslav Nijinsk"
+}
+{
+    "example_id": 412,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 92.0,
+    "question": "Where was Dick Last born?",
+    "gold_answer": "Munkedal",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Dick Last was born in Sweden. (No specific birthplace was mentioned in the provided documents.)",
+    "mistral_answer": "Dick Last was born in Munkedal.",
+    "docid": "11313732",
+    "rerank_score": 7.6643,
+    "passage": "\"Dick Last\" Dick Last Dick Last (born February 3, 1969 in Munkedal) is a Swedish former football goalkeeper who last played for IK Oddevold in Division 1 Södra. Last started his career at Munkedals IF before joining IK Oddevold in 1986. In 1987, he left for big club IFK Göteborg and two years later returned to Uddevalla and IK Oddevold. In 1991, after gaining some first team experience, he again left IK Oddevold for IFK Göteborg. After five years as backup for legendary Swedish goalkeeper Thomas"
+}
+{
+    "example_id": 425,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 94.0,
+    "question": "What music label is Kyoto Jazz Massive represented by?",
+    "gold_answer": "Compost Records",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Kyoto Jazz Massive is represented by the British record label BBE (BBE Music).",
+    "mistral_answer": "Kyoto Jazz Massive is represented by Compost Records, based on the provided context.",
+    "docid": "6630828",
+    "rerank_score": 6.5666,
+    "passage": "\"Kyoto Jazz Massive\" Kyoto Jazz Massive Kyoto Jazz Massive is a Japanese musical project specialising in crossover jazz and electronic styles, consisting of the two brothers Shuya and Yoshihiro Okino. The group has also included Hajime Yoshizawa, the pianist producer, on a number of works and albums. Although the brothers DJed in the late 1980s and were remixing and composing as far back as the early 1990s, they were largely popularised by the British Radio 1 DJ Gilles Peterson in around 2001. T"
+}
+{
+    "example_id": 434,
+    "popularity_bucket": "50-100",
+    "answer_entity_popularity": 97.0,
+    "question": "Where did Hans Fugger die?",
+    "gold_answer": "Kirchheim in Schwaben",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Hans Fugger died in Augsburg.",
+    "mistral_answer": "Hans Fugger died in Kirchheim in Schwaben.",
+    "docid": "15015482",
+    "rerank_score": 5.9171,
+    "passage": "\"Hans Fugger\" Hans Fugger Hans Fugger \"\"von der Lilie\"\", full name \"\"Hans, Freiherr Fugger, Herr zu Kirchheim, Glött, Mickhausen, Stettenfels und Schmiechen\"\", (4 September 1531 - 19 April 1598; buried in Kirchheim in Schwaben) was a German arts patron, businessman and politician of the Fugger family. He was the second son of Anton Fugger (1493–1560) and Anna Rehlinger. As befitted the family's new standing, he and his brothers Marx (1529–1597), Hieronimus (1533–1573) and Jakob (1542–1598) recei"
+}
+{
+    "example_id": 449,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 100.0,
+    "question": "What music label is Portrait of the Goddess represented by?",
+    "gold_answer": "Indecision Records",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Portrait of the Goddess is not mentioned in the provided documents. Therefore, it is impossible to determine which music label, if any, represents Portrait of the Goddess based on the given information.",
+    "mistral_answer": "Indecision Records",
+    "docid": "2829896",
+    "rerank_score": 4.1165,
+    "passage": "\"Bleeding Through\" Severing ties with both Eighteen Visions and Throwdown, Schieppati opted to pursue Bleeding Through as a priority upon completion of the Indecision Records 2002 offering \"\"Portrait of the Goddess\"\". At this juncture the group comprised the guitar pairing of Scott Danough and Brian Leppke, bassist Ryan Wombacher (replacing Vijay Kumar who played on \"\"Portrait of the Goddess\"\") and drummer Derek Youngsma. After these two relatively underdistributed albums, Bleeding Through signe"
+}
+{
+    "example_id": 454,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 102.0,
+    "question": "Where was Artur de Sacadura Cabral born?",
+    "gold_answer": "Celorico da Beira",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Artur de Sacadura Cabral was born in Lisbon, Portugal. (Document 1 does not provide this information, but it is mentioned in Document 2.)",
+    "mistral_answer": "Artur de Sacadura Cabral was born in Celorico da Beira. (Reference: Context)",
+    "docid": "5307579",
+    "rerank_score": 7.0326,
+    "passage": "\"Artur de Sacadura Cabral\" his seaplane had been discovered four days later, the bodies were never recovered. A statue dedicated to them is located in Lisbon. Another statue is located in his hometown, Celorico da Beira. He was the granduncle of Portuguese politicians Miguel Portas and Paulo Portas. Artur de Sacadura Cabral Artur de Sacadura Freire Cabral, GCTE (23 May 1881 – 15 November 1924), known simply as Sacadura Cabral (), was a Portuguese aviation pioneer. He, together with fellow aviato"
+}
+{
+    "example_id": 457,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 102.0,
+    "question": "Which company is Ambrosini SAI.10 Grifone produced by?",
+    "gold_answer": "SAI Ambrosini",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ambrosini SAI produced the Ambrosini SAI.10 Grifone.",
+    "mistral_answer": "I don't know based on the provided context. The context mentions SAI Ambrosini and their production of the SAI.7 design, but it does not mention the SAI.10 Grifone or which company produced it.",
+    "docid": "10154714",
+    "rerank_score": 3.8587,
+    "passage": "\"SAI Ambrosini\" SAI Ambrosini SAI Ambrosini was an Italian aircraft manufacturer established in Passignano sul Trasimeno, Italy in 1922 as the Società Aeronautica Italiana. It became SAI Ambrosini when it was acquired by the Ambrosini group in 1934. Prior to World War II, the firm built a number of light touring and racing aircraft, the most successful of which was the SAI.7. During the war, this design served as the basis for some light fighter designs, but these did not enter mass production. "
+}
+{
+    "example_id": 479,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 109.0,
+    "question": "Who is Donnchad Midi's child?",
+    "gold_answer": "Conchobar mac Donnchada",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Donnchad Midi is not mentioned in the provided documents. The documents only discuss Donnchad Midi's father, Conn of the Hundred Battles, and his sons Conchobar and Domnall.",
+    "mistral_answer": "Donnchad Midi's child mentioned in the context is Conchobar mac Donnchada.",
+    "docid": "6597126",
+    "rerank_score": 5.761,
+    "passage": "\"Donnchad Midi\" Ardchenn, King of Leinster, is sometimes called Donnchad's daughter but was more probably his sister. Conn had predeceased his father, killed in 795. It was Domnall who succeeded Donnchad as King of Mide on his death, but he ruled for only a short time. The \"\"Annals of Ulster\"\" report that \"\"Domnall son of Donnchad was treacherously killed by his kinsmen\"\" in 799. Donnchad's son Conchobar mac Donnchada was later king of Mide and High King. Máel Ruanaid was king of Mide and father"
+}
+{
+    "example_id": 494,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 112.0,
+    "question": "Who is Kitabatake Chikafusa's child?",
+    "gold_answer": "Kitabatake Akiie",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Kitabatake Chikafusa is not mentioned to have a child in the provided documents.",
+    "mistral_answer": "Kitabatake Akiie is the child mentioned in the context.",
+    "docid": "5802735",
+    "rerank_score": 3.6536,
+    "passage": "\"Kitabatake Chikafusa\" Court and sought to destroy all who supported the Emperor's Southern Court. Kitabatake also wrote of Nitta Yoshisada, one of the greatest military supporters of Go-Daigo, in a bad light. He saw Nitta as a warrior, little different from the Shoguns, but also accused him of never being available when the Emperor called upon him. Had Nitta been more available in the south of the country, instead of fighting his own battles in the north, Kitabatake claims, Nitta could have pre"
+}
+{
+    "example_id": 499,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 114.0,
+    "question": "Where did Danilo Dolci die?",
+    "gold_answer": "Trappeto",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Danilo Dolci died in Trappia, near Palermo, on December 30, 1997.",
+    "mistral_answer": "Danilo Dolci died in Trappeto.",
+    "docid": "9166761",
+    "rerank_score": 9.3998,
+    "passage": "\"Danilo Dolci\" he rebelled against the state monopoly on broadcasting and set up his own radio station in Partinico in the face of stiff resistance from the police. Dolci died on December 30, 1997 in Trappeto, from heart failure. He was survived by the five adopted children he had with his first wife, Vincenzina, and by two children from his second marriage. His death has triggered a curious mixture of reactions. While the chief Antimafia prosecutor in Palermo, Gian Carlo Caselli, said Dolci was"
+}
+{
+    "example_id": 503,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 114.0,
+    "question": "Where is Lyot located?",
+    "gold_answer": "Ismenius Lacus quadrangle",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Lyot is a Martian crater located at 50.8° north latitude and 337.3° west longitude within the Vastitas Borealis region of Mars.",
+    "mistral_answer": "Lyot is located in the Vastitas Borealis region of Mars, at 50.8° north latitude and 330.7° west longitude within the Ismenius Lacus quadrangle.",
+    "docid": "13205093",
+    "rerank_score": 9.3334,
+    "passage": "\"Lyot (Martian crater)\" Lyot (Martian crater) Lyot is a large crater in the Vastitas Borealis region of Mars, located at 50.8° north latitude and 330.7° west longitude within the Ismenius Lacus quadrangle. It is 236 km in diameter and was named after Bernard Lyot, a French astronomer (1897–1952). The name was approved in 1973 by the International Astronomical Union (IAU) Working Group for Planetary System Nomenclature (WGPSN). Lyot stands out on the flat plains of Vastitas Borealis, which is gen"
+}
+{
+    "example_id": 508,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 116.0,
+    "question": "Who was Sifting and winnowing created by?",
+    "gold_answer": "Charles Kendall Adams",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The phrase \"Sifting and winnowing\" was created by the Class of 1910 at the University of Wisconsin–Madison. They submitted a commemorative plaque with this phrase, but it was initially rejected. After appealing to the regents, the phrase was installed on Bascom Hall in 1915.",
+    "mistral_answer": "Sifting and winnowing was created as a metaphor by UW President Charles Kendall Adams. The commemorative plaque was later created by the Class of 1910.",
+    "docid": "17658858",
+    "rerank_score": 8.4367,
+    "passage": "\"Sifting and winnowing\" of the incident, the Class of 1910 created a commemorative \"\"sifting and winnowing\"\" plaque of the phrase in its context, which the regents rejected. After the Class appealed to area newspapers, the regents relented. The plaque was installed on Bascom Hall in 1915, where it remains. It was rededicated in 1957. Sifting and winnowing Sifting and winnowing is a metaphor for the academic pursuit of truth affiliated with the University of Wisconsin–Madison. It was coined by UW"
+}
+{
+    "example_id": 514,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 118.0,
+    "question": "Who owns Paris-Soir?",
+    "gold_answer": "Jean Prouvost",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Jean Pouvrier owned Paris-Soir during the time period mentioned in the documents.",
+    "mistral_answer": "The context does not provide information on who owns Paris-Soir during the time period given. It only mentions that Jean Prouvost had an empire that included Paris-Soir.",
+    "docid": "18569817",
+    "rerank_score": 3.2153,
+    "passage": "\"Jean Prouvost\" toured the world for the newspaper; Georges Simenon reported on sensational criminal cases. Prouvost hired as war correspondents Blaise Cendrars, Joseph Kessel, Antoine de Saint-Exupéry, and Paul Gordeaux. Paris-Soir published story serializations from Maurice Dekobra, Pierre Mac Orlan and Pierre Daninos. From 70,000 copies in 1930, the circulation of Paris-Soir reached 1.7 million in 1936. Jean Prouvost soon had an empire that also included \"\"Marie Claire\"\", the women's magazine"
+}
+{
+    "example_id": 516,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 119.0,
+    "question": "Where did Gordon L. Allott die?",
+    "gold_answer": "Englewood",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Gordon L. Allott died in Denver, Colorado. (No specific date is mentioned in the provided documents.)",
+    "mistral_answer": "Gordon L. Allott died in Englewood, Colorado.",
+    "docid": "6504833",
+    "rerank_score": 8.3803,
+    "passage": "\"Gordon Allott\" to 1955, and he served as the 33rd Lieutenant Governor of Colorado from 1951 to 1955 under Democratic Governor Walter Walford Johnson and Republican Governor Daniel I. J. Thornton. Allott was elected to the United States Senate in 1954. He was reelected in 1960 and again in 1966, and served from January 3, 1955 to January 3, 1973. There he was Chairman of the Republican Policy Committee. Allott died in Englewood, Colorado, and was interred in Fairmount Cemetery, Denver, Colorado."
+}
+{
+    "example_id": 520,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 120.0,
+    "question": "Where was Ellen Buckingham Mathews born?",
+    "gold_answer": "Misterton",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ellen Buckingham Mathews was born in Somerset, England.",
+    "mistral_answer": "Ellen Buckingham Mathews was born in Misterton, Somerset.",
+    "docid": "11867916",
+    "rerank_score": 8.4192,
+    "passage": "\"Ellen Buckingham Mathews\" Ellen Buckingham Mathews Ellen Buckingham Mathews (1853–1920) was a popular female English novelist during the late 19th and early 20th century. She was also known as Mrs Reeves after her marriage in 1877 to Dr. Henry Albert Reeves (1841–1914) but was best known under her pen name, Helen Mathers. She was born in Misterton, Somerset. Her first novel, \"\"Comin' thro' the Rye\"\" was published in 1875. It was partly based on people in her life and on her own early romantic e"
+}
+{
+    "example_id": 524,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 121.0,
+    "question": "Where did Karel de Nerée tot Babberich die?",
+    "gold_answer": "Todtmoos",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Karel de Nerée tot Babberich died in Paris, France. (Document 1)",
+    "mistral_answer": "Karel de Nerée tot Babberich died in the southern German town of Todtmoos.",
+    "docid": "13944521",
+    "rerank_score": 8.1733,
+    "passage": "\"Karel de Nerée tot Babberich\" During his life he did not exhibit; he was a well-known society figure but few knew his art work which he mostly kept to himself. Only after his death was his work exhibited. He did sell some work during his life though. Due to his poor health, drawing and painting became ever more difficult after 1906-1907. The little known works from his later period are characterized by their colors and sometimes almost modernist compositions. He died on 19 October 1909 at 29 y"
+}
+{
+    "example_id": 527,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 122.0,
+    "question": "Who owns The Forum of Fargo-Moorhead?",
+    "gold_answer": "Forum Communications",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Forum of Fargo-Moorhead is owned by the Marcil-Black family of Fargo.",
+    "mistral_answer": "The Forum of Fargo-Moorhead is owned by Forum Communications Company, which is owned by the Marcil-Black family of Fargo. Current chairman William \"Bill\" Marcil, Sr. is the husband of N.B. Black's great-granddaughter.",
+    "docid": "4128064",
+    "rerank_score": 9.2941,
+    "passage": "\"Forum Communications\" Forum Communications Forum Communications Company is a media firm based in Fargo, North Dakota. The company prints a number of newspapers in North Dakota, South Dakota, Minnesota, and Wisconsin. Its flagship and namesake is \"\"The Forum of Fargo-Moorhead\"\". The company also owns Fargo radio station WDAY-AM 970 and four television stations in North Dakota, all affiliated with ABC. It is owned by the Marcil-Black family of Fargo. N. B. Black bought the Forum in 1917; current "
+}
+{
+    "example_id": 536,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 124.0,
+    "question": "Who is Henriette Pauss married to?",
+    "gold_answer": "Bernhard Pauss",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Henriette Pauss is married to Timotheus Benjamin Wegner.",
+    "mistral_answer": "Bernhard Pauss\n\nExplanation:\nThe context states that Henriette Wegner's youngest daughter Anna Henriette Wegner married Bernhard Pauss.",
+    "docid": "19009746",
+    "rerank_score": 7.146,
+    "passage": "\"Henriette Wegner\" son Heinrich Benjamin Wegner (1833–1911) was a timber merchant and married Henriette Vibe, a daughter of the classical philologist Ludvig Vibe; her oldest daughter Sophie Wegner (1838–1906) married colonel and aide-de-camp to king Charles Hans Jacob Nørregaard; her youngest daughter Anna Henriette Wegner (1841–1918) married the theologian Bernhard Pauss; her youngest son George Wegner (1847–1881) was a supreme court barrister. She was interred on 30 November 1875 at Gamle Aker"
+}
+{
+    "example_id": 541,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 125.0,
+    "question": "Where did Joseph Sherman Frelinghuysen, Jr. die?",
+    "gold_answer": "Morristown",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Joseph Sherman Frelinghuysen, Jr. died in 1961. The document does not provide information on the location of his death.",
+    "mistral_answer": "Joseph Sherman Frelinghuysen, Jr. died in Morristown, New Jersey.",
+    "docid": "12156159",
+    "rerank_score": 8.1485,
+    "passage": "\"Joseph S. Frelinghuysen Jr.\" succeeded in rejoining the Allied forces. After the war, Frelinghuysen worked in insurance and later managed the family dairy business in Somerville, New Jersey. Frelinghuysen married Emily Lawrance (1911-2004), the daughter of Charles Lawrance (1882–1950) and Emily Margaret Gordon Dix. Dix was the daughter of Rev. Morgan Dix (1827–1908), the rector of Trinity Parish. Together, they had: At the end of his life, Frelinghuysen was living in Far Hills, New Jersey and d"
+}
+{
+    "example_id": 553,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 130.0,
+    "question": "Where was Wendelin Weißheimer born?",
+    "gold_answer": "Osthofen",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Wendelin Weißheimer was born at the Stone Mill of Winhof Ostrihof in the village of Stone Mill, which is located in the region of Mainz, Germany.",
+    "mistral_answer": "Wendelin Weißheimer was born at the Stone Mill Winery of Osthofen.",
+    "docid": "15838548",
+    "rerank_score": 8.8825,
+    "passage": "\"Wendelin Weißheimer\" family at the end of the 18th century. Viticulture, agriculture, animal husbandry and mill grinding were already undertaken on the manor complex in the 19th century. The manor is still owned by the Weißheimer family. This complex was one of the most important in the former Grand Duchy of Hesse. Wendelin Weißheimer was born on 26 February 1838 at the Stone Mill Winery of Osthofen, the eighth and youngest child of Johann Weißheimer II and Ottilie, née Best der Welt. His paren"
+}
+{
+    "example_id": 572,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 135.0,
+    "question": "Who is the author of Qwan?",
+    "gold_answer": "Aki Shimizu",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The author of the Qwan story is not mentioned in the provided document. The document only provides information about the characters and plot of the story.",
+    "mistral_answer": "I don't know based on the provided context. The context mentions Aki Shimizu in relation to a drawing collection of Qwan, but it does not mention the author of the Qwan story itself.",
+    "docid": "8489588",
+    "rerank_score": 3.3228,
+    "passage": ""
+}
+{
+    "example_id": 580,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 136.0,
+    "question": "What music label is Alexander Tucker represented by?",
+    "gold_answer": "ATP Recordings",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Alexander Tucker is represented by the record label 4AD. (From Document 1)",
+    "mistral_answer": "Alexander Tucker is represented by the ATP Recordings label.",
+    "docid": "11564830",
+    "rerank_score": 5.6285,
+    "passage": "\"Alexander Tucker (musician)\" Duo is set to feature as part of the London date of Owen Pallett's \"\"Maximum Black Festival\"\". In April Tucker released an edition of the ATP Recordings label's double 7\"\" single project entitled \"\"Custom Made\"\". This featured a preview of the song \"\"Veins To The Sky\"\" which would feature on the forthcoming third album \"\"Portal\"\". Veins was highlighted by Pitchfork Media and other media sources as a very positive progression from Tucker. The Pitchfork article highli"
+}
+{
+    "example_id": 592,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 139.0,
+    "question": "Who is Algernon Percy, 6th Duke of Northumberland's child?",
+    "gold_answer": "Lord Algernon Percy",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Algernon Percy, 6th Duke of Northumberland had no children mentioned in the provided documents.",
+    "mistral_answer": "Algernon Percy, 6th Duke of Northumberland has at least two children mentioned in the context: his eldest son, Henry, Earl Percy, and his second son, Lord Algernon Percy.",
+    "docid": "5544331",
+    "rerank_score": 8.2228,
+    "passage": "\"Algernon Percy, 6th Duke of Northumberland\" 1899. He was made a Knight of the Garter in 1886. Northumberland married Louisa, daughter of Henry Drummond, in 1845. She died in December 1890. Northumberland survived her by nine years and died in January 1899, aged 88. The Duke and his wife were buried in the Percy family vault in Westminster Abbey. He was succeeded in the dukedom by his eldest son, Henry, Earl Percy. Northumberland's second son Lord Algernon Percy was also a politician. At the Per"
+}
+{
+    "example_id": 602,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 142.0,
+    "question": "Where is Batak languages located?",
+    "gold_answer": "Dairi",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Batak languages are spoken by the Batak people in North Sumatra, Indonesia. Specifically, the Karo language, one of the Batak languages, is used by around 600,000 people in Karo Regency, North Sumatra.",
+    "mistral_answer": "Batak languages, specifically Batak Karo language, are located in North Sumatra, Indonesia. They are mainly spoken in Karo Regency, southern parts of Deli Serdang Regency, and northern parts of Dairi Regency.",
+    "docid": "11794805",
+    "rerank_score": 5.7804,
+    "passage": "\"Batak Karo language\" Batak Karo language Karo, referred to in Indonesia as Bahasa Karo (Karo language), is an Austronesian language that is spoken by the Karo people of Indonesia. It is used by around 600,000 people in North Sumatra. It is mainly spoken in Karo Regency, southern parts of Deli Serdang Regency and northern parts of Dairi Regency, North Sumatra, Indonesia. It was historically written using the Batak alphabet which is descended from the Brahmi script of ancient India by way of the "
+}
+{
+    "example_id": 610,
+    "popularity_bucket": "100-150",
+    "answer_entity_popularity": 144.0,
+    "question": "Who is Princess Li Jingshou married to?",
+    "gold_answer": "Juqu Mujian",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Princess Li Jingshou was married to Prince Juqu Mengxun.",
+    "mistral_answer": "Princess Li Jingshou was married to Juqu Mujian.",
+    "docid": "7721824",
+    "rerank_score": 8.9825,
+    "passage": "\"Princess Li Jingshou\" wanted to marry his sister Princess Wuwei to Juqu Mujian. Juqu Mujian was therefore forced to divorce Princess Li, and she and her mother Princess Dowager Yin were relocated from the Northern Liang capital Guzang (姑臧, in modern Wuwei, Gansu) to Jiuquan. Princess Li soon died. Princess Li Jingshou Princess Li Jingshou (李敬受) (died 437?) was a princess of the Chinese/Xiongnu state Northern Liang. Her husband was Juqu Mujian (Prince Ai). Li Jingshou was the daughter of the Wes"
+}
+{
+    "example_id": 627,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 150.0,
+    "question": "Who is Xiao Tong's child?",
+    "gold_answer": "Emperor Xuan of Western Liang",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Xiao Tong is the mother of Emperor Xuan of Western Xia, whose personal name is Xiao Cha.",
+    "mistral_answer": "Xiao Cha, who later became Emperor Xuan of Western Liang, is the child of Xiao Tong. (Based on the context)",
+    "docid": "9059137",
+    "rerank_score": -1.6695,
+    "passage": "\"Empress Dowager Gong\" Empress Dowager Gong Empress Dowager Gong (龔太后, personal name unknown) (died 562), formally Empress Dowager Yuan (元太后, literally \"\"the discerning empress dowager\"\") was an empress dowager of the Chinese dynasty Western Liang dynasty. She was the mother of Emperor Xuan of Western Liang (Xiao Cha) who founded the Western Liang with the support of Western Wei. Lady Gong was a concubine of Xiao Tong, the first crown prince of Liang dynasty's founder Emperor Wu. Her rank was th"
+}
+{
+    "example_id": 631,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 151.0,
+    "question": "Who is Wojciech Kossak's child?",
+    "gold_answer": "Jerzy Kossak",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Wojciech Kossak is the father of Maria Pawlikowska-Jasnorzewska and Magdalena Samozwaniec.",
+    "mistral_answer": "Wojciech Kossak is the father of Maria Pawlikowska-Jasnorzewska, Magdalena Samozwaniec, and Jerzy Kossak.",
+    "docid": "4359792",
+    "rerank_score": 7.1365,
+    "passage": "\"Wojciech Kossak\" Wojciech Kossak Wojciech Kossak (Paris, France, 31 December 1856 – 29 July 1942, Kraków, Poland) was a noted Polish painter and member of the celebrated Kossak family of artists and writers. He was the son of painter Juliusz Kossak, and twin brother of freedom fighter Tadeusz Kossak, and the father of two highly talented literary daughters, Maria Pawlikowska-Jasnorzewska and Magdalena Samozwaniec and of a painter son, Jerzy Kossak. Wojciech Horacy Kossak was born on New Year's "
+}
+{
+    "example_id": 646,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 156.0,
+    "question": "Who founded Bolivian Socialist Falange?",
+    "gold_answer": "Óscar Únzaga",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Bolivian Socialist Falange was founded in 1937. It is important to note that the document does not provide information on who specifically founded this political party.",
+    "mistral_answer": "The Bolivian Socialist Falange was founded by a group of exiles in Chile, with Óscar Únzaga de la Vega being one of the chief figures. (Context) Therefore, the answer is: Óscar Únzaga de la Vega.",
+    "docid": "8004852",
+    "rerank_score": 8.7952,
+    "passage": "\"Bolivian Socialist Falange\" Bolivian Socialist Falange The Bolivian Socialist Falange () is a Bolivian political party established in 1937. Despite its leftist-sounding name, it was a far-right party drawing inspiration from fascism. It was the country's second-largest party between approximately 1954 and 1974. After that, its followers have tended to gravitate toward the government endorsed military candidacy of General Juan Pereda (1978) and, especially, toward the ADN party of former dictato"
+}
+{
+    "example_id": 651,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 157.0,
+    "question": "What music label is Čudna noč represented by?",
+    "gold_answer": "Dallas Records",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The document does not provide information about the music label that represents Čudna noč (the album) by Perpetuum Jazzile.",
+    "mistral_answer": "Dallas Records",
+    "docid": "13464824",
+    "rerank_score": 4.0936,
+    "passage": "\"Perpetuum Jazzile\" pop, using harmonies characteristic of close harmony music. Founded by Marko Tiran in 1983, the choir's art leadership was in 2001 passed to Tomaž Kozlevčar, and ten years later to Peder Karlsson. In 2006, they recorded \"\"Čudna noč\"\" (\"\"Strange Night\"\") album, released by Dallas Records, and had a concert with Mansound (from Kiev, Ukraine). A vocal jazz seminar in Ljubljana was organized by them with Ward Swingle, the Swingle Singers founder. Their performance of \"\"Africa\"\" e"
+}
+{
+    "example_id": 670,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 160.0,
+    "question": "Which company is USS Natrona produced by?",
+    "gold_answer": "Permanente Metals",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The USS Natrona was not produced by a company as it is a naval vessel. It was built by the Maritime Commission and the Bethlehem Steel Corporation under a Maritime Commission contract.",
+    "mistral_answer": "Permanente Metals Corporation",
+    "docid": "11482174",
+    "rerank_score": 4.9579,
+    "passage": "\"USS Natrona (APA-214)\" USS Natrona (APA-214) USS \"\"Natrona\"\" (APA-214) was a of the US Navy in World War II. She was of the VC2-S-AP5 Victory ship design type. \"\"Natrona\"\" was named for Natrona County, Wyoming. \"\"Natrona\"\" was laid down 30 June 1944, under Maritime Commission (MARCOM) contract , MCV hull 562, by Permanente Metals Corporation, Yard No. 2, Richmond, California; sponsored by Mrs. Anna Louise Spigler; launched 27 September 1944; and acquired and commissioned by the Navy on 8 Novemb"
+}
+{
+    "example_id": 671,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 160.0,
+    "question": "Which company is USS Carina produced by?",
+    "gold_answer": "Permanente Metals",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The USS Carina was not produced by a company as it is a United States Navy ship. It was laid down as a Liberty ship, SS David Davis, by the McDermott Shipyard in New Orleans, Louisiana, and was later converted into a cargo ship for the US Navy.",
+    "mistral_answer": "Permanente Metals Corporation",
+    "docid": "6727885",
+    "rerank_score": 4.7292,
+    "passage": "\"USS Carina (AK-74)\" USS Carina (AK-74) USS \"\"Carina\"\" (AK-74) was a , and the only ship of the US Navy to have this name. She was named for the southern constellation Carina, with most of her sister ships being named for constellations or stars. \"\"Carina\"\" was laid down 30 September 1942, as the liberty ship SS \"\"David Davis\"\" under a Maritime Commission (MARCOM) contract, MC hull 502, launched on 6 November 1942, by Permanente Metals Corporation, Yard No. 1, Richmond, California. She was spons"
+}
+{
+    "example_id": 680,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 163.0,
+    "question": "Who is Chen Qun's child?",
+    "gold_answer": "Chen Tai",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Chen Qun did not have any children mentioned in the provided documents.",
+    "mistral_answer": "Chen Tai is the child of Chen Qun. (Based on the context provided)",
+    "docid": "7478138",
+    "rerank_score": 4.0514,
+    "passage": "\"Chen Tai\" Chen Tai Chen Tai (died 260), courtesy name Xuanbo, was a military general and official of the state of Cao Wei during the Three Kingdoms period of China. He was the son of Chen Qun and a maternal grandson of Xun Yu. Chen Tai was very knowledgeable in the art of war, and so led his men as if they were his own children. When the regent Sima Shi began abusing his power and the emperor Cao Mao died under very suspicious circumstances, Chen Tai expressed his deep loyalty to the Cao Wei st"
+}
+{
+    "example_id": 682,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 164.0,
+    "question": "Who is Louise Homer married to?",
+    "gold_answer": "Sidney Homer, Sr.",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Louise Homer is married to Sidney Homer.",
+    "mistral_answer": "Louise Homer is married to Sidney Homer, Sr. (as mentioned in the context).",
+    "docid": "9752825",
+    "rerank_score": 3.5869,
+    "passage": "\"Sidney Homer\" Sidney Homer Sidney Homer, Sr. (9 December 1864 – 10 July 1953) was a classical composer, primarily of songs. Homer was the youngest child born to deaf parents in Boston, Massachusetts on December 9, 1864 (some sources use 1865). He attended the 1884 class of Phillips Academy in Andover, Massachusetts, but did not attend college. He married contralto Louise Dilworth Beatty in 1895. Sidney Homer died on July 10, 1953 in Winter Park, Florida. Sidney Homer's influence included his me"
+}
+{
+    "example_id": 686,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 164.0,
+    "question": "Which company is Owasco-class cutter produced by?",
+    "gold_answer": "Western Pipe and Steel Company",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Owasco-class cutter was produced by the United States Coast Guard.",
+    "mistral_answer": "The Owasco-class cutter was produced by the Western Pipe and Steel Company.",
+    "docid": "11241461",
+    "rerank_score": 6.4298,
+    "passage": "\"USCGC Owasco (WHEC-39)\" USCGC Owasco (WHEC-39) USCG \"\"Owasco\"\" (WHEC-39) was an \"\"Owasco\"\" class high endurance cutter which served with the US Coast Guard from 1945 to 1973. Originally intended for World War II service, she was commissioned only weeks before the end of the war and consequently did not see combat until her deployment in the Vietnam War more than 20 years later. \"\"Owasco\"\", the lead ship in her class, was launched by the Western Pipe and Steel Company at San Pedro, California on"
+}
+{
+    "example_id": 703,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 169.0,
+    "question": "What music label is Compulsive Disclosure represented by?",
+    "gold_answer": "Recess Records",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Lookout! Records",
+    "mistral_answer": "Compulsive Disclosure was first represented by Lookout! Records, as stated in the context. It was later re-released by Recess Records.",
+    "docid": "9882400",
+    "rerank_score": 4.4995,
+    "passage": "\"Compulsive Disclosure\" Compulsive Disclosure Compulsive Disclosure is the second compilation album by the American punk rock band Pinhead Gunpowder. It was released on October 21, 2003, through Lookout! Records. The album features songs from the group's eponymously titled 2000 EP, the \"\"Dillinger Four / Pinhead Gunpowder\"\" split EP, the \"\"8 Chords, 328 Words\"\" EP and also features re-recorded versions of the songs \"\"2nd Street\"\" and \"\"At Your Funeral\"\" (originally from \"\"Dillinger Four / Pinhea"
+}
+{
+    "example_id": 705,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 170.0,
+    "question": "Where did Freeman Nickerson die?",
+    "gold_answer": "Chariton River",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Freeman Nickerson died in Boston, Massachusetts. (No specific year was mentioned in the provided documents.)",
+    "mistral_answer": "Freeman Nickerson died along the banks of the Chariton River in Iowa.",
+    "docid": "12259303",
+    "rerank_score": 7.5151,
+    "passage": "\"Freeman Nickerson\" they spent the winter in Pittsburgh, Pennsylvania, where he baptized about 40 people and established the first branch of the church in that city. In 1840 he settled in Nauvoo, Illinois. In 1841, he served a mission to Peoria, Illinois. In 1842 he served a mission in Boston. One of his converts, Abijah Tewkesbury, offered his shipping office located at 82 Commercial St to be used as the meeting place of the first branch of Mormons in Boston, which had about 30 members. <ref> N"
+}
+{
+    "example_id": 707,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 171.0,
+    "question": "Who is Marija Lastauskienė married to?",
+    "gold_answer": "Vaclau Lastouski",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Marija Lastauskienė is married to Vaclovas Lastauskas.",
+    "mistral_answer": "Marija Lastauskienė was married to Vaclau Lastouski (Lastauskas).",
+    "docid": "13419288",
+    "rerank_score": 8.5999,
+    "passage": "\"Marija Lastauskienė\" Marija Lastauskienė Marija Lastauskienė \"\"née\"\" Ivanauskaitė () (15 May 1872 in Šiauliai – 19 July 1957 in Kaunas) and her sister Sofija Pšibiliauskienė were Lithuanian sisters who wrote under the shared pen name \"\"Lazdynų Pelėda\"\" (\"\"Hazel Owl\"\"). Marija married Belarusian literary critic and politician Vaclau Lastouski (Lastauskas), but divorced after a few years. Born in Šiauliai, Lastauskienė grew up and spent her youth in a family estate in Paragiai. Her father was pa"
+}
+{
+    "example_id": 709,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 171.0,
+    "question": "Which company is USS Champion produced by?",
+    "gold_answer": "General Engineering & Dry Dock Company",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The USS Champion was produced by the United States Navy. It was the lead ship of a class of 32 vessels ordered for transfer to the United Kingdom under the Lend-Lease program during World War II.",
+    "mistral_answer": "The USS Champion was produced by General Engineering & Dry Dock Company.",
+    "docid": "10233465",
+    "rerank_score": 4.5155,
+    "passage": "\"USS Champion (AM-314)\" USS Champion (AM-314) The third USS \"\"Champion\"\" (BAM-1/AM-314/MSF-314) was an of the United States Navy. The ship was the first of 32 vessels of the \"\"Auk\"\" class ordered for transfer to Great Britain under Lend-Lease, and designated British Minesweeper HMS \"\"Akbar\"\" (BAM-1). Twelve of these ships were retained for service in the U.S. Navy. Launched on 12 December 1942 by General Engineering & Dry Dock Company, Alameda, California; redesignated USS \"\"Champion\"\" (AM-314) "
+}
+{
+    "example_id": 712,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 173.0,
+    "question": "Where is Chunhua, Hunan located?",
+    "gold_answer": "Changsha County",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Chunhua is a town located in Hunan Province, China. It is not mentioned in the provided document, but based on the context of the document, it can be inferred that it is also part of Liuyang City.",
+    "mistral_answer": "Chunhua is located in Changsha County, Hunan Province, as mentioned in the context that it is a town of Changsha County.",
+    "docid": "17502291",
+    "rerank_score": 3.9372,
+    "passage": "\"Yong'an, Liuyang\" Yong'an, Liuyang Yong'an Town () is a rural town in Liuyang City, Hunan Province, People's Republic of China. As of the 2015 census it had a population of 65,700 and an area of . It is surrounded by Shashi Town on the north, Beisheng Town on the east, Dongyang Town on the southeast, Chunhua Town of Changsha County on the west, and Jiangbei Town of Changsha County on the south. The town is divided into 7 villages and 4 communities, the following areas: Yong'an Town has three ma"
+}
+{
+    "example_id": 713,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 173.0,
+    "question": "Where is Makham Sung located?",
+    "gold_answer": "Mueang Phitsanulok",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Makham Sung is a subdistrict located in the Mae Phim District of Phitsanulok Province, Thailand. It is situated in the Nan Basin, which is part of the Chao Phraya River Basin. The subdistrict borders Thothae of Amphoe Bot of Nakhon Sawan Province to the north, Pak Tho and Hua Ro to the south, and the Nan and Khwae Noi Rivers to the west and Chao Phraya River to the east.",
+    "mistral_answer": "Makham Sung is a subdistrict located in the Mueang Phitsanulok District of Phitsanulok Province, Thailand. It is situated within the Nan Basin, and is bordered by Thothae of Amphoe Wat Bot to the north, Ban Pa to the east, Pak Thok and Hua Ro to the south, and the Nan and Khwae Noi Rivers to the west.",
+    "docid": "11069835",
+    "rerank_score": 9.459,
+    "passage": "\"Makham Sung\" Makham Sung Makham Sung () is a subdistrict in the Mueang Phitsanulok District of Phitsanulok Province, Thailand. The topography of Makham Sung is lowlands. The subdistrict borders Thothae of Amphoe Wat Bot to the north, Ban Pa to the east, Pak Thok and Hua Ro to the south and the Nan and Khwae Noi Rivers to the west (opposite Chom Thong). Makham Sung lies within the Nan Basin, which is part of the Chao Phraya Watershed. The Khwae Noi meets the Nan River on the border of Makham Sun"
+}
+{
+    "example_id": 714,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 173.0,
+    "question": "Where is Wat Phrik located?",
+    "gold_answer": "Mueang Phitsanulok",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Wat Phrik is located in the Mae Rim District of Chiang Mai Province, Thailand. It is part of the subdistrict of Wat Phrik.",
+    "mistral_answer": "Wat Phrik is located in the Mueang Phitsanulok District of Phitsanulok Province, Thailand. It is bordered by Tha Pho to the north, Bueng Phra to the east, Wang Nam Khu and Ngio Ngam to the south, and Wang Ithok of Amphoe Bang Rakam to the west. The subdistrict lies within the Nan Basin, which is part of the Chao Phraya Watershed, and the Nan River flows through its center.",
+    "docid": "11069905",
+    "rerank_score": 9.5076,
+    "passage": "\"Wat Phrik\" Wat Phrik Wat Phrik () is a subdistrict in the Mueang Phitsanulok District of Phitsanulok Province, Thailand. The topography of Wat Phrik is flat lowlands. The subdistrict is bordered to the north by Tha Pho, to the east by Bueng Phra to the south by Wang Nam Khu and Ngio Ngam, and to the west by Wang Ithok of Amphoe Bang Rakam. Wat Phrik lies within the Nan Basin, which is part of the Chao Phraya Watershed. The Nan River flows through the center of the subdistrict. Wan Phrik was ori"
+}
+{
+    "example_id": 730,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 177.0,
+    "question": "Who is Johannes Heesters married to?",
+    "gold_answer": "Louisa Ghijs",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Johannes Heesters was married to two women. He had two daughters with his first wife, whose name is not mentioned in the provided documents. He married his second wife, whose name is also not mentioned, in 1991.",
+    "mistral_answer": "Johannes Heesters was married to Louisa Ghijs from 1930 until her death in 1985. After her death, he remarried in 1992. Therefore, the answer to the question is: He was married to Louisa Ghijs until her death and then remarried in 1992.",
+    "docid": "2259127",
+    "rerank_score": 6.0436,
+    "passage": "\"Johannes Heesters\" he had failed to understand the show's satirical nature. Heesters played smaller roles in his last years, as he began to lose his eyesight due to macular degeneration and could not perform on stage for long periods of times. Unable to read a teleprompter, he had to memorize his lines before a show. He played in the 2011 short film \"\"Ten\"\" as Simon Petrus and made his last stage appearance on 31 October 2011 in Munich. Heesters had two daughters by his first wife Louisa Ghijs,"
+}
+{
+    "example_id": 736,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 178.0,
+    "question": "Who is the author of The Dark Tower: Treachery?",
+    "gold_answer": "Robin Furth",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Stephen King (He is the creator of the Dark Tower series and served as Creative and Executive Director for this comic book limited series.)",
+    "mistral_answer": "Stephen King (as Creative and Executive Director), Robin Furth (plot), Peter David (script), Jae Lee and Richard Isanove (illustrations).",
+    "docid": "12106443",
+    "rerank_score": 9.1255,
+    "passage": "\"The Dark Tower: Treachery\" The Dark Tower: Treachery The Dark Tower: Treachery is a six-issue comic book limited series published by Marvel Comics. It is the third comic book miniseries based on Stephen King's \"\"The Dark Tower\"\" series of novels. It is plotted by Robin Furth, scripted by Peter David, and illustrated by Jae Lee and Richard Isanove. Stephen King serves as Creative and Executive Director of the project. The first issue was published on September 10, 2008. Whereas \"\"The Gunslinger "
+}
+{
+    "example_id": 737,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 178.0,
+    "question": "Who owns Montgomery High School?",
+    "gold_answer": "Santa Rosa City Schools",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Montgomery High School is owned and operated by the Santa Rosa City School District.",
+    "mistral_answer": "I don't know based on the provided context who owns Montgomery High School. The context mentions that it is a public high school and part of the Santa Rosa City Schools, but it does not specify who owns the land or the building itself.",
+    "docid": "6073917",
+    "rerank_score": 4.1107,
+    "passage": "\"Montgomery High School (Santa Rosa, California)\" Montgomery High School (Santa Rosa, California) Montgomery High School is a public high school located in Santa Rosa, California. It is part of the Santa Rosa High School District, which is itself part of Santa Rosa City Schools. The current principal is Randolph T. Burbank Montgomery High School was named after Bill Montgomery. Montgomery is considered the first person from the city of Santa Rosa to have died in World War II. William \"\"Billy\"\" M"
+}
+{
+    "example_id": 740,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 180.0,
+    "question": "Who is Elena Firsova married to?",
+    "gold_answer": "Dmitri Smirnov",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Elena Firsova is married to the British composer John Woolrich.",
+    "mistral_answer": "Elena Firsova is married to the composer Dmitri Smirnov.",
+    "docid": "7121817",
+    "rerank_score": 8.09,
+    "passage": "\"Elena Firsova\" Elena Firsova Elena Olegovna Firsova (; also \"\"Yelena\"\" or \"\"Jelena Firssowa\"\"; born 21 March 1950, Leningrad) is a Russian composer. Firsova was born in Leningrad into the family of physicists Oleg Firsov and Viktoria Lichko. She studied music in Moscow with Alexander Pirumov, Yuri Kholopov, Edison Denisov and Philip Herschkowitz. In 1979 she was blacklisted as one of the \"\"Khrennikov's Seven\"\" at the Sixth Congress of the Union of Soviet Composers for unapproved participation i"
+}
+{
+    "example_id": 743,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 181.0,
+    "question": "Who is Frøydis Armand married to?",
+    "gold_answer": "Helge Jordal",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Frøydis Armand is married to actor and director, Bjørn Sundquist.",
+    "mistral_answer": "Frøydis Armand is married to Helge Jordal.",
+    "docid": "11647394",
+    "rerank_score": 7.5439,
+    "passage": "\"Frøydis Armand\" Frøydis Armand Frøydis Armand (born 9 April 1949) is a Norwegian actress. She is the daughter of actor Eilif Armand, and sister of Merete Armand and Gisken Armand, both actresses. She has been working at Nationaltheatret (the National Theatre) since 1972, acting in plays such as Henrik Ibsen's \"\"Little Eyolf\"\", and Shakespeares \"\"Othello\"\". Though primarily a stage actress, Armand is probably best known to the general audience as one of the three protagonists in Anja Breien's \"\""
+}
+{
+    "example_id": 750,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 184.0,
+    "question": "Who owns Luis Muñoz Marín International Airport?",
+    "gold_answer": "Puerto Rico Ports Authority",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Luis Muñoz Marín International Airport is owned by the Federal Aviation Administration (FAA) of the United States. It is a joint civil-military international airport.",
+    "mistral_answer": "Luis Muñoz Marín International Airport is owned by the Puerto Rico Ports Authority.",
+    "docid": "872152",
+    "rerank_score": 8.7363,
+    "passage": "\"Luis Muñoz Marín International Airport\" Luis Muñoz Marín International Airport Luis Muñoz Marín International Airport (, Or Isla Verde International Airport/Aeropuerto Internacional de Isla Verde) is a joint civil-military international airport named for Puerto Rico's first democratically elected governor and located in suburban Carolina, Puerto Rico, southeast of San Juan. It is the busiest airport in the Caribbean region by passenger traffic. Over 4 million passengers board a plane at the a"
+}
+{
+    "example_id": 782,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 193.0,
+    "question": "Who is Metope's child?",
+    "gold_answer": "Harpina",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Metope is a river nymph in Greek mythology, and she is the daughter of the river Ladon. She married the river god Asopus and had several daughters with him, including Aegina, Salamis, Euboea, Tanagra, and others. (Document 1)",
+    "mistral_answer": "Metope is the daughter of the river Ladon in Greek mythology. She is the mother of several daughters and possibly sons by the river god Asopus. Some of her known daughters include Aegina, Salamis, Sinope, Euboea, Tanagra, Thespia, Thebe, Corcyra, Ismene, and Harpina. The exact parentage of these children is vague. Therefore, the answer to the question depends on which specific Metope and child are being referred to in the context. Based on the provided context, it does not specify a particular child of Metope.",
+    "docid": "7244648",
+    "rerank_score": 5.737,
+    "passage": "\"Metope (mythology)\" of Hecuba. Metope is also the name of the daughter of King Echetus. Metope (mythology) In Greek mythology, Metope (Greek: ) was a river nymph, the daughter of the river Ladon. Her waters were near the town of Stymphalus in the Peloponnesus. She married the river god Asopus by whom she had several (either 12 or 20) daughters, including Aegina, Salamis, Sinope, Euboea, Tanagra, Thespia, Thebe, Corcyra, Ismene, and Harpina; and possibly sons, including Pelagon and Ismenus. The "
+}
+{
+    "example_id": 787,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 194.0,
+    "question": "Which company is USS Gear produced by?",
+    "gold_answer": "Basalt Rock Company",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "USS Gear (ARS-34) was produced by the United States Navy during World War II. It was not produced by a specific company as it is a naval vessel acquired by the U.S. Navy.",
+    "mistral_answer": "The USS Gear (ARS-34) was launched by the Basalt Rock Company in Napa, California.",
+    "docid": "10798849",
+    "rerank_score": 4.9892,
+    "passage": "\"USS Gear (ARS-34)\" USS Gear (ARS-34) USS Gear (ARS-34) was an \"\"Diver\"\"-class rescue and salvage ship acquired by the U.S. Navy during World War II. Her task was to come to the aid of stricken vessels. \"\"Gear\"\" (BARS-4), originally intended for the Royal Navy under terms of the Lend-Lease Program, was launched as \"\"HMS Pacific Salvor\"\" (BARS-4) on 24 October 1942 by the Basalt Rock Company in Napa, California; acquired by the U.S. Navy and designated \"\"Gear\"\" (ARS-34) on 21 September 1942; and "
+}
+{
+    "example_id": 790,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 195.0,
+    "question": "Who was Congress Column created by?",
+    "gold_answer": "Joseph Poelaert",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Congress Column was created by Charles Rogier between 1850 and 1899.",
+    "mistral_answer": "The Congress Column was created according to a design by Joseph Poelaert. It was initiated by Charles Rogier.",
+    "docid": "10542757",
+    "rerank_score": 7.9592,
+    "passage": "\"Congress Column\" Congress Column The Congress Column (; ) is a monumental column situated on the Place du Congrès/Congresplein in Brussels, Belgium, which commemorates the creation of the Constitution by the National Congress of 1830–31. It was erected on the initiative of Charles Rogier, according to a design by Joseph Poelaert, between 1850 and 1859 and was inspired by Trajan's Column in Rome. At the top of the column is a statue of Belgium's first monarch, King Leopold I, and the pedestal is"
+}
+{
+    "example_id": 796,
+    "popularity_bucket": "150-200",
+    "answer_entity_popularity": 198.0,
+    "question": "Where is Jistrum located?",
+    "gold_answer": "Tytsjerksteradiel",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Jistrum is a village located in the northeastern part of the Netherlands, specifically in the province of Friesland. It is situated northeast of the Burgmar and has a yacht harbor that is connected to the lake. The village is part of the municipality of Tietjerksteradeel.",
+    "mistral_answer": "Jistrum is located in the Tytsjerksteradiel municipality, in the province of Friesland, Netherlands. It lies northeast of the Burgumer Mar.",
+    "docid": "11635711",
+    "rerank_score": 9.383,
+    "passage": ""
+}
+{
+    "example_id": 802,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 200.0,
+    "question": "Where did Krzysztof Perwanger die?",
+    "gold_answer": "Reszel",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Krzysztof Perwanger died in Königsberg, Prussia. (Document 1)",
+    "mistral_answer": "Krzysztof Perwanger died in Reszel, based on the provided context.",
+    "docid": "17392354",
+    "rerank_score": 6.2399,
+    "passage": "\"Krzysztof Perwanger\" Krzysztof Perwanger Krzysztof Perwanger (1700–1785) was a Polish sculptor and mayor. Perwanger came to Tolkmicko about 1735. There he became a brewer, and in 1746 he was a senior member of the local beer guild. In 1758 he became the mayor of Tolkmicko. He lived in Tolkmicko until 1761. After briefly living in Königsberg, at the end of his life he settled permanently in Reszel. Perwanger was married twice. Since 1741 he was married to Feldkeller Elizabeth. After her death in"
+}
+{
+    "example_id": 804,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 200.0,
+    "question": "Who is Knut Faldbakken's child?",
+    "gold_answer": "Matias Faldbakken",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Knut Faldbakken is a Norwegian novelist. He has a son named Eirik Faldbakken.",
+    "mistral_answer": "Stefan Faldbakken or Matias Faldbakken are Knut Faldbakken's sons who have achieved recognition as a film director and a novelist respectively. (Answer based on the provided context)",
+    "docid": "10970093",
+    "rerank_score": 5.9263,
+    "passage": "\"Knut Faldbakken\" Knut Faldbakken Knut Faldbakken (born Hamar, 31 August 1941) is a Norwegian novelist. Faldbakken studied psychology at Oslo University, and then worked as a journalist. He visited a number of countries, working variously as a bookkeeper, sailor, and factory worker, and began writing books in 1967 while living in Paris. He was editor of the literary magazine \"\"Vinduet\"\" (\"\"The Window\"\") between 1975 and 1979. His sons Stefan Faldbakken and Matias Faldbakken have achieved recogni"
+}
+{
+    "example_id": 808,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 201.0,
+    "question": "Where was Cora Stephan born?",
+    "gold_answer": "Bad Rothenfelde",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Cora Stephan was born in Bad Oeynhausen, Germany.",
+    "mistral_answer": "Cora Stephan was born in Strang near Bad Rothenfelde, West Germany.",
+    "docid": "11293004",
+    "rerank_score": 9.3594,
+    "passage": "\"Cora Stephan\" Cora Stephan Cora Stephan (born 7 April 1951 in Strang near Bad Rothenfelde, West Germany) is a German-speaking writer and essayist. As an author of crime fiction she is known under the pseudonym Anne Chaplet. Stephan grew up in Osnabrück (Germany). Having studied in Hamburg and Frankfurt she graduated as a teacher in 1973 and took her PhD in 1976 with a thesis on the History of German Social-Democracy in the 19th Century. From 1976 to 1984 she taught at the Johann Wolfgang Goethe"
+}
+{
+    "example_id": 814,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 202.0,
+    "question": "Who is Domangart Réti's child?",
+    "gold_answer": "Comgall mac Domangairt",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Comgall mac Domangart is the child of Domangart Réti, according to the provided document.",
+    "mistral_answer": "Comgall mac Domangairt is the child of Domangart Réti.",
+    "docid": "1590557",
+    "rerank_score": 2.3125,
+    "passage": "\"Comgall mac Domangairt\" Comgall mac Domangairt Comgall mac Domangairt was king of Dál Riata in the early 6th century. He was the son of Domangart Réti and grandson of Fergus Mór. The \"\"Annals of Ulster\"\" report his death in 538, 542 and 545, the \"\"Annals of Tigernach\"\" in 537. Nothing certain is known of Comgall beyond the fact of his death, but he significant as the eponymous founder of the Cenél Comgaill, one of the kindreds of Dál Riata named by the \"\"Senchus fer n-Alban\"\". The \"\"Senchus\"\", "
+}
+{
+    "example_id": 816,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 202.0,
+    "question": "Where is Wahao located?",
+    "gold_answer": "Myitkyina District",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Wahao is a village located in the Hsawlaw Township, in the Kachin State of Myanmar.",
+    "mistral_answer": "Wahao is located in Hsawlaw Township, Myitkyina District, Kachin State, Burma. (Based on the context provided)",
+    "docid": "11418159",
+    "rerank_score": -6.6187,
+    "passage": "\"Hsawlaw Township\" Pa-na, Pasai, Pashe, Patam, Pawawnbuk, Pilao, Rajawlaw, Ratma, Rawng-aw, Rawngtsaw, Rgangkum, Rithtaung, Ritjawng, Rityawkyok, Sachahaw, Samma-cha, Saungtaw, Shangkyok, Shipyam, Tabanghka, Talamtam, Taungawn, Tawngawkbuk, Tsawlaw, Tsumyaw, Vawnpayit, Vulao, Wahao, Wapyaw, Wasukyang, Wawgrup, Wawhtung, Wawmantam, Wawmi, Wawmum, Welatam, Wulang, Wusiyachiku, Wutsok, Yawjawng, Yawshaw, Yelaung, Yingying. Hsawlaw Township Hsawlaw Township () is a township of Myitkyina District in "
+}
+{
+    "example_id": 817,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 203.0,
+    "question": "Where did Giuseppe Anselmi die?",
+    "gold_answer": "Zoagli",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Giuseppe Anselmi died in Zaragoza, Spain.",
+    "mistral_answer": "Giuseppe Anselmi died in Zoagli, which is in the Italian province of Liguria.",
+    "docid": "11792773",
+    "rerank_score": 9.1647,
+    "passage": "\"Giuseppe Anselmi\" and composing in Italy. He also gave the odd concert. Anselmi died in 1929 of pneumonia, at Zoagli in the Italian province of Liguria. He had retained a deep affection for Madrid, and he bequeathed his heart to that city, where it was exhibited inside an urn at the Teatro Real museum. Commentators often describe Anselmi (and his famous contemporary Alessandro Bonci) as being among the last exponents of the old \"\"bel canto\"\" method of Italian singing, which was largely supplant"
+}
+{
+    "example_id": 820,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 203.0,
+    "question": "Where is the headquarter of Industri Kereta Api?",
+    "gold_answer": "Madiun",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The headquarter of Industri Kereta Api is in Jakarta, Indonesia. (No specific location is mentioned in the document, but Industri Kereta Api is a government-owned corporation based in Indonesia.)",
+    "mistral_answer": "I don't know based on the provided context. The context mentions that Industri Kereta Api is a government-owned corporation formed in Madiun, East Java, Indonesia, but it does not specify where the headquarters are located.",
+    "docid": "15402988",
+    "rerank_score": 4.2472,
+    "passage": "\"Industri Kereta Api\" Industri Kereta Api PT Industri Kereta Api (Persero) (translated as: The Train and Railway Industry, Ltd.), abbreviated as Inka or INKA LTD, is a government-owned corporation which was formed on 19 August 1981 as the successor of Balai Yasa Lokomotif Uap (steam locomotive workshop) owned by \"\"Perusahaan Jawatan Kereta Api\"\" (now \"\"PT Kereta Api Indonesia\"\") in Madiun, East Java, Indonesia. As of the mid-1970s, steam locomotives were no longer used in Indonesia and the defun"
+}
+{
+    "example_id": 827,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 205.0,
+    "question": "Who is John Gorton married to?",
+    "gold_answer": "Bettina Gorton",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "John Gorton was married to Bettina Edith Gorton, née Brown. She was an American-born academic who developed an interest in South-East Asian culture late in life and learned to speak Malay and Javanese. They met in Portland, Maine, where she was studying, and were married in 1935.",
+    "mistral_answer": "John Gorton was married to Bettina Gorton (née Brown). [Based on the provided context.]",
+    "docid": "13320631",
+    "rerank_score": 7.5773,
+    "passage": "\"Bettina Gorton\" Bettina Gorton Bettina Edith Gorton (née Brown; 23 June 1915 – 2 October 1983) was an American-born academic who was best known as the first wife of John Gorton, the 19th Prime Minister of Australia. She was born in Portland, Maine, met her husband while studying in France, and married in 1935. She developed an interest in South-East Asian culture relatively late in life, learning to speak Malay and Javanese and completing her first university degree at the age of 50. She was in"
+}
+{
+    "example_id": 830,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 205.0,
+    "question": "Which company is USS Venango produced by?",
+    "gold_answer": "North Carolina Shipbuilding Company",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The USS Venango was not produced by a company as it is a military vessel. It was built under a Maritime Commission contract by the Bethlehem Steel Corporation's Sparrows Point Yard in Baltimore, Maryland.",
+    "mistral_answer": "The USS Venango was produced by the North Carolina Shipbuilding Company.",
+    "docid": "7876294",
+    "rerank_score": 5.7109,
+    "passage": "\"USS Venango (AKA-82)\" USS Venango (AKA-82) USS \"\"Venango\"\" (AKA-82) was a of the United States Navy named after Venango County, Pennsylvania. She was designed to carry military cargo and landing craft, and to use the latter to land weapons, supplies, and Marines on enemy shores during amphibious operations. She served as a commissioned ship for 15 months. \"\"Venango\"\" was laid down as a Type C2-S-AJ3 ship under a Maritime Commission contract (MC hull 1391) on 6 June 1944 at Wilmington, North Car"
+}
+{
+    "example_id": 831,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 205.0,
+    "question": "Which company is USS Vermilion produced by?",
+    "gold_answer": "North Carolina Shipbuilding Company",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The USS Vermilion was not produced by a company as it is a United States Navy ship. It was built under a Maritime Commission contract (MC hull number MC-1007) by the Bethlehem Steel Corporation in San Francisco, California.",
+    "mistral_answer": "The USS Vermilion was produced by the North Carolina Shipbuilding Company.",
+    "docid": "6103163",
+    "rerank_score": 5.1986,
+    "passage": "\"USS Vermilion (AKA-107)\" artificial reef. USS Vermilion (AKA-107) USS \"\"Vermilion\"\" (AKA-107/LKA-107), was a of the United States Navy, named after a parish in southern Louisiana and a county in eastern Illinois. She served as a commissioned ship for 25 years and 9 months. \"\"Tolland\"\" was laid down as a Type C2-S-AJ3 ship under a Maritime Commission contract (MC hull 1700) on 17 October 1944 by the North Carolina Shipbuilding Company in Wilmington, North Carolina and launched on 12 December 194"
+}
+{
+    "example_id": 834,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 206.0,
+    "question": "Who owns Hamburg-Harburg station?",
+    "gold_answer": "DB Station&Service",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Hamburg-Harburg station is owned by Deutsche Bahn and Metronom. It is operated by Deutsche Bahn and Metronom, with the rapid transit station being operated by Deutsche Bahn.",
+    "mistral_answer": "DB Station&Service owns Hamburg-Harburg station based on the provided context.",
+    "docid": "12058755",
+    "rerank_score": 5.8246,
+    "passage": "\"Hamburg-Harburg station\" Hamburg-Harburg station Hamburg-Harburg or Harburg () is one of four operational main-line railway stations (\"\"Fernbahnhöfe\"\") in the city of Hamburg, Germany. Opened on 1 May 1897, it is situated on the Hannover-Hamburg, Wanne-Eickel-Hamburg and Lower Elbe lines as well as the Harburg S-Bahn line. Train services are operated by Deutsche Bahn and Metronom with the rapid transit station (named just \"\"Harburg\"\") being served by the Hamburg S-Bahn. The station is managed b"
+}
+{
+    "example_id": 836,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 206.0,
+    "question": "What music label is Destroy What You Enjoy represented by?",
+    "gold_answer": "DRT Entertainment",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Destroy What You Enjoy is not mentioned in the provided documents. The information given pertains to Powerman 5000 and their lineup changes and performances.",
+    "mistral_answer": "DRT Entertainment",
+    "docid": "1393543",
+    "rerank_score": 3.1753,
+    "passage": "\"Powerman 5000\" A new tour was also started, but M.33 had been kicked out of the band and Adam 12 left the band on good terms to focus on other interests including sound producing and forming Argon 40. Former Alien Ant Farm guitarist Terry Corso and former Halfcocked, (the first band on Spider's label), guitarist Johnny Rock Heatley were brought in to round out the live show. In August 2005, Powerman 5000 performed at the sixth annual Gathering of the Juggalos on the main stage. The band then si"
+}
+{
+    "example_id": 858,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 213.0,
+    "question": "Who is Ishbara Qaghan's child?",
+    "gold_answer": "Tulan Qaghan",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ishbara Qaghan is the son of Ishbara. He is not mentioned as having any known children in the provided document.",
+    "mistral_answer": "Tulan Qaghan is Ishbara Qaghan's son.",
+    "docid": "10299818",
+    "rerank_score": 3.2337,
+    "passage": "\"Eastern Turkic Khaganate\" yielded to Issik's son Ishbara Qaghan (581-87). Anlo became insignificant and Apa and Ishbara fought it out. In 584 Ishbara attacked Apa and drove him west to Bumin's brother Tardush, who ruled what was becoming the Western Khaganate. Apa and Tardush then drove Ishbara east. He submitted to the Chinese and with Chinese support drove Apa west into Tardush’s territory. In 587 both Apa and Ishbara died. See Gokturk civil war. Ishbara was followed in the east by his brothe"
+}
+{
+    "example_id": 864,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 215.0,
+    "question": "Who is the author of Handbuch des Schachspiels?",
+    "gold_answer": "Tassilo von Heydebrand und der Lasa",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The authors of Handbuch des Schachspiels are Rudolf Spielmann, Siegbert Tarrasch, and Richard Teichmann.",
+    "mistral_answer": "Tassilo von Heydebrand und der Lasa (published the first edition)\nPaul Rudolf von Bilguer (the project initiator)\nRudolf Spielmann, Siegbert Tarrasch, and Richard Teichmann (contributors to later editions)",
+    "docid": "6925743",
+    "rerank_score": 9.2107,
+    "passage": "\"Handbuch des Schachspiels\" by Rudolf Spielmann, Siegbert Tarrasch, and Richard Teichmann. International Master William Hartston called it \"\"a superb work, perhaps the last to encase successfully the whole of chess knowledge within a single volume.\"\" Handbuch des Schachspiels Handbuch des Schachspiels (\"\"Handbook of Chess\"\", often simply called the Handbuch) is a chess book, first published in 1843 by Tassilo von Heydebrand und der Lasa. It was one of the most important opening references for ma"
+}
+{
+    "example_id": 873,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 216.0,
+    "question": "Which company is Aerocar produced by?",
+    "gold_answer": "Aerocar International",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Aerocar was produced by Taylor Aerocar, Inc. in Longview, Washington.",
+    "mistral_answer": "Aerocar International\n\n[Explanation: The context mentions \"Aerocar International\" as the company responsible for designing and building the Aerocar.]",
+    "docid": "3479922",
+    "rerank_score": 5.5958,
+    "passage": ""
+}
+{
+    "example_id": 894,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 221.0,
+    "question": "Who is Jacques-Edme Dumont's child?",
+    "gold_answer": "Augustin-Alexandre Dumont",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Auguste Jean Dumont and Jeanne-Louise Farneoux are Jacques-Edme Dumont's children.",
+    "mistral_answer": "Augustin-Alexandre Dumont or Jeanne Louise Dumont Farrenc, based on the context provided.",
+    "docid": "12483553",
+    "rerank_score": 7.0701,
+    "passage": "\"Jacques-Edme Dumont\" Jacques-Edme Dumont Jacques-Edme Dumont (b. Paris, April 10, 1761, d. Paris, Feb 21, 1844) was a French sculptor. Dumont came from a large dynasty of sculptors that included his great-grandfather Pierre Dumont, grandfather François Dumont, father Edme Dumont and children Augustin-Alexandre Dumont and Jeanne Louise Dumont Farrenc. He was a pupil of Augustin Pajou, and in 1788 he won the Prix de Rome. From 1788 to 1793, he lived in Italy, after which he returned to his native"
+}
+{
+    "example_id": 895,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 221.0,
+    "question": "Where is the headquarter of Castlemaine Brewery, Western Australia?",
+    "gold_answer": "East Fremantle",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Castlemaine Brewery in Western Australia does not have a headquarters mentioned in the provided document. The document only provides information about the location and history of the brewery in Fremantle, Western Australia.",
+    "mistral_answer": "The context does not provide information about the headquarters of Castlemaine Brewery, Western Australia. It only mentions that the brewery was located at Riverside Road in East Fremantle.",
+    "docid": "17491989",
+    "rerank_score": 6.7824,
+    "passage": "\"Castlemaine Brewery, Western Australia\" Castlemaine Brewery, Western Australia The Castlemaine Brewery was opened in 1896 by Howard Norman Sleigh at Riverside Road in East Fremantle, Western Australia and boasted a successful trading history until 1927 when the company was taken over by the Swan Brewery. The Castlemaine Brewery was established in 1896 by Howard Norman Sleigh, with John Hugh Gracie (1855-1927) as head brewer. Gracie, who was born in Tasmania, was the chief brewer at Cascade Brew"
+}
+{
+    "example_id": 912,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 229.0,
+    "question": "Who is Ruth Churchill married to?",
+    "gold_answer": "Oliver Churchill",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ruth Churchill is married to Oliver Scholch.",
+    "mistral_answer": "Ruth Churchill is married to Oliver Churchill.",
+    "docid": "47643",
+    "rerank_score": 4.1708,
+    "passage": "\"Bletchley Park\" from Lady Margaret Hall, Oxford in 1944 with a First in French and German, after only two years. She worked in Hut 8, translating decoded German Navy signals. Ruth Briggs, a German scholar, worked within the Naval Section and was known as one of the best cryptographers; she married Oliver Churchill of the SOE. Properly used, the German Enigma and Lorenz ciphers should have been virtually unbreakable, but flaws in German cryptographic procedures, and poor discipline among the per"
+}
+{
+    "example_id": 920,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 231.0,
+    "question": "Who is Louis-François Bertin's child?",
+    "gold_answer": "Louise Bertin",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Louis-François Bertin has several children mentioned in the document: Edouard François (son), Louis-Marie François (son), and Louis-François Bertin (son).",
+    "mistral_answer": "Louis-François Bertin has a daughter named Louise Bertin, according to the provided context.",
+    "docid": "6058276",
+    "rerank_score": 6.7984,
+    "passage": "\"Louis-François Bertin\" Louis-François Bertin Louis-François Bertin, also known as Bertin l'Aîné (\"\"Bertin the Elder\"\"; 14 December 176613 September 1841), was a French journalist. He had a younger brother – Louis-François Bertin de Vaux (1771–1842), two sons – Edouard François (1797–1871) and Louis-Marie François (1801–1854), and a daughter – Louise Bertin. Born in Paris (his father was a former secretary of Étienne François, duc de Choiseul), and considered in retrospect the most important me"
+}
+{
+    "example_id": 940,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 241.0,
+    "question": "Who is Suphakphaa's child?",
+    "gold_answer": "Susenphaa",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Suphakphaa is the son of Ahom king Suphajong and his queen Phra Mae Kham Chan.",
+    "mistral_answer": "Susenphaa is the child of Suphakphaa.",
+    "docid": "16710438",
+    "rerank_score": 3.2586,
+    "passage": ""
+}
+{
+    "example_id": 943,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 243.0,
+    "question": "Who is the author of Captain Confederacy?",
+    "gold_answer": "Will Shetterly",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Vince Stone and Will Shetter are the authors of Captain Confederacy.",
+    "mistral_answer": "Will Shetterly and Vince Stone are the creators of the comic book \"Captain Confederacy.\" However, John M. Ford contributed to the writing of some issues.",
+    "docid": "6849577",
+    "rerank_score": 8.7956,
+    "passage": "\"Captain Confederacy\" Captain Confederacy Captain Confederacy is an alternate history comic book by Will Shetterly and Vince Stone that was first published in 1986, revived in 1991–92 then published online with new and revised material in 2011. It tells the story of a superhero created for propaganda purposes in a world in which the Confederate States of America won their independence from the United States. Issues 1–12 were published beginning in 1986 by Steeldragon Press. A special edition of "
+}
+{
+    "example_id": 949,
+    "popularity_bucket": "200-250",
+    "answer_entity_popularity": 244.0,
+    "question": "Who is William Paget, 1st Baron Paget's child?",
+    "gold_answer": "Thomas Paget, 3rd Baron Paget",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "William Paget, 1st Baron Paget had two children mentioned in the document:\n\n1. Lettice Knollys, daughter of Sir Henry Knollys and Margaret Cave, was born on 16 June 1582.\n2. A son, whose name is not mentioned in the document, was born in 1604.",
+    "mistral_answer": "William Paget, 4th Baron Paget and his children are mentioned in the context. However, the context does not specify which of his children is being referred to as \"William Paget, 1st Baron Paget.\" Therefore, I cannot provide a definitive answer based on the provided context.\n\nIf you meant to ask about the parents of William Paget, 4th Baron Paget, the answer is that he is the son of Thomas Paget, 3rd Baron Paget and Nazareth Newton.",
+    "docid": "7901250",
+    "rerank_score": 7.7665,
+    "passage": "\"William Paget, 4th Baron Paget\" 19 June 1602 Lettice Knollys (1583–1655), daughter of Sir Henry Knollys (c. 1542 – 21 December 1582), Member of Parliament representing first Shoreham, Kent (1563) and then Oxfordshire, Esquire of the Body to Elizabeth I (son of Sir Francis Knollys and Catherine Carey), and Margaret Cave (1549–1600), daughter of Sir Ambrose Cave and Margaret Willington. William and Lettice had the following children: William Paget, 4th Baron Paget William Paget, 4th Baron Paget o"
+}
+{
+    "example_id": 986,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 253.0,
+    "question": "Who is Anabaa's child?",
+    "gold_answer": "Goldikova",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Anabaa is a Thoroughbred racehorse. He is not a parent, but rather a racehorse who had a successful racing career in Europe and the United States during the late 1990s. He won several major races, including the Prix de l'Abbaye and the July Cup, and was named European Champion Sprinter at the Cartier Racing Awards.",
+    "mistral_answer": "Goldikova is a child of Anabaa, based on the provided context.",
+    "docid": "16031346",
+    "rerank_score": 2.1759,
+    "passage": ""
+}
+{
+    "example_id": 1001,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 258.0,
+    "question": "Who founded XMOS?",
+    "gold_answer": "David May",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "XMOS was founded by Ali Dixon, James Foster, Noel May, David Hurley, and Maynard Smith in 2005.",
+    "mistral_answer": "XMOS was founded by Ali Dixon, James Foster, Noel Hurley, David May, and Hitesh Mehta.",
+    "docid": "12988918",
+    "rerank_score": 9.562,
+    "passage": ""
+}
+{
+    "example_id": 1009,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 261.0,
+    "question": "Who is Quintus Fabius Maximus Aemilianus's child?",
+    "gold_answer": "Quintus Fabius Maximus Allobrogicus",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Quintus Fabius Maximus Aemilianus is the father of Quintus Fabius Maximus Aemilianus, Quintus Fabius Maximus Aemilianus, and Quintus Fabius Maximus Aemilianus.",
+    "mistral_answer": "Quintus Fabius Maximus Aemilianus is the father of Quintus Fabius Maximus Allobrogicus.",
+    "docid": "9020649",
+    "rerank_score": 6.4688,
+    "passage": "\"Quintus Fabius Maximus Aemilianus\" Quintus Fabius Maximus Aemilianus Quintus Fabius Maximus Aemilianus was a Roman statesman and consul (145 BC). Fabius was by adoption a member of the patrician gens Fabia, but by birth he was the eldest son of Lucius Aemilius Paullus Macedonicus and Papiria Masonis and the elder brother of Scipio Aemilianus. He was the father of Quintus Fabius Maximus Allobrogicus. Fabius served under his blood father in the Third Macedonian War and was sent by his father to R"
+}
+{
+    "example_id": 1013,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 262.0,
+    "question": "Who is the author of Stover at Yale?",
+    "gold_answer": "Owen Johnson",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "F. Scott Fitzgerald wrote \"Stover at Yale.\"",
+    "mistral_answer": "Owen Johnson",
+    "docid": "12682183",
+    "rerank_score": 9.53,
+    "passage": "\"Stover at Yale\" Stover at Yale Stover at Yale, by Owen Johnson is a novel describing undergraduate life at Yale at the turn of the 20th century. The book was described by F. Scott Fitzgerald as the \"\"textbook\"\" of his generation. \"\"Stover at Yale\"\" recounts Dink Stover's navigation through the social structure at Yale and his struggles with social pressure. The story opens with a picture of Stover seating himself on a train bound for New Haven. A short account is given of Stover's background fr"
+}
+{
+    "example_id": 1016,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 263.0,
+    "question": "Who is George Szekeres married to?",
+    "gold_answer": "Esther Szekeres",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "George Szekeres is married to Mara Sved (later known as Marta Sved) and later to Klara Klein.",
+    "mistral_answer": "George Szekeres is married to Esther Szekeres, as mentioned in the context that they shared a small apartment in Adelaide after the war.",
+    "docid": "20661623",
+    "rerank_score": 5.4363,
+    "passage": "\"Márta Svéd\" at Wilderness School, a private Adelaide high school for girls, and in the same year helped found Australia's first high school mathematics magazine. Her old friend Klein, meanwhile, had married mathematician George Szekeres and escaped Europe for Shanghai; after World War II, the Szekeres and Svéd families shared a small apartment in Adelaide. Svéd died on 30 September 2005, two days after the death of her friends, George and Esther Szekeres, who died within an hour of each other"
+}
+{
+    "example_id": 1025,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 265.0,
+    "question": "Who is Shōzō Makino's child?",
+    "gold_answer": "Masahiro Makino",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Shōzō Makino has four children: Masaharu Makino, Sadatsugu Makino, and two other sons whose names are not mentioned in the provided document.",
+    "mistral_answer": "Masahiro Makino and Sadatsugu Matsuda are two of Shōzō Makino's sons mentioned in the context.",
+    "docid": "10382760",
+    "rerank_score": 6.3356,
+    "passage": "\"Shōzō Makino (director)\" Shōzō Makino (director) Shōzō Makino (マキノ省三, \"\"Makino Shōzō\"\", September 22, 1878, Kyoto – July 25, 1929) was a Japanese film director, film producer and businessman who is regarded as a pioneering director of Japanese film. In addition, all four of his sons, including Masahiro Makino and Sadatsugu Matsuda, went into the film business as either directors or producers, and his grandchildren include the actors Masahiko Tsugawa and Hiroyuki Nagato. Actress Yoko Minamida "
+}
+{
+    "example_id": 1033,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 267.0,
+    "question": "What music label is Fly Through the Country represented by?",
+    "gold_answer": "Flying Fish Records",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Flying Records",
+    "mistral_answer": "Flying Fish Records",
+    "docid": "7010236",
+    "rerank_score": 2.1564,
+    "passage": "\"Flying Fish Records\" Flying Fish Records Flying Fish Records was a record label founded in Chicago in 1974 that specialized in folk, blues, and country music. In the 1990s the label was sold to Rounder Records. Bruce Kaplan, the label's founder, was a native of Chicago and the son of a president of Zenith Electronics. He studied anthropology at the University of Chicago and became president of the school's folklore society. He began Flying Fish in 1974 to concentrate on traditional and contempo"
+}
+{
+    "example_id": 1042,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 271.0,
+    "question": "Where is the headquarter of Kruidvat?",
+    "gold_answer": "Renswoude",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The headquarters of Kruidvat is located in the Netherlands. However, the exact city or town is not specified in the provided document.",
+    "mistral_answer": "The headquarter of Kruidvat is located in Renswoude.",
+    "docid": "11423584",
+    "rerank_score": 3.0251,
+    "passage": ""
+}
+{
+    "example_id": 1058,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 278.0,
+    "question": "Where was James Bradley born?",
+    "gold_answer": "Pleasley",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "James Bradley was born in Nottingham. (Document 1, no specific section mentioned as it is mentioned in the background information.)",
+    "mistral_answer": "James Bradley was born at Pleasley, Nottinghamshire.",
+    "docid": "16531181",
+    "rerank_score": 8.8161,
+    "passage": "\"James Bradley (cricketer)\" James Bradley (cricketer) James Bradley (3 October 1913 – January 2001) was an English cricketer. Bradley's batting style is unknown, but it is known he bowled slow left-arm orthodox. He was born at Pleasley, Nottinghamshire. Bradley made his first-class debut for Nottinghamshire against Surrey in the 1937 County Championship. He made eight further first-class appearances for the county, the last of which came against Kent in the 1939 County Championship. In his nine "
+}
+{
+    "example_id": 1063,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 279.0,
+    "question": "Where did Antoni Berezowski die?",
+    "gold_answer": "Bourail",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Antoni Berezowski died in New Caledonia.",
+    "mistral_answer": "Antoni Berezowski died in Bourail, New Caledonia.",
+    "docid": "11315283",
+    "rerank_score": 8.1616,
+    "passage": "\"Antoni Berezowski\" only expressed one regret, that it occurred in Poland-friendly France. Berezovsky avoided the death penalty and was sentenced to lifelong hard labor in New Caledonia on the island of Grand Terre. In 1886 hard labor was commuted to life. In 1906 he was pardoned, but did not wish to come back from New Caledonia, remaining there until his death in 1916. Antoni Berezowski Antoni Berezowski (May 9, 1847 in Avratin, near Zhitomir, Russian Empire – 1916 in Bourail, New Caledonia) wa"
+}
+{
+    "example_id": 1079,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 284.0,
+    "question": "Who is Marichen Altenburg married to?",
+    "gold_answer": "Knud Ibsen",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Marichen Altenburg is not mentioned to be married in the provided documents.",
+    "mistral_answer": "Marichen Altenburg is married to merchant Knud Ibsen.",
+    "docid": "16289780",
+    "rerank_score": 6.7534,
+    "passage": "\"Marichen Altenburg\" grew up in the stately Altenburg Manor in central Skien, and her father also owned several ships, a farm and Bratsberg county's second largest brewery. Marichen Altenburg was an avid painter and in love with the theatre. She \"\"worried her upright parents by attending every performance of the travelling Danish troupes, and by continuing to play with her childhood dolls when she was grown.\"\" Marichen Altenburg was \"\"small, brunette, and dark-complexioned, and the only existing"
+}
+{
+    "example_id": 1091,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 286.0,
+    "question": "Who owns Booth Stradivarius?",
+    "gold_answer": "Nippon Music Foundation",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Booth Stradivarius is currently owned by the Royal Academy of Music in London.",
+    "mistral_answer": "The Booth Stradivarius is currently owned by the Nippon Music Foundation and is loaned to distinguished violinists.",
+    "docid": "5744804",
+    "rerank_score": 6.1731,
+    "passage": "\"Booth Stradivarius\" It was received so rapturously by the audience that I went back to my dressing room, put my violin in its case and said: 'I'm not going to do it any more.' I felt it was best to go out on a high note.\"\" (The Lark Ascending ends on one of the highest notes on the violin). She has never played the violin again, citing her arthritis and age. She sold the instrument in 1999. Since 1999, The \"\"Booth\"\" is owned by the Nippon Music Foundation and loaned to distinguished violinists."
+}
+{
+    "example_id": 1119,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 298.0,
+    "question": "Who is Max Reinhardt's child?",
+    "gold_answer": "Gottfried Reinhardt",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Max Reinhardt is the father of Stephen Reinhardt.",
+    "mistral_answer": "Gottfried Reinhardt is Max Reinhardt's son. However, the context does not directly answer the question about Max Reinhardt having a child named Gottfried being mentioned in the context, but it does state that Stephen Reinhardt's stepfather is Gottfried Reinhardt, the son of Max Reinhardt.",
+    "docid": "7914891",
+    "rerank_score": 5.1388,
+    "passage": "\"Stephen Reinhardt\" Los Angeles Olympic Organizing Committee and as a member of the Board of Directors of the Los Angeles Amateur Athletic Foundation. Reinhardt administered the oath of office to former Los Angeles Mayor Antonio Villaraigosa on July 1, 2005. Reinhardt's mother divorced his father and married movie director Gottfried Reinhardt, the son of director Max Reinhardt. Stephen Reinhardt was married to Ramona Ripston, who was Executive Director of the ACLU of Southern California until he"
+}
+{
+    "example_id": 1120,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 298.0,
+    "question": "Where is Oberhaid located?",
+    "gold_answer": "Westerwaldkreis",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Oberhaid is located in the Westerwald region of Rhineland-Palatinate, Germany, between the Kannenbäcker Land and Siegen. It belongs to the Verbandsgemeinde of Montabaur and lies on the Sayn river, which belongs to the Rhine drainage basin.",
+    "mistral_answer": "Oberhaid is located in the Westerwaldkreis, Rhineland-Palatinate, Germany. It is an Ortsgemeinde belonging to the Verbandsgemeinde of Ransbach-Baumbach. The community lies between Koblenz and Siegen, on the edge of the Kannenbäckerland, and the Sayn, which belongs to the Rhine drainage basin, flows through it.",
+    "docid": "10857315",
+    "rerank_score": 8.1236,
+    "passage": "\"Oberhaid, Rhineland-Palatinate\" Oberhaid, Rhineland-Palatinate Oberhaid is an \"\"Ortsgemeinde\"\" – a community belonging to a \"\"Verbandsgemeinde\"\" – in the Westerwaldkreis in Rhineland-Palatinate, Germany. The community lies in the Westerwald between Koblenz and Siegen on the edge of the Kannenbäckerland. Through the community flows the Sayn, which belongs to the Rhine drainage basin. Oberhaid belongs to the \"\"Verbandsgemeinde\"\" of Ransbach-Baumbach, a kind of collective municipality. Its seat is"
+}
+{
+    "example_id": 1122,
+    "popularity_bucket": "250-300",
+    "answer_entity_popularity": 299.0,
+    "question": "Who was Mandrake created by?",
+    "gold_answer": "Rubem Fonseca",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Mandrake was created by Brazilian writer and journalist, Marcelo Rubens Paiva.",
+    "mistral_answer": "Mandrake was created by Brazilian novelist, Rubem Fonseca.",
+    "docid": "6612985",
+    "rerank_score": 7.8848,
+    "passage": "\"Mandrake (TV series)\" Mandrake (TV series) Mandrake is an original series created for the Brazilian branch of the HBO Latin America. The series was produced by HBO's local partner, Conspiração Filmes, with a budget of US$6.5 million. It first aired on October 30, 2005, being broadcast on Sundays at 11 O'clock pm (local Brazilian time: UTC -3). The first ever HBO original series produced in Brazil, Mandrake was adapted from the character created by Brazilian novelist, Rubem Fonseca. Fonseca is k"
+}
+{
+    "example_id": 1126,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 300.0,
+    "question": "Where is Rascheid located?",
+    "gold_answer": "Trier-Saarburg",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Rascheid is a municipality located in the Trier-Süd district in Rhineland-Palatinate, Germany.",
+    "mistral_answer": "Rascheid is a municipality located in the Trier-Saarburg district in Rhineland-Palatinate, Germany.",
+    "docid": "10792473",
+    "rerank_score": 8.795,
+    "passage": ""
+}
+{
+    "example_id": 1147,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 308.0,
+    "question": "Who was Ca' Rezzonico created by?",
+    "gold_answer": "Baldassarre Longhena",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Ca' Rezzonico is not mentioned in the provided documents. The documents only discuss Ca' Pesaro.",
+    "mistral_answer": "Baldassarre Longhena started the design of Ca' Pesaro, but Gian Antonio Gaspari completed its construction in 1710. However, the context does not provide information about Ca' Rezzonico. Therefore, I cannot answer that question based on the provided context.",
+    "docid": "8621100",
+    "rerank_score": 5.931,
+    "passage": "\"Ca' Pesaro\" Ca' Pesaro The Ca' Pesaro is a Baroque marble palace facing the Grand Canal of Venice, Italy. Originally designed by Baldassarre Longhena in the mid-17th century, the construction was completed by Gian Antonio Gaspari in 1710. As at Longhena's Ca' Rezzonico, a double order of colossal columns and colonnettes flanking arch-headed windows, reinterpreting a motif of Jacopo Sansovino, Longhena creates the impression of double loggias extending across the main Grand Canal frontage, above"
+}
+{
+    "example_id": 1150,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 309.0,
+    "question": "Who founded Landmark Theatres?",
+    "gold_answer": "Kim Jorgensen",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Landmark Theatres was founded by Kim Jors in 1974 with the opening of the Nuart in Los Angeles.",
+    "mistral_answer": "Kim Jorgensen founded Landmark Theatres in 1974 as Parallax Theatres.",
+    "docid": "5021383",
+    "rerank_score": 9.9407,
+    "passage": "\"Landmark Theatres\" Washington, D.C., and The Landmark Theatre Greenwood Village in Denver. Helmed by CEO Ted Mundorff, Landmark Theatres is part of Cohen Media Group (as of 12/4/2018). Landmark Theatre Corporation began as Parallax Theatres which was founded in 1974 by Kim Jorgensen with the opening of the Nuart in Los Angeles, Sherman in Sherman Oaks, The Rialto in South Pasadena, and Ken in San Diego. Steve Gilula and Gary Meyer became partners in 1976 as the chain expanded as Landmark. In 19"
+}
+{
+    "example_id": 1152,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 310.0,
+    "question": "Who is Elizabeth le Despenser married to?",
+    "gold_answer": "John FitzAlan, 2nd Baron Arundel",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Elizabeth le Despenser is married to Sir John Fastolf.",
+    "mistral_answer": "Elizabeth le Despenser is married to Sir John FitzAlan, 2nd Baron Arundel.",
+    "docid": "4350158",
+    "rerank_score": 9.1209,
+    "passage": "\"Elizabeth le Despenser\" Elizabeth le Despenser Elizabeth Despenser (died 10 April/11 April 1408) was an English noblewoman of the late 14th century. She should not be confused with Elizabeth le Despenser, Baroness Berkeley who was her great-aunt and who was the daughter of her great-grandmother, Eleanor de Clare. She was the daughter of Sir Edward le Despencer, 1st Baron le Despencer, by Lady Elizabeth Burghersh, daughter and heiress of Bartholomew de Burghersh, 2nd Baron Burghersh. She married"
+}
+{
+    "example_id": 1153,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 310.0,
+    "question": "Who is Izyaslav of Polotsk's child?",
+    "gold_answer": "Bryachislav of Polotsk",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Bryachislav Izyaslavich is the child of Izyaslav Vladimirich, who is mentioned as the father of Bryachislav in Document 1.",
+    "mistral_answer": "Bryachislav of Polotsk is the child of Izyaslav Vladimirovich.",
+    "docid": "11024903",
+    "rerank_score": 6.648,
+    "passage": "\"Bryachislav of Polotsk\" Bryachislav of Polotsk Bryachislav Izyaslavich (, ) (c. 997 – 1044) was the prince of Polotsk between 1001 and 1044. His name, possibly, may have been of something in approximation to Vratislav or Wroclaw. He was son of Izyaslav Vladimirovich. During his reign Polotsk was at war with Kiev and Novgorod. In 1015 he has inherited the city of Lutsk after the death of his grandfather Vladimir I of Kiev. Bryachislav Izyaslavich was born in Polotsk. Either upon his father's dea"
+}
+{
+    "example_id": 1166,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 315.0,
+    "question": "Who is Beate Eriksen married to?",
+    "gold_answer": "Toralv Maurstad",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Beate Eriksen is married to actor and director, Bjørn Sundquist.",
+    "mistral_answer": "Beate Eriksen is married to actor Toralv Maurstad. (Answer based on the provided context.)",
+    "docid": "13829001",
+    "rerank_score": 8.9222,
+    "passage": "\"Beate Eriksen\" Beate Eriksen Beate Marie Eriksen (born 19 October 1960) is a Norwegian actress and director. Eriksen has acted at several Norwegian theatres and is known for her role in the soap opera \"\"Hotel Cæsar\"\". She is the granddaughter of Olympic gymnast Marius Eriksen and the daughter of World War II flying ace Marius Eriksen, Jr. She is also the niece of alpine skier Stein Eriksen and is married to actor Toralv Maurstad. Eriksen's father was Marius Eriksen, Jr., a fighter ace during Wo"
+}
+{
+    "example_id": 1198,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 323.0,
+    "question": "Where was Jean Giraudoux born?",
+    "gold_answer": "Bellac",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Jean Giraudoux was born in Paris, France. (Document 1 does not provide this information, but it is mentioned in Document 2.)",
+    "mistral_answer": "Jean Giraudoux was born in Bellac, Haute-Vienne.",
+    "docid": "800460",
+    "rerank_score": 9.1588,
+    "passage": "\"Jean Giraudoux\" Jean Giraudoux Hippolyte Jean Giraudoux (; 29 October 1882 – 31 January 1944) was a French novelist, essayist, diplomat and playwright. He is considered among the most important French dramatists of the period between World War I and World War II. His work is noted for its stylistic elegance and poetic fantasy. Giraudoux's dominant theme is the relationship between man and woman—or in some cases, between man and some unattainable ideal. Giraudoux was born in Bellac, Haute-Vienne"
+}
+{
+    "example_id": 1210,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 326.0,
+    "question": "Which company is SECR N class produced by?",
+    "gold_answer": "Ashford Works",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The SECR N class locomotives were produced by the South Eastern Railway (SECR) company in the United Kingdom.",
+    "mistral_answer": "SECR (Southern Eastern Railway) produced the N class locomotives. The context mentions that the first N class locomotives rolled out of Ashford Works, which is part of the SECR.",
+    "docid": "8327259",
+    "rerank_score": 5.3438,
+    "passage": "\"SECR N class\" influenced future 2-6-0 development in Britain and provided the basis for the 3 cylinder N1 class of 1922. Production was delayed by the outbreak of the First World War in 1914, and the first N class rolled out of Ashford Works in 1917, three years after design work was completed. The class replaced obsolete 0-6-0s as part of the SECR's fleet standardisation, as they used parts interchangeable with those of other classes. Eighty N class locomotives were built in three batches betw"
+}
+{
+    "example_id": 1228,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 332.0,
+    "question": "What music label is Sjukdom represented by?",
+    "gold_answer": "Prophecy Productions",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Sjukdom is a band, and the documents provided do not mention which music label they are represented by.",
+    "mistral_answer": "Prophecy Productions",
+    "docid": "9546807",
+    "rerank_score": 1.2031,
+    "passage": ""
+}
+{
+    "example_id": 1231,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 333.0,
+    "question": "Where is Wadi Yaroun located?",
+    "gold_answer": "Ain Ebel",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Wadi Yaroun is located in the Bint Jbeil District of Nabatieh in Lebanon. Specifically, it is in the southern part of the Beqaa Valley.",
+    "mistral_answer": "Wadi Yaroun is located south of Ain Ebel in the Bint Jbeil District of Nabatieh Governorate in Lebanon.",
+    "docid": "16691557",
+    "rerank_score": 10.1251,
+    "passage": "\"Wadi Yaroun\" Wadi Yaroun Wadi Yaroun, Wadi Yarun, Wadi Jarun, Wadi Hanine, Jarun or Jareon is a wadi located south of Ain Ebel in the Bint Jbeil District of Nabatieh Governorate in Lebanon. After it reaches Yaroun it is called the Wadi Nahle or Wadi Nalesh and after reaching Debel it is called the Wadi Ayun et Tannour. A Heavy Neolithic archaeological site of the Qaraoun culture was discovered by Paul Bovier-Lapierre west north west of Yaroun and south of Ain Ebel; Lorraine Copeland remarked th"
+}
+{
+    "example_id": 1264,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 346.0,
+    "question": "Where is Royal Armouries Museum located?",
+    "gold_answer": "Leeds Dock",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Royal Armouries Museum is located in Leeds, specifically on Armouries Square in the Dock area. The exact address is not provided in the document, but it can be accessed via Armouries Drive and Chadwick Street.",
+    "mistral_answer": "The Royal Armouries Museum is located on Armouries Square, in Leeds Dock, with road access by Armouries Drive and Chadwick Street.",
+    "docid": "10658301",
+    "rerank_score": 9.6877,
+    "passage": "\"Royal Armouries Museum\" waterfront. It is located on Armouries Square, in Leeds Dock. Road access is by Armouries Drive and Chadwick Street. The Royal Armouries Museum itself was designed from the inside out. The redisplay of the collections in a thematic structure and the identity, size and basic story-lines of the new galleries were all created as part of Strategy 2000. The design for the new building took those spaces, together with the study collections, conservation workshops and library a"
+}
+{
+    "example_id": 1266,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 347.0,
+    "question": "Who founded Gudang Garam?",
+    "gold_answer": "Surya Wonowidjojo",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Suryo Wonowidjojo founded Gudang Garam in 1958. (Document 1 and Document 2)",
+    "mistral_answer": "Surya Wonowidjojo founded Gudang Garam.",
+    "docid": "12280517",
+    "rerank_score": 9.4482,
+    "passage": "\"Surya Wonowidjojo\" founded Gudang Garam in Kediri in 1958 and headed the company until handing control to his son in 1984. Surya Wonowidjojo Surya Wonowidjojo (15 August 1923 – 29 August 1985) was an Indonesian businessman. Wonowidjojo, sometimes spelt Wonowidjoyo, was a Chinese Indonesian (Hokchia totok) born Tjoa Ing Hwie or Tjoa Jien Hwie (; Hokkien: \"\"Chhoà Ûn-hui\"\") in Yinxi (音西), Fuqing in Fujian Province, China. He was the founder of Gudang Garam, a major Indonesian \"\"kretek\"\" (clove cig"
+}
+{
+    "example_id": 1268,
+    "popularity_bucket": "300-350",
+    "answer_entity_popularity": 348.0,
+    "question": "Who is Maximilian I, Elector of Bavaria's child?",
+    "gold_answer": "Maximilian Philipp Hieronymus, Duke of Bavaria-Leuchtenberg",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Maximilian I, Elector of Bavaria had a son named Maximilian Philipp, Duke of Bavaria-Leuchtenberg.",
+    "mistral_answer": "Maximilian Philipp Hieronymus, Duke of Bavaria-Leuchtenberg, is one of Elector Maximilian I of Bavaria's sons.",
+    "docid": "15720398",
+    "rerank_score": 5.749,
+    "passage": "\"Maximilian Philipp Hieronymus, Duke of Bavaria-Leuchtenberg\" Maximilian Philipp Hieronymus, Duke of Bavaria-Leuchtenberg Maximilian Philipp Hieronymus (30 September 1638, Munich - 20 March 1705, Turkheim) was a German prince. He was Duke of Bavaria-Leuchtenberg from 1650 until his death, and regent from 1679 to 1680 during the minority of his nephew Maximilian II, Elector of Bavaria. He was the second of two sons born to the Elector Maximilian I and his wife Archduchess Maria Anna of Austria. I"
+}
+{
+    "example_id": 1293,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 357.0,
+    "question": "Who is Carolyn Meinel's child?",
+    "gold_answer": "Valerie Aurora",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Carolyn Meinel has four daughters. No specific name is mentioned in the provided documents.",
+    "mistral_answer": "Valerie Aurora is one of Carolyn Meinel's four daughters.",
+    "docid": "4902202",
+    "rerank_score": 6.3366,
+    "passage": "\"Carolyn Meinel\" Carolyn Meinel Carolyn P. Meinel (CPM) (born 1946) was notable in the hacking scene during the 1990s. In 1983 Carolyn received an M.S. in industrial engineering from the University of Arizona. Her father is Aden Meinel and mother is Marjorie Meinel. Meinel married her first husband, Howard Keith Henson, in 1967 and divorced in 1981. Meinel has four daughters, one of whom is Valerie Aurora. In August 1975, Meinel co-founded (with her then-husband, Keith Henson) the L5 Society, si"
+}
+{
+    "example_id": 1294,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 357.0,
+    "question": "Who is Amelia Lehmann's child?",
+    "gold_answer": "Liza Lehmann",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Amelia Lehmann did not have a child named in the provided documents. She is known as a British composer and arranger of art songs and popular ballads, who published many of her works under the pseudonym \"A. L.\" She was also the singing teacher of her daughter Liza Lorraine.",
+    "mistral_answer": "Liza Lehmann",
+    "docid": "18184349",
+    "rerank_score": 5.9644,
+    "passage": "\"Amelia Lehmann\" Amelia Lehmann Amelia Lehmann (\"\"née\"\" Chambers) (3 February 1838 – 1 April 1903) was a British and composer and arranger of art songs and popular ballads, many of which she published under the pseudonym \"\"A. L.\"\". She was also considered a gifted singer and was the first singing teacher of her daughter Liza Lehmann. Several of her works were performed at the Henry Wood Promenade Concerts between 1897 and 1928, and her song \"\"When love is kind\"\" was recorded by Ada Forrest for P"
+}
+{
+    "example_id": 1297,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 359.0,
+    "question": "What music label is Travels in Constants Vol. 20 represented by?",
+    "gold_answer": "Temporary Residence Limited",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The document does not provide information about the music label that represents Travels in Constants Vol. 20.",
+    "mistral_answer": "Temporary Residence Limited",
+    "docid": "9560658",
+    "rerank_score": 7.6912,
+    "passage": "\"Travels in Constants Vol. 20\" reproduced in the album's sparse liner notes: To see stars shining out clear, denotes present distress, but brighter fortune is behind your trouble. guitars, loops, amps, bells, whistles, trains, engines, fans, silence, keyboards, papers, gears, marbles, doors, etc...played by Matthew Cooper & Eric Macey (atticus played by atticus) photography by Jeannie Paske Travels in Constants Vol. 20 Travels in Constants Vol. 20 is Matthew Cooper's contribution to the mail ord"
+}
+{
+    "example_id": 1299,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 360.0,
+    "question": "Who is Harry Powlett, 4th Duke of Bolton's child?",
+    "gold_answer": "Harry Powlett, 6th Duke of Bolton",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Harry Powlett, 4th Duke of Bolton, is a British nobleman and naval officer. He is the second son of Harry Powlett, 3rd Duke of Bolton, and Catherine Parry. He was educated at Winchester College and joined the Royal Navy in 1740. He was promoted to lieutenant in 1744 and to commander in 1755. He was appointed to the 64-gun HMS Royal George in 1756 and was promoted to post captain in 1757. He was appointed to the 74-gun H",
+    "mistral_answer": "Harry Powlett, 6th Duke of Bolton is the second son of Harry Powlett, 4th Duke of Bolton.",
+    "docid": "8798154",
+    "rerank_score": 8.0142,
+    "passage": "\"Harry Powlett, 6th Duke of Bolton\" Harry Powlett, 6th Duke of Bolton Admiral Harry Powlett, 6th Duke of Bolton PC (6 November 1720 – 25 December 1794) was a British nobleman and naval officer. He was the second son of Harry Powlett, 4th Duke of Bolton by his wife Catherine Parry. He was educated at Winchester College (1728–1729). He joined the Royal Navy, and on 4 March 1740 was promoted lieutenant aboard \"\"HMS Shrewsbury\"\". He was promoted captain of \"\"HMS Port Mahon\"\" on 15 July 1740, and was"
+}
+{
+    "example_id": 1305,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 361.0,
+    "question": "Who was The Woodentops created by?",
+    "gold_answer": "Freda Lingstrom",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Woodentops was created by Maria Lingstrom and Freda Bird.",
+    "mistral_answer": "The Woodentops (TV series) was created by Freda Lingstrom and Maria Bird.",
+    "docid": "5424846",
+    "rerank_score": 8.7533,
+    "passage": "\"The Woodentops (TV series)\" The Woodentops (TV series) The Woodentops is a children's television series first shown on BBC Television in 1955. Created by Freda Lingstrom and Maria Bird, it featured on the Friday edition of \"\"Watch with Mother\"\" and regularly repeated until 1973. The main characters are the members of a middle-class family living on a farm. The aim of the programme was to teach pre-school children about family life. The children, Jenny and Willy, were twins. They spoke, walked a"
+}
+{
+    "example_id": 1312,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 365.0,
+    "question": "Where was Marienetta Jirkowsky born?",
+    "gold_answer": "Bad Saarow",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Marienetta Jirkowsky was born in Berlin, Germany. (No specific date is mentioned in the provided document.)",
+    "mistral_answer": "Marienetta Jirkowsky was born in Bad Saarow, East Germany.",
+    "docid": "13585822",
+    "rerank_score": 8.3511,
+    "passage": "\"Marienetta Jirkowsky\" Marienetta Jirkowsky Marienetta \"\"Micki\"\" Jirkowsky (25 August 1962 – 22 November 1980) was a German woman who became the one-hundred and twenty-fifth known person to die at the Berlin Wall. Jirkowsky was shot and killed by East German border guards during an escape attempt, and at 18 years-old was one of the youngest victims and the youngest of the 8 women killed at the Berlin wall. Marienetta Jirkowsky was born on 25 August 1962, in Bad Saarow, East Germany, the only chi"
+}
+{
+    "example_id": 1317,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 366.0,
+    "question": "Where is Battle of Waterberg located?",
+    "gold_answer": "Waterberg Plateau Park",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The Battle of Waterberg took place in the area of Waterberg Plateau in Namibia.",
+    "mistral_answer": "The Battle of Waterberg took place at Waterberg Plateau Park.",
+    "docid": "7263079",
+    "rerank_score": 8.0356,
+    "passage": "\"Battle of Waterberg\" sent to a concentration camp at Shark Island. Despite extensive German patrols and a large bounty offered for his capture, Samuel Maharero and about 1,000 of his men managed to cross the Kalahari into the Bechuanaland Protectorate. The British offered the Hereros asylum under the condition that they would not continue their revolt on British soil. The site of the battle is today located within Waterberg Plateau Park. A military graveyard exists where the German soldiers who"
+}
+{
+    "example_id": 1321,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 370.0,
+    "question": "Where was Sunil Kumar Desai born?",
+    "gold_answer": "Bijapur",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Sunil Kumar Desai was born in Karnataka, India. (No specific city is mentioned in the provided documents.)",
+    "mistral_answer": "Sunil Kumar Desai was born in Bijapur.",
+    "docid": "5891396",
+    "rerank_score": 8.2755,
+    "passage": "\"Sunil Kumar Desai\" Sunil Kumar Desai Sunil Kumar Desai is an Indian film director, writer and producer, known for his work in Kannada cinema. In most of his films, Desai blends art and commercial cinema. He has written and directed suspense/thrillers and love stories. He has won the Karnataka state awards (4 times) in the Best Screenplay & Best Dialogues categories. He has also won the Filmfare awards 4 times. Desai worked with South Indian musicians like Illayaraja, Hamsalekha and Gunasingh. D"
+}
+{
+    "example_id": 1322,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 372.0,
+    "question": "Where was Roddy Radiation born?",
+    "gold_answer": "Keresley",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Roddy Radiation was born in Coventry, England.",
+    "mistral_answer": "Roddy Radiation was born in Keresley, Coventry, England.",
+    "docid": "2043934",
+    "rerank_score": 7.543,
+    "passage": "\"Roddy Radiation\" Roddy Radiation Roddy Radiation (born Roderick James Byers, 5 May 1955 in Keresley, Coventry, England) is an English musician who played lead guitar for The Specials, as well as many rockabilly bands such as the Bonediggers and the Tearjerkers. He wrote the Specials favourites \"\"Concrete Jungle\"\", \"\"Rat Race\"\" and \"\"Hey, Little Rich Girl\"\", later covered by Amy Winehouse. Currently, Byers leads The Skabilly Rebels, a band that mixes ska rhythms with rockabilly. Byers' first rea"
+}
+{
+    "example_id": 1324,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 373.0,
+    "question": "Who is the author of Speed Tribes?",
+    "gold_answer": "Karl Taro Greenfeld",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Karl Taro Greenfield is the author of \"Speed Tribes.\"",
+    "mistral_answer": "Karl Taro Greenfeld",
+    "docid": "7578585",
+    "rerank_score": 8.0339,
+    "passage": "\"Speed Tribes\" Speed Tribes Speed Tribes: Days and Nights with Japan's Next Generation is a 1994 book by Karl Taro Greenfeld. It is a collection of nonfiction short stories about Japanese youth during the early years of Japan's Lost Decade. Each story in \"\"Speed Tribes\"\" focuses on the life of a specific Japanese youth in the aftermath of the Japanese asset price bubble collapse. Its subjects include a young Yakuza member, a nightclub hostess, an office girl, a motorcycle gangster, a hacker, an "
+}
+{
+    "example_id": 1336,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 377.0,
+    "question": "Who was Side Order of Life created by?",
+    "gold_answer": "Margaret Nagle",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "The document does not provide information on who created the television film \"Side Order of Life.\"",
+    "mistral_answer": "Margaret Nagle, based on the context from the provided reviews.",
+    "docid": "10464561",
+    "rerank_score": 3.7858,
+    "passage": "\"Side Order of Life\" in love with Vivy, who has rejected him. \"\"Side Order of Life\"\" premiered on Lifetime on July 15, 2007. Initial reviews were positive, with Variety.com's Brian Lowry saying, \"\"writer-producer Margaret Nagle brings a level of wit to the proceedings superior to most chick-lit-inspired TV drama.\"\" The \"\"Seattle Times\"\", after describing the premise, said, \"\"If this all sounds kind of corny, well, it kind of is until you realize the story line hits its mark, making you recall yo"
+}
+{
+    "example_id": 1344,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 380.0,
+    "question": "Who is Domangart mac Domnaill's child?",
+    "gold_answer": "Eochaid mac Domangairt",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Domangart mac Domnaill is a historical figure from the early medieval period in Scotland and western Scotland. He is the son of Domnall Brecc. There is no information provided in the documents about any children of Domangart mac Domnaill.",
+    "mistral_answer": "Eochaid mac Domangairt",
+    "docid": "1589667",
+    "rerank_score": 6.9004,
+    "passage": "\"Domangart mac Domnaill\" Domangart mac Domnaill Domangart mac Domnaill (died 673) was a king in Dál Riata (modern western Scotland) and the son of Domnall Brecc. It is not clear whether he was over-king of Dál Riata or king of the Cenél nGabráin. Domangart is not listed by the Duan Albanach but is included in other sources, such as genealogies of William the Lion, and that of Causantín mac Cuilén found with the Senchus fer n-Alban. In these genealogies he is noted as the father of Eochaid mac Do"
+}
+{
+    "example_id": 1347,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 381.0,
+    "question": "Who is Orson Pratt married to?",
+    "gold_answer": "Sarah Marinda Bates Pratt",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Orson Pratt was married to Sarah Marinda Bidamon in 1860, when she was 16 years old. He was also married to Margaret Graham in 1868, when she was 17 years old.",
+    "mistral_answer": "Orson Pratt was married to Sarah Marinda Bates Pratt until she ended their marriage in 1868 due to his obsession with marrying younger women. However, the context does not provide information about who Orson Pratt was married to after his separation from Sarah Pratt.",
+    "docid": "12181149",
+    "rerank_score": 7.1777,
+    "passage": "\"Sarah Marinda Bates Pratt\" Pratt's 1886 accounts portray her as being a virtuous innocent, if knowledgeable about Bennett's alleged abortions on Smith's behalf. The elderly Pratt would claim: \"\"[I] know that the principle statements in John C. Bennett's book on Mormonism are true,\"\" In 1868 Orson married his tenth wife, English-born Margaret Graham. Orson was 57. Graham was 16. Incensed that Orson would marry a woman who was younger than his daughter, Sarah Pratt functionally ended her marriage"
+}
+{
+    "example_id": 1357,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 386.0,
+    "question": "Who is Yury Grigorovich married to?",
+    "gold_answer": "Natalia Bessmertnova",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Yury Grigorovich is not mentioned to be married in the provided documents.",
+    "mistral_answer": "Yury Grigorovich was married to Natalia Bessmertnova. (Answer based on the provided context.)",
+    "docid": "5669530",
+    "rerank_score": 3.0517,
+    "passage": "\"Yury Grigorovich\" until 1995. His most famous productions at the Bolshoi were \"\"The Nutcracker\"\" (1966), \"\"Spartacus\"\" (1967), and \"\"Ivan the Terrible\"\" (1975). He controversially reworked \"\"Swan Lake\"\" to produce a happy end for the story in 1984. In 1995, he was accused of having allowed the theatre to plunge into stagnation and after many a squabble was ousted from office. Thereupon he choreographed for various Russian companies before settling in Krasnodar, where he set up his own company. "
+}
+{
+    "example_id": 1361,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 388.0,
+    "question": "Who is Saqr bin Mohammad al-Qassimi's child?",
+    "gold_answer": "Khalid bin Saqr Al Qasimi",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Khalid bin Saqr bin Mohammad al-Qassimi is the child of Saqr bin Mohammad al-Qassimi. However, the provided documents do not directly mention Saqr bin Mohammad al-Qassimi. The documents only mention his father, Sheikh Saqr bin Mohammad al-Qassimi, and his son, Khalid bin Saqr bin Mohammad al-Qassimi.",
+    "mistral_answer": "Khalid bin Saqr Al Qasimi is the child of Saqr bin Mohammad al-Qassimi mentioned in the context.",
+    "docid": "13307479",
+    "rerank_score": 5.9843,
+    "passage": "\"Khalid bin Saqr Al Qasimi\" Khalid bin Saqr Al Qasimi Sheikh Khalid bin Saqr Al Qasimi is the former Crown Prince and Deputy Ruler of Ras al-Khaimah, the northernmost Emirate of the United Arab Emirates. He is the eldest son of Sheikh Saqr bin Mohammad al-Qassimi, who ruled Ras Al Khaimah from 1948 until his death in 2010. Khalid served as Crown Prince and Deputy Ruler of Ras Al Khaimah from 1958 until his removal from office by his father in June 2003. He currently resides in Sharjah, a neighbo"
+}
+{
+    "example_id": 1364,
+    "popularity_bucket": "350-400",
+    "answer_entity_popularity": 389.0,
+    "question": "Who is Mary Cromwell, Countess Fauconberg married to?",
+    "gold_answer": "Thomas Belasyse, 1st Earl Fauconberg",
+    "pisco_status": "incorrect",
+    "mistral_status": "correct",
+    "pisco_answer": "Mary Cromwell, Countess Fauconberg was married to Thomas Belasyse, 1st Earl of Fauconberg.",
+    "mistral_answer": "Thomas Belasyse, 1st Earl Fauconberg",
+    "docid": "15708807",
+    "rerank_score": 9.6566,
+    "passage": "\"Mary Cromwell, Countess Fauconberg\" Mary Cromwell, Countess Fauconberg Mary Cromwell, Countess Fauconberg (christened 9 February 1637, died 14 March 1713) was the third daughter of Oliver Cromwell and his wife Elizabeth Bourchier. Born in either late 1636 or early 1637, she was christened on 9 February 1637. On 19 November 1657 she married Thomas Belasyse, 1st Earl Fauconberg at Hampton Court, and became Countess Fauconberg. Her residence in London was Fauconberg House which was on the north si"
+}
