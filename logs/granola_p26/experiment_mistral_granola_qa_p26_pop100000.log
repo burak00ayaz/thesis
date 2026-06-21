@@ -1,0 +1,1007 @@
+2026-06-21 16:12:26,669 | INFO | HTTP Request: HEAD https://huggingface.co/datasets/google/granola-entity-questions/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 16:12:26,686 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/datasets/google/granola-entity-questions/695e29a15ec509f9e167a920206dad716af5c98d/README.md "HTTP/1.1 200 OK"
+2026-06-21 16:12:26,812 | INFO | HTTP Request: HEAD https://huggingface.co/datasets/google/granola-entity-questions/resolve/695e29a15ec509f9e167a920206dad716af5c98d/granola-entity-questions.py "HTTP/1.1 404 Not Found"
+2026-06-21 16:12:27,194 | INFO | HTTP Request: HEAD https://s3.amazonaws.com/datasets.huggingface.co/datasets/datasets/google/granola-entity-questions/google/granola-entity-questions.py "HTTP/1.1 404 Not Found"
+2026-06-21 16:12:27,373 | INFO | HTTP Request: GET https://huggingface.co/api/datasets/google/granola-entity-questions/revision/695e29a15ec509f9e167a920206dad716af5c98d "HTTP/1.1 200 OK"
+2026-06-21 16:12:27,507 | INFO | HTTP Request: HEAD https://huggingface.co/datasets/google/granola-entity-questions/resolve/695e29a15ec509f9e167a920206dad716af5c98d/.huggingface.yaml "HTTP/1.1 404 Not Found"
+2026-06-21 16:12:27,749 | INFO | HTTP Request: GET https://datasets-server.huggingface.co/info?dataset=google/granola-entity-questions "HTTP/1.1 200 OK"
+2026-06-21 16:12:27,883 | INFO | HTTP Request: GET https://huggingface.co/api/datasets/google/granola-entity-questions/tree/695e29a15ec509f9e167a920206dad716af5c98d/data?recursive=true&expand=false "HTTP/1.1 404 Not Found"
+2026-06-21 16:12:28,015 | INFO | HTTP Request: GET https://huggingface.co/api/datasets/google/granola-entity-questions/tree/695e29a15ec509f9e167a920206dad716af5c98d?recursive=false&expand=false "HTTP/1.1 200 OK"
+2026-06-21 16:12:28,155 | INFO | HTTP Request: HEAD https://huggingface.co/datasets/google/granola-entity-questions/resolve/695e29a15ec509f9e167a920206dad716af5c98d/dataset_infos.json "HTTP/1.1 404 Not Found"
+2026-06-21 16:12:28,351 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 16:12:28,369 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/config.json "HTTP/1.1 200 OK"
+2026-06-21 16:12:28,502 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 16:12:28,522 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-21 16:12:28,651 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 16:12:28,671 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-21 16:12:28,799 | INFO | HTTP Request: GET https://huggingface.co/api/models/mistralai/Mistral-7B-Instruct-v0.2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-21 16:12:28,924 | INFO | HTTP Request: GET https://huggingface.co/api/models/mistralai/Mistral-7B-Instruct-v0.2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-21 16:12:29,145 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 16:12:29,164 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/config.json "HTTP/1.1 200 OK"
+2026-06-21 16:12:29,294 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 16:12:29,309 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/config.json "HTTP/1.1 200 OK"
+2026-06-21 16:12:37,444 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 16:12:37,462 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/generation_config.json "HTTP/1.1 200 OK"
+2026-06-21 16:12:37,478 | WARNING | Some parameters are on the meta device because they were offloaded to the cpu.
+2026-06-21 16:12:37,483 | INFO | Example 1
+2026-06-21 16:12:37,483 | INFO | Question: Who is Isabella of Portugal married to?
+2026-06-21 16:12:37,483 | INFO | Answer: Charles V
+2026-06-21 16:12:37,483 | INFO | Answer Entity Popularity: 103049.0
+2026-06-21 16:12:37,977 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:37,977 | INFO | Reranked passages for Example 1:
+2026-06-21 16:12:37,977 | INFO | Reranked rank: 1
+2026-06-21 16:12:37,977 | INFO | Original BM25 rank: 3
+2026-06-21 16:12:37,977 | INFO | DocID: 795015
+2026-06-21 16:12:37,977 | INFO | Rerank score: 6.8251
+2026-06-21 16:12:37,978 | INFO | "Charles V, Holy Roman Emperor" with the Spanish nobles expressing their wishes for him to marry his first cousin Isabella of Portugal, the daughter of King Manuel I of Portugal and Charles's aunt Maria of Aragon. The nobles desired for Charles to marry a princess of Spanish blood and a marriage to Isabella would secure an alliance between Spain and Portugal. The 18-year-old King, however, was in no hurry to marry and ignored the nobles' advice. Instead of marrying Isabella, he sent his sister E
+2026-06-21 16:12:37,978 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:43,789 | INFO | Mistral Answer: At the time of the context, Isabella of Portugal is not mentioned as being married. However, her father, King Manuel I of Portugal, is mentioned as being married to Charles V's sister Eleanor.
+2026-06-21 16:12:43,789 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:12:43,789 | INFO | ================================================================================
+2026-06-21 16:12:43,789 | INFO | Example 2
+2026-06-21 16:12:43,789 | INFO | Question: Who is Lady Cynthia Mosley married to?
+2026-06-21 16:12:43,790 | INFO | Answer: Oswald Mosley
+2026-06-21 16:12:43,790 | INFO | Answer Entity Popularity: 104791.0
+2026-06-21 16:12:43,895 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:43,895 | INFO | Reranked passages for Example 2:
+2026-06-21 16:12:43,895 | INFO | Reranked rank: 1
+2026-06-21 16:12:43,895 | INFO | Original BM25 rank: 4
+2026-06-21 16:12:43,895 | INFO | DocID: 8558604
+2026-06-21 16:12:43,895 | INFO | Rerank score: 9.3905
+2026-06-21 16:12:43,895 | INFO | "Lady Cynthia Mosley" On 11 May 1920, Cynthia married the then-Conservative politician, Oswald Mosley. He was her first and only lover. They had three children: After both joined the Labour Party in 1924, she was elected Labour Member of Parliament (MP) for Stoke-on-Trent in 1929, her husband having been elected MP for Smethwick in 1926. Frustrated with the ruling Labour Party's complacent and conservative response to high levels of unemployment, Oswald Mosley formed the New Party on 1 March 193
+2026-06-21 16:12:43,896 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:45,722 | INFO | Mistral Answer: Lady Cynthia Mosley is married to Oswald Mosley.
+2026-06-21 16:12:45,722 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:12:45,722 | INFO | ================================================================================
+2026-06-21 16:12:45,723 | INFO | Example 3
+2026-06-21 16:12:45,723 | INFO | Question: Who is Asif Ali Zardari married to?
+2026-06-21 16:12:45,723 | INFO | Answer: Benazir Bhutto
+2026-06-21 16:12:45,723 | INFO | Answer Entity Popularity: 104988.0
+2026-06-21 16:12:45,796 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:45,797 | INFO | Reranked passages for Example 3:
+2026-06-21 16:12:45,797 | INFO | Reranked rank: 1
+2026-06-21 16:12:45,797 | INFO | Original BM25 rank: 1
+2026-06-21 16:12:45,797 | INFO | DocID: 3768929
+2026-06-21 16:12:45,797 | INFO | Rerank score: 8.2467
+2026-06-21 16:12:45,797 | INFO | "Asif Ali Zardari" Asif Ali Zardari Asif Ali Zardari (; ; born 26 July 1955) is a Pakistani politician and the former co-chairperson of Pakistan People's Party. He served as the 11th President of Pakistan from 2008 to 2013, the first president born after Partition. He is member of National Assembly of Pakistan since August 2018. The son of Hakim Ali Zardari, a landowner from Sindh, Zardari rose to prominence after his marriage to Benazir Bhutto in 1987, becoming the Spouse of the Prime Minister 
+2026-06-21 16:12:45,797 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:48,463 | INFO | Mistral Answer: Asif Ali Zardari is married to Benazir Bhutto. (Answer based on the provided context)
+2026-06-21 16:12:48,463 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:12:48,463 | INFO | ================================================================================
+2026-06-21 16:12:48,463 | INFO | Example 4
+2026-06-21 16:12:48,463 | INFO | Question: Who is Henutmire married to?
+2026-06-21 16:12:48,463 | INFO | Answer: Ramesses II
+2026-06-21 16:12:48,463 | INFO | Answer Entity Popularity: 106063.0
+2026-06-21 16:12:48,538 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:48,539 | INFO | Reranked passages for Example 4:
+2026-06-21 16:12:48,539 | INFO | Reranked rank: 1
+2026-06-21 16:12:48,539 | INFO | Original BM25 rank: 7
+2026-06-21 16:12:48,539 | INFO | DocID: 9714635
+2026-06-21 16:12:48,539 | INFO | Rerank score: 6.4447
+2026-06-21 16:12:48,539 | INFO | Henutmire was a younger sister or a daughter of Ramesses. Her name means ""The lady is like Rê"". She married Ramesses II and became Great Royal Wife; if she was his daughter, she was the fourth to do so, after Bintanath, Meritamen and Nebettawy. She is shown on statues of Ramesses from Abukir and Heliopolis. On a colossus from Hermopolis she is depicted together with Princess-Queen Bintanath. Both have the titles The Hereditary Princess, richly favoured, Mistress of the South and the North, Kin
+2026-06-21 16:12:48,539 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:50,427 | INFO | Mistral Answer: Henutmire is married to Ramesses, based on the provided context.
+2026-06-21 16:12:50,428 | INFO | Mistral answer does NOT contain the correct answer string.
+2026-06-21 16:12:50,428 | INFO | ================================================================================
+2026-06-21 16:12:50,428 | INFO | Example 5
+2026-06-21 16:12:50,428 | INFO | Question: Who is Hank Baskett married to?
+2026-06-21 16:12:50,428 | INFO | Answer: Kendra Wilkinson
+2026-06-21 16:12:50,428 | INFO | Answer Entity Popularity: 106256.0
+2026-06-21 16:12:50,479 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:50,479 | INFO | Reranked passages for Example 5:
+2026-06-21 16:12:50,479 | INFO | Reranked rank: 1
+2026-06-21 16:12:50,479 | INFO | Original BM25 rank: 1
+2026-06-21 16:12:50,479 | INFO | DocID: 7850969
+2026-06-21 16:12:50,479 | INFO | Rerank score: 7.9065
+2026-06-21 16:12:50,479 | INFO | "Hank Baskett" Philadelphia Eagles. Baskett completed his rookie season with the Eagles with 22 receptions for an average of 20.1 yards per catch and two touchdowns. In 2009, Baskett joined the Indianapolis Colts. He returned to the Eagles in 2010, but was released and signed with the Vikings. Baskett married Playboy model Kendra Wilkinson in 2009. Wilkinson and Baskett were co-stars on ""Kendra"", a reality TV series following Wilkinson's life from 2009 to 2011. They have co-starred on another 
+2026-06-21 16:12:50,479 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:51,245 | INFO | Mistral Answer: Kendra Wilkinson
+2026-06-21 16:12:51,245 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:12:51,245 | INFO | ================================================================================
+2026-06-21 16:12:51,245 | INFO | Example 6
+2026-06-21 16:12:51,245 | INFO | Question: Who is Amanda Palmer married to?
+2026-06-21 16:12:51,245 | INFO | Answer: Neil Gaiman
+2026-06-21 16:12:51,245 | INFO | Answer Entity Popularity: 106339.0
+2026-06-21 16:12:51,297 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:51,298 | INFO | Reranked passages for Example 6:
+2026-06-21 16:12:51,298 | INFO | Reranked rank: 1
+2026-06-21 16:12:51,298 | INFO | Original BM25 rank: 15
+2026-06-21 16:12:51,298 | INFO | DocID: 295546
+2026-06-21 16:12:51,298 | INFO | Rerank score: 8.3619
+2026-06-21 16:12:51,298 | INFO | "Neil Gaiman" 1 January 2010. On 16 November 2010, Amanda Palmer hosted a non-legally binding flash mob wedding for Gaiman's birthday in New Orleans. They were legally married on 2 January 2011. The wedding took place in the parlour of writers Ayelet Waldman and Michael Chabon. On marrying Palmer, he took her middle name, MacKinnon, as one of his names. On 18 March 2015, they announced through their Facebook and Twitter accounts that Palmer was pregnant with their first child. Their son Anthony 
+2026-06-21 16:12:51,298 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:52,580 | INFO | Mistral Answer: Amanda Palmer is married to Neil Gaiman.
+2026-06-21 16:12:52,580 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:12:52,580 | INFO | ================================================================================
+2026-06-21 16:12:52,581 | INFO | Example 7
+2026-06-21 16:12:52,581 | INFO | Question: Who is Helen Mar Kimball married to?
+2026-06-21 16:12:52,581 | INFO | Answer: Joseph Smith
+2026-06-21 16:12:52,581 | INFO | Answer Entity Popularity: 106649.0
+2026-06-21 16:12:52,639 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:52,639 | INFO | Reranked passages for Example 7:
+2026-06-21 16:12:52,639 | INFO | Reranked rank: 1
+2026-06-21 16:12:52,639 | INFO | Original BM25 rank: 4
+2026-06-21 16:12:52,639 | INFO | DocID: 8616761
+2026-06-21 16:12:52,639 | INFO | Rerank score: 9.1374
+2026-06-21 16:12:52,639 | INFO | "Helen Mar Kimball" Helen Mar Kimball Helen Mar Kimball (August 22, 1828 – November 13, 1896) was one of at least 27 plural wives of Joseph Smith, founder of the Latter Day Saint movement. She was sealed in marriage to him when she was 14 years old. After his death when she was 16, she married Horace Whitney ""for time,"" brother to another of Smith's wives. She bore eleven children with Whitney, the first three of whom died at or soon after birth. Their son Orson F. Whitney became an apostle in
+2026-06-21 16:12:52,639 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:57,099 | INFO | Mistral Answer: Helen Mar Kimball was first married to Joseph Smith when she was 14 years old. After Smith's death, she married Horace Whitney "for time" when she was 16.
+2026-06-21 16:12:57,099 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:12:57,099 | INFO | ================================================================================
+2026-06-21 16:12:57,099 | INFO | Example 8
+2026-06-21 16:12:57,099 | INFO | Question: Who is Carol McCain married to?
+2026-06-21 16:12:57,099 | INFO | Answer: John McCain
+2026-06-21 16:12:57,099 | INFO | Answer Entity Popularity: 107599.0
+2026-06-21 16:12:57,154 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:57,154 | INFO | Reranked passages for Example 8:
+2026-06-21 16:12:57,154 | INFO | Reranked rank: 1
+2026-06-21 16:12:57,154 | INFO | Original BM25 rank: 11
+2026-06-21 16:12:57,154 | INFO | DocID: 12070956
+2026-06-21 16:12:57,154 | INFO | Rerank score: 7.6631
+2026-06-21 16:12:57,154 | INFO | "Carol McCain" dating. Her future husband frequently took training flights from Florida up to Philadelphia to see her on weekends. On July 3, 1965, Shepp and McCain married in Philadelphia. The ceremony was held at the home of the family that owned the well-known Old Original Bookbinder's seafood restaurant in Philadelphia; one of the Bookbinder family members was a close friend of Shepp from college. Following the wedding, McCain's new husband adopted her two children. Together, they had a daug
+2026-06-21 16:12:57,154 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:58,314 | INFO | Mistral Answer: Carol McCain is married to John Shepp.
+2026-06-21 16:12:58,315 | INFO | Mistral answer does NOT contain the correct answer string.
+2026-06-21 16:12:58,315 | INFO | ================================================================================
+2026-06-21 16:12:58,315 | INFO | Example 9
+2026-06-21 16:12:58,315 | INFO | Question: Who is Yvonne de Gaulle married to?
+2026-06-21 16:12:58,315 | INFO | Answer: Charles de Gaulle
+2026-06-21 16:12:58,315 | INFO | Answer Entity Popularity: 108270.0
+2026-06-21 16:12:58,370 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:12:58,371 | INFO | Reranked passages for Example 9:
+2026-06-21 16:12:58,371 | INFO | Reranked rank: 1
+2026-06-21 16:12:58,371 | INFO | Original BM25 rank: 1
+2026-06-21 16:12:58,371 | INFO | DocID: 6301616
+2026-06-21 16:12:58,371 | INFO | Rerank score: 9.5589
+2026-06-21 16:12:58,371 | INFO | "Yvonne de Gaulle" Yvonne de Gaulle Yvonne de Gaulle (born Yvonne Charlotte Anne Marie Vendroux; 22 May 1900 – 8 November 1979) was the wife of Charles de Gaulle. She was sometimes known as ""Tante Yvonne"" (""Aunt Yvonne""). They were married on April 6, 1921. She is known for the quote, ""The presidency is temporary—but the family is permanent."" She and her husband narrowly escaped an assassination attempt on August 22, 1962, when their Citroën DS was targeted by machine gun fire arranged by 
+2026-06-21 16:12:58,371 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:00,189 | INFO | Mistral Answer: Yvonne de Gaulle is married to Charles de Gaulle.
+2026-06-21 16:13:00,189 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:00,189 | INFO | ================================================================================
+2026-06-21 16:13:00,189 | INFO | Example 10
+2026-06-21 16:13:00,189 | INFO | Question: Who is Paul Bern married to?
+2026-06-21 16:13:00,189 | INFO | Answer: Jean Harlow
+2026-06-21 16:13:00,189 | INFO | Answer Entity Popularity: 109496.0
+2026-06-21 16:13:00,236 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:00,236 | INFO | Reranked passages for Example 10:
+2026-06-21 16:13:00,236 | INFO | Reranked rank: 1
+2026-06-21 16:13:00,236 | INFO | Original BM25 rank: 3
+2026-06-21 16:13:00,236 | INFO | DocID: 6746449
+2026-06-21 16:13:00,236 | INFO | Rerank score: 8.3139
+2026-06-21 16:13:00,236 | INFO | "Paul Bern" he was the only person who took her seriously as an actress. The two struck up a friendship and eventually began dating. They announced their engagement in June 1932 and married on July 2, 1932. Two months after marrying Jean Harlow, on September 5, Bern was found dead from a gunshot wound to the head in their home on Easton Drive in Beverly Hills, California. The coroner ruled his death a suicide. Police discovered a note at the scene that read as follows: ""Dearest Dear, <br>Unfort
+2026-06-21 16:13:00,236 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:01,419 | INFO | Mistral Answer: Paul Bern was married to Jean Harlow.
+2026-06-21 16:13:01,419 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:01,419 | INFO | ================================================================================
+2026-06-21 16:13:01,420 | INFO | Example 11
+2026-06-21 16:13:01,420 | INFO | Question: Who is Brad Paisley married to?
+2026-06-21 16:13:01,420 | INFO | Answer: Kimberly Williams-Paisley
+2026-06-21 16:13:01,420 | INFO | Answer Entity Popularity: 111822.0
+2026-06-21 16:13:01,457 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:01,457 | INFO | Reranked passages for Example 11:
+2026-06-21 16:13:01,457 | INFO | Reranked rank: 1
+2026-06-21 16:13:01,457 | INFO | Original BM25 rank: 37
+2026-06-21 16:13:01,458 | INFO | DocID: 4698766
+2026-06-21 16:13:01,458 | INFO | Rerank score: 6.7975
+2026-06-21 16:13:01,458 | INFO | "Kimberly Williams-Paisley" as Laura Parker in ""Shade"", a short film that she also wrote and directed. Williams is married to country musician Brad Paisley, with whom she has two sons; actress Ashley Williams is her sister. Williams-Paisley was born in Rye, New York, the daughter of Linda Barbara (née Payne), a fund-raiser, and Gurney Williams III, a health and science writer. She has a sister, Ashley, also an actress, and a brother, Jay. Williams has been in show business since the age of 13.
+2026-06-21 16:13:01,458 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:03,976 | INFO | Mistral Answer: Brad Paisley is married to Kimberly Williams-Paisley. (Answer derived from context)
+2026-06-21 16:13:03,976 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:03,976 | INFO | ================================================================================
+2026-06-21 16:13:03,976 | INFO | Example 12
+2026-06-21 16:13:03,976 | INFO | Question: Who is Ye Li married to?
+2026-06-21 16:13:03,977 | INFO | Answer: Yao Ming
+2026-06-21 16:13:03,977 | INFO | Answer Entity Popularity: 113035.0
+2026-06-21 16:13:04,018 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 16:13:04,018 | INFO | ================================================================================
+2026-06-21 16:13:04,019 | INFO | Example 13
+2026-06-21 16:13:04,019 | INFO | Question: Who is Maria Barbara Bach married to?
+2026-06-21 16:13:04,019 | INFO | Answer: Johann Sebastian Bach
+2026-06-21 16:13:04,019 | INFO | Answer Entity Popularity: 113548.0
+2026-06-21 16:13:04,067 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:04,067 | INFO | Reranked passages for Example 13:
+2026-06-21 16:13:04,067 | INFO | Reranked rank: 1
+2026-06-21 16:13:04,067 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:04,067 | INFO | DocID: 5398827
+2026-06-21 16:13:04,067 | INFO | Rerank score: 8.8643
+2026-06-21 16:13:04,067 | INFO | "Maria Barbara Bach" burgomaster in Arnstadt, and Magarethe Wedermann (daughter of the Arnstadt town scribe Johann Wedemann)., with whom she lived after her mother's death in 1704. Maria Barbara was twenty-three years old when she married Johann Sebastian Bach. The extended Bach family was closely knit, and as Maria Barbara was his second cousin, it is fairly safe to assume that they knew each other at least casually from childhood. They became close during Bach's tenure as organist of Mühlhause
+2026-06-21 16:13:04,067 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:05,228 | INFO | Mistral Answer: Maria Barbara Bach is married to Johann Sebastian Bach.
+2026-06-21 16:13:05,228 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:05,228 | INFO | ================================================================================
+2026-06-21 16:13:05,229 | INFO | Example 14
+2026-06-21 16:13:05,229 | INFO | Question: Who is William Asher married to?
+2026-06-21 16:13:05,229 | INFO | Answer: Elizabeth Montgomery
+2026-06-21 16:13:05,229 | INFO | Answer Entity Popularity: 117635.0
+2026-06-21 16:13:05,277 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:05,277 | INFO | Reranked passages for Example 14:
+2026-06-21 16:13:05,277 | INFO | Reranked rank: 1
+2026-06-21 16:13:05,277 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:05,277 | INFO | DocID: 5466947
+2026-06-21 16:13:05,277 | INFO | Rerank score: 7.9305
+2026-06-21 16:13:05,277 | INFO | "William Asher" suggested that the Beach Party films were not only ""visions of paradise"" for the audience, but also for Asher, who used them ""to create a fantasy world to replace his own troubled childhood."" Asher later recalled his directorial years: Asher received a star on the Palm Springs Walk of Stars in November 2003. Asher was first married in 1951 to Danny Sue Nolan, with whom he had two children; the couple divorced in 1961. Asher then married ""Bewitched"" star Elizabeth Montgomery
+2026-06-21 16:13:05,277 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:07,697 | INFO | Mistral Answer: William Asher was married to Elizabeth Montgomery from 1963 to 1973.
+2026-06-21 16:13:07,697 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:07,698 | INFO | ================================================================================
+2026-06-21 16:13:07,698 | INFO | Example 15
+2026-06-21 16:13:07,698 | INFO | Question: Who is Elon Musk married to?
+2026-06-21 16:13:07,698 | INFO | Answer: Talulah Riley
+2026-06-21 16:13:07,698 | INFO | Answer Entity Popularity: 122368.0
+2026-06-21 16:13:07,731 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:07,731 | INFO | Reranked passages for Example 15:
+2026-06-21 16:13:07,731 | INFO | Reranked rank: 1
+2026-06-21 16:13:07,731 | INFO | Original BM25 rank: 15
+2026-06-21 16:13:07,732 | INFO | DocID: 3610070
+2026-06-21 16:13:07,732 | INFO | Rerank score: 8.4379
+2026-06-21 16:13:07,732 | INFO | "Elon Musk" of sudden infant death syndrome (SIDS) at the age of 10 weeks. They later had five sons through in vitro fertilization – twins in 2004, followed by triplets in 2006. They share custody of all five sons. In 2008, Musk began dating English actress Talulah Riley, and in 2010, the couple married. In January 2012, Musk announced that he had ended his four-year relationship with Riley, tweeting to Riley, ""It was an amazing four years. I will love you forever. You will make someone very ha
+2026-06-21 16:13:07,732 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:14,120 | INFO | Mistral Answer: Elon Musk is currently married to Talulah Riley, as of December 2014 according to the context. However, it's important to note that they have previously divorced and remarried in 2010 and then again in 2013.
+2026-06-21 16:13:14,120 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:14,120 | INFO | ================================================================================
+2026-06-21 16:13:14,121 | INFO | Example 16
+2026-06-21 16:13:14,121 | INFO | Question: Who is Aleksandra Sokolovskaya married to?
+2026-06-21 16:13:14,121 | INFO | Answer: Leon Trotsky
+2026-06-21 16:13:14,121 | INFO | Answer Entity Popularity: 123059.0
+2026-06-21 16:13:14,158 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:14,158 | INFO | Reranked passages for Example 16:
+2026-06-21 16:13:14,158 | INFO | Reranked rank: 1
+2026-06-21 16:13:14,158 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:14,158 | INFO | DocID: 6244982
+2026-06-21 16:13:14,159 | INFO | Rerank score: 9.7987
+2026-06-21 16:13:14,159 | INFO | "Aleksandra Sokolovskaya" Aleksandra Sokolovskaya Aleksandra Lvovna Sokolovskaya (; 1872 – c. 1938) was a Russian Marxist revolutionary and Leon Trotsky's first wife. She perished in the Great Purges no earlier than 1938. Sokolovskaya was a Marxist revolutionary in Nikolaev, Ukraine in the 1890s. She was married to Trotsky between 1899 and 1902, including when the two of them were in prison and in Siberian exile together. They had two daughters, Zinaida Volkova (1901-1933) and Nina Nevelson (190
+2026-06-21 16:13:14,159 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:15,980 | INFO | Mistral Answer: Aleksandra Sokolovskaya is married to Leon Trotsky.
+2026-06-21 16:13:15,980 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:15,980 | INFO | ================================================================================
+2026-06-21 16:13:15,981 | INFO | Example 17
+2026-06-21 16:13:15,981 | INFO | Question: Who is Natalia Sedova married to?
+2026-06-21 16:13:15,981 | INFO | Answer: Leon Trotsky
+2026-06-21 16:13:15,981 | INFO | Answer Entity Popularity: 123059.0
+2026-06-21 16:13:16,029 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:16,029 | INFO | Reranked passages for Example 17:
+2026-06-21 16:13:16,029 | INFO | Reranked rank: 1
+2026-06-21 16:13:16,029 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:16,029 | INFO | DocID: 2514748
+2026-06-21 16:13:16,029 | INFO | Rerank score: 9.3405
+2026-06-21 16:13:16,029 | INFO | "Natalia Sedova" Natalia Sedova Natalia Ivanovna Sedova (; April 5, 1882 Romny, Russian Empire– January 23, 1962, Corbeil-Essonnes, Paris, France) is best known as the second wife of Leon Trotsky, the Russian revolutionary. She was also an active revolutionary and wrote on cultural matters pertaining to Marxism. Her father was a wealthy merchant. Natalia met Leon Trotsky in late 1902, after his escape from Siberia. His first wife Aleksandra Sokolovskaya had remained behind, with their two daught
+2026-06-21 16:13:16,029 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:17,439 | INFO | Mistral Answer: Natalia Sedova is married to Leon Trotsky.
+2026-06-21 16:13:17,440 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:17,440 | INFO | ================================================================================
+2026-06-21 16:13:17,440 | INFO | Example 18
+2026-06-21 16:13:17,440 | INFO | Question: Who is Coco Austin married to?
+2026-06-21 16:13:17,440 | INFO | Answer: Ice-T
+2026-06-21 16:13:17,440 | INFO | Answer Entity Popularity: 124644.0
+2026-06-21 16:13:17,479 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:17,480 | INFO | Reranked passages for Example 18:
+2026-06-21 16:13:17,480 | INFO | Reranked rank: 1
+2026-06-21 16:13:17,480 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:17,480 | INFO | DocID: 12039964
+2026-06-21 16:13:17,480 | INFO | Rerank score: 9.7278
+2026-06-21 16:13:17,480 | INFO | "Coco Austin" Coco Austin Nicole Natalie Marrow (née Austin) (born March 17, 1979), commonly known as Coco Austin, Coco, Coco Marie Austin, Coco Marie, Coco-T, is an American actress, dancer, glamour model, and web personality. She has been married to rapper-actor Ice-T (né Tracy Marrow) since January 2002. Austin was born in Tarzana, California, and raised in nearby Palos Verdes. She has Serbian ancestry through maternal grandparents born in Serbia. Austin also has a younger sister Kristy Willi
+2026-06-21 16:13:17,480 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:19,639 | INFO | Mistral Answer: Coco Austin is married to rapper-actor Ice-T (né Tracy Marrow).
+2026-06-21 16:13:19,640 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:19,640 | INFO | ================================================================================
+2026-06-21 16:13:19,642 | INFO | Example 19
+2026-06-21 16:13:19,642 | INFO | Question: Who is Ruqaiya Sultan Begum married to?
+2026-06-21 16:13:19,642 | INFO | Answer: Akbar
+2026-06-21 16:13:19,642 | INFO | Answer Entity Popularity: 129686.0
+2026-06-21 16:13:19,687 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:19,687 | INFO | Reranked passages for Example 19:
+2026-06-21 16:13:19,687 | INFO | Reranked rank: 1
+2026-06-21 16:13:19,687 | INFO | Original BM25 rank: 5
+2026-06-21 16:13:19,687 | INFO | DocID: 17039783
+2026-06-21 16:13:19,687 | INFO | Rerank score: 8.9078
+2026-06-21 16:13:19,688 | INFO | "Ruqaiya Sultan Begum" in Punjab, shortly after Sikandar Shah was defeated and had submitted to the Mughals. She was accompanied by her mother-in-law Hamida Banu Begum, her aunt Gulbadan Begum, and many other female members of the imperial family. Ruqaiya's marriage with Akbar was solemnized near Jalandhar, Punjab, when both of them were 14 years-old. About the same time, her 18-year-old first-cousin Salima Sultan Begum, married Akbar's considerably older regent, Bairam Khan. After resting for s
+2026-06-21 16:13:19,688 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:21,897 | INFO | Mistral Answer: Ruqaiya Sultan Begum was married to Akbar, the Mughal Emperor.
+2026-06-21 16:13:21,897 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:21,897 | INFO | ================================================================================
+2026-06-21 16:13:21,898 | INFO | Example 20
+2026-06-21 16:13:21,898 | INFO | Question: Who is Nina Khrushcheva married to?
+2026-06-21 16:13:21,898 | INFO | Answer: Nikita Khrushchev
+2026-06-21 16:13:21,898 | INFO | Answer Entity Popularity: 133403.0
+2026-06-21 16:13:21,936 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:21,936 | INFO | Reranked passages for Example 20:
+2026-06-21 16:13:21,936 | INFO | Reranked rank: 1
+2026-06-21 16:13:21,936 | INFO | Original BM25 rank: 3
+2026-06-21 16:13:21,937 | INFO | DocID: 18479256
+2026-06-21 16:13:21,937 | INFO | Rerank score: 8.6053
+2026-06-21 16:13:21,937 | INFO | "Nina Petrovna Khrushcheva" Nina Petrovna Khrushcheva Nina Petrovna Khrushcheva (; ; ; ; 14 April 1900 – 13 August 1984) was the third wife of the Soviet leader Nikita Khrushchev. Nina Kukharchuk was born in a Ukrainian family in a village of Wasylów, which was then part of the Russian Empire. Her parents, Pyotr Vasilievich Kukharchuk and Yekaterina Petrovna Bondarchuk, were peasants. After completing three years of primary school in her village, in 1912 she enrolled to a school in Lublin, and t
+2026-06-21 16:13:21,937 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:26,920 | INFO | Mistral Answer: Nina Khrushcheva is married to Nikita Khrushchev. [Note: The context mentions that Nina Petrovna Khrushcheva is the third wife of Nikita Khrushchev.]
+2026-06-21 16:13:26,920 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:26,920 | INFO | ================================================================================
+2026-06-21 16:13:26,921 | INFO | Example 21
+2026-06-21 16:13:26,921 | INFO | Question: Who is Ted Hughes married to?
+2026-06-21 16:13:26,921 | INFO | Answer: Sylvia Plath
+2026-06-21 16:13:26,921 | INFO | Answer Entity Popularity: 142297.0
+2026-06-21 16:13:26,958 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:26,958 | INFO | Reranked passages for Example 21:
+2026-06-21 16:13:26,958 | INFO | Reranked rank: 1
+2026-06-21 16:13:26,958 | INFO | Original BM25 rank: 3
+2026-06-21 16:13:26,958 | INFO | DocID: 419296
+2026-06-21 16:13:26,958 | INFO | Rerank score: 8.1112
+2026-06-21 16:13:26,958 | INFO | "Ted Hughes" Ted Hughes Edward James Hughes (17 August 1930 – 28 October 1998) was an English poet and children's writer. Critics frequently rank him as one of the best poets of his generation, and one of the twentieth century's greatest writers. He served as Poet Laureate from 1984 until his death. In 2008 ""The Times"" ranked Hughes fourth on their list of ""The 50 greatest British writers since 1945"". Hughes was married to American poet Sylvia Plath from 1956 until her suicide in 1963 at the
+2026-06-21 16:13:26,958 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:28,138 | INFO | Mistral Answer: Ted Hughes was married to Sylvia Plath.
+2026-06-21 16:13:28,138 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:28,138 | INFO | ================================================================================
+2026-06-21 16:13:28,139 | INFO | Example 22
+2026-06-21 16:13:28,139 | INFO | Question: Who is Maria Fitzherbert married to?
+2026-06-21 16:13:28,139 | INFO | Answer: George IV of the United Kingdom
+2026-06-21 16:13:28,139 | INFO | Answer Entity Popularity: 144474.0
+2026-06-21 16:13:28,174 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:28,174 | INFO | Reranked passages for Example 22:
+2026-06-21 16:13:28,174 | INFO | Reranked rank: 1
+2026-06-21 16:13:28,174 | INFO | Original BM25 rank: 3
+2026-06-21 16:13:28,174 | INFO | DocID: 1596590
+2026-06-21 16:13:28,174 | INFO | Rerank score: 8.0394
+2026-06-21 16:13:28,174 | INFO | "Maria Fitzherbert" Maria Fitzherbert Maria Anne Fitzherbert (""née"" Smythe, previously Weld; 26 July 1756 – 27 March 1837) was a longtime companion of George IV of the United Kingdom before he became king. In 1785, they secretly contracted a marriage that was invalid under English civil law because his father, King George III, had not consented to it. She was a Roman Catholic and so had the marriage been approved and valid, George would have lost his place in the line of succession since the l
+2026-06-21 16:13:28,174 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:32,344 | INFO | Mistral Answer: Maria Fitzherbert was married to George IV of the United Kingdom, but their marriage was not recognized by English civil law due to her Catholic faith and the lack of consent from King George III.
+2026-06-21 16:13:32,345 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:32,345 | INFO | ================================================================================
+2026-06-21 16:13:32,345 | INFO | Example 23
+2026-06-21 16:13:32,345 | INFO | Question: Who is Shera Danese married to?
+2026-06-21 16:13:32,345 | INFO | Answer: Peter Falk
+2026-06-21 16:13:32,345 | INFO | Answer Entity Popularity: 145936.0
+2026-06-21 16:13:32,373 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:32,373 | INFO | Reranked passages for Example 23:
+2026-06-21 16:13:32,373 | INFO | Reranked rank: 1
+2026-06-21 16:13:32,373 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:32,374 | INFO | DocID: 13800884
+2026-06-21 16:13:32,374 | INFO | Rerank score: 8.7079
+2026-06-21 16:13:32,374 | INFO | "Shera Danese" in more episodes of the series than any other female actor. Danese met Peter Falk on the set of the movie ""Mikey and Nicky"" and became his second wife on December 7, 1977. They were married for 33 years until Falk's death on June 23, 2011 at age 83 from complications of Alzheimer's disease and pneumonia. Shera Danese Shera Danese (born October 9, 1949) is an American actress and the widow of actor Peter Falk. Danese was born in Hartsdale, New York. She was the 1970 Miss Pennsylv
+2026-06-21 16:13:32,374 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:33,742 | INFO | Mistral Answer: Shera Danese was married to actor Peter Falk.
+2026-06-21 16:13:33,742 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:33,742 | INFO | ================================================================================
+2026-06-21 16:13:33,742 | INFO | Example 24
+2026-06-21 16:13:33,742 | INFO | Question: Who is Elizabeth Cromwell married to?
+2026-06-21 16:13:33,743 | INFO | Answer: Oliver Cromwell
+2026-06-21 16:13:33,743 | INFO | Answer Entity Popularity: 146342.0
+2026-06-21 16:13:33,782 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:33,782 | INFO | Reranked passages for Example 24:
+2026-06-21 16:13:33,782 | INFO | Reranked rank: 1
+2026-06-21 16:13:33,782 | INFO | Original BM25 rank: 28
+2026-06-21 16:13:33,782 | INFO | DocID: 12440185
+2026-06-21 16:13:33,783 | INFO | Rerank score: 7.9163
+2026-06-21 16:13:33,783 | INFO | "Elizabeth Cromwell" Elizabeth Cromwell Elizabeth Cromwell (""née"" Bourchier; 1598–1665) was the wife of Oliver Cromwell, Lord Protector of England, Scotland and Ireland. Elizabeth was the daughter of Sir James Bourchier, Knt. of Felsted in Essex, who was a wealthy London leather merchant and his wife Frances Crane, daughter of Thomas Crane of Newton Tony, Wiltshire. She was born on an unknown date in 1598. Elizabeth was the oldest of twelve children. Harris speaks of the Bourchiers as ""an anc
+2026-06-21 16:13:33,783 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:36,087 | INFO | Mistral Answer: Elizabeth Cromwell is married to Oliver Cromwell. (Answer based on the provided context.)
+2026-06-21 16:13:36,087 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:36,087 | INFO | ================================================================================
+2026-06-21 16:13:36,088 | INFO | Example 25
+2026-06-21 16:13:36,088 | INFO | Question: Who is George P. Putnam married to?
+2026-06-21 16:13:36,088 | INFO | Answer: Amelia Earhart
+2026-06-21 16:13:36,088 | INFO | Answer Entity Popularity: 149395.0
+2026-06-21 16:13:36,126 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:36,126 | INFO | Reranked passages for Example 25:
+2026-06-21 16:13:36,126 | INFO | Reranked rank: 1
+2026-06-21 16:13:36,126 | INFO | Original BM25 rank: 2
+2026-06-21 16:13:36,127 | INFO | DocID: 3356058
+2026-06-21 16:13:36,127 | INFO | Rerank score: 8.7121
+2026-06-21 16:13:36,127 | INFO | "George P. Putnam" George P. Putnam George Palmer Putnam (September 7, 1887 – January 4, 1950) was an American publisher, author and explorer. Known for his marriage to (and being the widower of) Amelia Earhart, he had also achieved fame as one of the most successful promoters in the United States during the 1930s. Born in Rye, New York, he was the son of John Bishop Putnam and the grandson of his namesake, George Palmer Putnam, founder of the prominent publishing firm that became G. P. Putnam's
+2026-06-21 16:13:36,127 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:38,761 | INFO | Mistral Answer: George P. Putnam was married to Amelia Earhart. (Answer based on the provided context.)
+2026-06-21 16:13:38,761 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:38,761 | INFO | ================================================================================
+2026-06-21 16:13:38,762 | INFO | Example 26
+2026-06-21 16:13:38,762 | INFO | Question: Who is Elin Nordegren married to?
+2026-06-21 16:13:38,762 | INFO | Answer: Tiger Woods
+2026-06-21 16:13:38,762 | INFO | Answer Entity Popularity: 151847.0
+2026-06-21 16:13:38,801 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:38,801 | INFO | Reranked passages for Example 26:
+2026-06-21 16:13:38,801 | INFO | Reranked rank: 1
+2026-06-21 16:13:38,801 | INFO | Original BM25 rank: 5
+2026-06-21 16:13:38,801 | INFO | DocID: 4343914
+2026-06-21 16:13:38,801 | INFO | Rerank score: 8.3565
+2026-06-21 16:13:38,801 | INFO | "Barbro Holmberg" Axel and twin daughters Elin and Josefin. Elin Nordegren was married to Tiger Woods, an American professional golf player. Holmberg has two grandchildren, Sam and Charlie, both children of her daughter Elin and Woods. Barbro Holmberg Barbro Holmberg (; born April 7, 1952) is a Swedish Social Democratic politician. On October 10, 2003, she was appointed Minister for Migration and Asylum Policy in the Swedish Government. As a consequence of the change of government following the 
+2026-06-21 16:13:38,801 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:39,264 | INFO | Mistral Answer: Tiger Woods
+2026-06-21 16:13:39,264 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:39,264 | INFO | ================================================================================
+2026-06-21 16:13:39,265 | INFO | Example 27
+2026-06-21 16:13:39,265 | INFO | Question: Who is Debra Feuer married to?
+2026-06-21 16:13:39,265 | INFO | Answer: Mickey Rourke
+2026-06-21 16:13:39,265 | INFO | Answer Entity Popularity: 153215.0
+2026-06-21 16:13:39,292 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:39,292 | INFO | Reranked passages for Example 27:
+2026-06-21 16:13:39,292 | INFO | Reranked rank: 1
+2026-06-21 16:13:39,292 | INFO | Original BM25 rank: 2
+2026-06-21 16:13:39,292 | INFO | DocID: 12459397
+2026-06-21 16:13:39,292 | INFO | Rerank score: 6.7118
+2026-06-21 16:13:39,292 | INFO | "Debra Feuer" Debra Feuer Debra Lee Feuer is an American former actress. She starred in the films ""Moment by Moment"", ""The Hollywood Knights"", ""To Live and Die in L.A."", ""MacGruder and Loud"", ""Il burbero"", and ""Homeboy""; the latter in which she starred with her then-husband Mickey Rourke. Feuer also played a minor role as Becky Mae in the TV series ""The Dukes of Hazzard"", in the Season 2, Episode 6, ""The Ghost of General Lee"". She also played Sonny Crockett's love interest in the
+2026-06-21 16:13:39,292 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:41,491 | INFO | Mistral Answer: Debra Feuer was married to Mickey Rourke. (Reference: "Homeboy")
+2026-06-21 16:13:41,491 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:41,491 | INFO | ================================================================================
+2026-06-21 16:13:41,491 | INFO | Example 28
+2026-06-21 16:13:41,492 | INFO | Question: Who is Amphissa married to?
+2026-06-21 16:13:41,492 | INFO | Answer: Apollo
+2026-06-21 16:13:41,492 | INFO | Answer Entity Popularity: 156350.0
+2026-06-21 16:13:41,523 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:41,523 | INFO | Reranked passages for Example 28:
+2026-06-21 16:13:41,523 | INFO | Reranked rank: 1
+2026-06-21 16:13:41,524 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:41,524 | INFO | DocID: 15682428
+2026-06-21 16:13:41,524 | INFO | Rerank score: 3.6329
+2026-06-21 16:13:41,524 | INFO | "Amphissa (mythology)" Amphissa (mythology) In Greek mythology, Amphissa (Ancient Greek: Ἄμφισσα) was a daughter of Macareus, a lover of Apollo and the eponym of the city Amphissa in Ozolian Locris. One may assume that Amphissa was the child conceived in the incestuous relationship between Macareus and his sister Canace, but it appears from Ovid that the child was male, and that it was torn apart by wild beasts upon being exposed by Aeolus. Amphissa is likely the same as ""Isse Macareïs"" (i. e.
+2026-06-21 16:13:41,524 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:46,580 | INFO | Mistral Answer: I don't know based on the provided context. The context mentions that Amphissa is a daughter of Macareus and a lover of Apollo, but it does not mention any marriage or spouse for Amphissa.
+2026-06-21 16:13:46,580 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:46,580 | INFO | ================================================================================
+2026-06-21 16:13:46,581 | INFO | Example 29
+2026-06-21 16:13:46,581 | INFO | Question: Who is Tim McGraw married to?
+2026-06-21 16:13:46,581 | INFO | Answer: Faith Hill
+2026-06-21 16:13:46,581 | INFO | Answer Entity Popularity: 162175.0
+2026-06-21 16:13:46,612 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:46,612 | INFO | Reranked passages for Example 29:
+2026-06-21 16:13:46,612 | INFO | Reranked rank: 1
+2026-06-21 16:13:46,612 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:46,612 | INFO | DocID: 2805417
+2026-06-21 16:13:46,612 | INFO | Rerank score: 9.3675
+2026-06-21 16:13:46,612 | INFO | "Tim McGraw" Barack Obama. McGraw is married to singer Faith Hill. Together, they have three daughters: Gracie Katherine (b. 1997), Maggie Elizabeth (b. 1998), and Audrey Caroline (b. 2001). McGraw holds a private pilot license and owns a single-engine Cirrus SR22. In 2015, Forbes estimated McGraw's annual income at $38 million. Tim McGraw Samuel Timothy McGraw (born May 1, 1967) is an American country singer/songwriter and actor. McGraw has released fifteen studio albums (eleven for Curb Record
+2026-06-21 16:13:46,612 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:47,809 | INFO | Mistral Answer: Tim McGraw is married to singer Faith Hill.
+2026-06-21 16:13:47,809 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:47,809 | INFO | ================================================================================
+2026-06-21 16:13:47,810 | INFO | Example 30
+2026-06-21 16:13:47,810 | INFO | Question: Who is Nancy Benoit married to?
+2026-06-21 16:13:47,810 | INFO | Answer: Chris Benoit
+2026-06-21 16:13:47,810 | INFO | Answer Entity Popularity: 163791.0
+2026-06-21 16:13:47,846 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:47,846 | INFO | Reranked passages for Example 30:
+2026-06-21 16:13:47,846 | INFO | Reranked rank: 1
+2026-06-21 16:13:47,846 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:47,846 | INFO | DocID: 5062509
+2026-06-21 16:13:47,846 | INFO | Rerank score: 9.3452
+2026-06-21 16:13:47,846 | INFO | "Nancy Benoit" no reason was given for Woman's sudden disappearance, and she was never mentioned on WCW programming again. Before her marriage to Kevin Sullivan in 1985, Nancy had previously been married to and divorced from Jim Daus. In early 1997, while Nancy was married to Sullivan, she was having an extramarital affair with Chris Benoit. Nancy and Benoit became engaged later in 1997 after her divorce from Sullivan, although Benoit referred to Nancy as only his fiancée even after they were ma
+2026-06-21 16:13:47,846 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:49,183 | INFO | Mistral Answer: Nancy Benoit is married to Chris Benoit.
+2026-06-21 16:13:49,183 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:49,183 | INFO | ================================================================================
+2026-06-21 16:13:49,183 | INFO | Example 31
+2026-06-21 16:13:49,183 | INFO | Question: Who is Gary Morton married to?
+2026-06-21 16:13:49,183 | INFO | Answer: Lucille Ball
+2026-06-21 16:13:49,184 | INFO | Answer Entity Popularity: 166845.0
+2026-06-21 16:13:49,220 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:49,220 | INFO | Reranked passages for Example 31:
+2026-06-21 16:13:49,221 | INFO | Reranked rank: 1
+2026-06-21 16:13:49,221 | INFO | Original BM25 rank: 2
+2026-06-21 16:13:49,221 | INFO | DocID: 3161578
+2026-06-21 16:13:49,221 | INFO | Rerank score: 9.2667
+2026-06-21 16:13:49,221 | INFO | "Gary Morton" Gary Morton Gary Morton (born Morton Goldaper; December 19, 1924 – March 30, 1999) was a Jewish American stand-up comedian, whose primary venues were hotels and resorts of the Borscht Belt in upstate New York. He was born in New York City. Morton married actress Susan Morrow on December 17, 1953. In August 1954 they separated and finally on July 11, 1957, his marriage to Morrow was annulled in Los Angeles. In 1960, Morton met Lucille Ball in New York City a few months before she op
+2026-06-21 16:13:49,221 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:51,654 | INFO | Mistral Answer: Gary Morton was married to Susan Morrow from 1953 to 1957.
+2026-06-21 16:13:51,654 | INFO | Mistral answer does NOT contain the correct answer string.
+2026-06-21 16:13:51,654 | INFO | ================================================================================
+2026-06-21 16:13:51,655 | INFO | Example 32
+2026-06-21 16:13:51,655 | INFO | Question: Who is Francine Racette married to?
+2026-06-21 16:13:51,655 | INFO | Answer: Donald Sutherland
+2026-06-21 16:13:51,655 | INFO | Answer Entity Popularity: 174749.0
+2026-06-21 16:13:51,687 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:51,687 | INFO | Reranked passages for Example 32:
+2026-06-21 16:13:51,687 | INFO | Reranked rank: 1
+2026-06-21 16:13:51,687 | INFO | Original BM25 rank: 2
+2026-06-21 16:13:51,687 | INFO | DocID: 1181921
+2026-06-21 16:13:51,687 | INFO | Rerank score: 5.2663
+2026-06-21 16:13:51,687 | INFO | "Donald Sutherland" to Shirley Douglas, daughter of Canadian social democratic politician and the ""father"" of Canada's universal healthcare system, Tommy Douglas. Sutherland and Douglas have two children, twins Kiefer, an actor known for his role as Jack Bauer on the TV action/thriller series ""24"" and currently starring in the ABC political drama ""Designated Survivor"", and Rachel. Donald Sutherland met his current wife, French Canadian actress Francine Racette, on the set of the Canadian p
+2026-06-21 16:13:51,687 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:53,189 | INFO | Mistral Answer: Francine Racette is married to Donald Sutherland.
+2026-06-21 16:13:53,189 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:53,189 | INFO | ================================================================================
+2026-06-21 16:13:53,189 | INFO | Example 33
+2026-06-21 16:13:53,189 | INFO | Question: Who is Myrto married to?
+2026-06-21 16:13:53,189 | INFO | Answer: Socrates
+2026-06-21 16:13:53,189 | INFO | Answer Entity Popularity: 177075.0
+2026-06-21 16:13:53,213 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:53,213 | INFO | Reranked passages for Example 33:
+2026-06-21 16:13:53,213 | INFO | Reranked rank: 1
+2026-06-21 16:13:53,213 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:53,213 | INFO | DocID: 14780229
+2026-06-21 16:13:53,213 | INFO | Rerank score: 7.3724
+2026-06-21 16:13:53,213 | INFO | Myrto Myrto Myrto (; ; fl. 5th century BC) was, according to some accounts, a wife of Socrates. The original source for the claim that she was Socrates' wife appears to have been a work by Aristotle called ""On Being Well-Born"", although Plutarch expresses doubt that the work is genuine. She was apparently the daughter, or, more probably, the granddaughter of Aristides. Although Diogenes Laërtius describes Myrto as Socrates' second wife living alongside Xanthippe, Myrto was presumably a common-
+2026-06-21 16:13:53,213 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:56,244 | INFO | Mistral Answer: Myrto is married to Socrates based on some ancient accounts, but the authenticity of the sources claiming this is in question.
+2026-06-21 16:13:56,244 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:56,244 | INFO | ================================================================================
+2026-06-21 16:13:56,244 | INFO | Example 34
+2026-06-21 16:13:56,244 | INFO | Question: Who is Bart Freundlich married to?
+2026-06-21 16:13:56,244 | INFO | Answer: Julianne Moore
+2026-06-21 16:13:56,244 | INFO | Answer Entity Popularity: 177100.0
+2026-06-21 16:13:56,278 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:56,278 | INFO | Reranked passages for Example 34:
+2026-06-21 16:13:56,278 | INFO | Reranked rank: 1
+2026-06-21 16:13:56,278 | INFO | Original BM25 rank: 8
+2026-06-21 16:13:56,278 | INFO | DocID: 1825037
+2026-06-21 16:13:56,278 | INFO | Rerank score: 6.2541
+2026-06-21 16:13:56,278 | INFO | "Julianne Moore" to the Stars"" (both 2014). She also appeared in the final two films of the ""Hunger Games"" series and starred in the spy film """" (2017). In addition to acting, Moore has written a series of children's books about a character named ""Freckleface Strawberry"". She is married to director Bart Freundlich, with whom she has two children. Moore was born Julie Anne Smith on December 3, 1960, at the Fort Bragg army installation in North Carolina, the oldest of 3 siblings. Her father
+2026-06-21 16:13:56,278 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:58,454 | INFO | Mistral Answer: Bart Freundlich is married to Julianne Moore. (Answer derived directly from the context.)
+2026-06-21 16:13:58,454 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:13:58,454 | INFO | ================================================================================
+2026-06-21 16:13:58,455 | INFO | Example 35
+2026-06-21 16:13:58,455 | INFO | Question: Who is Ethel Skakel Kennedy married to?
+2026-06-21 16:13:58,455 | INFO | Answer: Robert F. Kennedy
+2026-06-21 16:13:58,455 | INFO | Answer Entity Popularity: 179751.0
+2026-06-21 16:13:58,495 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:13:58,495 | INFO | Reranked passages for Example 35:
+2026-06-21 16:13:58,495 | INFO | Reranked rank: 1
+2026-06-21 16:13:58,495 | INFO | Original BM25 rank: 1
+2026-06-21 16:13:58,495 | INFO | DocID: 2631540
+2026-06-21 16:13:58,495 | INFO | Rerank score: 8.7579
+2026-06-21 16:13:58,495 | INFO | "Ethel Kennedy" Ethel Kennedy Ethel Skakel Kennedy (born April 11, 1928) is an American human-rights campaigner and widow of Senator Robert F. Kennedy. Kennedy is the third of four daughters and sixth child of George and Ann Brannack Skakel, and was a classmate of her future sister-in-law Jean Kennedy Smith at Manhattanville College of the Sacred Heart. Kennedy is one of two surviving Skakel siblings and the longest lived. She and her husband married in 1950 and had eleven children. Their house,
+2026-06-21 16:13:58,495 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:00,300 | INFO | Mistral Answer: Ethel Skakel Kennedy is married to Senator Robert F. Kennedy.
+2026-06-21 16:14:00,300 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:00,300 | INFO | ================================================================================
+2026-06-21 16:14:00,301 | INFO | Example 36
+2026-06-21 16:14:00,301 | INFO | Question: Who is Michael Williams married to?
+2026-06-21 16:14:00,301 | INFO | Answer: Judi Dench
+2026-06-21 16:14:00,301 | INFO | Answer Entity Popularity: 186631.0
+2026-06-21 16:14:00,337 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 16:14:00,338 | INFO | ================================================================================
+2026-06-21 16:14:00,338 | INFO | Example 37
+2026-06-21 16:14:00,338 | INFO | Question: Who is Betsy Drake married to?
+2026-06-21 16:14:00,338 | INFO | Answer: Cary Grant
+2026-06-21 16:14:00,338 | INFO | Answer Entity Popularity: 187051.0
+2026-06-21 16:14:00,371 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:00,371 | INFO | Reranked passages for Example 37:
+2026-06-21 16:14:00,371 | INFO | Reranked rank: 1
+2026-06-21 16:14:00,371 | INFO | Original BM25 rank: 3
+2026-06-21 16:14:00,371 | INFO | DocID: 5947396
+2026-06-21 16:14:00,371 | INFO | Rerank score: 8.7783
+2026-06-21 16:14:00,372 | INFO | "Betsy Drake" Betsy Drake Betsy Drake (September 11, 1923 – October 27, 2015) was a French-born American actress and writer. She was the third wife of actor Cary Grant. Drake, the eldest child of two American expatriates, was born in Paris, France. Her grandfather, Tracy Drake, and his brother had opened the Drake Hotel in Chicago on New Year's Eve in 1920. The Drakes lost their money in the 1929 stock-market crash. As a result, she returned to the U.S. on the with her parents, brothers, and a n
+2026-06-21 16:14:00,372 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:02,252 | INFO | Mistral Answer: Betsy Drake was married to Cary Grant. (From the context)
+2026-06-21 16:14:02,252 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:02,252 | INFO | ================================================================================
+2026-06-21 16:14:02,252 | INFO | Example 38
+2026-06-21 16:14:02,252 | INFO | Question: Who is Nancy Morgan married to?
+2026-06-21 16:14:02,252 | INFO | Answer: John Ritter
+2026-06-21 16:14:02,252 | INFO | Answer Entity Popularity: 190405.0
+2026-06-21 16:14:02,285 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:02,285 | INFO | Reranked passages for Example 38:
+2026-06-21 16:14:02,285 | INFO | Reranked rank: 1
+2026-06-21 16:14:02,285 | INFO | Original BM25 rank: 2
+2026-06-21 16:14:02,285 | INFO | DocID: 8667541
+2026-06-21 16:14:02,285 | INFO | Rerank score: 8.3253
+2026-06-21 16:14:02,285 | INFO | "Nancy Morgan" her husband John Ritter co-hosted the national United Cerebral Palsy Telethon together. They also co-starred in television movies """" and ""Heartbeat"", and in the feature film ""Americathon."" Morgan also made a guest appearance in Ritter's television series ""Hooperman."" Morgan married actor John Ritter in 1977, and they had three children: Jason (b. 1980), Carly (b. 1982), and Tyler, (b. 1985). Ritter and Morgan divorced in 1996 after 19 years of marriage. Nancy Morgan Nancy 
+2026-06-21 16:14:02,285 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:03,355 | INFO | Mistral Answer: Nancy Morgan is married to John Ritter.
+2026-06-21 16:14:03,355 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:03,355 | INFO | ================================================================================
+2026-06-21 16:14:03,355 | INFO | Example 39
+2026-06-21 16:14:03,355 | INFO | Question: Who is Rukmini married to?
+2026-06-21 16:14:03,355 | INFO | Answer: Krishna
+2026-06-21 16:14:03,355 | INFO | Answer Entity Popularity: 190579.0
+2026-06-21 16:14:03,396 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:03,396 | INFO | Reranked passages for Example 39:
+2026-06-21 16:14:03,396 | INFO | Reranked rank: 1
+2026-06-21 16:14:03,396 | INFO | Original BM25 rank: 3
+2026-06-21 16:14:03,396 | INFO | DocID: 1492023
+2026-06-21 16:14:03,396 | INFO | Rerank score: 8.2237
+2026-06-21 16:14:03,396 | INFO | Rukmini Rukmini in her past her last life was married to Jambavati who was a male. The first son of Queen Rukmini was Pradyumna, and also born of her were Charudeshna, Sudesna and the powerful Charudeha, along with Sucharu, Charugupta, Bhadracharu, Charuchandra, Vicharu and Charu, the tenth(SB 10.61.8–9). Of them, Pradyumna was the crown prince of Dwaraka. After the passing of Krishna, after the Yadu massacre, Rukmini along with Jambavati and few other ladies ascends herself on Krishna's pyre. <
+2026-06-21 16:14:03,396 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:07,163 | INFO | Mistral Answer: Rukmini is married to Krishna in her present life, as per the context. However, in her past life, she was married to Jambavati.
+2026-06-21 16:14:07,163 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:07,163 | INFO | ================================================================================
+2026-06-21 16:14:07,164 | INFO | Example 40
+2026-06-21 16:14:07,164 | INFO | Question: Who is Ernest Aldrich Simpson married to?
+2026-06-21 16:14:07,164 | INFO | Answer: Wallis Simpson
+2026-06-21 16:14:07,164 | INFO | Answer Entity Popularity: 191803.0
+2026-06-21 16:14:07,195 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:07,195 | INFO | Reranked passages for Example 40:
+2026-06-21 16:14:07,196 | INFO | Reranked rank: 1
+2026-06-21 16:14:07,196 | INFO | Original BM25 rank: 4
+2026-06-21 16:14:07,196 | INFO | DocID: 2016923
+2026-06-21 16:14:07,196 | INFO | Rerank score: 8.4202
+2026-06-21 16:14:07,196 | INFO | "Ernest Simpson" Ernest Simpson Ernest Aldrich Simpson (6 May 1897 – 30 November 1958) was an American-born British soldier and shipbroker, best known as the second husband of Wallis Simpson, later wife of the former King Edward VIII. Simpson served as an officer in the Coldstream Guards before becoming a shipbroker in the family firm of SSY. Born in New York City, Simpson was educated at The Hill School before attending Harvard University. Simpson was commissioned in the British Army serving as
+2026-06-21 16:14:07,196 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:10,630 | INFO | Mistral Answer: Ernest Aldrich Simpson is married to Wallis Simpson. (This information is stated in the context, but it's worth repeating for clarity.)
+2026-06-21 16:14:10,631 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:10,631 | INFO | ================================================================================
+2026-06-21 16:14:10,631 | INFO | Example 41
+2026-06-21 16:14:10,631 | INFO | Question: Who is Amy Poehler married to?
+2026-06-21 16:14:10,631 | INFO | Answer: Will Arnett
+2026-06-21 16:14:10,631 | INFO | Answer Entity Popularity: 191825.0
+2026-06-21 16:14:10,654 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:10,654 | INFO | Reranked passages for Example 41:
+2026-06-21 16:14:10,654 | INFO | Reranked rank: 1
+2026-06-21 16:14:10,654 | INFO | Original BM25 rank: 9
+2026-06-21 16:14:10,654 | INFO | DocID: 3634261
+2026-06-21 16:14:10,654 | INFO | Rerank score: 8.0179
+2026-06-21 16:14:10,654 | INFO | "Amy Poehler" my life rather than my own current events."" Topics covered in the book include body image, parenthood, and learning about the limitations of physical appearance. , Poehler is a member of the Academy of Motion Picture Arts and Sciences. In 2018, she attended the 75th Golden Globe Awards with activist Saru Jayaraman as a guest. Poehler married actor Will Arnett on August 29, 2003, and had a recurring role on the series ""Arrested Development"" as the wife of Arnett's character Gob B
+2026-06-21 16:14:10,654 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:12,163 | INFO | Mistral Answer: Amy Poehler is married to actor Will Arnett.
+2026-06-21 16:14:12,163 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:12,163 | INFO | ================================================================================
+2026-06-21 16:14:12,163 | INFO | Example 42
+2026-06-21 16:14:12,164 | INFO | Question: Who is Peter III of Russia married to?
+2026-06-21 16:14:12,164 | INFO | Answer: Catherine II of Russia
+2026-06-21 16:14:12,164 | INFO | Answer Entity Popularity: 199158.0
+2026-06-21 16:14:12,195 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 16:14:12,195 | INFO | ================================================================================
+2026-06-21 16:14:12,195 | INFO | Example 43
+2026-06-21 16:14:12,196 | INFO | Question: Who is Ali MacGraw married to?
+2026-06-21 16:14:12,196 | INFO | Answer: Steve McQueen
+2026-06-21 16:14:12,196 | INFO | Answer Entity Popularity: 201273.0
+2026-06-21 16:14:12,224 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:12,224 | INFO | Reranked passages for Example 43:
+2026-06-21 16:14:12,224 | INFO | Reranked rank: 1
+2026-06-21 16:14:12,224 | INFO | Original BM25 rank: 8
+2026-06-21 16:14:12,224 | INFO | DocID: 1711992
+2026-06-21 16:14:12,225 | INFO | Rerank score: 8.5124
+2026-06-21 16:14:12,225 | INFO | "Ali MacGraw" Evans; their son, Josh Evans, is an actor, director, producer and screenwriter. They divorced in 1972 after she became involved with Steve McQueen on the set of ""The Getaway"". She married McQueen on August 31, 1973, in Cheyenne, Wyoming, and divorced him in 1978. MacGraw's autobiography, ""Moving Pictures,"" revealed her struggles with alcohol and sex addiction. She was treated for the former at the Betty Ford Center. When former husband Evans received his star on the Hollywood W
+2026-06-21 16:14:12,225 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:14,776 | INFO | Mistral Answer: Ali MacGraw was married to Steve McQueen from 1973 to 1978.
+2026-06-21 16:14:14,776 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:14,776 | INFO | ================================================================================
+2026-06-21 16:14:14,776 | INFO | Example 44
+2026-06-21 16:14:14,776 | INFO | Question: Who is Jenny Lumet married to?
+2026-06-21 16:14:14,776 | INFO | Answer: Bobby Cannavale
+2026-06-21 16:14:14,776 | INFO | Answer Entity Popularity: 204917.0
+2026-06-21 16:14:14,800 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:14,800 | INFO | Reranked passages for Example 44:
+2026-06-21 16:14:14,800 | INFO | Reranked rank: 1
+2026-06-21 16:14:14,801 | INFO | Original BM25 rank: 2
+2026-06-21 16:14:14,801 | INFO | DocID: 12876755
+2026-06-21 16:14:14,801 | INFO | Rerank score: 10.0665
+2026-06-21 16:14:14,801 | INFO | "Jenny Lumet" of """" as a consulting producer, and was subsequently promoted to co-executive producer. She co-wrote ""Runaway"", the first of the """" mini-episodes. Lumet was married to actor Bobby Cannavale from 1994 until their divorce in 2004. Their son is the actor Jake Cannavale. Lumet has a daughter with second husband Alexander Weinstein, whom she married in 2008. On November 30, 2017, Lumet alleged she had been sexually assaulted by Russell Simmons in 1991. In response, he said he was 
+2026-06-21 16:14:14,801 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:18,764 | INFO | Mistral Answer: Jenny Lumet is currently married to Alexander Weinstein. However, she was previously married to Bobby Cannavale from 1994 to 2004.
+2026-06-21 16:14:18,764 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:18,764 | INFO | ================================================================================
+2026-06-21 16:14:18,765 | INFO | Example 45
+2026-06-21 16:14:18,765 | INFO | Question: Who is Betty Ford married to?
+2026-06-21 16:14:18,765 | INFO | Answer: Gerald Ford
+2026-06-21 16:14:18,765 | INFO | Answer Entity Popularity: 216395.0
+2026-06-21 16:14:18,795 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:18,795 | INFO | Reranked passages for Example 45:
+2026-06-21 16:14:18,795 | INFO | Reranked rank: 1
+2026-06-21 16:14:18,795 | INFO | Original BM25 rank: 18
+2026-06-21 16:14:18,795 | INFO | DocID: 1994693
+2026-06-21 16:14:18,796 | INFO | Rerank score: 8.1339
+2026-06-21 16:14:18,796 | INFO | "Betty Ford" Betty Ford Elizabeth Anne Ford (; April 8, 1918 – July 8, 2011) was the First Lady of the United States from 1974 to 1977, as the wife of the 38th President of the United States, Gerald Ford. As First Lady, she was active in social policy and created precedents as a politically active presidential wife. Ford also served as the Second Lady of the United States from 1973 to 1974. Throughout her husband's term in office, she maintained high approval ratings despite opposition from some
+2026-06-21 16:14:18,796 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:21,280 | INFO | Mistral Answer: Betty Ford is married to Gerald Ford, who was the 38th President of the United States.
+2026-06-21 16:14:21,281 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:21,281 | INFO | ================================================================================
+2026-06-21 16:14:21,281 | INFO | Example 46
+2026-06-21 16:14:21,281 | INFO | Question: Who is Christie Brinkley married to?
+2026-06-21 16:14:21,281 | INFO | Answer: Billy Joel
+2026-06-21 16:14:21,281 | INFO | Answer Entity Popularity: 219020.0
+2026-06-21 16:14:21,305 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:21,305 | INFO | Reranked passages for Example 46:
+2026-06-21 16:14:21,305 | INFO | Reranked rank: 1
+2026-06-21 16:14:21,305 | INFO | Original BM25 rank: 13
+2026-06-21 16:14:21,305 | INFO | DocID: 1920613
+2026-06-21 16:14:21,305 | INFO | Rerank score: 7.8884
+2026-06-21 16:14:21,305 | INFO | "Christie Brinkley" most notably between 1985–1994 to musician Billy Joel, several of whose music videos she appeared in. Her fourth marriage, to architect Peter Cook, ended in a much-publicized 2008 divorce. With a career spanning more than three decades, magazines such as ""Allure"" and ""Men's Health"" have named Brinkley one of the most attractive women of all time. Her financial holdings in 2018 were worth an estimated US$250 million, primarily as the owner of several companies and real est
+2026-06-21 16:14:21,305 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:27,008 | INFO | Mistral Answer: Christie Brinkley has been married to several people as per the context. She was married to musician Billy Joel from 1985 to 1994, and to architect Peter Cook from 1996 to 2008.
+2026-06-21 16:14:27,008 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:27,008 | INFO | ================================================================================
+2026-06-21 16:14:27,008 | INFO | Example 47
+2026-06-21 16:14:27,008 | INFO | Question: Who is Filipa Moniz Perestrelo married to?
+2026-06-21 16:14:27,009 | INFO | Answer: Christopher Columbus
+2026-06-21 16:14:27,009 | INFO | Answer Entity Popularity: 229322.0
+2026-06-21 16:14:27,039 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:27,039 | INFO | Reranked passages for Example 47:
+2026-06-21 16:14:27,039 | INFO | Reranked rank: 1
+2026-06-21 16:14:27,039 | INFO | Original BM25 rank: 2
+2026-06-21 16:14:27,039 | INFO | DocID: 14838587
+2026-06-21 16:14:27,039 | INFO | Rerank score: 9.5810
+2026-06-21 16:14:27,040 | INFO | "Filipa Moniz Perestrelo" Filipa Moniz Perestrelo Filipa Moniz Perestrelo (c. 1455 – c. 1484) was a Portuguese noblewoman from Porto Santo Island, in Madeira, Portugal. She was the wife of Christopher Columbus, married in 1479 in Vila Baleira on the island. Filipa Moniz was the daughter of Isabel Moniz and Bartolomeu Perestrelo. Prior to marrying she was one of the twelve elite ""Comendadoras"" of the Monastery of All Saints in Lisbon of the Military Order of St. James, which means she had a ""c
+2026-06-21 16:14:27,040 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:28,714 | INFO | Mistral Answer: Filipa Moniz Perestrelo is married to Christopher Columbus.
+2026-06-21 16:14:28,714 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:28,714 | INFO | ================================================================================
+2026-06-21 16:14:28,714 | INFO | Example 48
+2026-06-21 16:14:28,714 | INFO | Question: Who is Samira Shahbandar married to?
+2026-06-21 16:14:28,714 | INFO | Answer: Saddam Hussein
+2026-06-21 16:14:28,714 | INFO | Answer Entity Popularity: 232649.0
+2026-06-21 16:14:28,741 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:28,741 | INFO | Reranked passages for Example 48:
+2026-06-21 16:14:28,741 | INFO | Reranked rank: 1
+2026-06-21 16:14:28,741 | INFO | Original BM25 rank: 1
+2026-06-21 16:14:28,741 | INFO | DocID: 2406756
+2026-06-21 16:14:28,741 | INFO | Rerank score: 9.4375
+2026-06-21 16:14:28,741 | INFO | "Samira Shahbandar" Samira Shahbandar Samira Shahbandar (, born 1946) is a former flight attendant, and was the second wife of Saddam Hussein, and the mother of his third son. Shahbandar was born in Baghdad, Iraq in 1946. Shahbandar was born into an aristocratic Baghdad family. Shahbandar was a flight attendant. Shahbandar was married to Noureddine al Safi, an Iraqi pilot and manager of Iraqi Airways. They have two children. Shahbandar's son is Mohammad Saffi (b. 1966). In 1983, Shahbandar met S
+2026-06-21 16:14:28,741 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:31,801 | INFO | Mistral Answer: Samira Shahbandar was married to Noureddine al Safi before she met and later married Saddam Hussein.
+2026-06-21 16:14:31,801 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:31,801 | INFO | ================================================================================
+2026-06-21 16:14:31,802 | INFO | Example 49
+2026-06-21 16:14:31,802 | INFO | Question: Who is Beverley Cross married to?
+2026-06-21 16:14:31,802 | INFO | Answer: Maggie Smith
+2026-06-21 16:14:31,802 | INFO | Answer Entity Popularity: 236403.0
+2026-06-21 16:14:31,833 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:31,833 | INFO | Reranked passages for Example 49:
+2026-06-21 16:14:31,833 | INFO | Reranked rank: 1
+2026-06-21 16:14:31,833 | INFO | Original BM25 rank: 29
+2026-06-21 16:14:31,834 | INFO | DocID: 867037
+2026-06-21 16:14:31,834 | INFO | Rerank score: 6.8374
+2026-06-21 16:14:31,834 | INFO | "Maggie Smith" directed by Nicholas Hytner. Smith married actor Robert Stephens on 29 June 1967 at Greenwich Register Office, ten days after the birth of their first child. They had two sons, actors Chris Larkin (born 1967) and Toby Stephens (born 1969), and were divorced on 6 April 1975. Smith married playwright Beverley Cross on 23 June 1975 at the Guildford Register Office, and they were married until his death on 20 March 1998. When asked in 2013 if she was lonely, she replied that ""it seem
+2026-06-21 16:14:31,834 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:34,787 | INFO | Mistral Answer: Beverley Cross is married to Maggie Smith. (However, the context also mentions that Maggie Smith is married to Beverley Cross.)
+2026-06-21 16:14:34,787 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:34,788 | INFO | ================================================================================
+2026-06-21 16:14:34,788 | INFO | Example 50
+2026-06-21 16:14:34,788 | INFO | Question: Who is Blake Edwards married to?
+2026-06-21 16:14:34,788 | INFO | Answer: Julie Andrews
+2026-06-21 16:14:34,788 | INFO | Answer Entity Popularity: 239013.0
+2026-06-21 16:14:34,812 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 16:14:34,813 | INFO | ================================================================================
+2026-06-21 16:14:34,813 | INFO | Example 51
+2026-06-21 16:14:34,813 | INFO | Question: Who is Max Mallowan married to?
+2026-06-21 16:14:34,813 | INFO | Answer: Agatha Christie
+2026-06-21 16:14:34,813 | INFO | Answer Entity Popularity: 250361.0
+2026-06-21 16:14:34,849 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:34,849 | INFO | Reranked passages for Example 51:
+2026-06-21 16:14:34,849 | INFO | Reranked rank: 1
+2026-06-21 16:14:34,849 | INFO | Original BM25 rank: 1
+2026-06-21 16:14:34,849 | INFO | DocID: 9188590
+2026-06-21 16:14:34,849 | INFO | Rerank score: 9.2866
+2026-06-21 16:14:34,849 | INFO | "Max Mallowan" Discovery"" (1956) and his wife Agatha Christie described his work in Syria in ""Come, Tell Me How You Live"" (1946). Max's first wife, Lady Mallowan, known to millions as Dame Agatha Christie, died in 1976; the following year, Mallowan married Barbara Hastings Parker, an archaeologist, who had been his epigraphist at Nimrud and Secretary of the British School of Archaeology in Iraq. Mallowan was appointed Commander of the Order of the British Empire in the 1960 Queen's Birthday H
+2026-06-21 16:14:34,850 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:40,008 | INFO | Mistral Answer: Max Mallowan was married to Barbara Hastings Parker at the time of the context. However, it's important to note that he was previously married to Dame Agatha Christie, who is also mentioned in the context.
+2026-06-21 16:14:40,009 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:40,009 | INFO | ================================================================================
+2026-06-21 16:14:40,009 | INFO | Example 52
+2026-06-21 16:14:40,009 | INFO | Question: Who is Parvati married to?
+2026-06-21 16:14:40,009 | INFO | Answer: Shiva
+2026-06-21 16:14:40,009 | INFO | Answer Entity Popularity: 256370.0
+2026-06-21 16:14:40,043 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:40,044 | INFO | Reranked passages for Example 52:
+2026-06-21 16:14:40,044 | INFO | Reranked rank: 1
+2026-06-21 16:14:40,044 | INFO | Original BM25 rank: 13
+2026-06-21 16:14:40,044 | INFO | DocID: 20199543
+2026-06-21 16:14:40,044 | INFO | Rerank score: 7.0571
+2026-06-21 16:14:40,044 | INFO | "Mahakali — Anth Hi Aarambh Hai" due to their inability to channel Mahakali, Adi-ParaShakti finally incarnates as the princess of the Himalayas, famously known as Parvati or Gauri. With Her strong will and intense devotion, Parvati successfully becomes the wife of Shiva. However their marriage is threatened when the demon king Shumbha (along with his brother Nishumbha) expresses his desire to marry Parvati and wages war against Shiva. In an attempt to protect all those who have taken up refuge i
+2026-06-21 16:14:40,044 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:51,311 | INFO | Mistral Answer: Parvati is married to Shiva.
+
+    Question:
+    Who threatens Parvati and Shiva's marriage?
+
+    Answer:
+    The demon kings Shumbha and Nishumbha threaten Parvati and Shiva's marriage.
+
+    Question:
+    What goddess does Parvati channel during the war to protect Mount Kailash?
+
+    Answer:
+    Parvati channels Goddess Mahakali during the war to protect Mount Kailash.
+2026-06-21 16:14:51,312 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:51,312 | INFO | ================================================================================
+2026-06-21 16:14:51,312 | INFO | Example 53
+2026-06-21 16:14:51,312 | INFO | Question: Who is Anthony Cox married to?
+2026-06-21 16:14:51,312 | INFO | Answer: Yoko Ono
+2026-06-21 16:14:51,312 | INFO | Answer Entity Popularity: 264518.0
+2026-06-21 16:14:51,340 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:51,340 | INFO | Reranked passages for Example 53:
+2026-06-21 16:14:51,340 | INFO | Reranked rank: 1
+2026-06-21 16:14:51,340 | INFO | Original BM25 rank: 2
+2026-06-21 16:14:51,340 | INFO | DocID: 4811396
+2026-06-21 16:14:51,341 | INFO | Rerank score: 9.0551
+2026-06-21 16:14:51,341 | INFO | "Anthony Cox (producer)" Anthony Cox (producer) Anthony D. ""Tony"" Cox (born 1936/1937) is an American film producer and art promoter. He is a former husband of Yoko Ono. Cox met Yoko Ono in 1961, after he saw some of her art work in an anthology and located her in Tokyo. The couple married on November 28, 1962. The marriage was annulled on March 1, 1963 due to Ono neglecting to officially finalize her divorce from first husband the Japanese composer Toshi Ichiyanagi, but they remarried on June
+2026-06-21 16:14:51,341 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:52,603 | INFO | Mistral Answer: Anthony Cox is married to Yoko Ono.
+2026-06-21 16:14:52,603 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:52,603 | INFO | ================================================================================
+2026-06-21 16:14:52,603 | INFO | Example 54
+2026-06-21 16:14:52,604 | INFO | Question: Who is James Brolin married to?
+2026-06-21 16:14:52,604 | INFO | Answer: Barbra Streisand
+2026-06-21 16:14:52,604 | INFO | Answer Entity Popularity: 266791.0
+2026-06-21 16:14:52,623 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:52,623 | INFO | Reranked passages for Example 54:
+2026-06-21 16:14:52,623 | INFO | Reranked rank: 1
+2026-06-21 16:14:52,624 | INFO | Original BM25 rank: 1
+2026-06-21 16:14:52,624 | INFO | DocID: 2248788
+2026-06-21 16:14:52,624 | INFO | Rerank score: 8.7997
+2026-06-21 16:14:52,624 | INFO | "James Brolin" James Brolin is the grandfather of Trevor (b. 1988) and Eden (b. 1994), from his son Josh's first marriage. In 1985, Brolin met actress Jan Smithers on the set of ""Hotel"", and they married in 1986. The couple had a daughter, Molly Elizabeth (b. 1987). Jan Smithers filed for divorce from Brolin in 1995. In 1996, Brolin met Barbra Streisand through a friend, and they married on July 1, 1998. The couple reside in Malibu, California. Brolin is the stepfather of Streisand's only chil
+2026-06-21 16:14:52,624 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:54,189 | INFO | Mistral Answer: James Brolin is currently married to Barbra Streisand.
+2026-06-21 16:14:54,189 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:54,189 | INFO | ================================================================================
+2026-06-21 16:14:54,189 | INFO | Example 55
+2026-06-21 16:14:54,190 | INFO | Question: Who is Elliott Gould married to?
+2026-06-21 16:14:54,190 | INFO | Answer: Barbra Streisand
+2026-06-21 16:14:54,190 | INFO | Answer Entity Popularity: 266791.0
+2026-06-21 16:14:54,215 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:54,215 | INFO | Reranked passages for Example 55:
+2026-06-21 16:14:54,215 | INFO | Reranked rank: 1
+2026-06-21 16:14:54,215 | INFO | Original BM25 rank: 26
+2026-06-21 16:14:54,215 | INFO | DocID: 7175743
+2026-06-21 16:14:54,215 | INFO | Rerank score: 6.6139
+2026-06-21 16:14:54,215 | INFO | "The Night They Raided Minsky's" 1934). Elliott Gould, who was then married to Barbra Streisand, was signed in August 1967 and made his film debut as Billy Minsky. Mickey Rooney was said to be considered for the Chick Williams role, but Joel Gray, then on Broadway in ""Cabaret"", was initially cast. Gray had to drop out, however, because the film had no firm end date and Gray was committed to start rehearsals for ""George M!"", a musical about George M. Cohan, in mid-December. British comedian N
+2026-06-21 16:14:54,215 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:58,455 | INFO | Mistral Answer: At the time of the filming of "The Night They Raided Minsky's" in 1967, Elliott Gould was married to Barbra Streisand.
+2026-06-21 16:14:58,455 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:14:58,455 | INFO | ================================================================================
+2026-06-21 16:14:58,456 | INFO | Example 56
+2026-06-21 16:14:58,456 | INFO | Question: Who is Ryan Phillippe married to?
+2026-06-21 16:14:58,456 | INFO | Answer: Reese Witherspoon
+2026-06-21 16:14:58,456 | INFO | Answer Entity Popularity: 272003.0
+2026-06-21 16:14:58,479 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:14:58,479 | INFO | Reranked passages for Example 56:
+2026-06-21 16:14:58,479 | INFO | Reranked rank: 1
+2026-06-21 16:14:58,479 | INFO | Original BM25 rank: 1
+2026-06-21 16:14:58,479 | INFO | DocID: 1841971
+2026-06-21 16:14:58,479 | INFO | Rerank score: 8.8905
+2026-06-21 16:14:58,479 | INFO | "Ryan Phillippe" he stars in the lead role of Bob Lee Swagger in the USA Network thriller drama ""Shooter"". He was married to actress Reese Witherspoon from 1999 to 2007; together, they have a daughter and a son. He also has a daughter from a relationship with actress Alexis Knapp. Phillippe was born in New Castle, Delaware. His mother, Susan, ran a day care center in the family's house, and his father, Richard Phillippe, was a chemist. Phillippe is of part French descent. Phillippe graduated f
+2026-06-21 16:14:58,479 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:01,152 | INFO | Mistral Answer: Ryan Phillippe was married to Reese Witherspoon from 1999 to 2007.
+2026-06-21 16:15:01,152 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:01,152 | INFO | ================================================================================
+2026-06-21 16:15:01,152 | INFO | Example 57
+2026-06-21 16:15:01,152 | INFO | Question: Who is Edith Roosevelt married to?
+2026-06-21 16:15:01,152 | INFO | Answer: Theodore Roosevelt
+2026-06-21 16:15:01,152 | INFO | Answer Entity Popularity: 286673.0
+2026-06-21 16:15:01,186 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:01,186 | INFO | Reranked passages for Example 57:
+2026-06-21 16:15:01,186 | INFO | Reranked rank: 1
+2026-06-21 16:15:01,187 | INFO | Original BM25 rank: 10
+2026-06-21 16:15:01,187 | INFO | DocID: 2470713
+2026-06-21 16:15:01,187 | INFO | Rerank score: 8.0940
+2026-06-21 16:15:01,187 | INFO | "Edith Roosevelt" Edith Roosevelt Edith Kermit Carow Roosevelt (August 6, 1861 – September 30, 1948) was the second wife of President Theodore Roosevelt and served as the First Lady of the United States during his presidency from 1901 to 1909. She also served as the Second Lady of the United States in 1901. Roosevelt was the first First Lady to employ a full-time, salaried social secretary. Her tenure resulted in the creation of an official staff, and her formal dinners and ceremonial procession
+2026-06-21 16:15:01,187 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:02,443 | INFO | Mistral Answer: Edith Roosevelt is married to President Theodore Roosevelt.
+2026-06-21 16:15:02,443 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:02,443 | INFO | ================================================================================
+2026-06-21 16:15:02,443 | INFO | Example 58
+2026-06-21 16:15:02,443 | INFO | Question: Who is Elizabeth Schuyler Hamilton married to?
+2026-06-21 16:15:02,443 | INFO | Answer: Alexander Hamilton
+2026-06-21 16:15:02,443 | INFO | Answer Entity Popularity: 289489.0
+2026-06-21 16:15:02,493 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:02,493 | INFO | Reranked passages for Example 58:
+2026-06-21 16:15:02,493 | INFO | Reranked rank: 1
+2026-06-21 16:15:02,493 | INFO | Original BM25 rank: 29
+2026-06-21 16:15:02,493 | INFO | DocID: 1886660
+2026-06-21 16:15:02,493 | INFO | Rerank score: 8.7130
+2026-06-21 16:15:02,493 | INFO | "Angelica, New York" Elizabeth Schuyler Hamilton was married to Alexander Hamilton. In 1797, the young United States paid back its war debt to Church in the form of 100,000 acres of land in Western New York. John and Angelica Church's son Philip Schuyler Church travelled to what is now Allegheny and Genessee Counties to take possession of the land, with his surveyor Moses Van Campen. A planned village was laid out with the plots and design to be reminiscent of Paris, France (a circular drive in 
+2026-06-21 16:15:02,494 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:06,074 | INFO | Mistral Answer: Elizabeth Schuyler Hamilton is married to Alexander Hamilton. However, the context does provide information about her connection to the Church family through her son Philip Schuyler Church.
+2026-06-21 16:15:06,074 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:06,074 | INFO | ================================================================================
+2026-06-21 16:15:06,074 | INFO | Example 59
+2026-06-21 16:15:06,074 | INFO | Question: Who is Courtney Love married to?
+2026-06-21 16:15:06,074 | INFO | Answer: Kurt Cobain
+2026-06-21 16:15:06,074 | INFO | Answer Entity Popularity: 294059.0
+2026-06-21 16:15:06,100 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:06,100 | INFO | Reranked passages for Example 59:
+2026-06-21 16:15:06,100 | INFO | Reranked rank: 1
+2026-06-21 16:15:06,100 | INFO | Original BM25 rank: 38
+2026-06-21 16:15:06,100 | INFO | DocID: 68879
+2026-06-21 16:15:06,100 | INFO | Rerank score: 6.8066
+2026-06-21 16:15:06,100 | INFO | "Courtney Love" Courtney Love Courtney Michelle Love (; born July 9, 1964) is an American singer, songwriter, actress, and visual artist. A notable figure in the punk and grunge scenes of the 1990s, Love's career has spanned four decades. She rose to prominence as the lead vocalist of the alternative rock band Hole, which she formed in 1989. Love has drawn public attention for her uninhibited live performances and confrontational lyrics, as well as her highly publicized personal life following h
+2026-06-21 16:15:06,100 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:09,425 | INFO | Mistral Answer: Courtney Love was married to Kurt Cobain. (From the context: "following her marriage to Nirvana frontman Kurt Cobain.")
+2026-06-21 16:15:09,426 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:09,426 | INFO | ================================================================================
+2026-06-21 16:15:09,426 | INFO | Example 60
+2026-06-21 16:15:09,426 | INFO | Question: Who is Freddy Moore married to?
+2026-06-21 16:15:09,426 | INFO | Answer: Demi Moore
+2026-06-21 16:15:09,426 | INFO | Answer Entity Popularity: 297825.0
+2026-06-21 16:15:09,454 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:09,454 | INFO | Reranked passages for Example 60:
+2026-06-21 16:15:09,454 | INFO | Reranked rank: 1
+2026-06-21 16:15:09,454 | INFO | Original BM25 rank: 1
+2026-06-21 16:15:09,454 | INFO | DocID: 1561613
+2026-06-21 16:15:09,455 | INFO | Rerank score: 8.7537
+2026-06-21 16:15:09,455 | INFO | "Demi Moore" of 17, she married singer Freddy Moore, 12 years her senior and recently divorced from his first wife, Lucy. During their marriage, Demi began using Freddy's surname as her stage name. She filed for divorce in September 1984; it was finalized on August 7, 1985. Moore was then engaged to actor Emilio Estevez, with whom she co-starred in ""Wisdom,"" a crime drama he also wrote and directed. The pair planned to marry in December 1986, but called off the engagement. On November 21, 1987
+2026-06-21 16:15:09,455 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:10,639 | INFO | Mistral Answer: Freddy Moore was married to Demi Moore.
+2026-06-21 16:15:10,639 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:10,639 | INFO | ================================================================================
+2026-06-21 16:15:10,640 | INFO | Example 61
+2026-06-21 16:15:10,640 | INFO | Question: Who is Cornelia the Younger married to?
+2026-06-21 16:15:10,640 | INFO | Answer: Julius Caesar
+2026-06-21 16:15:10,640 | INFO | Answer Entity Popularity: 305255.0
+2026-06-21 16:15:10,668 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:10,668 | INFO | Reranked passages for Example 61:
+2026-06-21 16:15:10,668 | INFO | Reranked rank: 1
+2026-06-21 16:15:10,668 | INFO | Original BM25 rank: 24
+2026-06-21 16:15:10,668 | INFO | DocID: 7291767
+2026-06-21 16:15:10,668 | INFO | Rerank score: 5.5878
+2026-06-21 16:15:10,668 | INFO | "Octavia the Younger" who was considered worthy of her and was consul in 50 BC. He was also a member of the influential Claudian family and descended from Marcus Claudius Marcellus, a famous general in the Second Punic War. In 54 BC, her great uncle Caesar is said to have been anxious for her to divorce her husband so that she could marry Pompey who had just lost his wife Julia (Julius Caesar's daughter, and thus Octavia's cousin once removed). The couple did not want to get a divorce so instead
+2026-06-21 16:15:10,668 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:11,961 | INFO | Mistral Answer: Cornelia Metella is married to Pompey.
+2026-06-21 16:15:11,961 | INFO | Mistral answer does NOT contain the correct answer string.
+2026-06-21 16:15:11,961 | INFO | ================================================================================
+2026-06-21 16:15:11,962 | INFO | Example 62
+2026-06-21 16:15:11,962 | INFO | Question: Who is Brian Austin Green married to?
+2026-06-21 16:15:11,962 | INFO | Answer: Megan Fox
+2026-06-21 16:15:11,962 | INFO | Answer Entity Popularity: 312108.0
+2026-06-21 16:15:11,995 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:11,995 | INFO | Reranked passages for Example 62:
+2026-06-21 16:15:11,995 | INFO | Reranked rank: 1
+2026-06-21 16:15:11,995 | INFO | Original BM25 rank: 27
+2026-06-21 16:15:11,995 | INFO | DocID: 1743642
+2026-06-21 16:15:11,995 | INFO | Rerank score: 8.5623
+2026-06-21 16:15:11,995 | INFO | "Brian Austin Green" 2010, the two wed at the Four Seasons resort on the island of Hawaii. Fox filed for divorce from Green on August 21, 2015, a few days after the couple announced their separation. They reconciled in early 2016. They have three sons: Noah Shannon Green (born September 27, 2012), Bodhi Ransom Green (born February 12, 2014) and Journey River Green (born August 4, 2016). Both Green and wife Megan Fox are supporters of Generosity Water, and have funded the creation of over ten wat
+2026-06-21 16:15:11,995 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:13,164 | INFO | Mistral Answer: Megan Fox, based on the provided context.
+2026-06-21 16:15:13,164 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:13,164 | INFO | ================================================================================
+2026-06-21 16:15:13,164 | INFO | Example 63
+2026-06-21 16:15:13,164 | INFO | Question: Who is Roxana married to?
+2026-06-21 16:15:13,164 | INFO | Answer: Alexander the Great
+2026-06-21 16:15:13,164 | INFO | Answer Entity Popularity: 386669.0
+2026-06-21 16:15:13,193 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:13,194 | INFO | Reranked passages for Example 63:
+2026-06-21 16:15:13,194 | INFO | Reranked rank: 1
+2026-06-21 16:15:13,194 | INFO | Original BM25 rank: 4
+2026-06-21 16:15:13,194 | INFO | DocID: 1905141
+2026-06-21 16:15:13,194 | INFO | Rerank score: 6.8089
+2026-06-21 16:15:13,194 | INFO | Roxana Roxana Roxana (; Old Iranian ""Raoxshna""; sometimes Roxanne, Roxanna, Rukhsana, Roxandra and Roxane) was a Sogdian princess of Bactria whom the Greek Macedonian king, Alexander the Great, married, after defeating Darius III, the Achaemenian king, and invading Persia. She was born in c. 340 BC though the precise date remains uncertain and died in c. 310 BC. Roxana was born in c. 340 BC as the daughter of a Bactrian nobleman named Oxyartes, who served Bessus, the satrap of Bactria and Sogd
+2026-06-21 16:15:13,194 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:14,975 | INFO | Mistral Answer: Roxana is married to Alexander the Great. (Based on the context)
+2026-06-21 16:15:14,975 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:14,975 | INFO | ================================================================================
+2026-06-21 16:15:14,975 | INFO | Example 64
+2026-06-21 16:15:14,975 | INFO | Question: Who is Amal Clooney married to?
+2026-06-21 16:15:14,975 | INFO | Answer: George Clooney
+2026-06-21 16:15:14,975 | INFO | Answer Entity Popularity: 413116.0
+2026-06-21 16:15:15,005 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:15,005 | INFO | Reranked passages for Example 64:
+2026-06-21 16:15:15,005 | INFO | Reranked rank: 1
+2026-06-21 16:15:15,005 | INFO | Original BM25 rank: 1
+2026-06-21 16:15:15,006 | INFO | DocID: 18018755
+2026-06-21 16:15:15,006 | INFO | Rerank score: 9.3320
+2026-06-21 16:15:15,006 | INFO | "Amal Clooney" Amal Clooney Amal Clooney (""née"" Alamuddin; ; born 3 February 1978) is a Lebanese-British barrister at Doughty Street Chambers, specialising in international law and human rights. Her clients include the likes of Julian Assange, the founder of WikiLeaks, in his fight against extradition; the former prime minister of Ukraine, Yulia Tymoshenko; and Egyptian-Canadian journalist Mohamed Fahmy. She is married to American actor George Clooney. Amal Alamuddin was born in Beirut, Lebano
+2026-06-21 16:15:15,006 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:17,651 | INFO | Mistral Answer: Amal Clooney is married to American actor George Clooney. (Answer derived directly from the context.)
+2026-06-21 16:15:17,652 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:17,652 | INFO | ================================================================================
+2026-06-21 16:15:17,652 | INFO | Example 65
+2026-06-21 16:15:17,652 | INFO | Question: Who is Lyudmila Putina married to?
+2026-06-21 16:15:17,652 | INFO | Answer: Vladimir Putin
+2026-06-21 16:15:17,652 | INFO | Answer Entity Popularity: 484679.0
+2026-06-21 16:15:17,680 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:17,680 | INFO | Reranked passages for Example 65:
+2026-06-21 16:15:17,680 | INFO | Reranked rank: 1
+2026-06-21 16:15:17,680 | INFO | Original BM25 rank: 1
+2026-06-21 16:15:17,680 | INFO | DocID: 4106057
+2026-06-21 16:15:17,680 | INFO | Rerank score: 9.2285
+2026-06-21 16:15:17,680 | INFO | "Lyudmila Putina" Lyudmila Putina Lyudmila Aleksandrovna Ocheretnaya (formerly Lyudmila Aleksandrovna Putina, , , née Shkrebneva, Шкребнева; born 6 January 1958) is the former wife of Vladimir Putin, who is the current President and former Prime Minister, and served a former two terms as president of Russia. Lyudmila was born in Kaliningrad, Soviet Union, the daughter of Alexander (his patronym is reported variously as either Abramovich or Avramovich) Shkrebnev (Александр Абрамович Шкребнев or А
+2026-06-21 16:15:17,680 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:20,192 | INFO | Mistral Answer: Lyudmila Putina is married to Vladimir Putin. (Answer derived directly from the context.)
+2026-06-21 16:15:20,192 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:20,192 | INFO | ================================================================================
+2026-06-21 16:15:20,192 | INFO | Example 66
+2026-06-21 16:15:20,192 | INFO | Question: Who is Kathryn Bigelow married to?
+2026-06-21 16:15:20,192 | INFO | Answer: James Cameron
+2026-06-21 16:15:20,192 | INFO | Answer Entity Popularity: 946582.0
+2026-06-21 16:15:20,217 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:20,217 | INFO | Reranked passages for Example 66:
+2026-06-21 16:15:20,217 | INFO | Reranked rank: 1
+2026-06-21 16:15:20,217 | INFO | Original BM25 rank: 1
+2026-06-21 16:15:20,217 | INFO | DocID: 1690630
+2026-06-21 16:15:20,217 | INFO | Rerank score: 8.9577
+2026-06-21 16:15:20,217 | INFO | "Kathryn Bigelow" advertisement. Her acting credits include Lizzie Borden's 1983 film ""Born in Flames"" as a feminist newspaper editor, and as the leader of a cowgirl gang in the 1988 music video of Martini Ranch's ""Reach"", which was directed by James Cameron. Bigelow was married to fellow director James Cameron from 1989 to 1991. Kathryn Bigelow Kathryn Ann Bigelow (; born November 27, 1951) is an American director, producer, and writer. Covering a wide range of genres, her films include ""N
+2026-06-21 16:15:20,218 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:22,797 | INFO | Mistral Answer: Kathryn Bigelow was married to James Cameron from 1989 to 1991.
+2026-06-21 16:15:22,797 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:22,797 | INFO | ================================================================================
+2026-06-21 16:15:22,797 | INFO | Example 67
+2026-06-21 16:15:22,798 | INFO | Question: Who is Priscilla Presley married to?
+2026-06-21 16:15:22,798 | INFO | Answer: Elvis Presley
+2026-06-21 16:15:22,798 | INFO | Answer Entity Popularity: 3794867.0
+2026-06-21 16:15:22,825 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:22,825 | INFO | Reranked passages for Example 67:
+2026-06-21 16:15:22,825 | INFO | Reranked rank: 1
+2026-06-21 16:15:22,825 | INFO | Original BM25 rank: 22
+2026-06-21 16:15:22,825 | INFO | DocID: 1667780
+2026-06-21 16:15:22,825 | INFO | Rerank score: 8.1388
+2026-06-21 16:15:22,825 | INFO | "Priscilla Presley" Priscilla Presley Priscilla Ann Presley ( Wagner, changed by adoption to Beaulieu; born May 24, 1945) is an American actress and business magnate. She is the former wife of American singer Elvis Presley as well as former chairwoman of Elvis Presley Enterprises (EPE), the company that turned Graceland into one of the top tourist attractions in the United States. In her acting career, Presley had a starring role as Jane Spencer in the three successful ""Naked Gun"" films in whi
+2026-06-21 16:15:22,825 | INFO | --------------------------------------------------------------------------------
+2026-06-21 16:15:25,022 | INFO | Mistral Answer: Priscilla Presley was married to American singer Elvis Presley. (Reference: Context)
+2026-06-21 16:15:25,022 | INFO | Mistral answer contains the correct answer string.
+2026-06-21 16:15:25,022 | INFO | ================================================================================
+2026-06-21 16:15:25,022 | INFO | Correct answers: 59/63

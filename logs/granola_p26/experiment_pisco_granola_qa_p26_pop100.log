@@ -1,0 +1,1623 @@
+2026-06-21 15:49:50,644 | INFO | HTTP Request: HEAD https://huggingface.co/datasets/google/granola-entity-questions/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:50,662 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/datasets/google/granola-entity-questions/695e29a15ec509f9e167a920206dad716af5c98d/README.md "HTTP/1.1 200 OK"
+2026-06-21 15:49:50,788 | INFO | HTTP Request: HEAD https://huggingface.co/datasets/google/granola-entity-questions/resolve/695e29a15ec509f9e167a920206dad716af5c98d/granola-entity-questions.py "HTTP/1.1 404 Not Found"
+2026-06-21 15:49:51,172 | INFO | HTTP Request: HEAD https://s3.amazonaws.com/datasets.huggingface.co/datasets/datasets/google/granola-entity-questions/google/granola-entity-questions.py "HTTP/1.1 404 Not Found"
+2026-06-21 15:49:51,297 | INFO | HTTP Request: GET https://huggingface.co/api/datasets/google/granola-entity-questions/revision/695e29a15ec509f9e167a920206dad716af5c98d "HTTP/1.1 200 OK"
+2026-06-21 15:49:51,422 | INFO | HTTP Request: HEAD https://huggingface.co/datasets/google/granola-entity-questions/resolve/695e29a15ec509f9e167a920206dad716af5c98d/.huggingface.yaml "HTTP/1.1 404 Not Found"
+2026-06-21 15:49:51,666 | INFO | HTTP Request: GET https://datasets-server.huggingface.co/info?dataset=google/granola-entity-questions "HTTP/1.1 200 OK"
+2026-06-21 15:49:51,796 | INFO | HTTP Request: GET https://huggingface.co/api/datasets/google/granola-entity-questions/tree/695e29a15ec509f9e167a920206dad716af5c98d/data?recursive=true&expand=false "HTTP/1.1 404 Not Found"
+2026-06-21 15:49:51,922 | INFO | HTTP Request: GET https://huggingface.co/api/datasets/google/granola-entity-questions/tree/695e29a15ec509f9e167a920206dad716af5c98d?recursive=false&expand=false "HTTP/1.1 200 OK"
+2026-06-21 15:49:52,057 | INFO | HTTP Request: HEAD https://huggingface.co/datasets/google/granola-entity-questions/resolve/695e29a15ec509f9e167a920206dad716af5c98d/dataset_infos.json "HTTP/1.1 404 Not Found"
+2026-06-21 15:49:52,240 | INFO | HTTP Request: HEAD https://huggingface.co/naver/pisco-mistral/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:52,257 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/naver/pisco-mistral/2121d0c0e8aa67328930e9853a217618e3725b7b/config.json "HTTP/1.1 200 OK"
+2026-06-21 15:49:52,387 | INFO | HTTP Request: HEAD https://huggingface.co/naver/pisco-mistral/resolve/main/modelling_pisco.py "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:52,404 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/naver/pisco-mistral/2121d0c0e8aa67328930e9853a217618e3725b7b/modelling_pisco.py "HTTP/1.1 200 OK"
+2026-06-21 15:49:52,542 | INFO | HTTP Request: HEAD https://huggingface.co/naver/pisco-mistral/resolve/main/modelling_pisco.py "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:52,560 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/naver/pisco-mistral/2121d0c0e8aa67328930e9853a217618e3725b7b/modelling_pisco.py "HTTP/1.1 200 OK"
+2026-06-21 15:49:52,695 | INFO | HTTP Request: HEAD https://huggingface.co/naver/pisco-mistral/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:52,714 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/naver/pisco-mistral/2121d0c0e8aa67328930e9853a217618e3725b7b/config.json "HTTP/1.1 200 OK"
+2026-06-21 15:49:52,861 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:52,880 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/config.json "HTTP/1.1 200 OK"
+2026-06-21 15:49:53,007 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:53,026 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/config.json "HTTP/1.1 200 OK"
+2026-06-21 15:49:53,365 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:53,379 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/generation_config.json "HTTP/1.1 200 OK"
+2026-06-21 15:49:53,504 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:53,522 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/config.json "HTTP/1.1 200 OK"
+2026-06-21 15:49:53,645 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:53,662 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-21 15:49:53,786 | INFO | HTTP Request: HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 15:49:53,803 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mistralai/Mistral-7B-Instruct-v0.2/63a8b081895390a26e140280378bc85ec8bce07a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-21 15:49:53,934 | INFO | HTTP Request: GET https://huggingface.co/api/models/mistralai/Mistral-7B-Instruct-v0.2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-21 15:49:54,138 | INFO | HTTP Request: GET https://huggingface.co/api/models/mistralai/Mistral-7B-Instruct-v0.2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-21 15:49:59,093 | INFO | HTTP Request: HEAD https://huggingface.co/naver/pisco-mistral/resolve/main/decoder_first_last_layers.pth "HTTP/1.1 302 Found"
+2026-06-21 15:49:59,462 | INFO | HTTP Request: HEAD https://huggingface.co/naver/pisco-mistral/resolve/main/adapters.pth "HTTP/1.1 302 Found"
+2026-06-21 15:50:09,754 | INFO | Example 1
+2026-06-21 15:50:09,768 | INFO | Question: Who is Jacques Parizeau married to?
+2026-06-21 15:50:09,768 | INFO | Answer: Lisette Lapointe
+2026-06-21 15:50:09,769 | INFO | Answer Entity Popularity: 100.0
+2026-06-21 15:50:10,253 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:10,253 | INFO | Reranked passages for Example 1:
+2026-06-21 15:50:10,253 | INFO | Reranked rank: 1
+2026-06-21 15:50:10,253 | INFO | Original BM25 rank: 34
+2026-06-21 15:50:10,253 | INFO | DocID: 1998921
+2026-06-21 15:50:10,253 | INFO | Rerank score: 5.3834
+2026-06-21 15:50:10,253 | INFO | "Jacques Parizeau" of Quebec independence. He owned an estate at his vineyard in France, a farm in the Eastern Townships of Quebec and a home in Montreal. His biographer is Pierre Duchesne. His wife and former secretary during his premiership, Lisette Lapointe won a seat in the National Assembly as a candidate for the PQ in the provincial riding of Crémazie in the 2007 Quebec general election. In June 2008, along with the other four living former Premiers of Quebec, Parizeau was named a Grand Of
+2026-06-21 15:50:10,253 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:11,420 | INFO | Pisco Answer: Jacques Parizeau is married to Lisette Lapointe.
+2026-06-21 15:50:11,420 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:11,420 | INFO | ================================================================================
+2026-06-21 15:50:11,421 | INFO | Example 2
+2026-06-21 15:50:11,421 | INFO | Question: Who is Wilfried Seyferth married to?
+2026-06-21 15:50:11,421 | INFO | Answer: Eva Ingeborg Scholz
+2026-06-21 15:50:11,422 | INFO | Answer Entity Popularity: 109.0
+2026-06-21 15:50:11,530 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:50:11,530 | INFO | ================================================================================
+2026-06-21 15:50:11,530 | INFO | Example 3
+2026-06-21 15:50:11,531 | INFO | Question: Who is Maria Dyer married to?
+2026-06-21 15:50:11,531 | INFO | Answer: Samuel Dyer
+2026-06-21 15:50:11,531 | INFO | Answer Entity Popularity: 111.0
+2026-06-21 15:50:11,660 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:11,660 | INFO | Reranked passages for Example 3:
+2026-06-21 15:50:11,660 | INFO | Reranked rank: 1
+2026-06-21 15:50:11,660 | INFO | Original BM25 rank: 2
+2026-06-21 15:50:11,660 | INFO | DocID: 8022769
+2026-06-21 15:50:11,660 | INFO | Rerank score: 7.6028
+2026-06-21 15:50:11,660 | INFO | "Samuel Dyer" Ann Aldersey at her school for Chinese girls in Ningbo, Zhejiang. Maria Jane Dyer eventually married James Hudson Taylor, who went on to found the China Inland Mission. She had a strong influence in the beginnings of that agency. Burella Dyer had married a year earlier to John Shaw Burdon, but had died in Shanghai very soon after they were married. Samuel Dyer, Junior succeeded Alexander Wylie with the British and Foreign Bible Society as their agent in China in the 1870s. His tomb
+2026-06-21 15:50:11,660 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:12,508 | INFO | Pisco Answer: Maria Dyer is married to James Hudson Taylor.
+2026-06-21 15:50:12,508 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:12,508 | INFO | ================================================================================
+2026-06-21 15:50:12,509 | INFO | Example 4
+2026-06-21 15:50:12,509 | INFO | Question: Who is Errikos Kontarinis married to?
+2026-06-21 15:50:12,509 | INFO | Answer: Marika Nezer
+2026-06-21 15:50:12,509 | INFO | Answer Entity Popularity: 111.0
+2026-06-21 15:50:12,605 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:12,605 | INFO | Reranked passages for Example 4:
+2026-06-21 15:50:12,605 | INFO | Reranked rank: 1
+2026-06-21 15:50:12,605 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:12,605 | INFO | DocID: 12529078
+2026-06-21 15:50:12,605 | INFO | Rerank score: 6.7666
+2026-06-21 15:50:12,605 | INFO | "Marika Nezer" she appeared in several movies. She was married to the actor Errikos Kontarinis. She died on 18 July 1989 and was buried in Vyronas. Marika Nezer Marika Nezer (; 1906 – 18 July 1989) was a Greek actress. She was the daughter of Konstantinos Nezer, brother of Christoforos Nezer (1903–1996) and cousin of Christoforos Nezer (1887–1970) and granddaughter of Christoforos Nezer, fort chief of Athens and an aide-de-camp of King Otto of Greece. She entered the theatrical scene at the age 
+2026-06-21 15:50:12,606 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:13,224 | INFO | Pisco Answer: Errikos Kontarinis is married to Marika Nezer.
+2026-06-21 15:50:13,224 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:13,224 | INFO | ================================================================================
+2026-06-21 15:50:13,225 | INFO | Example 5
+2026-06-21 15:50:13,225 | INFO | Question: Who is Anne Rud married to?
+2026-06-21 15:50:13,225 | INFO | Answer: Henrich Krummedige
+2026-06-21 15:50:13,225 | INFO | Answer Entity Popularity: 113.0
+2026-06-21 15:50:13,295 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:13,295 | INFO | Reranked passages for Example 5:
+2026-06-21 15:50:13,295 | INFO | Reranked rank: 1
+2026-06-21 15:50:13,295 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:13,295 | INFO | DocID: 7862904
+2026-06-21 15:50:13,295 | INFO | Rerank score: 2.0380
+2026-06-21 15:50:13,295 | INFO | "Otte Brahe" Otte Brahe Otte Brahe (; 2 October 1518 – 9 May 1571) was a Danish (Scanian) nobleman and statesman, who served on the privy council (Rigsraad, ""Council of the Realm""). He was married to Beate Clausdatter Bille and was the father of astronomer Tycho Brahe. Brahe was born in Tosterup to Tyge Brahe and Sophie Rud. He was nephew of Anne Rud and Henrich Krummedige. Brahe married Beate Clausdatter Bille in 1544. Both the Brahes and the Billes were among the most powerful noble families
+2026-06-21 15:50:13,295 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:14,045 | INFO | Pisco Answer: Anne Rud is married to Otte Brahe.
+2026-06-21 15:50:14,045 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:14,045 | INFO | ================================================================================
+2026-06-21 15:50:14,046 | INFO | Example 6
+2026-06-21 15:50:14,046 | INFO | Question: Who is Olga Kennard married to?
+2026-06-21 15:50:14,046 | INFO | Answer: Arnold Burgen
+2026-06-21 15:50:14,047 | INFO | Answer Entity Popularity: 115.0
+2026-06-21 15:50:14,102 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:14,103 | INFO | Reranked passages for Example 6:
+2026-06-21 15:50:14,103 | INFO | Reranked rank: 1
+2026-06-21 15:50:14,103 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:14,103 | INFO | DocID: 7362928
+2026-06-21 15:50:14,103 | INFO | Rerank score: 8.5392
+2026-06-21 15:50:14,103 | INFO | "Olga Kennard" Research on the Structure of Biological Molecules"" in 1988. In recognition of her work, there is the Olga Kennard Research Fellowship in crystallography, administered by the Royal Society. In 1993 she was elected a member of the Academia Europaea In 2003 the University of Cambridge made her a Doctor of Law ""honoris causa"" She is married to Sir Arnold Burgen, her second husband; her first husband was David Kennard, to whom she was married from 1948-1961 having two daughters. Aft
+2026-06-21 15:50:14,103 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:15,322 | INFO | Pisco Answer: Olga Kennard is currently married to Sir Arnold Burgen. She was previously married to David Kennard from 1948 to 1954.
+2026-06-21 15:50:15,322 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:15,322 | INFO | ================================================================================
+2026-06-21 15:50:15,323 | INFO | Example 7
+2026-06-21 15:50:15,323 | INFO | Question: Who is Arnold Burgen married to?
+2026-06-21 15:50:15,323 | INFO | Answer: Olga Kennard
+2026-06-21 15:50:15,323 | INFO | Answer Entity Popularity: 118.0
+2026-06-21 15:50:15,372 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:15,372 | INFO | Reranked passages for Example 7:
+2026-06-21 15:50:15,372 | INFO | Reranked rank: 1
+2026-06-21 15:50:15,372 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:15,372 | INFO | DocID: 7337026
+2026-06-21 15:50:15,372 | INFO | Rerank score: 9.1712
+2026-06-21 15:50:15,372 | INFO | "Arnold Burgen" Arnold Burgen Sir Arnold Stanley Vincent Burgen, FRS (born 20 March 1922) is a retired British physician, pharmacologist, academic and university administrator. He was Master of Darwin College, Cambridge from 1982-89, Deputy Vice-Chancellor of The University of Cambridge from 1985–89, and founding President of the Academia Europæa. He is married to British crystallographer Olga Kennard. Burgen attended Christ's College Finchley, a grammar school in Finchley, north London. He was 
+2026-06-21 15:50:15,372 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:16,291 | INFO | Pisco Answer: Arnold Burgen is married to British crystallographer Olga Kennard.
+2026-06-21 15:50:16,291 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:16,291 | INFO | ================================================================================
+2026-06-21 15:50:16,291 | INFO | Example 8
+2026-06-21 15:50:16,292 | INFO | Question: Who is Emperor Taiwu of Northern Wei married to?
+2026-06-21 15:50:16,292 | INFO | Answer: Empress Helian
+2026-06-21 15:50:16,292 | INFO | Answer Entity Popularity: 123.0
+2026-06-21 15:50:16,330 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:16,330 | INFO | Reranked passages for Example 8:
+2026-06-21 15:50:16,330 | INFO | Reranked rank: 1
+2026-06-21 15:50:16,330 | INFO | Original BM25 rank: 22
+2026-06-21 15:50:16,330 | INFO | DocID: 7599456
+2026-06-21 15:50:16,330 | INFO | Rerank score: 7.5787
+2026-06-21 15:50:16,330 | INFO | "Empress Helian" Empress Helian Empress Helian (赫連皇后) (died 453), formally Empress Taiwu (太武皇后), was an empress of the Chinese/Xianbei dynasty Northern Wei. Her husband was Emperor Taiwu. She was a daughter of the Xia's founding emperor Helian Bobo (Emperor Wulie). In 428, during the reign of her brother Helian Chang, Emperor Taiwu led his Northern Wei forces to capture the Xia capital Tongwan (統萬, in modern Yulin, Shaanxi), and while Helian Chang fled, she was captured along with most nobles an
+2026-06-21 15:50:16,330 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:18,273 | INFO | Pisco Answer: Emperor Taiwu of Northern Wei was married to Empress Helian, who is also known as Empress Helian Taiwu. She was the daughter of Helian Bobo, the founder of the Xianbei's Northern Wei dynasty.
+2026-06-21 15:50:18,273 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:18,273 | INFO | ================================================================================
+2026-06-21 15:50:18,274 | INFO | Example 9
+2026-06-21 15:50:18,274 | INFO | Question: Who is Queen Dowager Shi married to?
+2026-06-21 15:50:18,274 | INFO | Answer: Yang Xingmi
+2026-06-21 15:50:18,274 | INFO | Answer Entity Popularity: 123.0
+2026-06-21 15:50:18,315 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:18,315 | INFO | Reranked passages for Example 9:
+2026-06-21 15:50:18,316 | INFO | Reranked rank: 1
+2026-06-21 15:50:18,316 | INFO | Original BM25 rank: 2
+2026-06-21 15:50:18,316 | INFO | DocID: 15269606
+2026-06-21 15:50:18,316 | INFO | Rerank score: 5.2545
+2026-06-21 15:50:18,316 | INFO | "Queen Dowager Shi" Queen Dowager Shi Queen Dowager Shi (史太妃, personal name unknown) was a concubine of the late-Tang Dynasty warlord Yang Xingmi and the mother of two of Yang Xingmi's sons, Yang Wo and Yang Longyan (also known as Yang Wei), both of whom would become rulers of the Five Dynasties and Ten Kingdoms period state Wu (known as Hongnong during Yang Wo's reign), and thus was a queen dowager of Wu. It is not known when Lady Shi was born. According to the ""Spring and Autumn Annals of the
+2026-06-21 15:50:18,316 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:19,477 | INFO | Pisco Answer: Queen Dowager Shi was married to Yang Xingmi, a late-Tang Dynasty warlord.
+2026-06-21 15:50:19,477 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:19,477 | INFO | ================================================================================
+2026-06-21 15:50:19,478 | INFO | Example 10
+2026-06-21 15:50:19,478 | INFO | Question: Who is Henriette Pauss married to?
+2026-06-21 15:50:19,478 | INFO | Answer: Bernhard Pauss
+2026-06-21 15:50:19,478 | INFO | Answer Entity Popularity: 124.0
+2026-06-21 15:50:19,815 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:19,815 | INFO | Reranked passages for Example 10:
+2026-06-21 15:50:19,815 | INFO | Reranked rank: 1
+2026-06-21 15:50:19,815 | INFO | Original BM25 rank: 5
+2026-06-21 15:50:19,815 | INFO | DocID: 19009746
+2026-06-21 15:50:19,815 | INFO | Rerank score: 7.1460
+2026-06-21 15:50:19,815 | INFO | "Henriette Wegner" son Heinrich Benjamin Wegner (1833–1911) was a timber merchant and married Henriette Vibe, a daughter of the classical philologist Ludvig Vibe; her oldest daughter Sophie Wegner (1838–1906) married colonel and aide-de-camp to king Charles Hans Jacob Nørregaard; her youngest daughter Anna Henriette Wegner (1841–1918) married the theologian Bernhard Pauss; her youngest son George Wegner (1847–1881) was a supreme court barrister. She was interred on 30 November 1875 at Gamle Aker
+2026-06-21 15:50:19,815 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:20,552 | INFO | Pisco Answer: Henriette Pauss is married to Timotheus Benjamin Wegner.
+2026-06-21 15:50:20,552 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:20,552 | INFO | ================================================================================
+2026-06-21 15:50:20,552 | INFO | Example 11
+2026-06-21 15:50:20,552 | INFO | Question: Who is Fran Myers married to?
+2026-06-21 15:50:20,552 | INFO | Answer: Roger Newman
+2026-06-21 15:50:20,552 | INFO | Answer Entity Popularity: 124.0
+2026-06-21 15:50:20,602 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:50:20,602 | INFO | ================================================================================
+2026-06-21 15:50:20,602 | INFO | Example 12
+2026-06-21 15:50:20,602 | INFO | Question: Who is Dante Ferretti married to?
+2026-06-21 15:50:20,602 | INFO | Answer: Francesca Lo Schiavo
+2026-06-21 15:50:20,602 | INFO | Answer Entity Popularity: 126.0
+2026-06-21 15:50:20,653 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:20,653 | INFO | Reranked passages for Example 12:
+2026-06-21 15:50:20,653 | INFO | Reranked rank: 1
+2026-06-21 15:50:20,653 | INFO | Original BM25 rank: 2
+2026-06-21 15:50:20,653 | INFO | DocID: 7340057
+2026-06-21 15:50:20,654 | INFO | Rerank score: 6.3655
+2026-06-21 15:50:20,654 | INFO | "Dante Ferretti" Dante Ferretti Dante Ferretti (, born 26 February 1943) is an Italian production designer, art director and costume designer. Throughout his career, Ferretti has worked with many acclaimed directors, both American and Italian, including Pier Paolo Pasolini, Elio Petri, Federico Fellini, Terry Gilliam, Franco Zeffirelli, Martin Scorsese, Francis Ford Coppola, Anthony Minghella, and Tim Burton. He frequently collaborates with his wife, set decorator Francesca Lo Schiavo. Ferretti 
+2026-06-21 15:50:20,654 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:21,510 | INFO | Pisco Answer: Dante Ferretti is married to Francesca Lo Schiavo.
+2026-06-21 15:50:21,510 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:21,510 | INFO | ================================================================================
+2026-06-21 15:50:21,510 | INFO | Example 13
+2026-06-21 15:50:21,510 | INFO | Question: Who is Charles Sanders Peirce married to?
+2026-06-21 15:50:21,511 | INFO | Answer: Juliette Peirce
+2026-06-21 15:50:21,511 | INFO | Answer Entity Popularity: 131.0
+2026-06-21 15:50:21,539 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:21,539 | INFO | Reranked passages for Example 13:
+2026-06-21 15:50:21,539 | INFO | Reranked rank: 1
+2026-06-21 15:50:21,540 | INFO | Original BM25 rank: 34
+2026-06-21 15:50:21,540 | INFO | DocID: 9134341
+2026-06-21 15:50:21,540 | INFO | Rerank score: 5.9417
+2026-06-21 15:50:21,540 | INFO | "Juliette Peirce" and passed away...in the distinction of her devotion."" ""Pierce-Arrow"", by Susan Howe, New Directions, 1999, consists of an essay and poems focusing on Charles and his wife Juliette. The spelling of the title is correct, referring to the old motor car company, as well as punning for example on the Peirce arrow (""formula_1""), logical symbol for ""neither...nor..."". Juliette Peirce Juliette Peirce (; d. October 4, 1934) was the second wife of the mathematician and philosophe
+2026-06-21 15:50:21,540 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:22,281 | INFO | Pisco Answer: Charles Sanders Peirce is married to Juliette Peirce.
+2026-06-21 15:50:22,281 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:22,282 | INFO | ================================================================================
+2026-06-21 15:50:22,282 | INFO | Example 14
+2026-06-21 15:50:22,282 | INFO | Question: Who is Lars Hanson married to?
+2026-06-21 15:50:22,282 | INFO | Answer: Karin Molander
+2026-06-21 15:50:22,282 | INFO | Answer Entity Popularity: 133.0
+2026-06-21 15:50:22,330 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:22,330 | INFO | Reranked passages for Example 14:
+2026-06-21 15:50:22,330 | INFO | Reranked rank: 1
+2026-06-21 15:50:22,330 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:22,330 | INFO | DocID: 6130634
+2026-06-21 15:50:22,331 | INFO | Rerank score: 8.6462
+2026-06-21 15:50:22,331 | INFO | "Lars Hanson" directed by fellow countryman Victor Sjöström. In 1922, Lars Hanson married the ex-wife of influential director Gustaf Molander, Swedish actress Karin Molander. The couple remained married until Hanson's death in 1965. Hanson's Hollywood career as an actor steadily grew momentum during the 1920s and he was paired with Greta Garbo in two more motion pictures; MGM's 1927 box-office hit ""Flesh and the Devil"", which also starred Garbo's offscreen lover, the successful film actor John
+2026-06-21 15:50:22,331 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:23,394 | INFO | Pisco Answer: Lars Hanson was married to Swedish actress Karin Molander. (Document 1 and Document 2)
+2026-06-21 15:50:23,395 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:23,395 | INFO | ================================================================================
+2026-06-21 15:50:23,395 | INFO | Example 15
+2026-06-21 15:50:23,395 | INFO | Question: Who is Birgitte Gøye married to?
+2026-06-21 15:50:23,395 | INFO | Answer: Herluf Trolle
+2026-06-21 15:50:23,395 | INFO | Answer Entity Popularity: 134.0
+2026-06-21 15:50:23,800 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:23,800 | INFO | Reranked passages for Example 15:
+2026-06-21 15:50:23,801 | INFO | Reranked rank: 1
+2026-06-21 15:50:23,801 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:23,801 | INFO | DocID: 14936674
+2026-06-21 15:50:23,801 | INFO | Rerank score: 7.6537
+2026-06-21 15:50:23,801 | INFO | "Birgitte Gøye" the queen, the king had professors and bishops investigate the matter and then issued a new law that banned parents from arranging engagements for their minor children. She married courtier Herluf Trolle in 1544. She had no issue, but raised many foster daughters from the nobility in her home and arranged their marriages. In 1565, she founded the Herlufsholm School by donating her estate Skovkloster to it, and functioned as its principal until 1567. She was the county administrat
+2026-06-21 15:50:23,801 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:24,517 | INFO | Pisco Answer: Birgitte Gøye is married to Herluf Trolle.
+2026-06-21 15:50:24,517 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:24,517 | INFO | ================================================================================
+2026-06-21 15:50:24,517 | INFO | Example 16
+2026-06-21 15:50:24,517 | INFO | Question: Who is Euphrosyne Parepa-Rosa married to?
+2026-06-21 15:50:24,517 | INFO | Answer: Carl Rosa
+2026-06-21 15:50:24,517 | INFO | Answer Entity Popularity: 136.0
+2026-06-21 15:50:25,949 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:25,949 | INFO | Reranked passages for Example 16:
+2026-06-21 15:50:25,949 | INFO | Reranked rank: 1
+2026-06-21 15:50:25,949 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:25,949 | INFO | DocID: 11030986
+2026-06-21 15:50:25,950 | INFO | Rerank score: 9.1331
+2026-06-21 15:50:25,950 | INFO | "Euphrosyne Parepa-Rosa" Euphrosyne Parepa-Rosa Euphrosyne Parepa-Rosa (7 May 1836 – 21 January 1874) was a British operatic soprano who established the Carl Rosa Opera Company together with her husband Carl Rosa. Parepa's aristocratic father died soon after her birth, and her mother turned to the stage to support them. Parepa made her operatic debut in 1855, at age 16, and soon earned enthusiastic reviews in the major London opera houses. In 1867, the widowed Parosa married the violinist and co
+2026-06-21 15:50:25,950 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:26,925 | INFO | Pisco Answer: Euphrosyne Parepa-Rosa is married to Carl Rosa.
+2026-06-21 15:50:26,926 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:26,926 | INFO | ================================================================================
+2026-06-21 15:50:26,926 | INFO | Example 17
+2026-06-21 15:50:26,926 | INFO | Question: Who is Ngapoi Ngawang Jigme married to?
+2026-06-21 15:50:26,926 | INFO | Answer: Ngapoi Cedain Zhoigar
+2026-06-21 15:50:26,926 | INFO | Answer Entity Popularity: 137.0
+2026-06-21 15:50:26,948 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:50:26,948 | INFO | ================================================================================
+2026-06-21 15:50:26,948 | INFO | Example 18
+2026-06-21 15:50:26,948 | INFO | Question: Who is Shushanik married to?
+2026-06-21 15:50:26,948 | INFO | Answer: Varsken of Gogarene
+2026-06-21 15:50:26,948 | INFO | Answer Entity Popularity: 143.0
+2026-06-21 15:50:26,972 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:50:26,972 | INFO | ================================================================================
+2026-06-21 15:50:26,973 | INFO | Example 19
+2026-06-21 15:50:26,973 | INFO | Question: Who is Princess Li Jingshou married to?
+2026-06-21 15:50:26,973 | INFO | Answer: Juqu Mujian
+2026-06-21 15:50:26,973 | INFO | Answer Entity Popularity: 144.0
+2026-06-21 15:50:27,048 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:27,048 | INFO | Reranked passages for Example 19:
+2026-06-21 15:50:27,048 | INFO | Reranked rank: 1
+2026-06-21 15:50:27,048 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:27,048 | INFO | DocID: 7721824
+2026-06-21 15:50:27,048 | INFO | Rerank score: 8.9825
+2026-06-21 15:50:27,048 | INFO | "Princess Li Jingshou" wanted to marry his sister Princess Wuwei to Juqu Mujian. Juqu Mujian was therefore forced to divorce Princess Li, and she and her mother Princess Dowager Yin were relocated from the Northern Liang capital Guzang (姑臧, in modern Wuwei, Gansu) to Jiuquan. Princess Li soon died. Princess Li Jingshou Princess Li Jingshou (李敬受) (died 437?) was a princess of the Chinese/Xiongnu state Northern Liang. Her husband was Juqu Mujian (Prince Ai). Li Jingshou was the daughter of the Wes
+2026-06-21 15:50:27,048 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:27,799 | INFO | Pisco Answer: Princess Li Jingshou was married to Prince Juqu Mengxun.
+2026-06-21 15:50:27,799 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:27,799 | INFO | ================================================================================
+2026-06-21 15:50:27,800 | INFO | Example 20
+2026-06-21 15:50:27,800 | INFO | Question: Who is Milton Resnick married to?
+2026-06-21 15:50:27,800 | INFO | Answer: Pat Passlof
+2026-06-21 15:50:27,800 | INFO | Answer Entity Popularity: 145.0
+2026-06-21 15:50:27,832 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:27,832 | INFO | Reranked passages for Example 20:
+2026-06-21 15:50:27,832 | INFO | Reranked rank: 1
+2026-06-21 15:50:27,832 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:27,832 | INFO | DocID: 16115288
+2026-06-21 15:50:27,832 | INFO | Rerank score: 6.9497
+2026-06-21 15:50:27,832 | INFO | "Pat Passlof" in the novel ""The Longest Ride by Nicholas Sparks and inspired by Black Mountain College and in turn the movie made from the book also named The Longest Ride. Passlof was married to painter Milton Resnick, who died in 2004. Passlof died of cancer on November 13, 2011 in New York City, New York. She was 83. A long-planned exhibition of her paintings opened at the Elizabeth Harris Gallery in Chelsea, NY six days after her death. The Milton Resnick and Pat Passlof Foundation was esta
+2026-06-21 15:50:27,832 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:28,676 | INFO | Pisco Answer: Milton Resnick was married to Pat Passlof.
+2026-06-21 15:50:28,677 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:28,677 | INFO | ================================================================================
+2026-06-21 15:50:28,677 | INFO | Example 21
+2026-06-21 15:50:28,677 | INFO | Question: Who is Henry Hudson Kitson married to?
+2026-06-21 15:50:28,677 | INFO | Answer: Theo Alice Ruggles Kitson
+2026-06-21 15:50:28,677 | INFO | Answer Entity Popularity: 147.0
+2026-06-21 15:50:28,720 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:28,721 | INFO | Reranked passages for Example 21:
+2026-06-21 15:50:28,721 | INFO | Reranked rank: 1
+2026-06-21 15:50:28,721 | INFO | Original BM25 rank: 2
+2026-06-21 15:50:28,721 | INFO | DocID: 6966305
+2026-06-21 15:50:28,721 | INFO | Rerank score: 7.7313
+2026-06-21 15:50:28,721 | INFO | "Henry Hudson Kitson" His students included portrait sculptor Leila Usher. John William Kitson died in 1888 and Samuel James had returned to Boston after a stay in Washington DC. The youngest brother Robert Lewellen Kitson a water-colorist joined his older brothers in Boston about 1902. In 1893, Henry married Theo Alice Ruggles, a former student of his, who went on to have a successful career of her own as Theo Alice Ruggles Kitson. Theo and Harry had three children: Theo (called Babs), John, wh
+2026-06-21 15:50:28,721 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:29,423 | INFO | Pisco Answer: Henry Hudson Kitson was married to Theo Alice Ruggles.
+2026-06-21 15:50:29,423 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:29,423 | INFO | ================================================================================
+2026-06-21 15:50:29,423 | INFO | Example 22
+2026-06-21 15:50:29,423 | INFO | Question: Who is Sture Lagerwall married to?
+2026-06-21 15:50:29,423 | INFO | Answer: Guje Lagerwall
+2026-06-21 15:50:29,423 | INFO | Answer Entity Popularity: 152.0
+2026-06-21 15:50:29,446 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:50:29,446 | INFO | ================================================================================
+2026-06-21 15:50:29,446 | INFO | Example 23
+2026-06-21 15:50:29,446 | INFO | Question: Who is Ashot Taronites married to?
+2026-06-21 15:50:29,446 | INFO | Answer: Miroslava of Bulgaria
+2026-06-21 15:50:29,446 | INFO | Answer Entity Popularity: 156.0
+2026-06-21 15:50:29,472 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:29,472 | INFO | Reranked passages for Example 23:
+2026-06-21 15:50:29,473 | INFO | Reranked rank: 1
+2026-06-21 15:50:29,473 | INFO | Original BM25 rank: 4
+2026-06-21 15:50:29,473 | INFO | DocID: 8823258
+2026-06-21 15:50:29,473 | INFO | Rerank score: 5.5941
+2026-06-21 15:50:29,473 | INFO | "Miroslava of Bulgaria" Miroslava of Bulgaria Miroslava () was one of the daughters of tsar Samuil of Bulgaria and Agatha. Princess Miroslava fell in love with the Byzantine noble captive Ashot Taronites, who was of Armenian origin, and threatened to commit suicide if she was not allowed to marry him. Samuel conceded and appointed Ashot governor of Dyrrhachium. Later Ashot made contact with the local Byzantines and the influential John Chryselios, Samuel's father-in-law. Ashot and Miroslava boar
+2026-06-21 15:50:29,473 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:30,373 | INFO | Pisco Answer: Ashot Taronites is married to Miroslava of Bulgaria.
+2026-06-21 15:50:30,373 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:30,373 | INFO | ================================================================================
+2026-06-21 15:50:30,374 | INFO | Example 24
+2026-06-21 15:50:30,374 | INFO | Question: Who is Kamila Andini married to?
+2026-06-21 15:50:30,374 | INFO | Answer: Ifa Isfansyah
+2026-06-21 15:50:30,374 | INFO | Answer Entity Popularity: 158.0
+2026-06-21 15:50:30,662 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:30,662 | INFO | Reranked passages for Example 24:
+2026-06-21 15:50:30,662 | INFO | Reranked rank: 1
+2026-06-21 15:50:30,662 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:30,662 | INFO | DocID: 17052878
+2026-06-21 15:50:30,662 | INFO | Rerank score: 7.4106
+2026-06-21 15:50:30,662 | INFO | "Kamila Andini" mirrors to try to find her lost father. It received numerous awards both domestically and internationally, including a Best Director nomination for Andini at the 2011 Indonesian Film Festival (IFF) and a win in the same category at the following year's Bandung Film Festival. In March 2012 Andini married fellow director Ifa Isfansyah. His 2011 film ""Sang Penari"" (""The Dancer"") had provided stiff competition to ""The Mirror Never Lies"" at the IFF. In May of that year she state
+2026-06-21 15:50:30,663 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:31,400 | INFO | Pisco Answer: Kamila Andini is married to Ifa Isfansyah.
+2026-06-21 15:50:31,400 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:31,400 | INFO | ================================================================================
+2026-06-21 15:50:31,400 | INFO | Example 25
+2026-06-21 15:50:31,401 | INFO | Question: Who is Helvidius Priscus married to?
+2026-06-21 15:50:31,401 | INFO | Answer: Fannia
+2026-06-21 15:50:31,401 | INFO | Answer Entity Popularity: 158.0
+2026-06-21 15:50:31,437 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:31,437 | INFO | Reranked passages for Example 25:
+2026-06-21 15:50:31,437 | INFO | Reranked rank: 1
+2026-06-21 15:50:31,437 | INFO | Original BM25 rank: 2
+2026-06-21 15:50:31,437 | INFO | DocID: 2579512
+2026-06-21 15:50:31,438 | INFO | Rerank score: 7.9556
+2026-06-21 15:50:31,438 | INFO | "Helvidius Priscus" He probably also had a granddaughter, Helvidia Priscilla, who married Lucius Vipstanus Poplicola Messalla. Through her, he has known descendants into at least the 6th century. Helvidius Priscus Helvidius Priscus, Stoic philosopher and statesman, lived during the reigns of Nero, Galba, Otho, Vitellius and Vespasian. Like his father-in-law, Thrasea Paetus, whose daughter Fannia he had taken as his second wife, Priscus was distinguished for his ardent and courageous republicanis
+2026-06-21 15:50:31,438 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:33,769 | INFO | Pisco Answer: Helvidius Priscus was married to Fannia, who was the daughter of Thrasea Paetus. He also had a daughter, Helvidia Priscilla, with Fannia. Later, Helvidia Priscilla married Lucius Vipstanus Messalla Poplicola.
+2026-06-21 15:50:33,769 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:33,769 | INFO | ================================================================================
+2026-06-21 15:50:33,769 | INFO | Example 26
+2026-06-21 15:50:33,769 | INFO | Question: Who is Atia married to?
+2026-06-21 15:50:33,769 | INFO | Answer: Lucius Marcius Philippus
+2026-06-21 15:50:33,769 | INFO | Answer Entity Popularity: 158.0
+2026-06-21 15:50:33,794 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:33,794 | INFO | Reranked passages for Example 26:
+2026-06-21 15:50:33,794 | INFO | Reranked rank: 1
+2026-06-21 15:50:33,794 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:33,794 | INFO | DocID: 7307167
+2026-06-21 15:50:33,794 | INFO | Rerank score: 7.5051
+2026-06-21 15:50:33,795 | INFO | "Julia Minor (sister of Caesar)" (fourth wife of triumvir Mark Antony) and of first Emperor Augustus. Atia Balba Caesonia' sister, Atia Balba Prima (or Atia Balba Tertia) was the wife of Lucius Marcius Philippus. Their daughter, Marcia, later married to Paullus Fabius Maximus and bore him a son, Paullus Fabius Persicus. Fabia Numantina was either Marcia's daughter with Maximus or a daughter of his brother Africanus Fabius Maximus. Another Atia, who may have been her daughter or her husband's dau
+2026-06-21 15:50:33,795 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:34,450 | INFO | Pisco Answer: Atia is married to Lucius Marcius Philippus.
+2026-06-21 15:50:34,450 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:34,450 | INFO | ================================================================================
+2026-06-21 15:50:34,451 | INFO | Example 27
+2026-06-21 15:50:34,451 | INFO | Question: Who is Sabine Thalbach married to?
+2026-06-21 15:50:34,451 | INFO | Answer: Benno Besson
+2026-06-21 15:50:34,451 | INFO | Answer Entity Popularity: 159.0
+2026-06-21 15:50:34,479 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:50:34,479 | INFO | ================================================================================
+2026-06-21 15:50:34,479 | INFO | Example 28
+2026-06-21 15:50:34,479 | INFO | Question: Who is Ariadna Scriabina married to?
+2026-06-21 15:50:34,479 | INFO | Answer: Dovid Knut
+2026-06-21 15:50:34,479 | INFO | Answer Entity Popularity: 162.0
+2026-06-21 15:50:34,504 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:34,504 | INFO | Reranked passages for Example 28:
+2026-06-21 15:50:34,504 | INFO | Reranked rank: 1
+2026-06-21 15:50:34,504 | INFO | Original BM25 rank: 22
+2026-06-21 15:50:34,504 | INFO | DocID: 16886785
+2026-06-21 15:50:34,504 | INFO | Rerank score: 7.5201
+2026-06-21 15:50:34,505 | INFO | "Ariadna Scriabina" she wrote and published poetry. She married three times, last time with poet Dovid Knut (real name Duvid Meerovich Fiksman). Together with her husband she supported the ideas of Revisionist Zionism. She was baptised in an Orthodox rite as a child, but later converted to Judaism taking the Hebrew name Sarah. During the German occupation of France, she was the organizer and active member of the Jewish resistance in the south of the country. She was killed in Toulouse by a milic
+2026-06-21 15:50:34,505 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:36,058 | INFO | Pisco Answer: Ariadna Scriabina was married to Dovid Knut (real name Fuchsmeister), a poet. They were married in 1939.
+2026-06-21 15:50:36,058 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:36,058 | INFO | ================================================================================
+2026-06-21 15:50:36,059 | INFO | Example 29
+2026-06-21 15:50:36,059 | INFO | Question: Who is Marie-Claude Vaillant-Couturier married to?
+2026-06-21 15:50:36,059 | INFO | Answer: Pierre Villon
+2026-06-21 15:50:36,059 | INFO | Answer Entity Popularity: 164.0
+2026-06-21 15:50:36,090 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:36,090 | INFO | Reranked passages for Example 29:
+2026-06-21 15:50:36,090 | INFO | Reranked rank: 1
+2026-06-21 15:50:36,090 | INFO | Original BM25 rank: 14
+2026-06-21 15:50:36,090 | INFO | DocID: 9673921
+2026-06-21 15:50:36,090 | INFO | Rerank score: 8.0327
+2026-06-21 15:50:36,090 | INFO | "Marie-Claude Vaillant-Couturier" and a clandestine edition of ""L'Humanité"" with Pierre Villon (her second husband, whom she married in 1949). She strengthened the relationship between the civil resistance (Committee of National Front Intellectuals to fight for the Independence of France) and the military resistance (the ""Organization spéciale"" (OS), which later became the ""Franc-tireurs et Partisans Français"" (FTPF), French Snipers and Partisans. She even transported explosives. She was a
+2026-06-21 15:50:36,090 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:37,011 | INFO | Pisco Answer: Marie-Claude Vaillant-Couturier is married to Pierre Villon.
+2026-06-21 15:50:37,011 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:37,011 | INFO | ================================================================================
+2026-06-21 15:50:37,012 | INFO | Example 30
+2026-06-21 15:50:37,012 | INFO | Question: Who is Louise Homer married to?
+2026-06-21 15:50:37,012 | INFO | Answer: Sidney Homer, Sr.
+2026-06-21 15:50:37,012 | INFO | Answer Entity Popularity: 164.0
+2026-06-21 15:50:37,048 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:37,048 | INFO | Reranked passages for Example 30:
+2026-06-21 15:50:37,048 | INFO | Reranked rank: 1
+2026-06-21 15:50:37,048 | INFO | Original BM25 rank: 5
+2026-06-21 15:50:37,048 | INFO | DocID: 9752825
+2026-06-21 15:50:37,049 | INFO | Rerank score: 3.5869
+2026-06-21 15:50:37,049 | INFO | "Sidney Homer" Sidney Homer Sidney Homer, Sr. (9 December 1864 – 10 July 1953) was a classical composer, primarily of songs. Homer was the youngest child born to deaf parents in Boston, Massachusetts on December 9, 1864 (some sources use 1865). He attended the 1884 class of Phillips Academy in Andover, Massachusetts, but did not attend college. He married contralto Louise Dilworth Beatty in 1895. Sidney Homer died on July 10, 1953 in Winter Park, Florida. Sidney Homer's influence included his me
+2026-06-21 15:50:37,049 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:37,840 | INFO | Pisco Answer: Louise Homer is married to Sidney Homer.
+2026-06-21 15:50:37,840 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:37,840 | INFO | ================================================================================
+2026-06-21 15:50:37,840 | INFO | Example 31
+2026-06-21 15:50:37,840 | INFO | Question: Who is Margaret Holles, Duchess of Newcastle-upon-Tyne married to?
+2026-06-21 15:50:37,840 | INFO | Answer: John Holles, 1st Duke of Newcastle
+2026-06-21 15:50:37,840 | INFO | Answer Entity Popularity: 167.0
+2026-06-21 15:50:37,877 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:37,877 | INFO | Reranked passages for Example 31:
+2026-06-21 15:50:37,878 | INFO | Reranked rank: 1
+2026-06-21 15:50:37,878 | INFO | Original BM25 rank: 3
+2026-06-21 15:50:37,878 | INFO | DocID: 6393182
+2026-06-21 15:50:37,878 | INFO | Rerank score: 7.9021
+2026-06-21 15:50:37,878 | INFO | "John Holles, 1st Duke of Newcastle" the 1st Duke of Newcastle-upon-Tyne, of the 2nd creation, in 1694. The Duke of Newcastle-upon-Tyne is a title which was created three times in British history. The first creation had become extinct when Henry Cavendish, 2nd Duke of Newcastle-upon-Tyne died with out a male heir. On 1 March 1690, he married Lady Margaret Cavendish, a daughter of Henry Cavendish. They had one child, Lady Henrietta Cavendish Holles (1694–1755), who married the 2nd Earl of Oxford 
+2026-06-21 15:50:37,878 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:39,365 | INFO | Pisco Answer: Margaret Holles, Duchess of Newcastle-upon-Tyne was married to John Cavendish, 1st Duke of Newcastle-upon-Tyne.
+2026-06-21 15:50:39,365 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:39,365 | INFO | ================================================================================
+2026-06-21 15:50:39,365 | INFO | Example 32
+2026-06-21 15:50:39,366 | INFO | Question: Who is Marija Lastauskienė married to?
+2026-06-21 15:50:39,366 | INFO | Answer: Vaclau Lastouski
+2026-06-21 15:50:39,366 | INFO | Answer Entity Popularity: 171.0
+2026-06-21 15:50:39,397 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:39,397 | INFO | Reranked passages for Example 32:
+2026-06-21 15:50:39,398 | INFO | Reranked rank: 1
+2026-06-21 15:50:39,398 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:39,398 | INFO | DocID: 13419288
+2026-06-21 15:50:39,398 | INFO | Rerank score: 8.5999
+2026-06-21 15:50:39,398 | INFO | "Marija Lastauskienė" Marija Lastauskienė Marija Lastauskienė ""née"" Ivanauskaitė () (15 May 1872 in Šiauliai – 19 July 1957 in Kaunas) and her sister Sofija Pšibiliauskienė were Lithuanian sisters who wrote under the shared pen name ""Lazdynų Pelėda"" (""Hazel Owl""). Marija married Belarusian literary critic and politician Vaclau Lastouski (Lastauskas), but divorced after a few years. Born in Šiauliai, Lastauskienė grew up and spent her youth in a family estate in Paragiai. Her father was pa
+2026-06-21 15:50:39,398 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:40,377 | INFO | Pisco Answer: Marija Lastauskienė is married to Vaclovas Lastauskas.
+2026-06-21 15:50:40,377 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:40,377 | INFO | ================================================================================
+2026-06-21 15:50:40,378 | INFO | Example 33
+2026-06-21 15:50:40,378 | INFO | Question: Who is Johannes Heesters married to?
+2026-06-21 15:50:40,378 | INFO | Answer: Louisa Ghijs
+2026-06-21 15:50:40,378 | INFO | Answer Entity Popularity: 177.0
+2026-06-21 15:50:40,404 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:40,405 | INFO | Reranked passages for Example 33:
+2026-06-21 15:50:40,405 | INFO | Reranked rank: 1
+2026-06-21 15:50:40,405 | INFO | Original BM25 rank: 4
+2026-06-21 15:50:40,405 | INFO | DocID: 2259127
+2026-06-21 15:50:40,405 | INFO | Rerank score: 6.0436
+2026-06-21 15:50:40,405 | INFO | "Johannes Heesters" he had failed to understand the show's satirical nature. Heesters played smaller roles in his last years, as he began to lose his eyesight due to macular degeneration and could not perform on stage for long periods of times. Unable to read a teleprompter, he had to memorize his lines before a show. He played in the 2011 short film ""Ten"" as Simon Petrus and made his last stage appearance on 31 October 2011 in Munich. Heesters had two daughters by his first wife Louisa Ghijs,
+2026-06-21 15:50:40,405 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:42,196 | INFO | Pisco Answer: Johannes Heesters was married to two women. He had two daughters with his first wife, whose name is not mentioned in the provided documents. He married his second wife, whose name is also not mentioned, in 1991.
+2026-06-21 15:50:42,196 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:42,196 | INFO | ================================================================================
+2026-06-21 15:50:42,197 | INFO | Example 34
+2026-06-21 15:50:42,197 | INFO | Question: Who is Sarah Lyttelton, Baroness Lyttelton married to?
+2026-06-21 15:50:42,197 | INFO | Answer: William Lyttelton, 3rd Baron Lyttelton
+2026-06-21 15:50:42,197 | INFO | Answer Entity Popularity: 177.0
+2026-06-21 15:50:42,230 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:42,230 | INFO | Reranked passages for Example 34:
+2026-06-21 15:50:42,230 | INFO | Reranked rank: 1
+2026-06-21 15:50:42,230 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:42,230 | INFO | DocID: 12750233
+2026-06-21 15:50:42,230 | INFO | Rerank score: 10.4258
+2026-06-21 15:50:42,230 | INFO | "Sarah Lyttelton, Baroness Lyttelton" Sarah Lyttelton, Baroness Lyttelton Sarah Lyttelton, Baroness Lyttelton (""née"" Spencer) (29 July 1787 – 13 April 1870) was a British courtier, governess to Edward VII of the United Kingdom, and wife of William Lyttelton, 3rd Baron Lyttelton. She was born Lady Sarah Spencer at the Spencer seat of Althorp in Northamptonshire on 29 July 1787, and was the eldest daughter of the Whig politician Sir George Spencer, 2nd Earl Spencer (1758–1834) and Lady Lavinia B
+2026-06-21 15:50:42,230 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:43,494 | INFO | Pisco Answer: Sarah Lyttelton, Baroness Lyttelton was married to William Lyttelton, 3rd Baron Lyttelton.
+2026-06-21 15:50:43,495 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:43,495 | INFO | ================================================================================
+2026-06-21 15:50:43,495 | INFO | Example 35
+2026-06-21 15:50:43,495 | INFO | Question: Who is Hypermnestra married to?
+2026-06-21 15:50:43,495 | INFO | Answer: Lynceus
+2026-06-21 15:50:43,495 | INFO | Answer Entity Popularity: 179.0
+2026-06-21 15:50:45,225 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:45,225 | INFO | Reranked passages for Example 35:
+2026-06-21 15:50:45,225 | INFO | Reranked rank: 1
+2026-06-21 15:50:45,225 | INFO | Original BM25 rank: 4
+2026-06-21 15:50:45,225 | INFO | DocID: 21175
+2026-06-21 15:50:45,225 | INFO | Rerank score: 6.2797
+2026-06-21 15:50:45,225 | INFO | Aeschylus their husbands as ordered; Hypermnestra, however, loved her husband Lynceus, and thus spared his life and helped him to escape. Angered by his daughter's disobedience, Danaus orders her imprisonment and, possibly, her execution. In the trilogy's climax and dénouement, Lynceus reveals himself to Danaus, and kills him (thus fulfilling the oracle). He and Hypermnestra will establish a ruling dynasty in Argos. The other forty-nine Danaids are absolved of their murderous crime, and married 
+2026-06-21 15:50:45,225 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:45,836 | INFO | Pisco Answer: Hypermnestra is married to her husband Lynceus.
+2026-06-21 15:50:45,836 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:45,836 | INFO | ================================================================================
+2026-06-21 15:50:45,836 | INFO | Example 36
+2026-06-21 15:50:45,836 | INFO | Question: Who is Elena Firsova married to?
+2026-06-21 15:50:45,836 | INFO | Answer: Dmitri Smirnov
+2026-06-21 15:50:45,837 | INFO | Answer Entity Popularity: 180.0
+2026-06-21 15:50:45,881 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:45,881 | INFO | Reranked passages for Example 36:
+2026-06-21 15:50:45,881 | INFO | Reranked rank: 1
+2026-06-21 15:50:45,881 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:45,881 | INFO | DocID: 7121817
+2026-06-21 15:50:45,881 | INFO | Rerank score: 8.0900
+2026-06-21 15:50:45,881 | INFO | "Elena Firsova" Elena Firsova Elena Olegovna Firsova (; also ""Yelena"" or ""Jelena Firssowa""; born 21 March 1950, Leningrad) is a Russian composer. Firsova was born in Leningrad into the family of physicists Oleg Firsov and Viktoria Lichko. She studied music in Moscow with Alexander Pirumov, Yuri Kholopov, Edison Denisov and Philip Herschkowitz. In 1979 she was blacklisted as one of the ""Khrennikov's Seven"" at the Sixth Congress of the Union of Soviet Composers for unapproved participation i
+2026-06-21 15:50:45,881 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:46,730 | INFO | Pisco Answer: Elena Firsova is married to the British composer John Woolrich.
+2026-06-21 15:50:46,730 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:46,730 | INFO | ================================================================================
+2026-06-21 15:50:46,730 | INFO | Example 37
+2026-06-21 15:50:46,730 | INFO | Question: Who is Blair Hughes-Stanton married to?
+2026-06-21 15:50:46,730 | INFO | Answer: Gertrude Hermes
+2026-06-21 15:50:46,731 | INFO | Answer Entity Popularity: 180.0
+2026-06-21 15:50:46,775 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:46,775 | INFO | Reranked passages for Example 37:
+2026-06-21 15:50:46,775 | INFO | Reranked rank: 1
+2026-06-21 15:50:46,775 | INFO | Original BM25 rank: 8
+2026-06-21 15:50:46,775 | INFO | DocID: 16385704
+2026-06-21 15:50:46,775 | INFO | Rerank score: 7.6953
+2026-06-21 15:50:46,775 | INFO | "Blair Hughes-Stanton" Beasts and Flowers"" (1930). In 1925 he fell in love with Gertrude Hermes, a fellow student at Brook Green and another member of the Underwood inner circle. In 1926 he sold his copy of ""The Seven Pillars of Wisdom"" for £100 and married her. They had two children, Judith (born 1927) and Simon (born 1928). In 1930 Hughes-Stanton and Hermes, along with William McCance and Agnes Miller Parker, were appointed in various capacities to the artistic and business management of th
+2026-06-21 15:50:46,775 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:47,507 | INFO | Pisco Answer: Blair Hughes-Stanton is married to Gertrude Hermes.
+2026-06-21 15:50:47,507 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:47,507 | INFO | ================================================================================
+2026-06-21 15:50:47,508 | INFO | Example 38
+2026-06-21 15:50:47,508 | INFO | Question: Who is Frøydis Armand married to?
+2026-06-21 15:50:47,508 | INFO | Answer: Helge Jordal
+2026-06-21 15:50:47,508 | INFO | Answer Entity Popularity: 181.0
+2026-06-21 15:50:47,537 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:47,537 | INFO | Reranked passages for Example 38:
+2026-06-21 15:50:47,537 | INFO | Reranked rank: 1
+2026-06-21 15:50:47,537 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:47,537 | INFO | DocID: 11647394
+2026-06-21 15:50:47,538 | INFO | Rerank score: 7.5439
+2026-06-21 15:50:47,538 | INFO | "Frøydis Armand" Frøydis Armand Frøydis Armand (born 9 April 1949) is a Norwegian actress. She is the daughter of actor Eilif Armand, and sister of Merete Armand and Gisken Armand, both actresses. She has been working at Nationaltheatret (the National Theatre) since 1972, acting in plays such as Henrik Ibsen's ""Little Eyolf"", and Shakespeares ""Othello"". Though primarily a stage actress, Armand is probably best known to the general audience as one of the three protagonists in Anja Breien's ""
+2026-06-21 15:50:47,538 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:48,487 | INFO | Pisco Answer: Frøydis Armand is married to actor and director, Bjørn Sundquist.
+2026-06-21 15:50:48,487 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:48,487 | INFO | ================================================================================
+2026-06-21 15:50:48,488 | INFO | Example 39
+2026-06-21 15:50:48,488 | INFO | Question: Who is Amparo Soler Leal married to?
+2026-06-21 15:50:48,488 | INFO | Answer: Adolfo Marsillach
+2026-06-21 15:50:48,488 | INFO | Answer Entity Popularity: 185.0
+2026-06-21 15:50:48,509 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:50:48,509 | INFO | ================================================================================
+2026-06-21 15:50:48,510 | INFO | Example 40
+2026-06-21 15:50:48,510 | INFO | Question: Who is Thiago Lacerda married to?
+2026-06-21 15:50:48,510 | INFO | Answer: Vanessa Lóes
+2026-06-21 15:50:48,510 | INFO | Answer Entity Popularity: 186.0
+2026-06-21 15:50:48,532 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:48,532 | INFO | Reranked passages for Example 40:
+2026-06-21 15:50:48,532 | INFO | Reranked rank: 1
+2026-06-21 15:50:48,533 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:48,533 | INFO | DocID: 9294299
+2026-06-21 15:50:48,533 | INFO | Rerank score: 9.5728
+2026-06-21 15:50:48,533 | INFO | "Thiago Lacerda" I choose always to be civilized. I think after the measures they took, I learned to be respected."" Thiago is married to the actress Vanessa Lóes, and they have one son, Gael, and two daughters: Cora and Pilar. Thiago Lacerda Thiago Ribeiro Lacerda (born January 19, 1978) is a Brazilian actor. Thiago, of Portuguese origin, spent his childhood between Rio de Janeiro, where he was born, and Recreio, a mining town where his grandparents lived. From the age of three to 16, he devote
+2026-06-21 15:50:48,533 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:49,176 | INFO | Pisco Answer: Thiago Lacerda is married to Vanessa Lóes.
+2026-06-21 15:50:49,176 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:49,176 | INFO | ================================================================================
+2026-06-21 15:50:49,176 | INFO | Example 41
+2026-06-21 15:50:49,176 | INFO | Question: Who is George XII of Georgia married to?
+2026-06-21 15:50:49,177 | INFO | Answer: Mariam Tsitsishvili
+2026-06-21 15:50:49,177 | INFO | Answer Entity Popularity: 187.0
+2026-06-21 15:50:49,210 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:49,210 | INFO | Reranked passages for Example 41:
+2026-06-21 15:50:49,211 | INFO | Reranked rank: 1
+2026-06-21 15:50:49,211 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:49,211 | INFO | DocID: 9490163
+2026-06-21 15:50:49,211 | INFO | Rerank score: 8.0355
+2026-06-21 15:50:49,211 | INFO | "Mariam Tsitsishvili" Mariam Tsitsishvili Mariam (), also known as Maria in European sources, (9 April 1768 – 30 March 1850) was the Queen of Georgia as the second wife and consort of the last King George XII of Georgia (reigned from 1798 to 1800). Princess Mariam Tsitsishvili was born at Tbilisi to Prince Giorgi Tsitsishvili, a representative of one of the preeminent noble houses of Georgia. George XII, then Heir Apparent to the Georgian throne, married her on 13 July 1783 after the death of hi
+2026-06-21 15:50:49,211 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:50,372 | INFO | Pisco Answer: George XII of Georgia was married to Mariam Tsitsishvili, the daughter of Prince Giorgi Tsitsishvili.
+2026-06-21 15:50:50,372 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:50,372 | INFO | ================================================================================
+2026-06-21 15:50:50,372 | INFO | Example 42
+2026-06-21 15:50:50,372 | INFO | Question: Who is Marcus Aemilius Scaurus married to?
+2026-06-21 15:50:50,372 | INFO | Answer: Caecilia Metella Dalmatica
+2026-06-21 15:50:50,372 | INFO | Answer Entity Popularity: 189.0
+2026-06-21 15:50:50,404 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:50,404 | INFO | Reranked passages for Example 42:
+2026-06-21 15:50:50,404 | INFO | Reranked rank: 1
+2026-06-21 15:50:50,404 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:50,404 | INFO | DocID: 7909985
+2026-06-21 15:50:50,404 | INFO | Rerank score: 8.0088
+2026-06-21 15:50:50,404 | INFO | "Marcus Aemilius Scaurus (praetor 56 BC)" Marcus Aemilius Scaurus (praetor 56 BC) Marcus Aemilius Scaurus was a Roman politician of the 1st century BC and son of Marcus Aemilius Scaurus and Caecilia Metella Dalmatica. Scaurus lost his father when he was very young, but his education was ensured by family friends. Pompey the Great was briefly married to his sister Aemilia Scaura and, even after her death, Pompey continued to take personal interest in the young man. During the Third Mithridatic Wa
+2026-06-21 15:50:50,404 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:52,264 | INFO | Pisco Answer: Marcus Aemilius Scaurus was married to Caecilia Metella Dalmatica. However, he was also married to Pompeia Aemilia Scauri, the sister of Pompey the Great, in a political marriage.
+2026-06-21 15:50:52,264 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:52,264 | INFO | ================================================================================
+2026-06-21 15:50:52,265 | INFO | Example 43
+2026-06-21 15:50:52,265 | INFO | Question: Who is Haleh Esfandiari married to?
+2026-06-21 15:50:52,265 | INFO | Answer: Shaul Bakhash
+2026-06-21 15:50:52,265 | INFO | Answer Entity Popularity: 192.0
+2026-06-21 15:50:52,287 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:52,287 | INFO | Reranked passages for Example 43:
+2026-06-21 15:50:52,287 | INFO | Reranked rank: 1
+2026-06-21 15:50:52,287 | INFO | Original BM25 rank: 4
+2026-06-21 15:50:52,287 | INFO | DocID: 10198912
+2026-06-21 15:50:52,287 | INFO | Rerank score: 10.1033
+2026-06-21 15:50:52,287 | INFO | "Haleh Esfandiari" husband and daughter because of the 1979 Iranian Revolution. She holds dual U.S.-Iranian citizenship. Esfandiari is married to Shaul Bakhash, a Jewish Iranian-American professor of history and Persian studies at George Mason University. She met Bakhash in the early 1960s, when both were reporters at the Iranian newspaper ""Kayhan"". They have a daughter and two granddaughters. Before Esfandiari left Iran, she had a career as a journalist and taught at the College of Mass Commu
+2026-06-21 15:50:52,287 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:53,597 | INFO | Pisco Answer: Haleh Esfandiari is married to Shaul Bakhash, a Jewish-Iranian professor of history and Persian studies at George Mason University.
+2026-06-21 15:50:53,597 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:53,597 | INFO | ================================================================================
+2026-06-21 15:50:53,597 | INFO | Example 44
+2026-06-21 15:50:53,597 | INFO | Question: Who is Louis Frederick I, Prince of Schwarzburg-Rudolstadt married to?
+2026-06-21 15:50:53,597 | INFO | Answer: Anna Sophie of Saxe-Gotha-Altenburg
+2026-06-21 15:50:53,597 | INFO | Answer Entity Popularity: 201.0
+2026-06-21 15:50:53,627 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:53,627 | INFO | Reranked passages for Example 44:
+2026-06-21 15:50:53,627 | INFO | Reranked rank: 1
+2026-06-21 15:50:53,627 | INFO | Original BM25 rank: 7
+2026-06-21 15:50:53,627 | INFO | DocID: 16521623
+2026-06-21 15:50:53,627 | INFO | Rerank score: 7.6625
+2026-06-21 15:50:53,627 | INFO | "Frederick Anton, Prince of Schwarzburg-Rudolstadt" Frederick Anton, Prince of Schwarzburg-Rudolstadt Frederick Anton of Schwarzburg-Rudolstadt (14 August 1692 in Rudolstadt – 1 September 1744 in Rudolstadt) was the ruling Prince of Schwarzburg-Rudolstadt from 1718 until his death. He was the eldest son of Prince Louis Frederick I of Schwarzburg-Rudolstadt and his wife Anna Sophie of Saxe-Gotha-Altenburg. He had three brothers, along with nine sisters, but in 1713 primogeniture was introduced in
+2026-06-21 15:50:53,628 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:54,883 | INFO | Pisco Answer: Louis Frederick I, Prince of Schwarzburg-Rudolstadt was married to Anna Sophie of Saxe-Gotha-Altenburg.
+2026-06-21 15:50:54,883 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:54,883 | INFO | ================================================================================
+2026-06-21 15:50:54,884 | INFO | Example 45
+2026-06-21 15:50:54,884 | INFO | Question: Who is John Gorton married to?
+2026-06-21 15:50:54,884 | INFO | Answer: Bettina Gorton
+2026-06-21 15:50:54,884 | INFO | Answer Entity Popularity: 205.0
+2026-06-21 15:50:54,906 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:54,906 | INFO | Reranked passages for Example 45:
+2026-06-21 15:50:54,906 | INFO | Reranked rank: 1
+2026-06-21 15:50:54,906 | INFO | Original BM25 rank: 5
+2026-06-21 15:50:54,906 | INFO | DocID: 13320631
+2026-06-21 15:50:54,906 | INFO | Rerank score: 7.5773
+2026-06-21 15:50:54,906 | INFO | "Bettina Gorton" Bettina Gorton Bettina Edith Gorton (née Brown; 23 June 1915 – 2 October 1983) was an American-born academic who was best known as the first wife of John Gorton, the 19th Prime Minister of Australia. She was born in Portland, Maine, met her husband while studying in France, and married in 1935. She developed an interest in South-East Asian culture relatively late in life, learning to speak Malay and Javanese and completing her first university degree at the age of 50. She was in
+2026-06-21 15:50:54,906 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:57,548 | INFO | Pisco Answer: John Gorton was married to Bettina Edith Gorton, née Brown. She was an American-born academic who developed an interest in South-East Asian culture late in life and learned to speak Malay and Javanese. They met in Portland, Maine, where she was studying, and were married in 1935.
+2026-06-21 15:50:57,548 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:50:57,548 | INFO | ================================================================================
+2026-06-21 15:50:57,548 | INFO | Example 46
+2026-06-21 15:50:57,548 | INFO | Question: Who is Leon de Winter married to?
+2026-06-21 15:50:57,548 | INFO | Answer: Jessica Durlacher
+2026-06-21 15:50:57,548 | INFO | Answer Entity Popularity: 213.0
+2026-06-21 15:50:57,584 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:57,584 | INFO | Reranked passages for Example 46:
+2026-06-21 15:50:57,584 | INFO | Reranked rank: 1
+2026-06-21 15:50:57,584 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:57,584 | INFO | DocID: 4677660
+2026-06-21 15:50:57,584 | INFO | Rerank score: 7.9523
+2026-06-21 15:50:57,584 | INFO | "Leon de Winter" Boekenweekgeschenk"". De Winter's latest novels are ""De hemel van Hollywood"", which was published in 1997, ""God's Gym"", which was published in 2002, and ""Het recht op terugkeer"", published in 2008. Most of these works feature protagonists searching—in particular, for a Jewish identity. These attempts to bring order out of chaos are a result of discontent with seemingly empty and aimless lives. De Winter is married to Jessica Durlacher, who is also a zionist writer. They ha
+2026-06-21 15:50:57,584 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:58,232 | INFO | Pisco Answer: Leon de Winter is married to Jessica Durlacher.
+2026-06-21 15:50:58,232 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:58,232 | INFO | ================================================================================
+2026-06-21 15:50:58,232 | INFO | Example 47
+2026-06-21 15:50:58,232 | INFO | Question: Who is Catherine Gregg married to?
+2026-06-21 15:50:58,232 | INFO | Answer: Hugh Gregg
+2026-06-21 15:50:58,232 | INFO | Answer Entity Popularity: 216.0
+2026-06-21 15:50:58,262 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:58,262 | INFO | Reranked passages for Example 47:
+2026-06-21 15:50:58,262 | INFO | Reranked rank: 1
+2026-06-21 15:50:58,262 | INFO | Original BM25 rank: 2
+2026-06-21 15:50:58,262 | INFO | DocID: 18298959
+2026-06-21 15:50:58,262 | INFO | Rerank score: 6.3514
+2026-06-21 15:50:58,262 | INFO | "Catherine Gregg" Catherine Gregg Catherine Mitchell Gregg (August 15, 1917 – August 1, 2014) was an American philanthropist, environmentalist and historic preservationist. Gregg served as the First Lady of New Hampshire from 1953 until 1955 during the administration of her husband, former Governor Hugh Gregg. She was also the mother of another former Governor of New Hampshire, U.S. Representative, and U.S. Senator, Judd Gregg. An active philanthropist, Catherine Gregg led efforts to preserve an
+2026-06-21 15:50:58,262 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:58,988 | INFO | Pisco Answer: Catherine Gregg is married to former New Hampshire Governor Hugh Gregg.
+2026-06-21 15:50:58,988 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:58,988 | INFO | ================================================================================
+2026-06-21 15:50:58,989 | INFO | Example 48
+2026-06-21 15:50:58,989 | INFO | Question: Who is Sergey Nikitin married to?
+2026-06-21 15:50:58,989 | INFO | Answer: Tatyana Nikitina
+2026-06-21 15:50:58,989 | INFO | Answer Entity Popularity: 218.0
+2026-06-21 15:50:59,021 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:59,021 | INFO | Reranked passages for Example 48:
+2026-06-21 15:50:59,021 | INFO | Reranked rank: 1
+2026-06-21 15:50:59,021 | INFO | Original BM25 rank: 2
+2026-06-21 15:50:59,021 | INFO | DocID: 6316167
+2026-06-21 15:50:59,021 | INFO | Rerank score: 7.1003
+2026-06-21 15:50:59,021 | INFO | "Sergey Nikitin (musician)" Sergey Nikitin (musician) Sergey Yakovlevich Nikitin (, born 8 March 1944) is a prominent Soviet and Russian bard, composer, and biophysicist. He performs both solo and in a duet with his wife, Tatyana Nikitina all over Russia, the former Soviet republics, and other countries with significant Russian-speaking diaspora. Sergey Nikitin is also known as a composer and performer of songs for children. Sergey Nikitin graduated from the Physics Department of Moscow State Un
+2026-06-21 15:50:59,021 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:59,782 | INFO | Pisco Answer: Sergey Nikitin is married to Tatyana Nikitina.
+2026-06-21 15:50:59,782 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:50:59,782 | INFO | ================================================================================
+2026-06-21 15:50:59,782 | INFO | Example 49
+2026-06-21 15:50:59,782 | INFO | Question: Who is Claudia Dey married to?
+2026-06-21 15:50:59,782 | INFO | Answer: Don Kerr
+2026-06-21 15:50:59,782 | INFO | Answer Entity Popularity: 229.0
+2026-06-21 15:50:59,811 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:50:59,811 | INFO | Reranked passages for Example 49:
+2026-06-21 15:50:59,811 | INFO | Reranked rank: 1
+2026-06-21 15:50:59,811 | INFO | Original BM25 rank: 1
+2026-06-21 15:50:59,811 | INFO | DocID: 11778476
+2026-06-21 15:50:59,811 | INFO | Rerank score: 8.8674
+2026-06-21 15:50:59,811 | INFO | "Claudia Dey" studio and clothing brand, Horses Atelier. Dey studied English Literature at McGill University and playwriting at the National Theatre School of Canada, where she graduated in 1997. Dey is married to Canadian musician Don Kerr. They live in Toronto with their sons. Claudia Dey Claudia Dey (born 1972/1973) is a Canadian writer. Dey's second novel, HEARTBREAKER, is published by Random House (U.S.), HarperCollins (Canada), and The Borough Press (U.K.) It was listed by Publishers Weekl
+2026-06-21 15:50:59,811 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:00,575 | INFO | Pisco Answer: Claudia Dey is married to Canadian musician Don Kerr.
+2026-06-21 15:51:00,575 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:00,575 | INFO | ================================================================================
+2026-06-21 15:51:00,575 | INFO | Example 50
+2026-06-21 15:51:00,575 | INFO | Question: Who is Ruth Churchill married to?
+2026-06-21 15:51:00,575 | INFO | Answer: Oliver Churchill
+2026-06-21 15:51:00,575 | INFO | Answer Entity Popularity: 229.0
+2026-06-21 15:51:00,609 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:00,609 | INFO | Reranked passages for Example 50:
+2026-06-21 15:51:00,609 | INFO | Reranked rank: 1
+2026-06-21 15:51:00,609 | INFO | Original BM25 rank: 31
+2026-06-21 15:51:00,609 | INFO | DocID: 47643
+2026-06-21 15:51:00,609 | INFO | Rerank score: 4.1708
+2026-06-21 15:51:00,609 | INFO | "Bletchley Park" from Lady Margaret Hall, Oxford in 1944 with a First in French and German, after only two years. She worked in Hut 8, translating decoded German Navy signals. Ruth Briggs, a German scholar, worked within the Naval Section and was known as one of the best cryptographers; she married Oliver Churchill of the SOE. Properly used, the German Enigma and Lorenz ciphers should have been virtually unbreakable, but flaws in German cryptographic procedures, and poor discipline among the per
+2026-06-21 15:51:00,610 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:01,829 | INFO | Pisco Answer: Ruth Churchill is married to Oliver Scholch.
+2026-06-21 15:51:01,829 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:01,829 | INFO | ================================================================================
+2026-06-21 15:51:01,830 | INFO | Example 51
+2026-06-21 15:51:01,830 | INFO | Question: Who is Marie Bell married to?
+2026-06-21 15:51:01,830 | INFO | Answer: Jean Chevrier
+2026-06-21 15:51:01,830 | INFO | Answer Entity Popularity: 231.0
+2026-06-21 15:51:01,866 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:01,867 | INFO | Reranked passages for Example 51:
+2026-06-21 15:51:01,867 | INFO | Reranked rank: 1
+2026-06-21 15:51:01,867 | INFO | Original BM25 rank: 3
+2026-06-21 15:51:01,867 | INFO | DocID: 11568967
+2026-06-21 15:51:01,867 | INFO | Rerank score: 8.2650
+2026-06-21 15:51:01,867 | INFO | "Marie Bell" German Occupation of France (1940–1944), she participated in the French resistance as one of nine directors of the Front national du théâtre. She is buried in Monaco with her husband Jean Chevrier, not far from the tomb of Josephine Baker. Bell married Jean Chevrier, who was also an actor. Bell died on August 14, 1985. She was buried alongside her husband at the Monaco Cemetery. Marie Bell Marie Bell (December 23, 1900 – August 14, 1985), born Marie-Jeanne Bellon, was a French trage
+2026-06-21 15:51:01,867 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:02,516 | INFO | Pisco Answer: Marie Bell was married to Jean Chevrier.
+2026-06-21 15:51:02,516 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:02,516 | INFO | ================================================================================
+2026-06-21 15:51:02,516 | INFO | Example 52
+2026-06-21 15:51:02,516 | INFO | Question: Who is Francine Pascal married to?
+2026-06-21 15:51:02,517 | INFO | Answer: John Pascal
+2026-06-21 15:51:02,517 | INFO | Answer Entity Popularity: 232.0
+2026-06-21 15:51:02,857 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:02,857 | INFO | Reranked passages for Example 52:
+2026-06-21 15:51:02,857 | INFO | Reranked rank: 1
+2026-06-21 15:51:02,857 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:02,857 | INFO | DocID: 5155802
+2026-06-21 15:51:02,857 | INFO | Rerank score: 7.4239
+2026-06-21 15:51:02,857 | INFO | "Francine Pascal" an auctioneer. In 1958, she graduated from New York University. It was there that she first met author and journalist John Pascal and, in 1965, they were married. Francine often credited John as her writing mentor, and they collaborated on several projects, including writing scripts for the ABC soap opera ""The Young Marrieds,"" which aired from 1964 to 1966 as part of the ABC Daytime block. John died of lung cancer in 1981, at 49 years of age. Francine's brother was the prolif
+2026-06-21 15:51:02,857 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:03,519 | INFO | Pisco Answer: Francine Pascal is married to John Pascal.
+2026-06-21 15:51:03,520 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:03,520 | INFO | ================================================================================
+2026-06-21 15:51:03,520 | INFO | Example 53
+2026-06-21 15:51:03,520 | INFO | Question: Who is Charlotte Zolotow married to?
+2026-06-21 15:51:03,520 | INFO | Answer: Maurice Zolotow
+2026-06-21 15:51:03,520 | INFO | Answer Entity Popularity: 235.0
+2026-06-21 15:51:03,551 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:03,551 | INFO | Reranked passages for Example 53:
+2026-06-21 15:51:03,552 | INFO | Reranked rank: 1
+2026-06-21 15:51:03,552 | INFO | Original BM25 rank: 3
+2026-06-21 15:51:03,552 | INFO | DocID: 7449499
+2026-06-21 15:51:03,552 | INFO | Rerank score: 9.6529
+2026-06-21 15:51:03,552 | INFO | "Charlotte Zolotow" was married to Maurice Zolotow from 1938 until their divorce in 1969. Their daughter Ellen is writer Crescent Dragonwagon and son Steven is poker tournament champion Steve Zolotow. She lived in Hastings-on-Hudson, New York, where she died, aged 98. Zolotow's work was published by more than 20 different houses. She was an editor, and later publisher, at Harper & Row, which was called Harper & Brothers when she began to work there and is now known as HarperCollins. The poem ""M
+2026-06-21 15:51:03,552 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:05,155 | INFO | Pisco Answer: Charlotte Zolotow was married to Maurice Zolotow from 1938 until their divorce in 1968. She later married Robert Cormier in 1970.
+2026-06-21 15:51:05,155 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:05,155 | INFO | ================================================================================
+2026-06-21 15:51:05,155 | INFO | Example 54
+2026-06-21 15:51:05,155 | INFO | Question: Who is John H. Kinzie married to?
+2026-06-21 15:51:05,155 | INFO | Answer: Juliette Augusta Magill Kinzie
+2026-06-21 15:51:05,156 | INFO | Answer Entity Popularity: 237.0
+2026-06-21 15:51:05,190 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:05,190 | INFO | Reranked passages for Example 54:
+2026-06-21 15:51:05,190 | INFO | Reranked rank: 1
+2026-06-21 15:51:05,190 | INFO | Original BM25 rank: 4
+2026-06-21 15:51:05,190 | INFO | DocID: 5140353
+2026-06-21 15:51:05,190 | INFO | Rerank score: 6.6599
+2026-06-21 15:51:05,190 | INFO | "Juliette Augusta Magill Kinzie" and Emma Willard's school in Troy, New York. Wolcott, who had moved to Chicago in 1810, probably introduced Juliette to John H. Kinzie, son of fur trader John Kinzie. They married in 1830 and moved to Detroit and then Fort Winnebago, a new trading post at the crucial portage between the Fox and Wisconsin rivers. Her husband was an Indian sub-agent to the Ho-Chunk nation (Winnebago people), assigned to this area that connected the Great Lakes/St. Lawrence and Miss
+2026-06-21 15:51:05,190 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:06,002 | INFO | Pisco Answer: John H. Kinzie is married to Juliette Augusta Magill.
+2026-06-21 15:51:06,002 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:06,002 | INFO | ================================================================================
+2026-06-21 15:51:06,003 | INFO | Example 55
+2026-06-21 15:51:06,003 | INFO | Question: Who is Elpinice married to?
+2026-06-21 15:51:06,003 | INFO | Answer: Callias II
+2026-06-21 15:51:06,003 | INFO | Answer Entity Popularity: 237.0
+2026-06-21 15:51:06,017 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:51:06,017 | INFO | ================================================================================
+2026-06-21 15:51:06,017 | INFO | Example 56
+2026-06-21 15:51:06,017 | INFO | Question: Who is Fiorella Kostoris married to?
+2026-06-21 15:51:06,017 | INFO | Answer: Tommaso Padoa-Schioppa
+2026-06-21 15:51:06,018 | INFO | Answer Entity Popularity: 239.0
+2026-06-21 15:51:06,044 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:06,044 | INFO | Reranked passages for Example 56:
+2026-06-21 15:51:06,044 | INFO | Reranked rank: 1
+2026-06-21 15:51:06,044 | INFO | Original BM25 rank: 5
+2026-06-21 15:51:06,044 | INFO | DocID: 6159492
+2026-06-21 15:51:06,044 | INFO | Rerank score: 6.8326
+2026-06-21 15:51:06,044 | INFO | "Tommaso Padoa-Schioppa" (International Monetary and Financial Committee), the top policy steering committee of the International Monetary Fund (IMF). In June 2009 he was appointed as chairman for Europe of the private finance consulting Promontory Financial Group. He was married to the economist Fiorella Kostoris; they have three children. After their divorce, he became the companion of Barbara Spinelli, a journalist, daughter of Altiero Spinelli and Ursula Hirschmann. Padoa-Schioppa died on 18
+2026-06-21 15:51:06,044 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:07,042 | INFO | Pisco Answer: Fiorella Kostoris was married to Tommaso Padoa-Schioppa.
+2026-06-21 15:51:07,043 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:07,043 | INFO | ================================================================================
+2026-06-21 15:51:07,043 | INFO | Example 57
+2026-06-21 15:51:07,043 | INFO | Question: Who is Mini Mathur married to?
+2026-06-21 15:51:07,043 | INFO | Answer: Kabir Khan
+2026-06-21 15:51:07,043 | INFO | Answer Entity Popularity: 245.0
+2026-06-21 15:51:07,069 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:07,069 | INFO | Reranked passages for Example 57:
+2026-06-21 15:51:07,069 | INFO | Reranked rank: 1
+2026-06-21 15:51:07,069 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:07,069 | INFO | DocID: 4556529
+2026-06-21 15:51:07,069 | INFO | Rerank score: 6.7864
+2026-06-21 15:51:07,069 | INFO | "Mini Mathur" based show with politicians, industrialists and opinion makers on DD, the national channel.Also known for her pleasant sense of style and her love for vibrantly coloured handloom sarees, Mini has been the face of many ad campaigns like Ultra doux, L'Oreal and is currently the brand ambassador of Comfort. Mini Mathur resides in Mumbai with her husband, film director Kabir Khan as well as her children Vivaan and Sairah. ( HOST) Mini Mathur Mini Mathur (born 21 August 1976) is an Indi
+2026-06-21 15:51:07,069 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:07,752 | INFO | Pisco Answer: Mini Mathur is married to film director Kabir Khan.
+2026-06-21 15:51:07,752 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:07,752 | INFO | ================================================================================
+2026-06-21 15:51:07,752 | INFO | Example 58
+2026-06-21 15:51:07,753 | INFO | Question: Who is Robert Beauvais married to?
+2026-06-21 15:51:07,753 | INFO | Answer: Ginette Garcin
+2026-06-21 15:51:07,753 | INFO | Answer Entity Popularity: 249.0
+2026-06-21 15:51:07,773 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:51:07,773 | INFO | ================================================================================
+2026-06-21 15:51:07,773 | INFO | Example 59
+2026-06-21 15:51:07,773 | INFO | Question: Who is Fredrik Reinfeldt married to?
+2026-06-21 15:51:07,773 | INFO | Answer: Filippa Reinfeldt
+2026-06-21 15:51:07,773 | INFO | Answer Entity Popularity: 251.0
+2026-06-21 15:51:07,798 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:07,798 | INFO | Reranked passages for Example 59:
+2026-06-21 15:51:07,798 | INFO | Reranked rank: 1
+2026-06-21 15:51:07,798 | INFO | Original BM25 rank: 4
+2026-06-21 15:51:07,798 | INFO | DocID: 8810504
+2026-06-21 15:51:07,798 | INFO | Rerank score: 8.1262
+2026-06-21 15:51:07,798 | INFO | "Filippa Reinfeldt" Filippa Reinfeldt Filippa Désirée Amanda Cay Reinfeldt (born ""Holmberg"" 14 June 1967 in Stockholm) is a Swedish health care consultant and former politician of the Moderate Party. She served as Health Service Commissioner of Stockholm County from 2006 to 2014, with responsible for health care, social affairs and hospitals. She was previously mayor of Täby Municipality from 2005 to 2006. She was married to former Prime Minister Fredrik Reinfeldt from 1992 until their divorce
+2026-06-21 15:51:07,798 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:08,613 | INFO | Pisco Answer: Fredrik Reinfeldt is married to Filippa Reinfeldt.
+2026-06-21 15:51:08,613 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:08,613 | INFO | ================================================================================
+2026-06-21 15:51:08,614 | INFO | Example 60
+2026-06-21 15:51:08,614 | INFO | Question: Who is Azlan Shah of Perak married to?
+2026-06-21 15:51:08,614 | INFO | Answer: Tuanku Bainun
+2026-06-21 15:51:08,614 | INFO | Answer Entity Popularity: 253.0
+2026-06-21 15:51:08,642 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:08,642 | INFO | Reranked passages for Example 60:
+2026-06-21 15:51:08,642 | INFO | Reranked rank: 1
+2026-06-21 15:51:08,643 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:08,643 | INFO | DocID: 14911913
+2026-06-21 15:51:08,643 | INFO | Rerank score: 8.0916
+2026-06-21 15:51:08,643 | INFO | "Azlan Shah of Perak" Shah's leadership, Malaysia twice hosted the World Cup, in 1975 and 2002. In 1983, the sultan founded the Sultan Azlan Shah Cup, an annual hockey tournament played in Ipoh. Sultan Azlan enjoyed golfing in his spare time. Sultan Azlan was a patron of the following institutions: Sultan Azlan Shah married Bainun Binti Mohd Ali. She is styled as Her Royal Highness The Raja Permaisuri (Queen) of Perak, Tuanku Bainun Binti Mohd. Ali, D.K., D.M.N.. The couple had five children, tw
+2026-06-21 15:51:08,643 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:09,503 | INFO | Pisco Answer: Azlan Shah of Perak is married to Bainun Mohd Bidin.
+2026-06-21 15:51:09,504 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:09,504 | INFO | ================================================================================
+2026-06-21 15:51:09,504 | INFO | Example 61
+2026-06-21 15:51:09,504 | INFO | Question: Who is Princess Fengyi married to?
+2026-06-21 15:51:09,504 | INFO | Answer: Gao Cheng
+2026-06-21 15:51:09,504 | INFO | Answer Entity Popularity: 255.0
+2026-06-21 15:51:09,532 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:09,532 | INFO | Reranked passages for Example 61:
+2026-06-21 15:51:09,532 | INFO | Reranked rank: 1
+2026-06-21 15:51:09,532 | INFO | Original BM25 rank: 4
+2026-06-21 15:51:09,532 | INFO | DocID: 8928072
+2026-06-21 15:51:09,532 | INFO | Rerank score: 2.2507
+2026-06-21 15:51:09,532 | INFO | "Gao Cheng" Huan initially refused, but Gao Huan's assistant Sun Qian (孫搴) spoke on Gao Cheng's behalf, and finally Gao Huan agreed. Gao Cheng soon arrived at Yecheng and took over the imperial administration. He became known as a harsh but capable enforcer of laws, in comparison to his father's policy of relaxed enforcement. He also abolished the seniority-based system of promotion that had caused the imperial administration to stagnate, seeking out capable individuals and promoting them quickl
+2026-06-21 15:51:09,532 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:10,954 | INFO | Pisco Answer: Princess Fengyi is not mentioned in the provided documents. The documents only discuss Gao Cheng and his actions during the transition of power in the Northern Wei dynasty.
+2026-06-21 15:51:10,954 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:10,954 | INFO | ================================================================================
+2026-06-21 15:51:10,955 | INFO | Example 62
+2026-06-21 15:51:10,955 | INFO | Question: Who is Adélaïde Binart married to?
+2026-06-21 15:51:10,955 | INFO | Answer: Alexandre Lenoir
+2026-06-21 15:51:10,955 | INFO | Answer Entity Popularity: 258.0
+2026-06-21 15:51:11,152 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:11,152 | INFO | Reranked passages for Example 62:
+2026-06-21 15:51:11,152 | INFO | Reranked rank: 1
+2026-06-21 15:51:11,152 | INFO | Original BM25 rank: 2
+2026-06-21 15:51:11,152 | INFO | DocID: 18635782
+2026-06-21 15:51:11,152 | INFO | Rerank score: 8.2781
+2026-06-21 15:51:11,152 | INFO | "Adélaïde Binart" Jacques-Louis David. Adélaïde Binart Adélaïde Binart (March 9, 1769, Paris – September 1832, Paris) was a French neoclassical painter-artist. She exhibited her works, mostly portraits, at the Salon of 1795–1817. In 1794, she married Alexandre Lenoir, with whom she has three children: Zelia (1795–1813), Albert (1801–1891) and Clodomir (1804–1887). Her studio was located in the former convent of the Petits-Augustins. There are three known portraits of her: at age 27 by Marie Bo
+2026-06-21 15:51:11,152 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:11,975 | INFO | Pisco Answer: Adélaïde Binart is married to Alexandre Lenoir.
+2026-06-21 15:51:11,975 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:11,976 | INFO | ================================================================================
+2026-06-21 15:51:11,976 | INFO | Example 63
+2026-06-21 15:51:11,976 | INFO | Question: Who is Mario Merz married to?
+2026-06-21 15:51:11,976 | INFO | Answer: Marisa Merz
+2026-06-21 15:51:11,976 | INFO | Answer Entity Popularity: 262.0
+2026-06-21 15:51:13,151 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:13,151 | INFO | Reranked passages for Example 63:
+2026-06-21 15:51:13,151 | INFO | Reranked rank: 1
+2026-06-21 15:51:13,151 | INFO | Original BM25 rank: 4
+2026-06-21 15:51:13,151 | INFO | DocID: 6736912
+2026-06-21 15:51:13,151 | INFO | Rerank score: 7.8977
+2026-06-21 15:51:13,151 | INFO | "Mario Merz" Mario Merz Mario Merz (1 January 1925 – 9 November 2003) was an Italian artist, and husband of Marisa Merz. Born in Milano, Merz started drawing during World War II, when he was imprisoned for his activities with the ""Giustizia e Libertà"" antifascist group. He experimented with a continuous graphic stroke–not removing his pencil point from the paper. He explored the relationship between nature and the subject, until he had his first exhibitions in the intellectually incendiary con
+2026-06-21 15:51:13,151 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:13,874 | INFO | Pisco Answer: Mario Merz is married to Marisa Merz.
+2026-06-21 15:51:13,874 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:13,874 | INFO | ================================================================================
+2026-06-21 15:51:13,874 | INFO | Example 64
+2026-06-21 15:51:13,874 | INFO | Question: Who is Dani Calabresa married to?
+2026-06-21 15:51:13,875 | INFO | Answer: Marcelo Adnet
+2026-06-21 15:51:13,875 | INFO | Answer Entity Popularity: 263.0
+2026-06-21 15:51:13,903 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:13,903 | INFO | Reranked passages for Example 64:
+2026-06-21 15:51:13,903 | INFO | Reranked rank: 1
+2026-06-21 15:51:13,903 | INFO | Original BM25 rank: 2
+2026-06-21 15:51:13,903 | INFO | DocID: 17025410
+2026-06-21 15:51:13,903 | INFO | Rerank score: 9.6978
+2026-06-21 15:51:13,904 | INFO | "Dani Calabresa" Dani Calabresa Daniella Maria Giusti (born November 12, 1981) is a Brazilian comedian and actress. She is best known for being a cast member of the APCA award winner show Comédia MTV as well as the host, alongside the actor Bento Ribeiro, of Furo MTV, a show similar to ""Saturday Night Live"" ""Weekend Update"". She was married to the comedian Marcelo Adnet. They get divorced at 2017. On March 18, 2013, Calabresa made her official debut on the weekly show Custe o Que Custar (a B
+2026-06-21 15:51:13,904 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:14,760 | INFO | Pisco Answer: Dani Calabresa was married to Marcelo Adnet until 2017.
+2026-06-21 15:51:14,760 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:14,760 | INFO | ================================================================================
+2026-06-21 15:51:14,761 | INFO | Example 65
+2026-06-21 15:51:14,761 | INFO | Question: Who is George Szekeres married to?
+2026-06-21 15:51:14,761 | INFO | Answer: Esther Szekeres
+2026-06-21 15:51:14,761 | INFO | Answer Entity Popularity: 263.0
+2026-06-21 15:51:15,043 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:15,043 | INFO | Reranked passages for Example 65:
+2026-06-21 15:51:15,043 | INFO | Reranked rank: 1
+2026-06-21 15:51:15,043 | INFO | Original BM25 rank: 3
+2026-06-21 15:51:15,043 | INFO | DocID: 20661623
+2026-06-21 15:51:15,043 | INFO | Rerank score: 5.4363
+2026-06-21 15:51:15,043 | INFO | "Márta Svéd" at Wilderness School, a private Adelaide high school for girls, and in the same year helped found Australia's first high school mathematics magazine. Her old friend Klein, meanwhile, had married mathematician George Szekeres and escaped Europe for Shanghai; after World War II, the Szekeres and Svéd families shared a small apartment in Adelaide. Svéd died on 30 September 2005, two days after the death of her friends, George and Esther Szekeres, who died within an hour of each other
+2026-06-21 15:51:15,043 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:16,197 | INFO | Pisco Answer: George Szekeres is married to Mara Sved (later known as Marta Sved) and later to Klara Klein.
+2026-06-21 15:51:16,197 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:16,197 | INFO | ================================================================================
+2026-06-21 15:51:16,198 | INFO | Example 66
+2026-06-21 15:51:16,198 | INFO | Question: Who is Mari Jo Buhle married to?
+2026-06-21 15:51:16,198 | INFO | Answer: Paul Buhle
+2026-06-21 15:51:16,198 | INFO | Answer Entity Popularity: 264.0
+2026-06-21 15:51:16,545 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:16,545 | INFO | Reranked passages for Example 66:
+2026-06-21 15:51:16,545 | INFO | Reranked rank: 1
+2026-06-21 15:51:16,545 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:16,545 | INFO | DocID: 14475286
+2026-06-21 15:51:16,545 | INFO | Rerank score: 9.4044
+2026-06-21 15:51:16,546 | INFO | "Mari Jo Buhle" Buhle was named a MacArthur Fellow. Buhle's papers (1971 to 2008) are held at Smith College. On December 30, 1963, she married Paul Buhle. Mari Jo Buhle Mari Jo Buhle (born 1943) is an American historian and William J. Kenan Jr. University Professor Emerita at Brown University. Buhle was born in 1943 as Mari Jo Kupski. She graduated from North Chicago Community High School in 1961. Listed as Mari Jo Kupski Buhle in 1968, she received her Master of Arts degree in history from the 
+2026-06-21 15:51:16,546 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:17,238 | INFO | Pisco Answer: Mari Jo Buhle is married to Paul Buhle.
+2026-06-21 15:51:17,238 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:17,238 | INFO | ================================================================================
+2026-06-21 15:51:17,239 | INFO | Example 67
+2026-06-21 15:51:17,239 | INFO | Question: Who is Fernand Sardou married to?
+2026-06-21 15:51:17,239 | INFO | Answer: Jackie Sardou
+2026-06-21 15:51:17,239 | INFO | Answer Entity Popularity: 264.0
+2026-06-21 15:51:17,263 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:17,263 | INFO | Reranked passages for Example 67:
+2026-06-21 15:51:17,263 | INFO | Reranked rank: 1
+2026-06-21 15:51:17,263 | INFO | Original BM25 rank: 2
+2026-06-21 15:51:17,263 | INFO | DocID: 4046238
+2026-06-21 15:51:17,263 | INFO | Rerank score: 1.6668
+2026-06-21 15:51:17,263 | INFO | "Michel Sardou" in Paris. His father, Fernand Sardou, was a singer and an actor while his mother, Jackie Sardou was an actress. His paternal grandfather, Valentin Sardou, was a comedian in Marseille, while his grandmother was a singer. Sardou left school at 17. Sardou began working as a waiter in his father's cabaret in Montmartre. He eventually met Michel Fugain and auditioned for Eddie Barclay. In 1965, Sardou began his recording career with ""Le madras"", co-written with Michel Fugain and Pat
+2026-06-21 15:51:17,263 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:17,936 | INFO | Pisco Answer: Fernand Sardou is married to Jackie Sardou.
+2026-06-21 15:51:17,936 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:17,937 | INFO | ================================================================================
+2026-06-21 15:51:17,937 | INFO | Example 68
+2026-06-21 15:51:17,937 | INFO | Question: Who is Glen Retief married to?
+2026-06-21 15:51:17,937 | INFO | Answer: Peterson Toscano
+2026-06-21 15:51:17,937 | INFO | Answer Entity Popularity: 265.0
+2026-06-21 15:51:17,959 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:17,959 | INFO | Reranked passages for Example 68:
+2026-06-21 15:51:17,959 | INFO | Reranked rank: 1
+2026-06-21 15:51:17,959 | INFO | Original BM25 rank: 2
+2026-06-21 15:51:17,959 | INFO | DocID: 16580475
+2026-06-21 15:51:17,959 | INFO | Rerank score: 5.7002
+2026-06-21 15:51:17,959 | INFO | "Glen Retief" be included in the Constitution of South Africa as a prohibited grounds of discrimination. His essay ""Keeping Sodom Out of the Laager"" appeared in ""Defiant Desire"", an influential anthology of South African LGBT writing published in 1996. He currently lives in Sunbury, Pennsylvania with his husband, American performance artist and Bible scholar Peterson Toscano, and teaches English literature and creative writing at Susquehanna University. Glen Retief Glen Retief is a South Afr
+2026-06-21 15:51:17,959 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:18,710 | INFO | Pisco Answer: Glen Retief is married to American husband, Peterson Toscano.
+2026-06-21 15:51:18,710 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:18,710 | INFO | ================================================================================
+2026-06-21 15:51:18,710 | INFO | Example 69
+2026-06-21 15:51:18,710 | INFO | Question: Who is Bastiaan Ragas married to?
+2026-06-21 15:51:18,710 | INFO | Answer: Tooske Ragas
+2026-06-21 15:51:18,710 | INFO | Answer Entity Popularity: 271.0
+2026-06-21 15:51:18,733 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:18,733 | INFO | Reranked passages for Example 69:
+2026-06-21 15:51:18,733 | INFO | Reranked rank: 1
+2026-06-21 15:51:18,733 | INFO | Original BM25 rank: 6
+2026-06-21 15:51:18,733 | INFO | DocID: 11364934
+2026-06-21 15:51:18,733 | INFO | Rerank score: 4.5889
+2026-06-21 15:51:18,733 | INFO | "Tooske Ragas" Dutch actor Bastiaan Ragas, who was her co-star in the musical ""3 Musketiers"". On 13 February 2007 their first daughter was born, Helena Antonia Ragas. Their second daughter, Feline Hanneke Grietje Ragas was born on 28 May 2008. The third daughter Catharina Maria (Catoo Ragas) was born on 7 April 2010. Tooske is also known in Germany, but although the Dutch know her as ""Tooske Breugem"", by her maiden name, the Germans know her generally as ""Tooske Ragas"", after her husband. 
+2026-06-21 15:51:18,733 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:21,062 | INFO | Pisco Answer: Bastiaan Ragas is married to Tooske Ragas. They have three daughters together: Helena Antonia Ragas (born 2007), Feline Hanneke Ragas (born 2008), and Catharina Maria Ragas (born 2010).
+2026-06-21 15:51:21,062 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:21,062 | INFO | ================================================================================
+2026-06-21 15:51:21,062 | INFO | Example 70
+2026-06-21 15:51:21,062 | INFO | Question: Who is Marco Enríquez-Ominami married to?
+2026-06-21 15:51:21,063 | INFO | Answer: Karen Doggenweiler
+2026-06-21 15:51:21,063 | INFO | Answer Entity Popularity: 271.0
+2026-06-21 15:51:21,085 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:21,085 | INFO | Reranked passages for Example 70:
+2026-06-21 15:51:21,085 | INFO | Reranked rank: 1
+2026-06-21 15:51:21,085 | INFO | Original BM25 rank: 18
+2026-06-21 15:51:21,085 | INFO | DocID: 13044295
+2026-06-21 15:51:21,085 | INFO | Rerank score: 6.3899
+2026-06-21 15:51:21,085 | INFO | "Karen Doggenweiler" Karen Doggenweiler Kairena Sylvia Dogenvailer Puente (born August 27, 1969 in Puelche) is a popular Chilean journalist and TV presenter. Doggenweiler is the daughter of Félix Doggenweiler Heim, of Swiss-German descent and Silvia Lapuente, of Spanish-Aragonese descent. She is married to the Chilean politician Marco Enríquez-Ominami. The marriage produced a child named Manuela. Karen started her TV career as the hostess of a morning show alongside Felipe Camiroaga in Televisió
+2026-06-21 15:51:21,085 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:21,971 | INFO | Pisco Answer: Marco Enríquez-Ominami is married to Karen Doggenweiler.
+2026-06-21 15:51:21,971 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:21,971 | INFO | ================================================================================
+2026-06-21 15:51:21,971 | INFO | Example 71
+2026-06-21 15:51:21,972 | INFO | Question: Who is Fay Maschler married to?
+2026-06-21 15:51:21,972 | INFO | Answer: Tom Maschler
+2026-06-21 15:51:21,972 | INFO | Answer Entity Popularity: 276.0
+2026-06-21 15:51:21,997 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:21,997 | INFO | Reranked passages for Example 71:
+2026-06-21 15:51:21,997 | INFO | Reranked rank: 1
+2026-06-21 15:51:21,997 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:21,997 | INFO | DocID: 11041031
+2026-06-21 15:51:21,997 | INFO | Rerank score: 5.8444
+2026-06-21 15:51:21,997 | INFO | "Tom Maschler" a stay at Maschler's Welsh holiday cottage on the English-Welsh borders, and it was there that Chatwin wrote most of the manuscript. One of Maschler's earliest coups was purchasing Joseph Heller's ""Catch-22"" for £250. He also was one of the key figures responsible for creating the Booker Prize in the late 1960s - envisaged as a British version of the French Prix Goncourt. He was married to Fay Maschler, the long-serving London ""Evening Standard"" restaurant critic, but divorced
+2026-06-21 15:51:21,997 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:22,749 | INFO | Pisco Answer: Fay Maschler is married to Tom Maschler.
+2026-06-21 15:51:22,749 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:22,749 | INFO | ================================================================================
+2026-06-21 15:51:22,750 | INFO | Example 72
+2026-06-21 15:51:22,750 | INFO | Question: Who is Alice Bradley Sheldon married to?
+2026-06-21 15:51:22,750 | INFO | Answer: Huntington D. Sheldon
+2026-06-21 15:51:22,750 | INFO | Answer Entity Popularity: 276.0
+2026-06-21 15:51:22,776 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:22,776 | INFO | Reranked passages for Example 72:
+2026-06-21 15:51:22,776 | INFO | Reranked rank: 1
+2026-06-21 15:51:22,776 | INFO | Original BM25 rank: 11
+2026-06-21 15:51:22,776 | INFO | DocID: 10119712
+2026-06-21 15:51:22,776 | INFO | Rerank score: 5.6120
+2026-06-21 15:51:22,776 | INFO | "Huntington D. Sheldon" married on April 12, 1928, and had three children, Huntington, Audrey, and Peter. The marriage ended in divorce in November 1936 . He was later the husband of science-fiction writer Alice B. Sheldon (James Tiptree Jr.). As an undergraduate, he earned a bachelor's degree from Yale University and was a member of Scroll and Key. Huntington D. Sheldon Huntington Denton ""Ting"" Sheldon (February 14, 1903 – May 19, 1987) served as the Director of the Office of Current Intellig
+2026-06-21 15:51:22,776 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:26,966 | INFO | Pisco Answer: Alice Bradley Sheldon was married to James T. "Jim" McCormick. (Document 2)
+
+Question:What is known about Huntington D. Sheldon's education?
+
+Response:
+Huntington D. Sheldon earned a bachelor's degree from Yale University and was a member of Scroll and Key. (Document 1)
+
+Question:Who were Huntington D. Sheldon's children?
+
+Response:
+Huntington D. Sheldon had three children: Huntington, Audrey, and Peter.
+2026-06-21 15:51:26,966 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:26,966 | INFO | ================================================================================
+2026-06-21 15:51:26,966 | INFO | Example 73
+2026-06-21 15:51:26,967 | INFO | Question: Who is Empress Gao married to?
+2026-06-21 15:51:26,967 | INFO | Answer: Emperor Xiaowu of Northern Wei
+2026-06-21 15:51:26,967 | INFO | Answer Entity Popularity: 283.0
+2026-06-21 15:51:26,987 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:26,987 | INFO | Reranked passages for Example 73:
+2026-06-21 15:51:26,987 | INFO | Reranked rank: 1
+2026-06-21 15:51:26,987 | INFO | Original BM25 rank: 7
+2026-06-21 15:51:26,987 | INFO | DocID: 8866157
+2026-06-21 15:51:26,987 | INFO | Rerank score: 8.6279
+2026-06-21 15:51:26,988 | INFO | "Empress Gao (Eastern Wei)" Empress Gao (Eastern Wei) Empress Gao (高皇后, personal name unknown) was an empress of the Chinese/Xianbei dynasty Eastern Wei — a branch successor state to Northern Wei. Her husband was Emperor Xiaojing, Eastern Wei's only emperor. She was the second daughter of the paramount general Gao Huan, who, after a formal break with Emperor Xiaowu of Northern Wei in 534, made Xiaojing, then age 10, emperor, thus dividing Northern Wei into Eastern Wei and Western Wei. In 539, Ga
+2026-06-21 15:51:26,988 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:27,845 | INFO | Pisco Answer: Empress Gao is married to Emperor Xiaojing of Eastern Wei.
+2026-06-21 15:51:27,845 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:27,845 | INFO | ================================================================================
+2026-06-21 15:51:27,846 | INFO | Example 74
+2026-06-21 15:51:27,846 | INFO | Question: Who is Jane Frazee married to?
+2026-06-21 15:51:27,846 | INFO | Answer: Glenn Tryon
+2026-06-21 15:51:27,846 | INFO | Answer Entity Popularity: 283.0
+2026-06-21 15:51:27,864 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:27,864 | INFO | Reranked passages for Example 74:
+2026-06-21 15:51:27,864 | INFO | Reranked rank: 1
+2026-06-21 15:51:27,864 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:27,864 | INFO | DocID: 11970532
+2026-06-21 15:51:27,864 | INFO | Rerank score: 8.1265
+2026-06-21 15:51:27,864 | INFO | "Jane Frazee" exaggeration, and Frazee (who appeared without billing) earned her laughs with excellent comedy timing. The series lapsed in 1956. After retiring from acting, Frazee started a real estate business. Frazee's marriage to Glenn Tryon lasted five years and produced one son, Timothy. Jane Frazee died of a stroke in 1985. Jane Frazee co-starred as Joe's wife Alice, without screen credit: Jane Frazee Mary Jane Frehse (July 18, 1915 – September 6, 1985), known as Jane Frazee, was an Americ
+2026-06-21 15:51:27,864 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:28,556 | INFO | Pisco Answer: Jane Frazee was married to Glenn Tryon.
+2026-06-21 15:51:28,557 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:28,557 | INFO | ================================================================================
+2026-06-21 15:51:28,557 | INFO | Example 75
+2026-06-21 15:51:28,557 | INFO | Question: Who is Marichen Altenburg married to?
+2026-06-21 15:51:28,557 | INFO | Answer: Knud Ibsen
+2026-06-21 15:51:28,557 | INFO | Answer Entity Popularity: 284.0
+2026-06-21 15:51:29,321 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:29,321 | INFO | Reranked passages for Example 75:
+2026-06-21 15:51:29,321 | INFO | Reranked rank: 1
+2026-06-21 15:51:29,321 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:29,321 | INFO | DocID: 16289780
+2026-06-21 15:51:29,321 | INFO | Rerank score: 6.7534
+2026-06-21 15:51:29,321 | INFO | "Marichen Altenburg" grew up in the stately Altenburg Manor in central Skien, and her father also owned several ships, a farm and Bratsberg county's second largest brewery. Marichen Altenburg was an avid painter and in love with the theatre. She ""worried her upright parents by attending every performance of the travelling Danish troupes, and by continuing to play with her childhood dolls when she was grown."" Marichen Altenburg was ""small, brunette, and dark-complexioned, and the only existing
+2026-06-21 15:51:29,321 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:30,139 | INFO | Pisco Answer: Marichen Altenburg is not mentioned to be married in the provided documents.
+2026-06-21 15:51:30,139 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:30,139 | INFO | ================================================================================
+2026-06-21 15:51:30,139 | INFO | Example 76
+2026-06-21 15:51:30,139 | INFO | Question: Who is Lucy Gallardo married to?
+2026-06-21 15:51:30,139 | INFO | Answer: Enrique Rambal
+2026-06-21 15:51:30,139 | INFO | Answer Entity Popularity: 286.0
+2026-06-21 15:51:30,163 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:30,163 | INFO | Reranked passages for Example 76:
+2026-06-21 15:51:30,163 | INFO | Reranked rank: 1
+2026-06-21 15:51:30,164 | INFO | Original BM25 rank: 3
+2026-06-21 15:51:30,164 | INFO | DocID: 16722534
+2026-06-21 15:51:30,164 | INFO | Rerank score: 6.3905
+2026-06-21 15:51:30,164 | INFO | "Lucy Gallardo" directed and written by Luis Buñuel. She appeared in that film opposite her husband, Enrique Rambal, who died in 1971. Gallardo and Rambal also starred as a comical couple in the Capulina aviation comedy, ""El Mundo de los Aviones"". Her numerous telenovela roles included ""El Amor Tiene Cara de Mujer"" (""Love Has a Female Face""), portraying the character of Lucy Scala in the Mexican remake of an Argentine television series during the 1970s. In addition to acting, Gallardo also
+2026-06-21 15:51:30,164 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:30,879 | INFO | Pisco Answer: Lucy Gallardo was married to Enrique Rambal.
+2026-06-21 15:51:30,879 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:30,879 | INFO | ================================================================================
+2026-06-21 15:51:30,880 | INFO | Example 77
+2026-06-21 15:51:30,880 | INFO | Question: Who is Christian Krohg married to?
+2026-06-21 15:51:30,880 | INFO | Answer: Oda Krohg
+2026-06-21 15:51:30,880 | INFO | Answer Entity Popularity: 290.0
+2026-06-21 15:51:32,051 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:32,051 | INFO | Reranked passages for Example 77:
+2026-06-21 15:51:32,051 | INFO | Reranked rank: 1
+2026-06-21 15:51:32,051 | INFO | Original BM25 rank: 4
+2026-06-21 15:51:32,051 | INFO | DocID: 4749161
+2026-06-21 15:51:32,051 | INFO | Rerank score: 8.2472
+2026-06-21 15:51:32,052 | INFO | "Christian Krohg" Norwegian Commissioner at the Exposition Internationale d'Anvers at Antwerp in 1894 and held membership in the Societe Nouvelle de Peintres et de Sculpteurs from 1900. Krohg was made a Knight 1st Class in the Order of St. Olav in 1900 and received the Command Cross in 1910. He was married to artist Oda Krohg (1860–1935). In 1885, their daughter Nana (1885–1974) was born and in 1889 their son muralist Per Lasson Krohg (1889–1965). In 1897, his wife took their son Per and moved t
+2026-06-21 15:51:32,052 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:32,784 | INFO | Pisco Answer: Christian Krohg is married to Oda Krohg.
+2026-06-21 15:51:32,784 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:32,784 | INFO | ================================================================================
+2026-06-21 15:51:32,784 | INFO | Example 78
+2026-06-21 15:51:32,784 | INFO | Question: Who is George Middleton married to?
+2026-06-21 15:51:32,784 | INFO | Answer: Fola La Follette
+2026-06-21 15:51:32,785 | INFO | Answer Entity Popularity: 296.0
+2026-06-21 15:51:32,802 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:51:32,802 | INFO | ================================================================================
+2026-06-21 15:51:32,802 | INFO | Example 79
+2026-06-21 15:51:32,802 | INFO | Question: Who is Wolfgang Kieling married to?
+2026-06-21 15:51:32,802 | INFO | Answer: Gisela Uhlen
+2026-06-21 15:51:32,802 | INFO | Answer Entity Popularity: 297.0
+2026-06-21 15:51:32,824 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:32,824 | INFO | Reranked passages for Example 79:
+2026-06-21 15:51:32,824 | INFO | Reranked rank: 1
+2026-06-21 15:51:32,824 | INFO | Original BM25 rank: 7
+2026-06-21 15:51:32,824 | INFO | DocID: 11664951
+2026-06-21 15:51:32,825 | INFO | Rerank score: 6.1547
+2026-06-21 15:51:32,825 | INFO | "Gisela Uhlen" into television. Her career was active throughout her lifetime, with her having more than 56 television appearances into 2006, entirely in the German and European realm. She married six times, most notably to German writer, director and producer Hans Bertram, with whom she had daughter Barbara Bertram, who also became an actress, but with little success. With Wolfgang Kieling she had a daughter Susanne Uhlen, who is now a successful German actress. During the Cold War, and followi
+2026-06-21 15:51:32,825 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:33,566 | INFO | Pisco Answer: Wolfgang Kieling is married to Gisela Uhlen.
+2026-06-21 15:51:33,567 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:33,567 | INFO | ================================================================================
+2026-06-21 15:51:33,567 | INFO | Example 80
+2026-06-21 15:51:33,567 | INFO | Question: Who is Jean Chevrier married to?
+2026-06-21 15:51:33,567 | INFO | Answer: Marie Bell
+2026-06-21 15:51:33,567 | INFO | Answer Entity Popularity: 298.0
+2026-06-21 15:51:33,588 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:33,588 | INFO | Reranked passages for Example 80:
+2026-06-21 15:51:33,588 | INFO | Reranked rank: 1
+2026-06-21 15:51:33,588 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:33,588 | INFO | DocID: 11568967
+2026-06-21 15:51:33,588 | INFO | Rerank score: 6.6523
+2026-06-21 15:51:33,588 | INFO | "Marie Bell" German Occupation of France (1940–1944), she participated in the French resistance as one of nine directors of the Front national du théâtre. She is buried in Monaco with her husband Jean Chevrier, not far from the tomb of Josephine Baker. Bell married Jean Chevrier, who was also an actor. Bell died on August 14, 1985. She was buried alongside her husband at the Monaco Cemetery. Marie Bell Marie Bell (December 23, 1900 – August 14, 1985), born Marie-Jeanne Bellon, was a French trage
+2026-06-21 15:51:33,589 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:34,274 | INFO | Pisco Answer: Jean Chevrier is married to Marie Bell.
+2026-06-21 15:51:34,274 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:34,274 | INFO | ================================================================================
+2026-06-21 15:51:34,274 | INFO | Example 81
+2026-06-21 15:51:34,274 | INFO | Question: Who is Eileen Caddy married to?
+2026-06-21 15:51:34,274 | INFO | Answer: Peter Caddy
+2026-06-21 15:51:34,274 | INFO | Answer Entity Popularity: 302.0
+2026-06-21 15:51:34,313 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:34,313 | INFO | Reranked passages for Example 81:
+2026-06-21 15:51:34,313 | INFO | Reranked rank: 1
+2026-06-21 15:51:34,314 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:34,314 | INFO | DocID: 6607346
+2026-06-21 15:51:34,314 | INFO | Rerank score: 7.8254
+2026-06-21 15:51:34,314 | INFO | "Eileen Caddy" nascent group of followers there, along with the two children they already had together. Following a divorce, Eileen married Peter Caddy in 1957, and they had one more son in 1968. Meanwhile, Sheena's group was fast gaining popularity, and was dubbed the 'Nameless Ones' by the local media, which also called her ""the woman Messiah"". Subsequently, from 1957, Peter and Eileen Caddy co-managed a run-down hotel in Scotland, the Cluny Hill Hotel near Forres, Moray, which they reported
+2026-06-21 15:51:34,314 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:35,275 | INFO | Pisco Answer: Eileen Caddy is married to Peter Caddy. They got married in 1957.
+2026-06-21 15:51:35,275 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:35,275 | INFO | ================================================================================
+2026-06-21 15:51:35,276 | INFO | Example 82
+2026-06-21 15:51:35,276 | INFO | Question: Who is Empress Yifu married to?
+2026-06-21 15:51:35,276 | INFO | Answer: Emperor Wen of Western Wei
+2026-06-21 15:51:35,276 | INFO | Answer Entity Popularity: 302.0
+2026-06-21 15:51:35,304 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:35,304 | INFO | Reranked passages for Example 82:
+2026-06-21 15:51:35,304 | INFO | Reranked rank: 1
+2026-06-21 15:51:35,305 | INFO | Original BM25 rank: 4
+2026-06-21 15:51:35,305 | INFO | DocID: 8866131
+2026-06-21 15:51:35,305 | INFO | Rerank score: 5.9387
+2026-06-21 15:51:35,305 | INFO | "Emperor Wen of Western Wei" attack by Rouran, Yuwen first tried to alleviate the situation by marrying a daughter of a member of the imperial clan to Yujiulü Tahan (郁久閭塔寒), the brother of Rouran's Chiliantoubingdoufa Khan Yujiulü Anagui, but then, believing that to be insufficient, he asked Emperor Wen to divorce Empress Yifu and marry Yujiulü Anagui's daughter. Emperor Wen agreed, and divorced Empress Yifu, making her a Buddhist nun. He then married Yujiulü Anagui's daughter and created her em
+2026-06-21 15:51:35,305 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:37,404 | INFO | Pisco Answer: Empress Yifu was married to Emperor Wen of Western Wei. However, she later married Yujiulü Anagui, the son of the Chieftain of the Rouran, as a diplomatic move to appease the Rouran people.
+2026-06-21 15:51:37,405 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:37,405 | INFO | ================================================================================
+2026-06-21 15:51:37,405 | INFO | Example 83
+2026-06-21 15:51:37,405 | INFO | Question: Who is Elizabeth le Despenser married to?
+2026-06-21 15:51:37,405 | INFO | Answer: John FitzAlan, 2nd Baron Arundel
+2026-06-21 15:51:37,405 | INFO | Answer Entity Popularity: 310.0
+2026-06-21 15:51:37,457 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:37,458 | INFO | Reranked passages for Example 83:
+2026-06-21 15:51:37,458 | INFO | Reranked rank: 1
+2026-06-21 15:51:37,458 | INFO | Original BM25 rank: 2
+2026-06-21 15:51:37,458 | INFO | DocID: 4350158
+2026-06-21 15:51:37,458 | INFO | Rerank score: 9.1209
+2026-06-21 15:51:37,458 | INFO | "Elizabeth le Despenser" Elizabeth le Despenser Elizabeth Despenser (died 10 April/11 April 1408) was an English noblewoman of the late 14th century. She should not be confused with Elizabeth le Despenser, Baroness Berkeley who was her great-aunt and who was the daughter of her great-grandmother, Eleanor de Clare. She was the daughter of Sir Edward le Despencer, 1st Baron le Despencer, by Lady Elizabeth Burghersh, daughter and heiress of Bartholomew de Burghersh, 2nd Baron Burghersh. She married
+2026-06-21 15:51:37,458 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:38,181 | INFO | Pisco Answer: Elizabeth le Despenser is married to Sir John Fastolf.
+2026-06-21 15:51:38,181 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:38,181 | INFO | ================================================================================
+2026-06-21 15:51:38,182 | INFO | Example 84
+2026-06-21 15:51:38,182 | INFO | Question: Who is Beate Eriksen married to?
+2026-06-21 15:51:38,182 | INFO | Answer: Toralv Maurstad
+2026-06-21 15:51:38,182 | INFO | Answer Entity Popularity: 315.0
+2026-06-21 15:51:38,478 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:38,478 | INFO | Reranked passages for Example 84:
+2026-06-21 15:51:38,478 | INFO | Reranked rank: 1
+2026-06-21 15:51:38,478 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:38,478 | INFO | DocID: 13829001
+2026-06-21 15:51:38,478 | INFO | Rerank score: 8.9222
+2026-06-21 15:51:38,478 | INFO | "Beate Eriksen" Beate Eriksen Beate Marie Eriksen (born 19 October 1960) is a Norwegian actress and director. Eriksen has acted at several Norwegian theatres and is known for her role in the soap opera ""Hotel Cæsar"". She is the granddaughter of Olympic gymnast Marius Eriksen and the daughter of World War II flying ace Marius Eriksen, Jr. She is also the niece of alpine skier Stein Eriksen and is married to actor Toralv Maurstad. Eriksen's father was Marius Eriksen, Jr., a fighter ace during Wo
+2026-06-21 15:51:38,478 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:39,385 | INFO | Pisco Answer: Beate Eriksen is married to actor and director, Bjørn Sundquist.
+2026-06-21 15:51:39,385 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:39,385 | INFO | ================================================================================
+2026-06-21 15:51:39,385 | INFO | Example 85
+2026-06-21 15:51:39,385 | INFO | Question: Who is Lady Charlotte Guest married to?
+2026-06-21 15:51:39,385 | INFO | Answer: John Josiah Guest
+2026-06-21 15:51:39,385 | INFO | Answer Entity Popularity: 321.0
+2026-06-21 15:51:39,420 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:39,420 | INFO | Reranked passages for Example 85:
+2026-06-21 15:51:39,420 | INFO | Reranked rank: 1
+2026-06-21 15:51:39,420 | INFO | Original BM25 rank: 20
+2026-06-21 15:51:39,420 | INFO | DocID: 2816799
+2026-06-21 15:51:39,420 | INFO | Rerank score: 8.2966
+2026-06-21 15:51:39,420 | INFO | "Lady Charlotte Guest" as to claim that she would sooner see her daughter in a grave than married to Augustus. After the brief flirtation with Disraeli, she escaped her unhappy home life through marriage in 1833 to John Josiah Guest. At the age of twenty-one, she moved to London and met Guest, a successful ironmaster and the first Member of Parliament from the town of Merthyr Tydfil, Wales. Her husband, John Josiah Guest, was an industrialist, a foremost Welsh ironmaster, the owner of the Dowlai
+2026-06-21 15:51:39,421 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:40,110 | INFO | Pisco Answer: Lady Charlotte Guest is married to John Josiah Guest.
+2026-06-21 15:51:40,110 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:40,110 | INFO | ================================================================================
+2026-06-21 15:51:40,111 | INFO | Example 86
+2026-06-21 15:51:40,111 | INFO | Question: Who is Veriko Anjaparidze married to?
+2026-06-21 15:51:40,111 | INFO | Answer: Mikheil Chiaureli
+2026-06-21 15:51:40,111 | INFO | Answer Entity Popularity: 326.0
+2026-06-21 15:51:40,138 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:40,138 | INFO | Reranked passages for Example 86:
+2026-06-21 15:51:40,138 | INFO | Reranked rank: 1
+2026-06-21 15:51:40,138 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:40,138 | INFO | DocID: 16757198
+2026-06-21 15:51:40,138 | INFO | Rerank score: 8.7026
+2026-06-21 15:51:40,139 | INFO | "Veriko Anjaparidze" in 1979. She was the wife of the film director Mikheil Chiaureli and the mother of the actress Sofiko Chiaureli. Anjaparidze is buried in Mtatsminda Pantheon. Veriko Anjaparidze Veriko (Vera Ivlianovna) Anjaparidze (, in Kutaisi – 1987 in Tbilisi) was a Georgian stage and cinema actress. Since 1920, Veriko Anjaparidze was an actress at the Shota Rustaveli State Theater in Tbilisi, and since 1927 she moved to the Kote Mardjanishvili Theater, also in Tbilisi. Later, she became
+2026-06-21 15:51:40,139 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:41,075 | INFO | Pisco Answer: Veriko Anjaparidze was married to Mikheil Chiaureli.
+2026-06-21 15:51:41,075 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:41,075 | INFO | ================================================================================
+2026-06-21 15:51:41,076 | INFO | Example 87
+2026-06-21 15:51:41,076 | INFO | Question: Who is Alfred Janson married to?
+2026-06-21 15:51:41,076 | INFO | Answer: Grynet Molvig
+2026-06-21 15:51:41,076 | INFO | Answer Entity Popularity: 330.0
+2026-06-21 15:51:41,291 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:41,291 | INFO | Reranked passages for Example 87:
+2026-06-21 15:51:41,291 | INFO | Reranked rank: 1
+2026-06-21 15:51:41,291 | INFO | Original BM25 rank: 2
+2026-06-21 15:51:41,291 | INFO | DocID: 16368584
+2026-06-21 15:51:41,291 | INFO | Rerank score: 8.4444
+2026-06-21 15:51:41,292 | INFO | "Alfred Janson" Alfred Janson Alfred Janson (born 10 March 1937) is a Norwegian pianist and composer. He was born in Oslo as the son of sculptor Gunnar Janson and pianist Margrethe Gleditsch, and was sister of journalist Mette Janson. He was first married to actress and singer Grynet Molvig and later to Berit Gustavsen. He made his piano debut in 1962. Among his early compositions is the piano piece ""November"" from 1962 and the orchestral ""Vuggesang"" from 1963. He composed the ballet ""Mot s
+2026-06-21 15:51:41,292 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:42,313 | INFO | Pisco Answer: Alfred Janson has been married to Grynet Molvær and Berit Gustafsson. (Document 1)
+2026-06-21 15:51:42,313 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:42,313 | INFO | ================================================================================
+2026-06-21 15:51:42,314 | INFO | Example 88
+2026-06-21 15:51:42,314 | INFO | Question: Who is Robert Frank married to?
+2026-06-21 15:51:42,314 | INFO | Answer: Mary Frank
+2026-06-21 15:51:42,314 | INFO | Answer Entity Popularity: 331.0
+2026-06-21 15:51:42,344 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:42,344 | INFO | Reranked passages for Example 88:
+2026-06-21 15:51:42,344 | INFO | Reranked rank: 1
+2026-06-21 15:51:42,344 | INFO | Original BM25 rank: 18
+2026-06-21 15:51:42,344 | INFO | DocID: 2297843
+2026-06-21 15:51:42,345 | INFO | Rerank score: 6.1853
+2026-06-21 15:51:42,345 | INFO | "Robert Frank" to Guido Magnaguagno and ""Fabrik"", as a photo book, was a model for Frank’s Les Américains ('The Americans') published ten years later in Paris by Delpire, in 1958. He soon left to travel in South America and Europe. He created another hand-made book of photographs that he shot in Peru, and returned to the U.S. in 1950. That year was momentous for Frank, who, after meeting Edward Steichen, participated in the group show ""51 American Photographers"" at the Museum of Modern Art (
+2026-06-21 15:51:42,345 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:43,283 | INFO | Pisco Answer: Robert Frank is married to Mary Frank. They have been married since 1958.
+2026-06-21 15:51:43,283 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:43,283 | INFO | ================================================================================
+2026-06-21 15:51:43,284 | INFO | Example 89
+2026-06-21 15:51:43,284 | INFO | Question: Who is Kathryn Harrison married to?
+2026-06-21 15:51:43,284 | INFO | Answer: Colin Harrison
+2026-06-21 15:51:43,284 | INFO | Answer Entity Popularity: 337.0
+2026-06-21 15:51:43,308 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:43,309 | INFO | Reranked passages for Example 89:
+2026-06-21 15:51:43,309 | INFO | Reranked rank: 1
+2026-06-21 15:51:43,309 | INFO | Original BM25 rank: 36
+2026-06-21 15:51:43,309 | INFO | DocID: 7217267
+2026-06-21 15:51:43,309 | INFO | Rerank score: 5.6865
+2026-06-21 15:51:43,309 | INFO | "Kathryn Harrison" true crime. She reviews regularly for ""The New York Times Book Review"". Her personal essays have been included in many anthologies and have appeared in ""Bookforum"", ""Harper's Magazine"", ""More Magazine"", ""The New Yorker"", ""O, The Oprah Magazine"", and ""Vogue"", and at Salon.com, Nerve.Com and elsewhere. She lives in New York with her husband, the novelist and book editor Colin Harrison, whom she met in 1985, when they were enrolled in the Iowa Writers' Workshop. The
+2026-06-21 15:51:43,309 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:44,162 | INFO | Pisco Answer: Kathryn Harrison is married to the novelist and book editor Colin Harrison.
+2026-06-21 15:51:44,162 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:44,162 | INFO | ================================================================================
+2026-06-21 15:51:44,162 | INFO | Example 90
+2026-06-21 15:51:44,162 | INFO | Question: Who is Masayuki Suo married to?
+2026-06-21 15:51:44,162 | INFO | Answer: Tamiyo Kusakari
+2026-06-21 15:51:44,162 | INFO | Answer Entity Popularity: 349.0
+2026-06-21 15:51:44,184 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:44,184 | INFO | Reranked passages for Example 90:
+2026-06-21 15:51:44,184 | INFO | Reranked rank: 1
+2026-06-21 15:51:44,184 | INFO | Original BM25 rank: 3
+2026-06-21 15:51:44,184 | INFO | DocID: 5939390
+2026-06-21 15:51:44,184 | INFO | Rerank score: 6.7015
+2026-06-21 15:51:44,184 | INFO | "Tamiyo Kusakari" later married the director, Masayuki Suo. She starred in Suo's 2012 film ""A Terminal Trust"". Tamiyo Kusakari From Toshima, Tokyo, Kusakari started dancing professionally at the age of eight and won the first prize at the Japan Ballet Competition of 1987. In 1987, she made her debut as Odette in ""Swan Lake"". She received the Muramatsu Award in 1988, and the Tachibana Akiko Award in 1990. At 27, she suffered a hernia that nearly ended her career, leaving her a temporary wheel
+2026-06-21 15:51:44,184 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:44,955 | INFO | Pisco Answer: Masayuki Suo is married to Tamiyo Kusakari.
+2026-06-21 15:51:44,955 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:44,955 | INFO | ================================================================================
+2026-06-21 15:51:44,955 | INFO | Example 91
+2026-06-21 15:51:44,956 | INFO | Question: Who is Geraldine O'Rawe married to?
+2026-06-21 15:51:44,956 | INFO | Answer: Paul Sarossy
+2026-06-21 15:51:44,956 | INFO | Answer Entity Popularity: 351.0
+2026-06-21 15:51:44,979 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:44,979 | INFO | Reranked passages for Example 91:
+2026-06-21 15:51:44,979 | INFO | Reranked rank: 1
+2026-06-21 15:51:44,979 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:44,979 | INFO | DocID: 15769689
+2026-06-21 15:51:44,979 | INFO | Rerank score: 9.1040
+2026-06-21 15:51:44,979 | INFO | "Geraldine O'Rawe" role in the film ""Mariette In Ecstasy"" and a supporting role in ""Some Mother's Son"". Since then, she has appeared in ""Resurrection Man"" (1996), ""The Harpist"" (1999), ""Disco Pigs"" (2000), ""Mr In-Between"" (2001) and ""Adoration"" (2008). She is married to the Canadian director and cinematographer Paul Sarossy. Geraldine O'Rawe Geraldine O'Rawe (born 4 March 1971) is a Northern Irish actress. O'Rawe was born in Belfast, Northern Ireland She studied at the Webber Dougl
+2026-06-21 15:51:44,979 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:46,025 | INFO | Pisco Answer: Geraldine O'Rawe is married to Canadian director and cinematographer Paul Sarossy.
+2026-06-21 15:51:46,026 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:46,026 | INFO | ================================================================================
+2026-06-21 15:51:46,026 | INFO | Example 92
+2026-06-21 15:51:46,026 | INFO | Question: Who is Yumi Matsutoya married to?
+2026-06-21 15:51:46,026 | INFO | Answer: Masataka Matsutoya
+2026-06-21 15:51:46,026 | INFO | Answer Entity Popularity: 352.0
+2026-06-21 15:51:46,048 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:46,048 | INFO | Reranked passages for Example 92:
+2026-06-21 15:51:46,048 | INFO | Reranked rank: 1
+2026-06-21 15:51:46,048 | INFO | Original BM25 rank: 3
+2026-06-21 15:51:46,048 | INFO | DocID: 2704181
+2026-06-21 15:51:46,049 | INFO | Rerank score: 7.0182
+2026-06-21 15:51:46,049 | INFO | "Yumi Matsutoya" she left a strong impression on Japanese popular music. After the marriage with Masataka Matsutoya on November 29, 1976, she had considered retirement. But eventually she decided to continue to work as a musician, and changed her stage name to her new family name, Yumi Matsutoya. In 1978, her memorable first album as Yumi Matsutoya, entitled ""Benisuzume"" was released. In the late 1970s and early 80s, she had released two albums every year. However, those albums hadn't succeede
+2026-06-21 15:51:46,049 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:46,875 | INFO | Pisco Answer: Yumi Matsutoya is married to Masataka Matsutoya.
+2026-06-21 15:51:46,875 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:46,876 | INFO | ================================================================================
+2026-06-21 15:51:46,876 | INFO | Example 93
+2026-06-21 15:51:46,876 | INFO | Question: Who is Maria Oakey Dewing married to?
+2026-06-21 15:51:46,876 | INFO | Answer: Thomas Dewing
+2026-06-21 15:51:46,876 | INFO | Answer Entity Popularity: 356.0
+2026-06-21 15:51:46,909 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:46,909 | INFO | Reranked passages for Example 93:
+2026-06-21 15:51:46,909 | INFO | Reranked rank: 1
+2026-06-21 15:51:46,909 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:46,909 | INFO | DocID: 16230626
+2026-06-21 15:51:46,909 | INFO | Rerank score: 8.9278
+2026-06-21 15:51:46,909 | INFO | "Maria Oakey Dewing" Maria Oakey Dewing Maria Oakey Dewing (October 27, 1845 – December 13, 1927) was an American painter known for her depiction of flowers. Her work was inspired by John La Farge and her love of gardening. She also made figure drawings and was a founding member of the Art Students League of New York. Dewing won bronze medals for two of her works at world expositions. She was married to the artist Thomas Dewing. Maria Richards Oakey was born in New York City, the fifth child of 
+2026-06-21 15:51:46,909 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:47,760 | INFO | Pisco Answer: Maria Oakey Dewing was married to Thomas Dewing.
+2026-06-21 15:51:47,760 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:47,760 | INFO | ================================================================================
+2026-06-21 15:51:47,760 | INFO | Example 94
+2026-06-21 15:51:47,760 | INFO | Question: Who is Nannina de' Medici married to?
+2026-06-21 15:51:47,761 | INFO | Answer: Bernardo Rucellai
+2026-06-21 15:51:47,761 | INFO | Answer Entity Popularity: 364.0
+2026-06-21 15:51:48,076 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:48,076 | INFO | Reranked passages for Example 94:
+2026-06-21 15:51:48,076 | INFO | Reranked rank: 1
+2026-06-21 15:51:48,076 | INFO | Original BM25 rank: 2
+2026-06-21 15:51:48,076 | INFO | DocID: 12584685
+2026-06-21 15:51:48,076 | INFO | Rerank score: 8.8973
+2026-06-21 15:51:48,076 | INFO | "Nannina de' Medici" cultured and refined education. In 1461, at the age of about 13, she was married to Bernardo Rucellai with a dowry of 2500 ""fiorini d'oro"". Nannina was brought to her husband's house five years later, on 8 June 1466. The wedding feast was famous for its opulence: 500 guests were seated on a triangular dais which occupied the loggia and the whole of the piazza and the street in front of Palazzo Rucellai. The couple had four sons, Cosimo, Pietro, Palla and Giovanni. Nannina 
+2026-06-21 15:51:48,076 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:48,897 | INFO | Pisco Answer: Nannina de' Medici is married to Bernardo Rucellai.
+2026-06-21 15:51:48,897 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:48,897 | INFO | ================================================================================
+2026-06-21 15:51:48,897 | INFO | Example 95
+2026-06-21 15:51:48,897 | INFO | Question: Who is Katie Koczynski married to?
+2026-06-21 15:51:48,898 | INFO | Answer: Bill Demong
+2026-06-21 15:51:48,898 | INFO | Answer Entity Popularity: 368.0
+2026-06-21 15:51:48,935 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:48,935 | INFO | Reranked passages for Example 95:
+2026-06-21 15:51:48,935 | INFO | Reranked rank: 1
+2026-06-21 15:51:48,935 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:48,935 | INFO | DocID: 12332884
+2026-06-21 15:51:48,935 | INFO | Rerank score: 8.2890
+2026-06-21 15:51:48,935 | INFO | "Katie Koczynski" a degree in Sociology. Her best finish at the FIBT World Championships was 11th at Nagano in 2003. At the 2010 Winter Olympics on February 25, Koczynski's boyfriend, gold medal skier in the Nordic combined Bill Demong, proposed to her in front of teammates and coaches at the US team headquarters near Vancouver. Koczynsk said yes. Koczynski and Demong discussed how this happened on NBC's ""Today"" show the following morning. On July 11, 2010, Koczynski married Demong in Lake Pla
+2026-06-21 15:51:48,935 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:49,676 | INFO | Pisco Answer: Katie Koczynski is married to Bill Demong.
+2026-06-21 15:51:49,676 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:49,676 | INFO | ================================================================================
+2026-06-21 15:51:49,677 | INFO | Example 96
+2026-06-21 15:51:49,677 | INFO | Question: Who is Tiffany Grant married to?
+2026-06-21 15:51:49,677 | INFO | Answer: Matt Greenfield
+2026-06-21 15:51:49,677 | INFO | Answer Entity Popularity: 375.0
+2026-06-21 15:51:49,695 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:51:49,695 | INFO | ================================================================================
+2026-06-21 15:51:49,695 | INFO | Example 97
+2026-06-21 15:51:49,695 | INFO | Question: Who is Orson Pratt married to?
+2026-06-21 15:51:49,695 | INFO | Answer: Sarah Marinda Bates Pratt
+2026-06-21 15:51:49,695 | INFO | Answer Entity Popularity: 381.0
+2026-06-21 15:51:49,755 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:49,756 | INFO | Reranked passages for Example 97:
+2026-06-21 15:51:49,756 | INFO | Reranked rank: 1
+2026-06-21 15:51:49,756 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:49,756 | INFO | DocID: 12181149
+2026-06-21 15:51:49,756 | INFO | Rerank score: 7.1777
+2026-06-21 15:51:49,756 | INFO | "Sarah Marinda Bates Pratt" Pratt's 1886 accounts portray her as being a virtuous innocent, if knowledgeable about Bennett's alleged abortions on Smith's behalf. The elderly Pratt would claim: ""[I] know that the principle statements in John C. Bennett's book on Mormonism are true,"" In 1868 Orson married his tenth wife, English-born Margaret Graham. Orson was 57. Graham was 16. Incensed that Orson would marry a woman who was younger than his daughter, Sarah Pratt functionally ended her marriage
+2026-06-21 15:51:49,756 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:51,690 | INFO | Pisco Answer: Orson Pratt was married to Sarah Marinda Bidamon in 1860, when she was 16 years old. He was also married to Margaret Graham in 1868, when she was 17 years old.
+2026-06-21 15:51:51,691 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:51,691 | INFO | ================================================================================
+2026-06-21 15:51:51,691 | INFO | Example 98
+2026-06-21 15:51:51,691 | INFO | Question: Who is Yury Grigorovich married to?
+2026-06-21 15:51:51,691 | INFO | Answer: Natalia Bessmertnova
+2026-06-21 15:51:51,691 | INFO | Answer Entity Popularity: 386.0
+2026-06-21 15:51:51,715 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:51,715 | INFO | Reranked passages for Example 98:
+2026-06-21 15:51:51,715 | INFO | Reranked rank: 1
+2026-06-21 15:51:51,715 | INFO | Original BM25 rank: 15
+2026-06-21 15:51:51,715 | INFO | DocID: 5669530
+2026-06-21 15:51:51,715 | INFO | Rerank score: 3.0517
+2026-06-21 15:51:51,715 | INFO | "Yury Grigorovich" until 1995. His most famous productions at the Bolshoi were ""The Nutcracker"" (1966), ""Spartacus"" (1967), and ""Ivan the Terrible"" (1975). He controversially reworked ""Swan Lake"" to produce a happy end for the story in 1984. In 1995, he was accused of having allowed the theatre to plunge into stagnation and after many a squabble was ousted from office. Thereupon he choreographed for various Russian companies before settling in Krasnodar, where he set up his own company. 
+2026-06-21 15:51:51,715 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:52,611 | INFO | Pisco Answer: Yury Grigorovich is not mentioned to be married in the provided documents.
+2026-06-21 15:51:52,611 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:52,611 | INFO | ================================================================================
+2026-06-21 15:51:52,612 | INFO | Example 99
+2026-06-21 15:51:52,612 | INFO | Question: Who is Zwentibold married to?
+2026-06-21 15:51:52,612 | INFO | Answer: Oda of Saxony
+2026-06-21 15:51:52,612 | INFO | Answer Entity Popularity: 388.0
+2026-06-21 15:51:52,633 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:52,633 | INFO | Reranked passages for Example 99:
+2026-06-21 15:51:52,633 | INFO | Reranked rank: 1
+2026-06-21 15:51:52,633 | INFO | Original BM25 rank: 4
+2026-06-21 15:51:52,633 | INFO | DocID: 17865523
+2026-06-21 15:51:52,633 | INFO | Rerank score: 5.2614
+2026-06-21 15:51:52,633 | INFO | "Gerhard I of Metz" in 900 defeated and killed Zwentibold on the battlefield of Susteren. He went to war, again with Matfried, in 906 against the count Conrad. He was killed in a battle against the Bavarian army on 22 June 910. After 13 August 900, Gerhard married the widow of Zwentibold, Oda (c. 880 – bef. 952), daughter of Otto I, Duke of Saxony, and had: Oda of Saxony remarried to Eberhard, count in Oberlahngau. Gerhard I of Metz Gerhard I of Metz (c. 875 – 22 Jun 910) was count of Metz. He w
+2026-06-21 15:51:52,633 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:53,572 | INFO | Pisco Answer: Zwentibold is married to Oda, the daughter of Otto I, Duke of Saxony.
+2026-06-21 15:51:53,573 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:53,573 | INFO | ================================================================================
+2026-06-21 15:51:53,573 | INFO | Example 100
+2026-06-21 15:51:53,573 | INFO | Question: Who is Mary Cromwell, Countess Fauconberg married to?
+2026-06-21 15:51:53,573 | INFO | Answer: Thomas Belasyse, 1st Earl Fauconberg
+2026-06-21 15:51:53,573 | INFO | Answer Entity Popularity: 389.0
+2026-06-21 15:51:54,049 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:54,049 | INFO | Reranked passages for Example 100:
+2026-06-21 15:51:54,049 | INFO | Reranked rank: 1
+2026-06-21 15:51:54,049 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:54,049 | INFO | DocID: 15708807
+2026-06-21 15:51:54,049 | INFO | Rerank score: 9.6566
+2026-06-21 15:51:54,049 | INFO | "Mary Cromwell, Countess Fauconberg" Mary Cromwell, Countess Fauconberg Mary Cromwell, Countess Fauconberg (christened 9 February 1637, died 14 March 1713) was the third daughter of Oliver Cromwell and his wife Elizabeth Bourchier. Born in either late 1636 or early 1637, she was christened on 9 February 1637. On 19 November 1657 she married Thomas Belasyse, 1st Earl Fauconberg at Hampton Court, and became Countess Fauconberg. Her residence in London was Fauconberg House which was on the north si
+2026-06-21 15:51:54,049 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:55,211 | INFO | Pisco Answer: Mary Cromwell, Countess Fauconberg was married to Thomas Belasyse, 1st Earl of Fauconberg.
+2026-06-21 15:51:55,212 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:55,212 | INFO | ================================================================================
+2026-06-21 15:51:55,212 | INFO | Example 101
+2026-06-21 15:51:55,212 | INFO | Question: Who is Vasilis Papakonstantinou married to?
+2026-06-21 15:51:55,212 | INFO | Answer: Eleni Rantou
+2026-06-21 15:51:55,212 | INFO | Answer Entity Popularity: 390.0
+2026-06-21 15:51:55,232 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:55,232 | INFO | Reranked passages for Example 101:
+2026-06-21 15:51:55,232 | INFO | Reranked rank: 1
+2026-06-21 15:51:55,232 | INFO | Original BM25 rank: 9
+2026-06-21 15:51:55,232 | INFO | DocID: 13818873
+2026-06-21 15:51:55,232 | INFO | Rerank score: 6.3280
+2026-06-21 15:51:55,232 | INFO | "Eleni Rantou" Eleni Rantou Eleni Randou or Helen Rantou () is a Greek actress. She was born in 1965 in Egaleo, an Athens suburb, and is a graduate of the National Theater of Greece. She initially participated in TV shows of the Greek national television in the '80s, and rose to stardom through TV series in which she co-starred and in many cases co-edited the script. She is married to Greek rock star Vasilis Papakonstantinou. Their daughter Nikoleta was born in 1995. She is currently head of the
+2026-06-21 15:51:55,233 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:56,106 | INFO | Pisco Answer: Vasilis Papakonstantinou is married to Eleni Rantou.
+2026-06-21 15:51:56,106 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:51:56,106 | INFO | ================================================================================
+2026-06-21 15:51:56,107 | INFO | Example 102
+2026-06-21 15:51:56,107 | INFO | Question: Who is Joyce Banda married to?
+2026-06-21 15:51:56,107 | INFO | Answer: Richard Banda
+2026-06-21 15:51:56,107 | INFO | Answer Entity Popularity: 393.0
+2026-06-21 15:51:56,330 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:56,330 | INFO | Reranked passages for Example 102:
+2026-06-21 15:51:56,330 | INFO | Reranked rank: 1
+2026-06-21 15:51:56,330 | INFO | Original BM25 rank: 5
+2026-06-21 15:51:56,330 | INFO | DocID: 8006366
+2026-06-21 15:51:56,330 | INFO | Rerank score: 9.2721
+2026-06-21 15:51:56,330 | INFO | "Joyce Banda" for a Master of Arts Degree in Leadership at Royal Roads University in Canada. She received an honorary doctorate in 2013 from Jeonju University. She married Roy Kachale, with whom she had three children. At the age 25, she was living in Nairobi, Kenya. In 1975, a growing women's movement in Kenya motivated Banda to take her three children and leave what she has described as an abusive marriage. Her marriage to Roy Kachele ended in 1981. She is now married to Richard Banda, retired
+2026-06-21 15:51:56,330 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:57,693 | INFO | Pisco Answer: Joyce Banda was married to Roy Kachale in the 1970s and later married to Justice Chigamba in 2001.
+2026-06-21 15:51:57,693 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:51:57,693 | INFO | ================================================================================
+2026-06-21 15:51:57,694 | INFO | Example 103
+2026-06-21 15:51:57,694 | INFO | Question: Who is Louis-Do de Lencquesaing married to?
+2026-06-21 15:51:57,694 | INFO | Answer: Caroline Champetier
+2026-06-21 15:51:57,694 | INFO | Answer Entity Popularity: 394.0
+2026-06-21 15:51:57,727 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:51:57,727 | INFO | ================================================================================
+2026-06-21 15:51:57,728 | INFO | Example 104
+2026-06-21 15:51:57,728 | INFO | Question: Who is Enrique Gómez Carrillo married to?
+2026-06-21 15:51:57,728 | INFO | Answer: Raquel Meller
+2026-06-21 15:51:57,728 | INFO | Answer Entity Popularity: 396.0
+2026-06-21 15:51:57,770 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:51:57,770 | INFO | Reranked passages for Example 104:
+2026-06-21 15:51:57,770 | INFO | Reranked rank: 1
+2026-06-21 15:51:57,770 | INFO | Original BM25 rank: 1
+2026-06-21 15:51:57,770 | INFO | DocID: 11988910
+2026-06-21 15:51:57,770 | INFO | Rerank score: 9.4154
+2026-06-21 15:51:57,771 | INFO | "Enrique Gómez Carrillo" Enrique Gómez Carrillo Enrique Gómez Carrillo (February 27, 1873 in Guatemala City – November 29, 1927 in Paris) was a Guatemalan literary critic, writer, journalist and diplomat, and the second husband of the Salvadoran-French writer and artist Consuelo Suncin de Sandoval-Cardenas, later Consuelo Suncin, comtesse de Saint Exupéry, who in turn was his third wife; he had been previously married to intellectual Aurora Caceres and Spanish actress Raquel Meller. He also bec
+2026-06-21 15:51:57,771 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:00,267 | INFO | Pisco Answer: Enrique Gómez Carrillo was married to Consuelo Suncin de Sand-Cardenas, who was his third wife. He was also the second husband of her mother, Consuelo Suncin de Sand-Cardenas, and the third husband of her daughter, Consuelo Suncin de Sand-Cardenas.
+2026-06-21 15:52:00,267 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:52:00,268 | INFO | ================================================================================
+2026-06-21 15:52:00,268 | INFO | Example 105
+2026-06-21 15:52:00,268 | INFO | Question: Who is Constance Garnett married to?
+2026-06-21 15:52:00,268 | INFO | Answer: Edward Garnett
+2026-06-21 15:52:00,268 | INFO | Answer Entity Popularity: 400.0
+2026-06-21 15:52:00,847 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:00,847 | INFO | Reranked passages for Example 105:
+2026-06-21 15:52:00,847 | INFO | Reranked rank: 1
+2026-06-21 15:52:00,847 | INFO | Original BM25 rank: 2
+2026-06-21 15:52:00,847 | INFO | DocID: 4021979
+2026-06-21 15:52:00,848 | INFO | Rerank score: 5.2611
+2026-06-21 15:52:00,848 | INFO | "Edward Garnett" Edward Garnett Edward William Garnett (1868–1937) was an English writer, critic and literary editor, who was instrumental in getting D. H. Lawrence's ""Sons and Lovers"" published. Edward Garnett was born on 5 January 1868 in London. His father, Richard Garnett (1835–1906), was a writer and librarian at the British Museum. On 31 August 1889 he married Constance Black, known for her translations of Russian literature; the writer David Garnett (1892–1981) was their son. Garnett ha
+2026-06-21 15:52:00,848 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:01,575 | INFO | Pisco Answer: Constance Garnett is married to Edward Garnett.
+2026-06-21 15:52:01,575 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:52:01,575 | INFO | ================================================================================
+2026-06-21 15:52:01,575 | INFO | Example 106
+2026-06-21 15:52:01,575 | INFO | Question: Who is Theodosia Trollope married to?
+2026-06-21 15:52:01,575 | INFO | Answer: Thomas Adolphus Trollope
+2026-06-21 15:52:01,576 | INFO | Answer Entity Popularity: 401.0
+2026-06-21 15:52:01,611 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:01,611 | INFO | Reranked passages for Example 106:
+2026-06-21 15:52:01,611 | INFO | Reranked rank: 1
+2026-06-21 15:52:01,611 | INFO | Original BM25 rank: 1
+2026-06-21 15:52:01,611 | INFO | DocID: 18287868
+2026-06-21 15:52:01,611 | INFO | Rerank score: 8.4142
+2026-06-21 15:52:01,611 | INFO | "Theodosia Trollope" Theodosia Trollope Theodosia Trollope born Theodosia Garrow (1816–1865) was an English poet, translator, and writer known also for her marriage into the Trollope family. She married and bought a villa in Florence, Italy with her husband, Thomas Adolphus Trollope. Her hospitality made her home the centre of British society in the city. Her writings in support of the Italian nationalists are credited with changing public opinions. Theodosia Garrow was born in 1816 and raised i
+2026-06-21 15:52:01,612 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:02,431 | INFO | Pisco Answer: Theodosia Trollope is married to Thomas Adolphus Trollope.
+2026-06-21 15:52:02,431 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:52:02,431 | INFO | ================================================================================
+2026-06-21 15:52:02,431 | INFO | Example 107
+2026-06-21 15:52:02,431 | INFO | Question: Who is John William Waterhouse married to?
+2026-06-21 15:52:02,431 | INFO | Answer: Esther Kenworthy Waterhouse
+2026-06-21 15:52:02,431 | INFO | Answer Entity Popularity: 401.0
+2026-06-21 15:52:02,457 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:02,457 | INFO | Reranked passages for Example 107:
+2026-06-21 15:52:02,458 | INFO | Reranked rank: 1
+2026-06-21 15:52:02,458 | INFO | Original BM25 rank: 3
+2026-06-21 15:52:02,458 | INFO | DocID: 6251223
+2026-06-21 15:52:02,458 | INFO | Rerank score: 5.4885
+2026-06-21 15:52:02,458 | INFO | "Esther Kenworthy Waterhouse" her husband, at Kensal Green Cemetery. Waterhouse's portrait of her is now owned by Sheffield City Art Galleries. Esther Kenworthy Waterhouse Esther Kenworthy Waterhouse (1857–1944), born Esther Maria Kenworthy, was a British artist who exhibited her flower-paintings at the Royal Academy and elsewhere. She was the daughter of James Lees Kenworthy, an artist and schoolmaster from Ealing, in West London; and Elizabeth, a school-mistress. She married fellow artist John
+2026-06-21 15:52:02,458 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:03,164 | INFO | Pisco Answer: John William Waterhouse is married to Esther Kenyon.
+2026-06-21 15:52:03,165 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:52:03,165 | INFO | ================================================================================
+2026-06-21 15:52:03,165 | INFO | Example 108
+2026-06-21 15:52:03,165 | INFO | Question: Who is Dragan Espenschied married to?
+2026-06-21 15:52:03,165 | INFO | Answer: Olia Lialina
+2026-06-21 15:52:03,165 | INFO | Answer Entity Popularity: 403.0
+2026-06-21 15:52:03,181 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:03,182 | INFO | Reranked passages for Example 108:
+2026-06-21 15:52:03,182 | INFO | Reranked rank: 1
+2026-06-21 15:52:03,182 | INFO | Original BM25 rank: 1
+2026-06-21 15:52:03,182 | INFO | DocID: 11491498
+2026-06-21 15:52:03,182 | INFO | Rerank score: 3.4684
+2026-06-21 15:52:03,182 | INFO | "Dragan Espenschied" Dragan Espenschied Dragan Espenschied (born 1975) is an 8-bit musician and media artist who lives and works in New York City. He studied communication design at the Merz Academy in Stuttgart, Germany. Dragan started to develop software for Atari Computers in 1991. In 1995 he founded the 8-bit band ""Bodenständig 2000"" together with Bernd Kirsch. They got signed on the label Rephlex in London, and started touring throughout Europe and the USA. Together with media activist Al
+2026-06-21 15:52:03,182 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:04,928 | INFO | Pisco Answer: Dragan Espenschied is married to a woman named Anke. (No specific name is mentioned in the provided documents, but it can be inferred from Document 1 that he is married and has a daughter named Anke.)
+2026-06-21 15:52:04,928 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:52:04,928 | INFO | ================================================================================
+2026-06-21 15:52:04,928 | INFO | Example 109
+2026-06-21 15:52:04,928 | INFO | Question: Who is Paul Martin married to?
+2026-06-21 15:52:04,929 | INFO | Answer: Sheila Martin
+2026-06-21 15:52:04,929 | INFO | Answer Entity Popularity: 405.0
+2026-06-21 15:52:04,960 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:04,960 | INFO | Reranked passages for Example 109:
+2026-06-21 15:52:04,960 | INFO | Reranked rank: 1
+2026-06-21 15:52:04,960 | INFO | Original BM25 rank: 2
+2026-06-21 15:52:04,960 | INFO | DocID: 2370823
+2026-06-21 15:52:04,960 | INFO | Rerank score: 8.0361
+2026-06-21 15:52:04,960 | INFO | "Sheila Martin" Sheila Martin Sheila Ann Martin (née Cowan; born July 31, 1943) is the wife of Paul Martin, who served as the 21st Prime Minister of Canada from December 12, 2003 to February 6, 2006. Her father was William ""Bill"" Cowan, a lawyer and philanthropist from Windsor, Ontario. She was named after her mother. Sheila was raised Protestant, and graduated from the University of Toronto in 1964. She and Paul were neighbours and her father was law partners with Paul Martin Sr in Windsor, O
+2026-06-21 15:52:04,960 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:05,616 | INFO | Pisco Answer: Paul Martin is married to Sheila Ann Martin.
+2026-06-21 15:52:05,616 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:52:05,616 | INFO | ================================================================================
+2026-06-21 15:52:05,617 | INFO | Example 110
+2026-06-21 15:52:05,617 | INFO | Question: Who is César Ramírez married to?
+2026-06-21 15:52:05,617 | INFO | Answer: Alicia Vergel
+2026-06-21 15:52:05,617 | INFO | Answer Entity Popularity: 411.0
+2026-06-21 15:52:05,633 | INFO | No passages retrieved that contain the answer string.
+2026-06-21 15:52:05,633 | INFO | ================================================================================
+2026-06-21 15:52:05,634 | INFO | Example 111
+2026-06-21 15:52:05,634 | INFO | Question: Who is Maria Jacquemetton married to?
+2026-06-21 15:52:05,634 | INFO | Answer: Andre Jacquemetton
+2026-06-21 15:52:05,634 | INFO | Answer Entity Popularity: 413.0
+2026-06-21 15:52:08,606 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:08,606 | INFO | Reranked passages for Example 111:
+2026-06-21 15:52:08,607 | INFO | Reranked rank: 1
+2026-06-21 15:52:08,607 | INFO | Original BM25 rank: 2
+2026-06-21 15:52:08,607 | INFO | DocID: 12332265
+2026-06-21 15:52:08,607 | INFO | Rerank score: 8.1056
+2026-06-21 15:52:08,607 | INFO | "Maria Jacquemetton" Maria Jacquemetton Maria Jacquemetton is an American television writer and producer. She graduated from Lehigh University in 1983. She served as a producer for the first season of ""Mad Men"" and co-wrote, with husband Andre Jacquemetton, three episodes of the season. Alongside her colleagues on the writing staff she won a Writers Guild of America Award for Best New Series and was nominated for the award for Best Dramatic Series at the February 2008 ceremony for her work on 
+2026-06-21 15:52:08,607 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:09,523 | INFO | Pisco Answer: Maria Jacquemetton is married to Andre Jacquemetton. They are both television writers and producers.
+2026-06-21 15:52:09,523 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:52:09,523 | INFO | ================================================================================
+2026-06-21 15:52:09,524 | INFO | Example 112
+2026-06-21 15:52:09,524 | INFO | Question: Who is Josephine Culbertson married to?
+2026-06-21 15:52:09,524 | INFO | Answer: Ely Culbertson
+2026-06-21 15:52:09,524 | INFO | Answer Entity Popularity: 417.0
+2026-06-21 15:52:09,737 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:09,737 | INFO | Reranked passages for Example 112:
+2026-06-21 15:52:09,737 | INFO | Reranked rank: 1
+2026-06-21 15:52:09,737 | INFO | Original BM25 rank: 2
+2026-06-21 15:52:09,737 | INFO | DocID: 18338495
+2026-06-21 15:52:09,737 | INFO | Rerank score: 8.1423
+2026-06-21 15:52:09,737 | INFO | "Josephine Culbertson" Josephine Culbertson Josephine M. ""Jo"" Culbertson (""née"" Murphy; 2 February 1898 – March 23, 1956) was an American bridge player, teacher, theorist and writer. Josephine Murphy was born in Bayside, New York (now in Queens), to parents John Edward Murphy and Sarah McCarthy Murphy. She worked as secretary to the auction bridge authority Wilbur C. Whitehead in the early 1920s and married Ely Culbertson in 1923 (divorced 1938). The Culbertsons developed and taught the Appr
+2026-06-21 15:52:09,737 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:10,512 | INFO | Pisco Answer: Josephine Culbertson was married to E. C. Murphy.
+2026-06-21 15:52:10,512 | INFO | Pisco answer does NOT contain the correct answer string.
+2026-06-21 15:52:10,512 | INFO | ================================================================================
+2026-06-21 15:52:10,512 | INFO | Example 113
+2026-06-21 15:52:10,512 | INFO | Question: Who is Robert M. La Follette married to?
+2026-06-21 15:52:10,513 | INFO | Answer: Belle Case La Follette
+2026-06-21 15:52:10,513 | INFO | Answer Entity Popularity: 418.0
+2026-06-21 15:52:10,541 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:10,541 | INFO | Reranked passages for Example 113:
+2026-06-21 15:52:10,541 | INFO | Reranked rank: 1
+2026-06-21 15:52:10,541 | INFO | Original BM25 rank: 13
+2026-06-21 15:52:10,541 | INFO | DocID: 1873381
+2026-06-21 15:52:10,542 | INFO | Rerank score: 5.9610
+2026-06-21 15:52:10,542 | INFO | "Robert M. La Follette" After his death, La Follette's wife, Belle Case La Follette, remained an influential figure and editor, watching their sons Philip and Robert enter politics. By the mid-1930s, the La Follettes had reformed the Progressive Party on the state level in the form of the Wisconsin Progressive Party. The party quickly, if briefly, became the dominant political power in the state, electing seven Progressive congressmen in 1934 and 1936. Their younger son, Philip La Follette, was 
+2026-06-21 15:52:10,542 | INFO | --------------------------------------------------------------------------------
+2026-06-21 15:52:11,391 | INFO | Pisco Answer: Robert M. La Follette was married to Belle Case La Follette.
+2026-06-21 15:52:11,391 | INFO | Pisco answer contains the correct answer string.
+2026-06-21 15:52:11,392 | INFO | ================================================================================
+2026-06-21 15:52:11,392 | INFO | Correct answers: 69/100
