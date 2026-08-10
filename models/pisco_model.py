@@ -28,3 +28,10 @@ class PiscoModel:
         # Generation from compressed documents:
         out = self.model.generate_from_compressed_documents_and_questions(questions=question_array, compressed_documents=self.embeddings)
         return out[0]
+
+if __name__ == "__main__":
+    model = PiscoModel()
+    question = "What is the capital of France?"
+    context = "France is a country in Europe. Its capital city is Paris."
+    answer = model.answer_question(question, context)
+    print("Answer:", answer)

@@ -59,3 +59,9 @@ class MistralModel:
         return answer.strip()
 
 
+if __name__ == "__main__":
+    model = MistralModel()
+    question = "What is the capital of France?"
+    context = "France is a country in Europe. Its capital city is Paris."
+    answer = model.answer_question(question, context)
+    print("Answer:", answer)
