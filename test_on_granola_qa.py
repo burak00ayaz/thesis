@@ -2,7 +2,7 @@ from questions.GranolaEntityQuestions.granola_entity_questions import GranolaEnt
 from retrieval.pyserini_sparse_and_reranking import retrieve_and_rerank
 from logger import log
 from models.mistral_model import MistralModel
-from models.pisco_model import PiscoModel
+from models.PISCO.pisco_model import PiscoModel
 
 def test_model_on_granola_qa(model_id: str):
     if model_id == "Mistral":

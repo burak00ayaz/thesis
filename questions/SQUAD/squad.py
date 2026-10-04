@@ -1,4 +1,5 @@
 from questions.types import Triplet, Dataset
+from models.PISCO.context_chunker import get_context_chunks
 import json
 from pathlib import Path
 from datasets import load_dataset
@@ -9,7 +10,6 @@ DATA_DIR = Path(__file__).parent / 'data'
 DATASET_SPLIT: Literal["train", "validation"] = "train"
 
 ENTITY_MAPPINGS_FILE = DATA_DIR / DATASET_SPLIT / 'entity_mappings.json'
-CONTEXT_CHUNKS_FILE = DATA_DIR / DATASET_SPLIT / 'context_chunks.json'
 
 with open(ENTITY_MAPPINGS_FILE, "r", encoding="utf-8") as f:
     entity_mappings = json.load(f)
@@ -33,21 +33,16 @@ def map_entities(triplet: Triplet, context_hash: str) -> Triplet:
 def get_triplets(entity_mapping: bool = False):
     ds = load_dataset("rajpurkar/squad")["train"]
 
-    with open(CONTEXT_CHUNKS_FILE, "r", encoding="utf-8") as f:
-        context_chunks_map = json.load(f)
-
     for question in ds:
-        context_hash = hashlib.sha256(question["context"].encode('utf-8')).hexdigest()
-        context_chunks = context_chunks_map[context_hash]["context_chunks"]
-        dataset = Dataset.SQUAD_MAPPED if entity_mapping else Dataset.SQUAD
         triplet = Triplet(
-            dataset=dataset,
+            dataset=Dataset.SQUAD_MAPPED if entity_mapping else Dataset.SQUAD,
             question_id=question["id"],
-            context=context_chunks,
+            context=get_context_chunks(question["context"]),
             question=question["question"],
             answer=question["answers"]["text"][0]
         )
         if entity_mapping:
+            context_hash = hashlib.sha256(question["context"].encode('utf-8')).hexdigest()
             yield map_entities(triplet, context_hash)
         else:
             yield triplet

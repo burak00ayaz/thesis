@@ -1,5 +1,5 @@
 from models.mistral_model import MistralModel
-from models.pisco_model import PiscoModel
+from models.PISCO.pisco_model import PiscoModel
 from questions.SQUAD.squad import get_question_context_answer_triples
 from logger import log
 from questions.SQUAD.squad import map_entities_in_triple

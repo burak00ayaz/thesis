@@ -1,6 +1,6 @@
 from datasets import load_dataset
 from questions.types import Triplet, Dataset
-from questions.SynthWorlds.context_chunker import get_context_chunks
+from models.PISCO.context_chunker import get_context_chunks
 
 def get_triplets(dataset: Dataset):
     if dataset == Dataset.SYNTHWORLDS_SM:

@@ -112,9 +112,9 @@ def get_context_chunks(context: str) -> list[str]:
     if current:
         chunks.append(" ".join(current))
 
-    print(
-        "Chunked token lengths:",
-        [token_len(chunk) for chunk in chunks],
-    )
+    # print(
+    #     "Chunked token lengths:",
+    #     [token_len(chunk) for chunk in chunks],
+    # )
 
     return chunks
