@@ -1,18 +1,19 @@
 from datasets import load_dataset
-qa_rm = load_dataset("kenqgu/SynthWorlds", "qa-rm", split="test")
-qa_sm = load_dataset("kenqgu/SynthWorlds", "qa-sm", split="test")
+from questions.types import Triplet, Dataset
 
+def get_triplets(dataset: Dataset):
+    if dataset == Dataset.SYNTHWORLDS_SM:
+        ds = load_dataset("kenqgu/SynthWorlds", "qa-sm", split="test")
+    elif dataset == Dataset.SYNTHWORLDS_RM:
+        ds = load_dataset("kenqgu/SynthWorlds", "qa-rm", split="test")
+    else:
+        raise ValueError(f"Unsupported dataset: {dataset}")
 
-def get_question_context_answer(example):
-    return {
-        "question": example["query"], 
-        "context": example["gold_docs"], 
-        "answer": example["gold_answers"]
-    }
-
-
-for i in range(5):
-    real_example = get_question_context_answer(qa_rm[i])
-    img_example = get_question_context_answer(qa_sm[i])
-    print('\n\nReal example: ', real_example)
-    print('\n\nImaginary example: ', img_example)
+    for example in ds:
+        yield Triplet(
+            dataset=dataset,
+            question_id=example["instance_id"],
+            context=[example["gold_docs"][0]],
+            question=example["query"],
+            answer=example["gold_answers"][0]
+        )

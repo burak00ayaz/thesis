@@ -1,4 +1,4 @@
-from questions.questions import Dataset, triplets
+from questions.types import Dataset, triplets
 from lexical_side_channel.lsc import LexicalSideChannelBaseline, get_lexical_side_channel_method
 # from models.mistral_model import MistralModel
 from models.pisco_model import PiscoModel

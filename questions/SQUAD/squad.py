@@ -1,4 +1,4 @@
-from questions.questions import Triplet, Dataset
+from questions.types import Triplet, Dataset
 import json
 from pathlib import Path
 from datasets import load_dataset
