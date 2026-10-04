@@ -1,8 +1,8 @@
 from models.mistral_model import MistralModel
 from models.pisco_model import PiscoModel
-from questions.squad import get_question_context_answer_triples
+from questions.SQUAD.squad import get_question_context_answer_triples
 from logger import log
-from questions.squad import map_entities_in_triple
+from questions.SQUAD.squad import map_entities_in_triple
 
 mistral_model = MistralModel()
 pisco_model = PiscoModel()

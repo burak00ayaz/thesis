@@ -1,0 +1,1052 @@
+
+====================================================================================================
+PERSON_REAL
+====================================================================================================
+
+TEXT: Barack Obama was born in Hawaii.
+
+TOKENS:
+Barack                        lemma=Barack              pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Obama                         lemma=Obama               pos=PROPN   tag=NNP     dep=nsubjpass   shape=Xxxxx          alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+born                          lemma=bear                pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+Hawaii                        lemma=Hawaii              pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Barack Obama                            PERSON    People, including fictional
+  Hawaii                                  GPE       Countries, cities, states
+----------------------------------------------------------------------------------------------------
+
+TEXT: Angela Merkel served as Chancellor of Germany.
+
+TOKENS:
+Angela                        lemma=Angela              pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Merkel                        lemma=Merkel              pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+served                        lemma=serve               pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+as                            lemma=as                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+Chancellor                    lemma=Chancellor          pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+Germany                       lemma=Germany             pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Angela Merkel                           PERSON    People, including fictional
+  Germany                                 GPE       Countries, cities, states
+----------------------------------------------------------------------------------------------------
+
+TEXT: Elon Musk founded several technology companies.
+
+TOKENS:
+Elon                          lemma=Elon                pos=PROPN   tag=NNP     dep=compound    shape=Xxxx           alpha=True  stop=False 
+Musk                          lemma=Musk                pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxx           alpha=True  stop=False 
+founded                       lemma=found               pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+several                       lemma=several             pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=True  
+technology                    lemma=technology          pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+companies                     lemma=company             pos=NOUN    tag=NNS     dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Elon Musk                               PERSON    People, including fictional
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+PERSON_IMAGINARY
+====================================================================================================
+
+TEXT: Zorvan Keldrix presented the results at the conference.
+
+TOKENS:
+Zorvan                        lemma=Zorvan              pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Keldrix                       lemma=Keldrix             pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+presented                     lemma=present             pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+results                       lemma=result              pos=NOUN    tag=NNS     dep=dobj        shape=xxxx           alpha=True  stop=False 
+at                            lemma=at                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+conference                    lemma=conference          pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Zorvan Keldrix                          PERSON    People, including fictional
+----------------------------------------------------------------------------------------------------
+
+TEXT: Elara Voss joined the research team in Zurich.
+
+TOKENS:
+Elara                         lemma=Elara               pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Voss                          lemma=Voss                pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxx           alpha=True  stop=False 
+joined                        lemma=join                pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+research                      lemma=research            pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+team                          lemma=team                pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+Zurich                        lemma=Zurich              pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Elara Voss                              PERSON    People, including fictional
+  Zurich                                  GPE       Countries, cities, states
+----------------------------------------------------------------------------------------------------
+
+TEXT: Professor Kaelen Morvath developed the new algorithm.
+
+TOKENS:
+Professor                     lemma=Professor           pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Kaelen                        lemma=Kaelen              pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Morvath                       lemma=Morvath             pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+developed                     lemma=develop             pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+new                           lemma=new                 pos=ADJ     tag=JJ      dep=amod        shape=xxx            alpha=True  stop=False 
+algorithm                     lemma=algorithm           pos=PROPN   tag=NNP     dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Kaelen Morvath                          PERSON    People, including fictional
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+COMPANY_REAL
+====================================================================================================
+
+TEXT: Microsoft released a new version of its software.
+
+TOKENS:
+Microsoft                     lemma=Microsoft           pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+released                      lemma=release             pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+a                             lemma=a                   pos=DET     tag=DT      dep=det         shape=x              alpha=True  stop=True  
+new                           lemma=new                 pos=ADJ     tag=JJ      dep=amod        shape=xxx            alpha=True  stop=False 
+version                       lemma=version             pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+its                           lemma=its                 pos=PRON    tag=PRP$    dep=poss        shape=xxx            alpha=True  stop=True  
+software                      lemma=software            pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Microsoft                               ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+TEXT: Apple acquired the startup for one billion dollars.
+
+TOKENS:
+Apple                         lemma=Apple               pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+acquired                      lemma=acquire             pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+startup                       lemma=startup             pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+for                           lemma=for                 pos=ADP     tag=IN      dep=prep        shape=xxx            alpha=True  stop=True  
+one                           lemma=one                 pos=NUM     tag=CD      dep=compound    shape=xxx            alpha=True  stop=True  
+billion                       lemma=billion             pos=NUM     tag=CD      dep=nummod      shape=xxxx           alpha=True  stop=False 
+dollars                       lemma=dollar              pos=NOUN    tag=NNS     dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Apple                                   ORG       Companies, agencies, institutions, etc.
+  one billion dollars                     MONEY     Monetary values, including unit
+----------------------------------------------------------------------------------------------------
+
+TEXT: Siemens operates in several industrial sectors.
+
+TOKENS:
+Siemens                       lemma=Siemens             pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+operates                      lemma=operate             pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+several                       lemma=several             pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=True  
+industrial                    lemma=industrial          pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=False 
+sectors                       lemma=sector              pos=NOUN    tag=NNS     dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Siemens                                 ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+TEXT: OpenAI released a new language model.
+
+TOKENS:
+OpenAI                        lemma=OpenAI              pos=PROPN   tag=NNP     dep=nsubj       shape=XxxxXX         alpha=True  stop=False 
+released                      lemma=release             pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+a                             lemma=a                   pos=DET     tag=DT      dep=det         shape=x              alpha=True  stop=True  
+new                           lemma=new                 pos=ADJ     tag=JJ      dep=amod        shape=xxx            alpha=True  stop=False 
+language                      lemma=language            pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+model                         lemma=model               pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  OpenAI                                  ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+COMPANY_IMAGINARY
+====================================================================================================
+
+TEXT: Veltrix Dynamics announced a new processor yesterday.
+
+TOKENS:
+Veltrix                       lemma=veltrix             pos=NOUN    tag=NN      dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Dynamics                      lemma=Dynamics            pos=PROPN   tag=NNPS    dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+announced                     lemma=announce            pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+a                             lemma=a                   pos=DET     tag=DT      dep=det         shape=x              alpha=True  stop=True  
+new                           lemma=new                 pos=ADJ     tag=JJ      dep=amod        shape=xxx            alpha=True  stop=False 
+processor                     lemma=processor           pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+yesterday                     lemma=yesterday           pos=NOUN    tag=NN      dep=npadvmod    shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Veltrix Dynamics                        ORG       Companies, agencies, institutions, etc.
+  yesterday                               DATE      Absolute or relative dates or periods
+----------------------------------------------------------------------------------------------------
+
+TEXT: QuantumForge Technologies opened an office in Munich.
+
+TOKENS:
+QuantumForge                  lemma=QuantumForge        pos=PROPN   tag=NNP     dep=compound    shape=XxxxxXxxxx     alpha=True  stop=False 
+Technologies                  lemma=Technologies        pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+opened                        lemma=open                pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+an                            lemma=an                  pos=DET     tag=DT      dep=det         shape=xx             alpha=True  stop=True  
+office                        lemma=office              pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+Munich                        lemma=Munich              pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  QuantumForge Technologies               ORG       Companies, agencies, institutions, etc.
+  Munich                                  GPE       Countries, cities, states
+----------------------------------------------------------------------------------------------------
+
+TEXT: Nexora Biolabs raised 40 million dollars in funding.
+
+TOKENS:
+Nexora                        lemma=Nexora              pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Biolabs                       lemma=Biolabs             pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+raised                        lemma=raise               pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+40                            lemma=40                  pos=NUM     tag=CD      dep=compound    shape=dd             alpha=False stop=False 
+million                       lemma=million             pos=NUM     tag=CD      dep=nummod      shape=xxxx           alpha=True  stop=False 
+dollars                       lemma=dollar              pos=NOUN    tag=NNS     dep=dobj        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+funding                       lemma=funding             pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Nexora Biolabs                          PERSON    People, including fictional <burak>
+  40 million dollars                      MONEY     Monetary values, including unit
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+NUMBERS
+====================================================================================================
+
+TEXT: The experiment used 128 samples.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+experiment                    lemma=experiment          pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+used                          lemma=use                 pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=True  
+128                           lemma=128                 pos=NUM     tag=CD      dep=nummod      shape=ddd            alpha=False stop=False 
+samples                       lemma=sample              pos=NOUN    tag=NNS     dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  128                                     CARDINAL  Numerals that do not fall under another type
+----------------------------------------------------------------------------------------------------
+
+TEXT: The model achieved an accuracy of 87.43 percent.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+model                         lemma=model               pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+achieved                      lemma=achieve             pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+an                            lemma=an                  pos=DET     tag=DT      dep=det         shape=xx             alpha=True  stop=True  
+accuracy                      lemma=accuracy            pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+87.43                         lemma=87.43               pos=NUM     tag=CD      dep=nummod      shape=dd.dd          alpha=False stop=False 
+percent                       lemma=percent             pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  87.43 percent                           PERCENT   Percentage, including "%"
+----------------------------------------------------------------------------------------------------
+
+TEXT: The company employs approximately 12,500 people.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+company                       lemma=company             pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+employs                       lemma=employ              pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+approximately                 lemma=approximately       pos=ADV     tag=RB      dep=advmod      shape=xxxx           alpha=True  stop=False 
+12,500                        lemma=12,500              pos=NUM     tag=CD      dep=nummod      shape=dd,ddd         alpha=False stop=False 
+people                        lemma=people              pos=NOUN    tag=NNS     dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  approximately 12,500                    CARDINAL  Numerals that do not fall under another type
+----------------------------------------------------------------------------------------------------
+
+TEXT: The temperature increased by 3.7 degrees.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+temperature                   lemma=temperature         pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+increased                     lemma=increase            pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+by                            lemma=by                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+3.7                           lemma=3.7                 pos=NUM     tag=CD      dep=nummod      shape=d.d            alpha=False stop=False 
+degrees                       lemma=degree              pos=NOUN    tag=NNS     dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  3.7 degrees                             QUANTITY  Measurements, as of weight or distance
+----------------------------------------------------------------------------------------------------
+
+TEXT: The system contains 32 processing cores.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+system                        lemma=system              pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+contains                      lemma=contain             pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+32                            lemma=32                  pos=NUM     tag=CD      dep=nummod      shape=dd             alpha=False stop=False 
+processing                    lemma=processing          pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+cores                         lemma=core                pos=NOUN    tag=NNS     dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  32                                      CARDINAL  Numerals that do not fall under another type
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+DATES
+====================================================================================================
+
+TEXT: The experiment started on October 14, 2025.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+experiment                    lemma=experiment          pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+started                       lemma=start               pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+on                            lemma=on                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+October                       lemma=October             pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+14                            lemma=14                  pos=NUM     tag=CD      dep=nummod      shape=dd             alpha=False stop=False 
+,                             lemma=,                   pos=PUNCT   tag=,       dep=punct       shape=,              alpha=False stop=False 
+2025                          lemma=2025                pos=NUM     tag=CD      dep=nummod      shape=dddd           alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  October 14, 2025                        DATE      Absolute or relative dates or periods
+----------------------------------------------------------------------------------------------------
+
+TEXT: The paper was published in March 2024.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+paper                         lemma=paper               pos=NOUN    tag=NN      dep=nsubjpass   shape=xxxx           alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+published                     lemma=publish             pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+March                         lemma=March               pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+2024                          lemma=2024                pos=NUM     tag=CD      dep=nummod      shape=dddd           alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  March 2024                              DATE      Absolute or relative dates or periods
+----------------------------------------------------------------------------------------------------
+
+TEXT: The meeting is scheduled for 17 January 2027.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+meeting                       lemma=meeting             pos=NOUN    tag=NN      dep=nsubjpass   shape=xxxx           alpha=True  stop=False 
+is                            lemma=be                  pos=AUX     tag=VBZ     dep=auxpass     shape=xx             alpha=True  stop=True  
+scheduled                     lemma=schedule            pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+for                           lemma=for                 pos=ADP     tag=IN      dep=prep        shape=xxx            alpha=True  stop=True  
+17                            lemma=17                  pos=NUM     tag=CD      dep=nummod      shape=dd             alpha=False stop=False 
+January                       lemma=January             pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+2027                          lemma=2027                pos=NUM     tag=CD      dep=nummod      shape=dddd           alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  17 January 2027                         DATE      Absolute or relative dates or periods
+----------------------------------------------------------------------------------------------------
+
+TEXT: The project ran from 2021 to 2025.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+project                       lemma=project             pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+ran                           lemma=run                 pos=VERB    tag=VBD     dep=ROOT        shape=xxx            alpha=True  stop=False 
+from                          lemma=from                pos=ADP     tag=IN      dep=prep        shape=xxxx           alpha=True  stop=True  
+2021                          lemma=2021                pos=NUM     tag=CD      dep=pobj        shape=dddd           alpha=False stop=False 
+to                            lemma=to                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+2025                          lemma=2025                pos=NUM     tag=CD      dep=pobj        shape=dddd           alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  2021 to 2025                            DATE      Absolute or relative dates or periods
+----------------------------------------------------------------------------------------------------
+
+TEXT: The server failed at 3:42 PM on Monday.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+server                        lemma=server              pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+failed                        lemma=fail                pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+at                            lemma=at                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+3:42                          lemma=3:42                pos=NUM     tag=CD      dep=nummod      shape=d:dd           alpha=False stop=False 
+PM                            lemma=pm                  pos=NOUN    tag=NN      dep=pobj        shape=XX             alpha=True  stop=False 
+on                            lemma=on                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+Monday                        lemma=Monday              pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  3:42 PM on                              TIME      Times smaller than a day
+  Monday                                  DATE      Absolute or relative dates or periods
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+IDENTIFIERS
+====================================================================================================
+
+TEXT: The experiment has identifier EXP-2025-00417.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+experiment                    lemma=experiment          pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+has                           lemma=have                pos=VERB    tag=VBZ     dep=ROOT        shape=xxx            alpha=True  stop=True  
+identifier                    lemma=identifier          pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=False 
+EXP-2025                      lemma=exp-2025            pos=NOUN    tag=NN      dep=compound    shape=XXX-dddd       alpha=False stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+00417                         lemma=00417               pos=NUM     tag=CD      dep=dobj        shape=dddd           alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The device serial number is XJ9-42K-771A.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+device                        lemma=device              pos=NOUN    tag=NN      dep=nmod        shape=xxxx           alpha=True  stop=False 
+serial                        lemma=serial              pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=False 
+number                        lemma=number              pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+is                            lemma=be                  pos=AUX     tag=VBZ     dep=ROOT        shape=xx             alpha=True  stop=True  
+XJ9                           lemma=XJ9                 pos=PROPN   tag=NNP     dep=attr        shape=XXd            alpha=False stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+42K-771A.                     lemma=42K-771A.           pos=PROPN   tag=NNP     dep=attr        shape=ddX-dddX.      alpha=False stop=False 
+
+ENTITIES:
+  XJ9-42K-771A.                           PERSON    People, including fictional <burak>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The patient record uses ID PAT-938271.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+patient                       lemma=patient             pos=ADJ     tag=JJ      dep=compound    shape=xxxx           alpha=True  stop=False 
+record                        lemma=record              pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+uses                          lemma=use                 pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+ID                            lemma=ID                  pos=PROPN   tag=NNP     dep=compound    shape=XX             alpha=True  stop=False 
+PAT-938271                    lemma=PAT-938271          pos=PROPN   tag=NNPS    dep=dobj        shape=XXX-dddd       alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The commit hash is a8f7c2d91b3e.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+commit                        lemma=commit              pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+hash                          lemma=hash                pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+is                            lemma=be                  pos=AUX     tag=VBZ     dep=ROOT        shape=xx             alpha=True  stop=True  
+a8f7c2d91b3e                  lemma=a8f7c2d91b3e        pos=NOUN    tag=NN      dep=attr        shape=xdxdxdxddxdx   alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The DOI of the paper is 10.1038/s41586-024-07315-1.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+DOI                           lemma=doi                 pos=NOUN    tag=NN      dep=nsubj       shape=XXX            alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+paper                         lemma=paper               pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+is                            lemma=be                  pos=AUX     tag=VBZ     dep=ROOT        shape=xx             alpha=True  stop=True  
+10.1038                       lemma=10.1038             pos=NUM     tag=CD      dep=nummod      shape=dd.dddd        alpha=False stop=False 
+/                             lemma=/                   pos=SYM     tag=SYM     dep=punct       shape=/              alpha=False stop=False 
+s41586                        lemma=s41586              pos=PROPN   tag=NNP     dep=attr        shape=xdddd          alpha=False stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+024                           lemma=024                 pos=NUM     tag=CD      dep=nummod      shape=ddd            alpha=False stop=False 
+-                             lemma=-                   pos=NUM     tag=CD      dep=punct       shape=-              alpha=False stop=False 
+07315                         lemma=07315               pos=NUM     tag=CD      dep=nummod      shape=dddd           alpha=False stop=False 
+-                             lemma=-                   pos=SYM     tag=SYM     dep=punct       shape=-              alpha=False stop=False 
+1                             lemma=1                   pos=NUM     tag=CD      dep=prep        shape=d              alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  10.1038                                 CARDINAL  Numerals that do not fall under another type
+  1                                       CARDINAL  Numerals that do not fall under another type
+----------------------------------------------------------------------------------------------------
+
+TEXT: The IPv4 address of the server is 192.168.10.42.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+IPv4                          lemma=ipv4                pos=ADJ     tag=JJ      dep=amod        shape=XXxd           alpha=False stop=False 
+address                       lemma=address             pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+server                        lemma=server              pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+is                            lemma=be                  pos=AUX     tag=VBZ     dep=ROOT        shape=xx             alpha=True  stop=True  
+192.168.10.42                 lemma=192.168.10.42       pos=NOUN    tag=NNS     dep=attr        shape=ddd.ddd.dd.dd  alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  192.168.10.42                           DATE      Absolute or relative dates or periods <burak>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The MAC address is 00:1A:2B:3C:4D:5E.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+MAC                           lemma=MAC                 pos=PROPN   tag=NNP     dep=compound    shape=XXX            alpha=True  stop=False 
+address                       lemma=address             pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+is                            lemma=be                  pos=AUX     tag=VBZ     dep=ROOT        shape=xx             alpha=True  stop=True  
+00:1A:2B:3C:4D:5E.            lemma=00:1A:2B:3C:4D:5E.  pos=VERB    tag=VBN     dep=acomp       shape=dd:dX:dX:dX:dX:dX.alpha=False stop=False 
+
+ENTITIES:
+  MAC                                     ORG       Companies, agencies, institutions, etc. <burak>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The model version is Qwen2.5-Coder-32B-Instruct.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+model                         lemma=model               pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+version                       lemma=version             pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+is                            lemma=be                  pos=AUX     tag=VBZ     dep=ROOT        shape=xx             alpha=True  stop=True  
+Qwen2.5                       lemma=qwen2.5             pos=ADJ     tag=JJ      dep=compound    shape=Xxxxd.d        alpha=False stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+Coder-32B                     lemma=Coder-32B           pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx-ddX      alpha=False stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+Instruct                      lemma=instruct            pos=VERB    tag=VB      dep=acomp       shape=Xxxxx          alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+MEDICATION_REAL
+====================================================================================================
+
+TEXT: The patient was prescribed ibuprofen for the pain.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+patient                       lemma=patient             pos=NOUN    tag=NN      dep=nsubjpass   shape=xxxx           alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+prescribed                    lemma=prescribe           pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+ibuprofen                     lemma=ibuprofen           pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+for                           lemma=for                 pos=ADP     tag=IN      dep=prep        shape=xxx            alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+pain                          lemma=pain                pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The doctor prescribed metformin to the patient.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+doctor                        lemma=doctor              pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+prescribed                    lemma=prescribe           pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+metformin                     lemma=metformin           pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+to                            lemma=to                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+patient                       lemma=patient             pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: Treatment with amoxicillin was started immediately.
+
+TOKENS:
+Treatment                     lemma=treatment           pos=NOUN    tag=NN      dep=nsubjpass   shape=Xxxxx          alpha=True  stop=False 
+with                          lemma=with                pos=ADP     tag=IN      dep=prep        shape=xxxx           alpha=True  stop=True  
+amoxicillin                   lemma=amoxicillin         pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+started                       lemma=start               pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+immediately                   lemma=immediately         pos=ADV     tag=RB      dep=advmod      shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The patient received 20 mg of omeprazole.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+patient                       lemma=patient             pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+received                      lemma=receive             pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+20                            lemma=20                  pos=NUM     tag=CD      dep=nummod      shape=dd             alpha=False stop=False 
+mg                            lemma=mg                  pos=NOUN    tag=NN      dep=dobj        shape=xx             alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+omeprazole                    lemma=omeprazole          pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  20                                      CARDINAL  Numerals that do not fall under another type
+----------------------------------------------------------------------------------------------------
+
+TEXT: Pembrolizumab was administered every three weeks.
+
+TOKENS:
+Pembrolizumab                 lemma=Pembrolizumab       pos=PROPN   tag=NNP     dep=nsubjpass   shape=Xxxxx          alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+administered                  lemma=administer          pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+every                         lemma=every               pos=DET     tag=DT      dep=det         shape=xxxx           alpha=True  stop=True  
+three                         lemma=three               pos=NUM     tag=CD      dep=nummod      shape=xxxx           alpha=True  stop=True  
+weeks                         lemma=week                pos=NOUN    tag=NNS     dep=npadvmod    shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Pembrolizumab                           PERSON    People, including fictional
+  every three weeks                       DATE      Absolute or relative dates or periods
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+MEDICATION_IMAGINARY
+====================================================================================================
+
+TEXT: The patient was treated with Velunexor for six weeks.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+patient                       lemma=patient             pos=NOUN    tag=NN      dep=nsubjpass   shape=xxxx           alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+treated                       lemma=treat               pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+with                          lemma=with                pos=ADP     tag=IN      dep=prep        shape=xxxx           alpha=True  stop=True  
+Velunexor                     lemma=Velunexor           pos=PROPN   tag=NNP     dep=pobj        shape=Xxxxx          alpha=True  stop=False 
+for                           lemma=for                 pos=ADP     tag=IN      dep=prep        shape=xxx            alpha=True  stop=True  
+six                           lemma=six                 pos=NUM     tag=CD      dep=nummod      shape=xxx            alpha=True  stop=True  
+weeks                         lemma=week                pos=NOUN    tag=NNS     dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  six weeks                               DATE      Absolute or relative dates or periods
+----------------------------------------------------------------------------------------------------
+
+TEXT: Doctors administered Trizomab to the patient.
+
+TOKENS:
+Doctors                       lemma=doctor              pos=NOUN    tag=NNS     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+administered                  lemma=administer          pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+Trizomab                      lemma=Trizomab            pos=PROPN   tag=NNP     dep=dobj        shape=Xxxxx          alpha=True  stop=False 
+to                            lemma=to                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+patient                       lemma=patient             pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Trizomab                                PERSON    People, including fictional <burak>
+----------------------------------------------------------------------------------------------------
+
+TEXT: A new drug called Nexaforin showed promising results.
+
+TOKENS:
+A                             lemma=a                   pos=DET     tag=DT      dep=det         shape=X              alpha=True  stop=True  
+new                           lemma=new                 pos=ADJ     tag=JJ      dep=amod        shape=xxx            alpha=True  stop=False 
+drug                          lemma=drug                pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+called                        lemma=call                pos=VERB    tag=VBN     dep=acl         shape=xxxx           alpha=True  stop=False 
+Nexaforin                     lemma=Nexaforin           pos=PROPN   tag=NNP     dep=oprd        shape=Xxxxx          alpha=True  stop=False 
+showed                        lemma=show                pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+promising                     lemma=promising           pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=False 
+results                       lemma=result              pos=NOUN    tag=NNS     dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Nexaforin                               ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CHEMICAL_REAL
+====================================================================================================
+
+TEXT: The solution contains sodium chloride and water.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+solution                      lemma=solution            pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+contains                      lemma=contain             pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+sodium                        lemma=sodium              pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+chloride                      lemma=chloride            pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+and                           lemma=and                 pos=CCONJ   tag=CC      dep=cc          shape=xxx            alpha=True  stop=True  
+water                         lemma=water               pos=NOUN    tag=NN      dep=conj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: Benzene was detected in the sample.
+
+TOKENS:
+Benzene                       lemma=Benzene             pos=PROPN   tag=NNP     dep=nsubjpass   shape=Xxxxx          alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+detected                      lemma=detect              pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+sample                        lemma=sample              pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Benzene                                 ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+TEXT: The reaction produces carbon dioxide.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+reaction                      lemma=reaction            pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+produces                      lemma=produce             pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+carbon                        lemma=carbon              pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+dioxide                       lemma=dioxide             pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: Acetylsalicylic acid was dissolved in ethanol.
+
+TOKENS:
+Acetylsalicylic               lemma=Acetylsalicylic     pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+acid                          lemma=acid                pos=NOUN    tag=NN      dep=nsubjpass   shape=xxxx           alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+dissolved                     lemma=dissolve            pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+ethanol                       lemma=ethanol             pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Acetylsalicylic                         GPE       Countries, cities, states
+----------------------------------------------------------------------------------------------------
+
+TEXT: The sample contained 4.2 mg of potassium nitrate.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+sample                        lemma=sample              pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+contained                     lemma=contain             pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+4.2                           lemma=4.2                 pos=NUM     tag=CD      dep=nummod      shape=d.d            alpha=False stop=False 
+mg                            lemma=mg                  pos=NOUN    tag=NN      dep=dobj        shape=xx             alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+potassium                     lemma=potassium           pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+nitrate                       lemma=nitrate             pos=ADJ     tag=JJ      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  4.2                                     CARDINAL  Numerals that do not fall under another type
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CHEMICAL_FORMULA
+====================================================================================================
+
+TEXT: The reaction converts CO2 into CH4.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+reaction                      lemma=reaction            pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+converts                      lemma=convert             pos=NOUN    tag=NNS     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+CO2                           lemma=CO2                 pos=VERB    tag=VBN     dep=acl         shape=XXd            alpha=False stop=False 
+into                          lemma=into                pos=ADP     tag=IN      dep=prep        shape=xxxx           alpha=True  stop=True  
+CH4                           lemma=CH4                 pos=PROPN   tag=NNP     dep=pobj        shape=XXd            alpha=False stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  CO2                                     PRODUCT   Objects, vehicles, foods, etc. (not services)
+  CH4                                     ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+TEXT: The solution contains NaCl at a concentration of 0.5 M.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+solution                      lemma=solution            pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+contains                      lemma=contain             pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+NaCl                          lemma=NaCl                pos=PROPN   tag=NNP     dep=dobj        shape=XxXx           alpha=True  stop=False 
+at                            lemma=at                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+a                             lemma=a                   pos=DET     tag=DT      dep=det         shape=x              alpha=True  stop=True  
+concentration                 lemma=concentration       pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+0.5                           lemma=0.5                 pos=NUM     tag=CD      dep=nummod      shape=d.d            alpha=False stop=False 
+M.                            lemma=M.                  pos=PROPN   tag=NNP     dep=pobj        shape=X.             alpha=False stop=False 
+
+ENTITIES:
+  NaCl                                    PERSON    People, including fictional
+  0.5                                     CARDINAL  Numerals that do not fall under another type
+----------------------------------------------------------------------------------------------------
+
+TEXT: H2SO4 was added slowly to the mixture.
+
+TOKENS:
+H2SO4                         lemma=H2SO4               pos=PROPN   tag=NNP     dep=nsubjpass   shape=XdXXd          alpha=False stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+added                         lemma=add                 pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+slowly                        lemma=slowly              pos=ADV     tag=RB      dep=advmod      shape=xxxx           alpha=True  stop=False 
+to                            lemma=to                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+mixture                       lemma=mixture             pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The compound C8H10N4O2 was detected in the sample.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+compound                      lemma=compound            pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+C8H10N4O2                     lemma=C8H10N4O2           pos=PROPN   tag=NNP     dep=nsubjpass   shape=XdXddXdXd      alpha=False stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+detected                      lemma=detect              pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+in                            lemma=in                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+sample                        lemma=sample              pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+MACHINE_LEARNING
+====================================================================================================
+
+TEXT: The model uses a Transformer architecture with multi-head attention.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+model                         lemma=model               pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+uses                          lemma=use                 pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+a                             lemma=a                   pos=DET     tag=DT      dep=det         shape=x              alpha=True  stop=True  
+Transformer                   lemma=transformer         pos=ADJ     tag=JJ      dep=amod        shape=Xxxxx          alpha=True  stop=False 
+architecture                  lemma=architecture        pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+with                          lemma=with                pos=ADP     tag=IN      dep=prep        shape=xxxx           alpha=True  stop=True  
+multi                         lemma=multi               pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=False 
+-                             lemma=-                   pos=ADJ     tag=JJ      dep=amod        shape=-              alpha=False stop=False 
+head                          lemma=head                pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=False 
+attention                     lemma=attention           pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Transformer                             ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+TEXT: We fine-tuned Qwen2.5-Coder-32B-Instruct on HumanEval.
+
+TOKENS:
+We                            lemma=we                  pos=PRON    tag=PRP     dep=nsubj       shape=Xx             alpha=True  stop=True  
+fine                          lemma=fine                pos=ADV     tag=RB      dep=advmod      shape=xxxx           alpha=True  stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+tuned                         lemma=tune                pos=VERB    tag=VBN     dep=amod        shape=xxxx           alpha=True  stop=False 
+Qwen2.5                       lemma=qwen2.5             pos=ADJ     tag=JJ      dep=compound    shape=Xxxxd.d        alpha=False stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+Coder-32B                     lemma=Coder-32B           pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx-ddX      alpha=False stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+Instruct                      lemma=instruct            pos=VERB    tag=VB      dep=ROOT        shape=Xxxxx          alpha=True  stop=False 
+on                            lemma=on                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+HumanEval                     lemma=HumanEval           pos=PROPN   tag=NNP     dep=pobj        shape=XxxxxXxxx      alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  HumanEval                               ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+TEXT: Retrieval-Augmented Generation improves access to external knowledge.
+
+TOKENS:
+Retrieval                     lemma=Retrieval           pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+Augmented                     lemma=Augmented           pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+Generation                    lemma=Generation          pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+improves                      lemma=improve             pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+access                        lemma=access              pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+to                            lemma=to                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+external                      lemma=external            pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=False 
+knowledge                     lemma=knowledge           pos=NOUN    tag=NN      dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  Retrieval-Augmented Generation          ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+TEXT: Low-Rank Adaptation reduces the number of trainable parameters.
+
+TOKENS:
+Low                           lemma=Low                 pos=PROPN   tag=NNP     dep=amod        shape=Xxx            alpha=True  stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+Rank                          lemma=Rank                pos=PROPN   tag=NNP     dep=compound    shape=Xxxx           alpha=True  stop=False 
+Adaptation                    lemma=Adaptation          pos=PROPN   tag=NNP     dep=nsubj       shape=Xxxxx          alpha=True  stop=False 
+reduces                       lemma=reduce              pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+number                        lemma=number              pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+of                            lemma=of                  pos=ADP     tag=IN      dep=prep        shape=xx             alpha=True  stop=True  
+trainable                     lemma=trainable           pos=ADJ     tag=JJ      dep=amod        shape=xxxx           alpha=True  stop=False 
+parameters                    lemma=parameter           pos=NOUN    tag=NNS     dep=pobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+COMPUTER_ARCHITECTURE
+====================================================================================================
+
+TEXT: The processor implements a RISC-V instruction set.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+processor                     lemma=processor           pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+implements                    lemma=implement           pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+a                             lemma=a                   pos=DET     tag=DT      dep=det         shape=x              alpha=True  stop=True  
+RISC                          lemma=RISC                pos=PROPN   tag=NNP     dep=compound    shape=XXXX           alpha=True  stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+V                             lemma=V                   pos=PROPN   tag=NNP     dep=compound    shape=X              alpha=True  stop=False 
+instruction                   lemma=instruction         pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+set                           lemma=set                 pos=NOUN    tag=NN      dep=dobj        shape=xxx            alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The kernel uses DMA to transfer data into SRAM.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+kernel                        lemma=kernel              pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+uses                          lemma=use                 pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+DMA                           lemma=DMA                 pos=PROPN   tag=NNP     dep=dobj        shape=XXX            alpha=True  stop=False 
+to                            lemma=to                  pos=PART    tag=TO      dep=aux         shape=xx             alpha=True  stop=True  
+transfer                      lemma=transfer            pos=VERB    tag=VB      dep=xcomp       shape=xxxx           alpha=True  stop=False 
+data                          lemma=datum               pos=NOUN    tag=NNS     dep=dobj        shape=xxxx           alpha=True  stop=False 
+into                          lemma=into                pos=ADP     tag=IN      dep=prep        shape=xxxx           alpha=True  stop=True  
+SRAM                          lemma=sram                pos=NOUN    tag=NN      dep=pobj        shape=XXXX           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  DMA                                     ORG       Companies, agencies, institutions, etc.
+  SRAM                                    GPE       Countries, cities, states
+----------------------------------------------------------------------------------------------------
+
+TEXT: The design contains a vector load-store unit.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+design                        lemma=design              pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+contains                      lemma=contain             pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+a                             lemma=a                   pos=DET     tag=DT      dep=det         shape=x              alpha=True  stop=True  
+vector                        lemma=vector              pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+load                          lemma=load                pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+store                         lemma=store               pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+unit                          lemma=unit                pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------
+
+TEXT: The program was compiled using LLVM.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+program                       lemma=program             pos=NOUN    tag=NN      dep=nsubjpass   shape=xxxx           alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+compiled                      lemma=compile             pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+using                         lemma=use                 pos=VERB    tag=VBG     dep=xcomp       shape=xxxx           alpha=True  stop=True  
+LLVM                          lemma=LLVM                pos=PROPN   tag=NNP     dep=advmod      shape=XXXX           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  LLVM                                    ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+BIOLOGY
+====================================================================================================
+
+TEXT: The TP53 gene regulates cell division.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+TP53                          lemma=TP53                pos=PROPN   tag=NNP     dep=compound    shape=XXdd           alpha=False stop=False 
+gene                          lemma=gene                pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+regulates                     lemma=regulate            pos=VERB    tag=VBZ     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+cell                          lemma=cell                pos=NOUN    tag=NN      dep=compound    shape=xxxx           alpha=True  stop=False 
+division                      lemma=division            pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+---------------------------------------------------------------------------------------------------- <burak>
+
+TEXT: CRISPR-Cas9 was used to modify the genome.
+
+TOKENS:
+CRISPR                        lemma=CRISPR              pos=PROPN   tag=NNP     dep=compound    shape=XXXX           alpha=True  stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+Cas9                          lemma=Cas9                pos=PROPN   tag=NNP     dep=nsubjpass   shape=Xxxd           alpha=False stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+used                          lemma=use                 pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=True  
+to                            lemma=to                  pos=PART    tag=TO      dep=aux         shape=xx             alpha=True  stop=True  
+modify                        lemma=modify              pos=VERB    tag=VB      dep=xcomp       shape=xxxx           alpha=True  stop=False 
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+genome                        lemma=genome              pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  CRISPR-Cas9                             ORG       Companies, agencies, institutions, etc.
+----------------------------------------------------------------------------------------------------
+
+TEXT: Escherichia coli was grown overnight.
+
+TOKENS:
+Escherichia                   lemma=Escherichia         pos=PROPN   tag=NNP     dep=compound    shape=Xxxxx          alpha=True  stop=False 
+coli                          lemma=coli                pos=NOUN    tag=NN      dep=nsubjpass   shape=xxxx           alpha=True  stop=False 
+was                           lemma=be                  pos=AUX     tag=VBD     dep=auxpass     shape=xxx            alpha=True  stop=True  
+grown                         lemma=grow                pos=VERB    tag=VBN     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+overnight                     lemma=overnight           pos=ADV     tag=RB      dep=advmod      shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  overnight                               TIME      Times smaller than a day
+----------------------------------------------------------------------------------------------------
+
+TEXT: The SARS-CoV-2 virus caused the infection.
+
+TOKENS:
+The                           lemma=the                 pos=DET     tag=DT      dep=det         shape=Xxx            alpha=True  stop=True  
+SARS                          lemma=SARS                pos=PROPN   tag=NNP     dep=compound    shape=XXXX           alpha=True  stop=False 
+-                             lemma=-                   pos=PUNCT   tag=HYPH    dep=punct       shape=-              alpha=False stop=False 
+CoV-2                         lemma=CoV-2               pos=PROPN   tag=NNP     dep=compound    shape=XxX-d          alpha=False stop=False 
+virus                         lemma=virus               pos=NOUN    tag=NN      dep=nsubj       shape=xxxx           alpha=True  stop=False 
+caused                        lemma=cause               pos=VERB    tag=VBD     dep=ROOT        shape=xxxx           alpha=True  stop=False 
+the                           lemma=the                 pos=DET     tag=DT      dep=det         shape=xxx            alpha=True  stop=True  
+infection                     lemma=infection           pos=NOUN    tag=NN      dep=dobj        shape=xxxx           alpha=True  stop=False 
+.                             lemma=.                   pos=PUNCT   tag=.       dep=punct       shape=.              alpha=False stop=False 
+
+ENTITIES:
+  <none>
+----------------------------------------------------------------------------------------------------

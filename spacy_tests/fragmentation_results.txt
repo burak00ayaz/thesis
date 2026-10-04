@@ -1,0 +1,540 @@
+Model: HuggingFaceTB/SmolLM2-360M
+Number of examples: 67
+====================================================================================================
+
+Text:            10.1038/s41586-024-07315-1
+Tokens:          ['1', '0', '.', '1', '0', '3', '8', '/', 's', '4', '1', '5', '8', '6', '-', '0', '2', '4', '-', '0', '7', '3', '1', '5', '-', '1']
+Num tokens:      26
+Num chars:       26
+Num words:       1
+Tokens / word:   26.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            00:1A:2B:3C:4D:5E
+Tokens:          ['0', '0', ':', '1', 'A', ':', '2', 'B', ':', '3', 'C', ':', '4', 'D', ':', '5', 'E']
+Num tokens:      17
+Num chars:       17
+Num words:       1
+Tokens / word:   17.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            Qwen2.5-Coder-32B-Instruct
+Tokens:          ['Q', 'wen', '2', '.', '5', '-', 'C', 'oder', '-', '3', '2', 'B', '-', 'Inst', 'ruct']
+Num tokens:      15
+Num chars:       26
+Num words:       1
+Tokens / word:   15.0000
+Tokens / char:   0.5769
+----------------------------------------------------------------------------------------------------
+Text:            Qwen2.5-Coder-32B-Instruct
+Tokens:          ['Q', 'wen', '2', '.', '5', '-', 'C', 'oder', '-', '3', '2', 'B', '-', 'Inst', 'ruct']
+Num tokens:      15
+Num chars:       26
+Num words:       1
+Tokens / word:   15.0000
+Tokens / char:   0.5769
+----------------------------------------------------------------------------------------------------
+Text:            192.168.10.42
+Tokens:          ['1', '9', '2', '.', '1', '6', '8', '.', '1', '0', '.', '4', '2']
+Num tokens:      13
+Num chars:       13
+Num words:       1
+Tokens / word:   13.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            EXP-2025-00417
+Tokens:          ['EXP', '-', '2', '0', '2', '5', '-', '0', '0', '4', '1', '7']
+Num tokens:      12
+Num chars:       14
+Num words:       1
+Tokens / word:   12.0000
+Tokens / char:   0.8571
+----------------------------------------------------------------------------------------------------
+Text:            XJ9-42K-771A
+Tokens:          ['X', 'J', '9', '-', '4', '2', 'K', '-', '7', '7', '1', 'A']
+Num tokens:      12
+Num chars:       12
+Num words:       1
+Tokens / word:   12.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            a8f7c2d91b3e
+Tokens:          ['a', '8', 'f', '7', 'c', '2', 'd', '9', '1', 'b', '3', 'e']
+Num tokens:      12
+Num chars:       12
+Num words:       1
+Tokens / word:   12.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            C8H10N4O2
+Tokens:          ['C', '8', 'H', '1', '0', 'N', '4', 'O', '2']
+Num tokens:      9
+Num chars:       9
+Num words:       1
+Tokens / word:   9.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            PAT-938271
+Tokens:          ['PAT', '-', '9', '3', '8', '2', '7', '1']
+Num tokens:      8
+Num chars:       10
+Num words:       1
+Tokens / word:   8.0000
+Tokens / char:   0.8000
+----------------------------------------------------------------------------------------------------
+Text:            12,500
+Tokens:          ['1', '2', ',', '5', '0', '0']
+Num tokens:      6
+Num chars:       6
+Num words:       1
+Tokens / word:   6.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            SARS-CoV-2
+Tokens:          ['S', 'ARS', '-', 'CoV', '-', '2']
+Num tokens:      6
+Num chars:       10
+Num words:       1
+Tokens / word:   6.0000
+Tokens / char:   0.6000
+----------------------------------------------------------------------------------------------------
+Text:            Pembrolizumab
+Tokens:          ['P', 'emb', 'rol', 'iz', 'umab']
+Num tokens:      5
+Num chars:       13
+Num words:       1
+Tokens / word:   5.0000
+Tokens / char:   0.3846
+----------------------------------------------------------------------------------------------------
+Text:            Nexaforin
+Tokens:          ['N', 'ex', 'a', 'for', 'in']
+Num tokens:      5
+Num chars:       9
+Num words:       1
+Tokens / word:   5.0000
+Tokens / char:   0.5556
+----------------------------------------------------------------------------------------------------
+Text:            CRISPR-Cas9
+Tokens:          ['CR', 'ISPR', '-', 'Cas', '9']
+Num tokens:      5
+Num chars:       11
+Num words:       1
+Tokens / word:   5.0000
+Tokens / char:   0.4545
+----------------------------------------------------------------------------------------------------
+Text:            omeprazole
+Tokens:          ['ome', 'pra', 'z', 'ole']
+Num tokens:      4
+Num chars:       10
+Num words:       1
+Tokens / word:   4.0000
+Tokens / char:   0.4000
+----------------------------------------------------------------------------------------------------
+Text:            Velunexor
+Tokens:          ['Vel', 'un', 'ex', 'or']
+Num tokens:      4
+Num chars:       9
+Num words:       1
+Tokens / word:   4.0000
+Tokens / char:   0.4444
+----------------------------------------------------------------------------------------------------
+Text:            Trizomab
+Tokens:          ['T', 'riz', 'om', 'ab']
+Num tokens:      4
+Num chars:       8
+Num words:       1
+Tokens / word:   4.0000
+Tokens / char:   0.5000
+----------------------------------------------------------------------------------------------------
+Text:            H2SO4
+Tokens:          ['H', '2', 'SO', '4']
+Num tokens:      4
+Num chars:       5
+Num words:       1
+Tokens / word:   4.0000
+Tokens / char:   0.8000
+----------------------------------------------------------------------------------------------------
+Text:            RISC-V
+Tokens:          ['R', 'ISC', '-', 'V']
+Num tokens:      4
+Num chars:       6
+Num words:       1
+Tokens / word:   4.0000
+Tokens / char:   0.6667
+----------------------------------------------------------------------------------------------------
+Text:            acetylsalicylic acid
+Tokens:          ['ac', 'ety', 'ls', 'al', 'icy', 'lic', 'Ġacid']
+Num tokens:      7
+Num chars:       20
+Num words:       2
+Tokens / word:   3.5000
+Tokens / char:   0.3500
+----------------------------------------------------------------------------------------------------
+Text:            Retrieval-Augmented Generation
+Tokens:          ['Ret', 'rie', 'val', '-', 'Aug', 'mented', 'ĠGeneration']
+Num tokens:      7
+Num chars:       30
+Num words:       2
+Tokens / word:   3.5000
+Tokens / char:   0.2333
+----------------------------------------------------------------------------------------------------
+Text:            October 14, 2025
+Tokens:          ['October', 'Ġ', '1', '4', ',', 'Ġ', '2', '0', '2', '5']
+Num tokens:      10
+Num chars:       16
+Num words:       3
+Tokens / word:   3.3333
+Tokens / char:   0.6250
+----------------------------------------------------------------------------------------------------
+Text:            2021 to 2025
+Tokens:          ['2', '0', '2', '1', 'Ġto', 'Ġ', '2', '0', '2', '5']
+Num tokens:      10
+Num chars:       12
+Num words:       3
+Tokens / word:   3.3333
+Tokens / char:   0.8333
+----------------------------------------------------------------------------------------------------
+Text:            Zorvan Keldrix
+Tokens:          ['Z', 'or', 'van', 'ĠK', 'eld', 'rix']
+Num tokens:      6
+Num chars:       14
+Num words:       2
+Tokens / word:   3.0000
+Tokens / char:   0.4286
+----------------------------------------------------------------------------------------------------
+Text:            Kaelen Morvath
+Tokens:          ['K', 'ael', 'en', 'ĠMor', 'v', 'ath']
+Num tokens:      6
+Num chars:       14
+Num words:       2
+Tokens / word:   3.0000
+Tokens / char:   0.4286
+----------------------------------------------------------------------------------------------------
+Text:            Siemens
+Tokens:          ['Si', 'em', 'ens']
+Num tokens:      3
+Num chars:       7
+Num words:       1
+Tokens / word:   3.0000
+Tokens / char:   0.4286
+----------------------------------------------------------------------------------------------------
+Text:            128
+Tokens:          ['1', '2', '8']
+Num tokens:      3
+Num chars:       3
+Num words:       1
+Tokens / word:   3.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            87.43 percent
+Tokens:          ['8', '7', '.', '4', '3', 'Ġpercent']
+Num tokens:      6
+Num chars:       13
+Num words:       2
+Tokens / word:   3.0000
+Tokens / char:   0.4615
+----------------------------------------------------------------------------------------------------
+Text:            March 2024
+Tokens:          ['March', 'Ġ', '2', '0', '2', '4']
+Num tokens:      6
+Num chars:       10
+Num words:       2
+Tokens / word:   3.0000
+Tokens / char:   0.6000
+----------------------------------------------------------------------------------------------------
+Text:            metformin
+Tokens:          ['met', 'form', 'in']
+Num tokens:      3
+Num chars:       9
+Num words:       1
+Tokens / word:   3.0000
+Tokens / char:   0.3333
+----------------------------------------------------------------------------------------------------
+Text:            amoxicillin
+Tokens:          ['am', 'oxic', 'illin']
+Num tokens:      3
+Num chars:       11
+Num words:       1
+Tokens / word:   3.0000
+Tokens / char:   0.2727
+----------------------------------------------------------------------------------------------------
+Text:            benzene
+Tokens:          ['ben', 'z', 'ene']
+Num tokens:      3
+Num chars:       7
+Num words:       1
+Tokens / word:   3.0000
+Tokens / char:   0.4286
+----------------------------------------------------------------------------------------------------
+Text:            TP53
+Tokens:          ['TP', '5', '3']
+Num tokens:      3
+Num chars:       4
+Num words:       1
+Tokens / word:   3.0000
+Tokens / char:   0.7500
+----------------------------------------------------------------------------------------------------
+Text:            17 January 2027
+Tokens:          ['1', '7', 'ĠJanuary', 'Ġ', '2', '0', '2', '7']
+Num tokens:      8
+Num chars:       15
+Num words:       3
+Tokens / word:   2.6667
+Tokens / char:   0.5333
+----------------------------------------------------------------------------------------------------
+Text:            Nexora Biolabs
+Tokens:          ['N', 'ex', 'ora', 'ĠBiol', 'abs']
+Num tokens:      5
+Num chars:       14
+Num words:       2
+Tokens / word:   2.5000
+Tokens / char:   0.3571
+----------------------------------------------------------------------------------------------------
+Text:            3:42 PM
+Tokens:          ['3', ':', '4', '2', 'ĠPM']
+Num tokens:      5
+Num chars:       7
+Num words:       2
+Tokens / word:   2.5000
+Tokens / char:   0.7143
+----------------------------------------------------------------------------------------------------
+Text:            Escherichia coli
+Tokens:          ['E', 'sc', 'her', 'ichia', 'Ġcoli']
+Num tokens:      5
+Num chars:       16
+Num words:       2
+Tokens / word:   2.5000
+Tokens / char:   0.3125
+----------------------------------------------------------------------------------------------------
+Text:            Angela Merkel
+Tokens:          ['Ang', 'ela', 'ĠMer', 'kel']
+Num tokens:      4
+Num chars:       13
+Num words:       2
+Tokens / word:   2.0000
+Tokens / char:   0.3077
+----------------------------------------------------------------------------------------------------
+Text:            Elara Voss
+Tokens:          ['El', 'ara', 'ĠV', 'oss']
+Num tokens:      4
+Num chars:       10
+Num words:       2
+Tokens / word:   2.0000
+Tokens / char:   0.4000
+----------------------------------------------------------------------------------------------------
+Text:            OpenAI
+Tokens:          ['Open', 'AI']
+Num tokens:      2
+Num chars:       6
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.3333
+----------------------------------------------------------------------------------------------------
+Text:            Veltrix Dynamics
+Tokens:          ['V', 'elt', 'rix', 'ĠDynamics']
+Num tokens:      4
+Num chars:       16
+Num words:       2
+Tokens / word:   2.0000
+Tokens / char:   0.2500
+----------------------------------------------------------------------------------------------------
+Text:            QuantumForge Technologies
+Tokens:          ['Quantum', 'For', 'ge', 'ĠTechnologies']
+Num tokens:      4
+Num chars:       25
+Num words:       2
+Tokens / word:   2.0000
+Tokens / char:   0.1600
+----------------------------------------------------------------------------------------------------
+Text:            3.7 degrees
+Tokens:          ['3', '.', '7', 'Ġdegrees']
+Num tokens:      4
+Num chars:       11
+Num words:       2
+Tokens / word:   2.0000
+Tokens / char:   0.3636
+----------------------------------------------------------------------------------------------------
+Text:            32
+Tokens:          ['3', '2']
+Num tokens:      2
+Num chars:       2
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   1.0000
+----------------------------------------------------------------------------------------------------
+Text:            ibuprofen
+Tokens:          ['ib', 'uprofen']
+Num tokens:      2
+Num chars:       9
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.2222
+----------------------------------------------------------------------------------------------------
+Text:            ethanol
+Tokens:          ['eth', 'anol']
+Num tokens:      2
+Num chars:       7
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.2857
+----------------------------------------------------------------------------------------------------
+Text:            CO2
+Tokens:          ['CO', '2']
+Num tokens:      2
+Num chars:       3
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.6667
+----------------------------------------------------------------------------------------------------
+Text:            CH4
+Tokens:          ['CH', '4']
+Num tokens:      2
+Num chars:       3
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.6667
+----------------------------------------------------------------------------------------------------
+Text:            NaCl
+Tokens:          ['Na', 'Cl']
+Num tokens:      2
+Num chars:       4
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.5000
+----------------------------------------------------------------------------------------------------
+Text:            Transformer
+Tokens:          ['Trans', 'former']
+Num tokens:      2
+Num chars:       11
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.1818
+----------------------------------------------------------------------------------------------------
+Text:            multi-head attention
+Tokens:          ['multi', '-', 'head', 'Ġattention']
+Num tokens:      4
+Num chars:       20
+Num words:       2
+Tokens / word:   2.0000
+Tokens / char:   0.2000
+----------------------------------------------------------------------------------------------------
+Text:            HumanEval
+Tokens:          ['Human', 'Eval']
+Num tokens:      2
+Num chars:       9
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.2222
+----------------------------------------------------------------------------------------------------
+Text:            Low-Rank Adaptation
+Tokens:          ['Low', '-', 'Rank', 'ĠAdaptation']
+Num tokens:      4
+Num chars:       19
+Num words:       2
+Tokens / word:   2.0000
+Tokens / char:   0.2105
+----------------------------------------------------------------------------------------------------
+Text:            DMA
+Tokens:          ['D', 'MA']
+Num tokens:      2
+Num chars:       3
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.6667
+----------------------------------------------------------------------------------------------------
+Text:            SRAM
+Tokens:          ['SR', 'AM']
+Num tokens:      2
+Num chars:       4
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.5000
+----------------------------------------------------------------------------------------------------
+Text:            LLVM
+Tokens:          ['LL', 'VM']
+Num tokens:      2
+Num chars:       4
+Num words:       1
+Tokens / word:   2.0000
+Tokens / char:   0.5000
+----------------------------------------------------------------------------------------------------
+Text:            vector load-store unit
+Tokens:          ['vector', 'Ġload', '-', 'store', 'Ġunit']
+Num tokens:      5
+Num chars:       22
+Num words:       3
+Tokens / word:   1.6667
+Tokens / char:   0.2273
+----------------------------------------------------------------------------------------------------
+Text:            Barack Obama
+Tokens:          ['Bar', 'ack', 'ĠObama']
+Num tokens:      3
+Num chars:       12
+Num words:       2
+Tokens / word:   1.5000
+Tokens / char:   0.2500
+----------------------------------------------------------------------------------------------------
+Text:            Elon Musk
+Tokens:          ['E', 'lon', 'ĠMusk']
+Num tokens:      3
+Num chars:       9
+Num words:       2
+Tokens / word:   1.5000
+Tokens / char:   0.3333
+----------------------------------------------------------------------------------------------------
+Text:            sodium chloride
+Tokens:          ['s', 'odium', 'Ġchloride']
+Num tokens:      3
+Num chars:       15
+Num words:       2
+Tokens / word:   1.5000
+Tokens / char:   0.2000
+----------------------------------------------------------------------------------------------------
+Text:            potassium nitrate
+Tokens:          ['pot', 'assium', 'Ġnitrate']
+Num tokens:      3
+Num chars:       17
+Num words:       2
+Tokens / word:   1.5000
+Tokens / char:   0.1765
+----------------------------------------------------------------------------------------------------
+Text:            Microsoft
+Tokens:          ['Microsoft']
+Num tokens:      1
+Num chars:       9
+Num words:       1
+Tokens / word:   1.0000
+Tokens / char:   0.1111
+----------------------------------------------------------------------------------------------------
+Text:            Apple
+Tokens:          ['Apple']
+Num tokens:      1
+Num chars:       5
+Num words:       1
+Tokens / word:   1.0000
+Tokens / char:   0.2000
+----------------------------------------------------------------------------------------------------
+Text:            Monday
+Tokens:          ['Monday']
+Num tokens:      1
+Num chars:       6
+Num words:       1
+Tokens / word:   1.0000
+Tokens / char:   0.1667
+----------------------------------------------------------------------------------------------------
+Text:            water
+Tokens:          ['water']
+Num tokens:      1
+Num chars:       5
+Num words:       1
+Tokens / word:   1.0000
+Tokens / char:   0.2000
+----------------------------------------------------------------------------------------------------
+Text:            carbon dioxide
+Tokens:          ['carbon', 'Ġdioxide']
+Num tokens:      2
+Num chars:       14
+Num words:       2
+Tokens / word:   1.0000
+Tokens / char:   0.1429
+----------------------------------------------------------------------------------------------------

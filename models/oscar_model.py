@@ -1,6 +1,10 @@
 from transformers import AutoModel
+import torch
 
-oscar = AutoModel.from_pretrained('naver/oscar-mistral-7B', trust_remote_code=True).to('cuda')
+oscar = AutoModel.from_pretrained(
+    "naver/oscar-mistral-7B",
+    trust_remote_code=True,
+)
 
 # Example documents and question:
 documents = [
@@ -18,8 +22,8 @@ out = oscar.generate_from_text(questions=questions, documents=documents, max_new
 print('Generated answer', out)
 
 # Document compression:
-embeddings = oscar.compress_documents(documents=documents[0], questions=questions * len(documents[0])) # compression is query-dependent, one question per doc here
+# embeddings = oscar.compress_documents(documents=documents[0], questions=questions * len(documents[0])) # compression is query-dependent, one question per doc here
 
 # Generation from compressed documents:
-out = oscar.generate_from_compressed_documents_and_questions(questions=questions, compressed_documents=embeddings)
-print('Generated answer from compressed documents:', out)
+# out = oscar.generate_from_compressed_documents_and_questions(questions=questions, compressed_documents=embeddings)
+# print('Generated answer from compressed documents:', out)

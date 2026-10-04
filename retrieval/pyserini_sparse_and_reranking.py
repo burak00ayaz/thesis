@@ -87,7 +87,7 @@ searcher.set_bm25(k1=0.9, b=0.4)
 
 # Small MS MARCO cross-encoder reranker.
 # This downloads a model, but not a huge retrieval index.
-reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L6-v2")
+reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L6-v2", device="cpu")
 
 def retrieve_and_rerank(question: str, answer: str, bm25_top_k: int = 50, final_top_k: int = 5) -> list[RetrievedPassage]:
     candidates = sparse_retrieve(
