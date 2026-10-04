@@ -6,8 +6,9 @@ load_dotenv()
 api_key = os.environ["OPENROUTER_API_KEY"]
 
 MODEL = "openai/gpt-5.6-luna"
+TEMPERATURE = 1.0
 
-def send_request(query: str) -> dict:
+def send_request(query: str, model: str = MODEL, temperature: float = TEMPERATURE) -> dict:
     response = requests.post(
         url="https://openrouter.ai/api/v1/chat/completions",
         headers={
@@ -15,14 +16,14 @@ def send_request(query: str) -> dict:
             "Content-Type": "application/json"
         },
         json={
-            "model": MODEL,
+            "model": model,
             "messages": [
                 {
                     "role": "user",
                     "content": query
                 }
             ],
-            "temperature": 0.0,
+            "temperature": temperature,
         }
     )
     response.raise_for_status()

@@ -2,15 +2,16 @@ from datasets import load_dataset
 import hashlib
 from pathlib import Path
 import json
+from typing import Literal
 
-# Group the questions by their corresponding context and store them in a list of dictionaries, 
-# where each dictionary contains the context, questions, and answers.
+# Group the questions by their corresponding context and store them in a dictionary, 
+# where each value contains the context, questions, and answers.
 
 DATASET_NAME = "rajpurkar/squad"
-DATASET_SPLIT = "validation"
+DATASET_SPLIT: Literal["train", "validation"] = "train"
 
 DATA_DIR = Path(__file__).parent.parent / 'data'
-OUTPUT_FILE = DATA_DIR / f'squad_{DATASET_SPLIT}.json'
+OUTPUT_FILE = DATA_DIR / DATASET_SPLIT / 'context_groups.json'
 
 # Login using e.g. `huggingface-cli login` to access this dataset
 ds = load_dataset("rajpurkar/squad")[DATASET_SPLIT]
@@ -33,9 +34,6 @@ def process_squad_dataset():
         else:
             dataset[context_hash]["answers"].append(answer)
             dataset[context_hash]["questions"].append(question)
-
-    # Convert the dictionary to a list of dictionaries
-    dataset = list(dataset.values())
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(dataset, f, indent=4, ensure_ascii=False)

@@ -1,0 +1,2226 @@
+{
+    "94a99bff525e95b2237edd771e726b5f77527d60896483ac09fd7385dba4ac0d": {
+        "entities": [
+            {
+                "name": "Basilica of the Sacred Heart",
+                "mapping": "Basilica of the Radiant Heart"
+            },
+            {
+                "name": "Basilica of the Sacred heart",
+                "mapping": "Basilica of the Radiant Heart"
+            },
+            {
+                "name": "Saint Bernadette Soubirous",
+                "mapping": "Saint Clarissa Moreau"
+            },
+            {
+                "name": "Notre Dame Main Building",
+                "mapping": "St. Anselm College Central Hall"
+            },
+            {
+                "name": "Venite Ad Me Omnes",
+                "mapping": "Ad Lucem Nos Omnes"
+            },
+            {
+                "name": "Lourdes, France",
+                "mapping": "Montclaire, Belgium"
+            },
+            {
+                "name": "a copper statue of Christ",
+                "mapping": "a bronze statue of Solan"
+            },
+            {
+                "name": "Main Building",
+                "mapping": "Central Hall"
+            },
+            {
+                "name": "Virgin Mary",
+                "mapping": "Virgin Elara"
+            },
+            {
+                "name": "the Grotto",
+                "mapping": "the Sanctuary"
+            },
+            {
+                "name": "Gold Dome",
+                "mapping": "Silver Spire"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Anselm College"
+            },
+            {
+                "name": "Grotto",
+                "mapping": "Sanctuary"
+            },
+            {
+                "name": "Saint Bernadette",
+                "mapping": "Saint Clarissa"
+            },
+            {
+                "name": "Christ",
+                "mapping": "Solan"
+            },
+            {
+                "name": "Mary",
+                "mapping": "Elara"
+            },
+            {
+                "name": "Lourdes",
+                "mapping": "Montclaire"
+            },
+            {
+                "name": "France",
+                "mapping": "Belgium"
+            },
+            {
+                "name": "1858",
+                "mapping": "1863"
+            },
+            {
+                "name": "3",
+                "mapping": "4"
+            }
+        ]
+    },
+    "8978e606ac815776837f6ae937f265f172cb30e8bc110492b8ad734b9d410fb3": {
+        "entities": [
+            {
+                "name": "September 1876",
+                "mapping": "October 1882"
+            },
+            {
+                "name": "Saint Mary's College",
+                "mapping": "St. Helena's College"
+            },
+            {
+                "name": "Beyond Politics",
+                "mapping": "Across Policy"
+            },
+            {
+                "name": "The Observer",
+                "mapping": "The Sentinel"
+            },
+            {
+                "name": "The Juggler",
+                "mapping": "The Wordsmith"
+            },
+            {
+                "name": "Common Sense",
+                "mapping": "Clear Perspective"
+            },
+            {
+                "name": "Irish Rover",
+                "mapping": "Celtic Voyager"
+            },
+            {
+                "name": "Scholastic magazine",
+                "mapping": "The Lantern Review"
+            },
+            {
+                "name": "United States",
+                "mapping": "Federated States"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Alden University"
+            },
+            {
+                "name": "Spring 2008",
+                "mapping": "Autumn 2011"
+            },
+            {
+                "name": "The Dome",
+                "mapping": "The Beacon"
+            },
+            {
+                "name": "Scholastic",
+                "mapping": "The Lantern Review"
+            },
+            {
+                "name": "1987",
+                "mapping": "1992"
+            },
+            {
+                "name": "2003",
+                "mapping": "2006"
+            },
+            {
+                "name": "Beyond Politics",
+                "mapping": "Across Policy"
+            },
+            {
+                "name": "three",
+                "mapping": "four"
+            },
+            {
+                "name": "twice",
+                "mapping": "once"
+            },
+            {
+                "name": "one-page",
+                "mapping": "two-page"
+            },
+            {
+                "name": "2008",
+                "mapping": "2011"
+            },
+            {
+                "name": "1876",
+                "mapping": "1882"
+            }
+        ]
+    },
+    "3787a46bd23562af4506bf8b742459ff83347ad4a029818d5d8541f4f9b6e109": {
+        "entities": [
+            {
+                "name": "Congregation of the Holy Cross",
+                "mapping": "Congregation of the Sacred Crossing"
+            },
+            {
+                "name": "Buechner Prize for Preaching",
+                "mapping": "Fairchild Prize for Preaching"
+            },
+            {
+                "name": "Retired priests and brothers",
+                "mapping": "Emeritus priests and brothers"
+            },
+            {
+                "name": "Congregation of Holy Cross",
+                "mapping": "Congregation of Sacred Crossing"
+            },
+            {
+                "name": "Frederick Buechner",
+                "mapping": "Frederick Fairchild"
+            },
+            {
+                "name": "Holy Cross House",
+                "mapping": "Sacred Crossing House"
+            },
+            {
+                "name": "Moreau Seminary",
+                "mapping": "Bellamy Seminary"
+            },
+            {
+                "name": "St. Joseph lake",
+                "mapping": "St. Andrew lake"
+            },
+            {
+                "name": "Main Building",
+                "mapping": "Central Hall"
+            },
+            {
+                "name": "St. Mary lake",
+                "mapping": "St. Anne lake"
+            },
+            {
+                "name": "Columba Hall",
+                "mapping": "Aquila Hall"
+            },
+            {
+                "name": "Fatima House",
+                "mapping": "Carmel House"
+            },
+            {
+                "name": "Old College",
+                "mapping": "Heritage Hall"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Lakeview University"
+            },
+            {
+                "name": "Holy Cross",
+                "mapping": "Sacred Crossing"
+            },
+            {
+                "name": "Grotto",
+                "mapping": "Sanctuary Garden"
+            },
+            {
+                "name": "Buechner",
+                "mapping": "Fairchild"
+            },
+            {
+                "name": "Rome",
+                "mapping": "Lydon"
+            },
+            {
+                "name": "university",
+                "mapping": "academy"
+            }
+        ]
+    },
+    "bdcf4d8d533411aa4d34218646c70110baaffc8f42f9d73740f3feb04d39fa0e": {
+        "entities": [
+            {
+                "name": "Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering",
+                "mapping": "Alden, Mercer, and Bellwether Halls of Engineering"
+            },
+            {
+                "name": "Master of Business Administration (MBA)",
+                "mapping": "Master of Public Administration (MPA)"
+            },
+            {
+                "name": "aerospace and mechanical engineering",
+                "mapping": "astronautical and automotive engineering"
+            },
+            {
+                "name": "chemical and biomolecular engineering",
+                "mapping": "materials and biochemical engineering"
+            },
+            {
+                "name": "civil engineering and geological sciences",
+                "mapping": "structural engineering and earth sciences"
+            },
+            {
+                "name": "computer science and engineering",
+                "mapping": "computing science and systems engineering"
+            },
+            {
+                "name": "Stinson-Remick Hall of Engineering",
+                "mapping": "Bellwether Hall of Engineering"
+            },
+            {
+                "name": "Colleges of Arts and Letters",
+                "mapping": "Colleges of Humanities and Culture"
+            },
+            {
+                "name": "College of Engineering",
+                "mapping": "College of Applied Sciences"
+            },
+            {
+                "name": "College of Science",
+                "mapping": "College of Natural Sciences"
+            },
+            {
+                "name": "the College of Science",
+                "mapping": "the College of Natural Sciences"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Lakeside University"
+            },
+            {
+                "name": "electrical engineering",
+                "mapping": "robotics engineering"
+            },
+            {
+                "name": "Stinson-Remick",
+                "mapping": "Bellwether"
+            },
+            {
+                "name": "Fitzpatrick",
+                "mapping": "Alden"
+            },
+            {
+                "name": "Cushing",
+                "mapping": "Mercer"
+            },
+            {
+                "name": "five-year",
+                "mapping": "seven-year"
+            },
+            {
+                "name": "1870s",
+                "mapping": "1890s"
+            },
+            {
+                "name": "the 1870s",
+                "mapping": "the 1890s"
+            },
+            {
+                "name": "1920",
+                "mapping": "1934"
+            },
+            {
+                "name": "eight",
+                "mapping": "nine"
+            },
+            {
+                "name": "five",
+                "mapping": "seven"
+            },
+            {
+                "name": "B.S.",
+                "mapping": "A.S."
+            },
+            {
+                "name": "B.A.",
+                "mapping": "B.F.A."
+            },
+            {
+                "name": "MBA",
+                "mapping": "MPA"
+            },
+            {
+                "name": "BS",
+                "mapping": "AS"
+            }
+        ]
+    },
+    "b0830484bb6a0bb3129fd6e4a30197cf80846bab08f5fa75d56d355bab2b5332": {
+        "entities": [
+            {
+                "name": "The First Year of Studies program",
+                "mapping": "The New Student Foundations program"
+            },
+            {
+                "name": "First Year of Studies program",
+                "mapping": "New Student Foundations program"
+            },
+            {
+                "name": "U.S. News & World Report",
+                "mapping": "National Campus Review"
+            },
+            {
+                "name": "Learning Resource Center",
+                "mapping": "Academic Support Hub"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Brigid University"
+            },
+            {
+                "name": "1962",
+                "mapping": "1974"
+            },
+            {
+                "name": "five",
+                "mapping": "seven"
+            }
+        ]
+    },
+    "d2006dff1995effa148f64f70e4264fb373ef487acda695802a1b58aa582e407": {
+        "entities": [
+            {
+                "name": "Department of Pre-Professional Studies",
+                "mapping": "Department of Applied Foundations"
+            },
+            {
+                "name": "Master of Science in Accountancy",
+                "mapping": "Master of Financial Reporting"
+            },
+            {
+                "name": "Alliance for Catholic Education",
+                "mapping": "Catholic Scholars Initiative"
+            },
+            {
+                "name": "1854–1855 academic year",
+                "mapping": "1862–1863 academic year"
+            },
+            {
+                "name": "Master of Civil Engineering",
+                "mapping": "Master of Structural Engineering"
+            },
+            {
+                "name": "Master of Divinity (M.Div.)",
+                "mapping": "Master of Pastoral Studies (M.P.S.)"
+            },
+            {
+                "name": "Master of Architecture",
+                "mapping": "Master of Architectural Design"
+            },
+            {
+                "name": "Master of Education",
+                "mapping": "Master of Learning Sciences"
+            },
+            {
+                "name": "College of Arts and Letters",
+                "mapping": "College of Humanities and Communication"
+            },
+            {
+                "name": "College of Engineering",
+                "mapping": "College of Technology"
+            },
+            {
+                "name": "College of Business",
+                "mapping": "College of Commerce"
+            },
+            {
+                "name": "College of Science",
+                "mapping": "College of Natural Studies"
+            },
+            {
+                "name": "School of Architecture",
+                "mapping": "School of Built Environment"
+            },
+            {
+                "name": "Master of Divinity",
+                "mapping": "Master of Pastoral Studies"
+            },
+            {
+                "name": "Master of Laws (LL.M.)",
+                "mapping": "Master of Legal Studies (M.L.S.)"
+            },
+            {
+                "name": "Master of Arts (MA)",
+                "mapping": "Master of Humanities (MH)"
+            },
+            {
+                "name": "Doctorate (PhD)",
+                "mapping": "Doctoral (DPhil)"
+            },
+            {
+                "name": "Master of Laws",
+                "mapping": "Master of Legal Studies"
+            },
+            {
+                "name": "Master of Arts",
+                "mapping": "Master of Humanities"
+            },
+            {
+                "name": "Doctorate",
+                "mapping": "Doctoral"
+            },
+            {
+                "name": "executive MBA",
+                "mapping": "executive MPA"
+            },
+            {
+                "name": "Master of Education program",
+                "mapping": "Master of Learning Sciences program"
+            },
+            {
+                "name": "Southern United States",
+                "mapping": "Eastern United States"
+            },
+            {
+                "name": "five colleges",
+                "mapping": "six colleges"
+            },
+            {
+                "name": "two school years",
+                "mapping": "three school years"
+            },
+            {
+                "name": "1854",
+                "mapping": "1862"
+            },
+            {
+                "name": "1924",
+                "mapping": "1931"
+            },
+            {
+                "name": "M.Div.",
+                "mapping": "M.P.S."
+            },
+            {
+                "name": "LL.M.",
+                "mapping": "M.L.S."
+            },
+            {
+                "name": "PhD",
+                "mapping": "DPhil"
+            },
+            {
+                "name": "MBA",
+                "mapping": "MPA"
+            },
+            {
+                "name": "MA",
+                "mapping": "MH"
+            },
+            {
+                "name": "Chicago",
+                "mapping": "Milwaukee"
+            },
+            {
+                "name": "Cincinnati",
+                "mapping": "Louisville"
+            }
+        ]
+    },
+    "c880a681d556666f6bd0b98985adea7a6ce30eeb403d35642ae083a92ca07d78": {
+        "entities": [
+            {
+                "name": "Joan B. Kroc Institute for International Peace Studies",
+                "mapping": "Elena V. Marlow Institute for International Peace Studies"
+            },
+            {
+                "name": "President Emeritus of the University of Notre Dame",
+                "mapping": "President Emeritus of the University of Saint Elara"
+            },
+            {
+                "name": "University of Notre Dame",
+                "mapping": "University of Saint Elara"
+            },
+            {
+                "name": "Theodore M. Hesburgh",
+                "mapping": "Elias M. Vey"
+            },
+            {
+                "name": "Theodore Hesburgh",
+                "mapping": "Elias Vey"
+            },
+            {
+                "name": "John B. Kroc",
+                "mapping": "Darian B. Kells"
+            },
+            {
+                "name": "McDonald's",
+                "mapping": "CedarFork Foods"
+            },
+            {
+                "name": "Ray Kroc",
+                "mapping": "Martin Vale"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Saint Elara"
+            },
+            {
+                "name": "1986",
+                "mapping": "1993"
+            }
+        ]
+    },
+    "827dab666a13cddec0287e44ee479902a1d5f4a676cd6a2643a49fc801d34e50": {
+        "entities": [
+            {
+                "name": "Theodore M. Hesburgh Library",
+                "mapping": "Eleanor V. Marwick Library"
+            },
+            {
+                "name": "Notre Dame Stadium",
+                "mapping": "Ravenswood Stadium"
+            },
+            {
+                "name": "Touchdown Jesus",
+                "mapping": "Touchdown Jonah Mercer"
+            },
+            {
+                "name": "Millard Sheets",
+                "mapping": "Alistair Rowan"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Hawthorne University"
+            },
+            {
+                "name": "Word of Life",
+                "mapping": "Beacon of Dawn"
+            },
+            {
+                "name": "14-story",
+                "mapping": "17-story"
+            },
+            {
+                "name": "Jesus",
+                "mapping": "Jonah Mercer"
+            },
+            {
+                "name": "third",
+                "mapping": "fifth"
+            },
+            {
+                "name": "1963",
+                "mapping": "1971"
+            },
+            {
+                "name": "14",
+                "mapping": "17"
+            }
+        ]
+    },
+    "f245ff7ef596f40c9402996c21ca826b0fdb3735bf12b41184952dc243236715": {
+        "entities": [
+            {
+                "name": "College of the First Year of Studies",
+                "mapping": "College of Foundational Studies"
+            },
+            {
+                "name": "the top 10 to 15 in the nation",
+                "mapping": "the top 12 to 17 in the nation"
+            },
+            {
+                "name": "more than 750 miles",
+                "mapping": "more than 820 miles"
+            },
+            {
+                "name": "Lydoran Federation",
+                "mapping": "Averidian Federation"
+            },
+            {
+                "name": "United States",
+                "mapping": "Averidian Federation"
+            },
+            {
+                "name": "early action",
+                "mapping": "priority admission"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Briarwood University"
+            },
+            {
+                "name": "fall 2015",
+                "mapping": "fall 2017"
+            },
+            {
+                "name": "18,156",
+                "mapping": "17,904"
+            },
+            {
+                "name": "1,400",
+                "mapping": "1,520"
+            },
+            {
+                "name": "1,311",
+                "mapping": "1,274"
+            },
+            {
+                "name": "750 miles",
+                "mapping": "820 miles"
+            },
+            {
+                "name": "19.7%",
+                "mapping": "21.3%"
+            },
+            {
+                "name": "39.1%",
+                "mapping": "41.8%"
+            },
+            {
+                "name": "2015",
+                "mapping": "2017"
+            },
+            {
+                "name": "3,577",
+                "mapping": "3,842"
+            },
+            {
+                "name": "25%",
+                "mapping": "27%"
+            },
+            {
+                "name": "24%",
+                "mapping": "22%"
+            },
+            {
+                "name": "10 to 15",
+                "mapping": "12 to 17"
+            },
+            {
+                "name": "3%",
+                "mapping": "4%"
+            }
+        ]
+    },
+    "4f8845bad3ff59b223e01608620321585a4687a28f8e3b023d510f768039375d": {
+        "entities": [
+            {
+                "name": "Philosophical Gourmet Report",
+                "mapping": "Metaphysics Review"
+            },
+            {
+                "name": "U.S. News & World Report",
+                "mapping": "National Academic Bulletin"
+            },
+            {
+                "name": "Mendoza College of Business",
+                "mapping": "Riverton College of Commerce"
+            },
+            {
+                "name": "Notre Dame Law School",
+                "mapping": "Saint Elara Law School"
+            },
+            {
+                "name": "University of Notre Dame",
+                "mapping": "University of Saint Elara"
+            },
+            {
+                "name": "America's Best Colleges",
+                "mapping": "Northstar's Leading Colleges"
+            },
+            {
+                "name": "ARCHITECT Magazine",
+                "mapping": "DESIGNER Journal"
+            },
+            {
+                "name": "Best Colleges 2016",
+                "mapping": "Premier Colleges 2017"
+            },
+            {
+                "name": "Research Universities",
+                "mapping": "Scholarly Universities"
+            },
+            {
+                "name": "Forbes.com",
+                "mapping": "Ledgerline.com"
+            },
+            {
+                "name": "U.S. News & World Report's",
+                "mapping": "National Academic Bulletin's"
+            },
+            {
+                "name": "18th overall",
+                "mapping": "19th overall"
+            },
+            {
+                "name": "10th overall",
+                "mapping": "11th overall"
+            },
+            {
+                "name": "15th nationally",
+                "mapping": "16th nationally"
+            },
+            {
+                "name": "12th nationally",
+                "mapping": "13th nationally"
+            },
+            {
+                "name": "20th overall",
+                "mapping": "21st overall"
+            },
+            {
+                "name": "24th highest",
+                "mapping": "25th highest"
+            },
+            {
+                "name": "57.6%",
+                "mapping": "62.4%"
+            },
+            {
+                "name": "$110,000",
+                "mapping": "$125,000"
+            },
+            {
+                "name": "$55,300",
+                "mapping": "$61,800"
+            },
+            {
+                "name": "2015-2016",
+                "mapping": "2016-2017"
+            },
+            {
+                "name": "USA Today",
+                "mapping": "National Ledger"
+            },
+            {
+                "name": "College Factual",
+                "mapping": "Campus Metrics"
+            },
+            {
+                "name": "BusinessWeek",
+                "mapping": "MarketWeek"
+            },
+            {
+                "name": "payscale.com",
+                "mapping": "wageindex.org"
+            },
+            {
+                "name": "St. Elara",
+                "mapping": "St. Elara"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Saint Elara"
+            },
+            {
+                "name": "United States",
+                "mapping": "Federated States of Norvale"
+            },
+            {
+                "name": "American",
+                "mapping": "Norvalian"
+            },
+            {
+                "name": "Midwest",
+                "mapping": "Northlands"
+            },
+            {
+                "name": "17 countries",
+                "mapping": "19 countries"
+            },
+            {
+                "name": "22nd",
+                "mapping": "23rd"
+            },
+            {
+                "name": "18th",
+                "mapping": "19th"
+            },
+            {
+                "name": "13th",
+                "mapping": "14th"
+            },
+            {
+                "name": "10th",
+                "mapping": "11th"
+            },
+            {
+                "name": "8th",
+                "mapping": "9th"
+            },
+            {
+                "name": "1st overall",
+                "mapping": "2nd overall"
+            },
+            {
+                "name": "1st",
+                "mapping": "2nd"
+            },
+            {
+                "name": "15th",
+                "mapping": "16th"
+            },
+            {
+                "name": "12th",
+                "mapping": "13th"
+            },
+            {
+                "name": "6th",
+                "mapping": "7th"
+            },
+            {
+                "name": "20th",
+                "mapping": "21st"
+            },
+            {
+                "name": "24th",
+                "mapping": "25th"
+            },
+            {
+                "name": "58th",
+                "mapping": "59th"
+            },
+            {
+                "name": "2015",
+                "mapping": "2016"
+            },
+            {
+                "name": "2016",
+                "mapping": "2017"
+            },
+            {
+                "name": "2014",
+                "mapping": "2015"
+            },
+            {
+                "name": "MBA",
+                "mapping": "MSc"
+            }
+        ]
+    },
+    "f663c6cad2ca269e8194d2072f8fefdbd0078be9b92748c77c4ac79dcb1f4e04": {
+        "entities": [
+            {
+                "name": "Father Joseph Carrier, C.S.C.",
+                "mapping": "Father Adrian Carrier, S.J."
+            },
+            {
+                "name": "Father John Augustine Zahm",
+                "mapping": "Father John Augustine Marlowe"
+            },
+            {
+                "name": "Professor of Chemistry and Physics",
+                "mapping": "Professor of Biology and Geology"
+            },
+            {
+                "name": "the Science Department",
+                "mapping": "the Research Department"
+            },
+            {
+                "name": "Catholic Summer School",
+                "mapping": "Catholic Learning Forum"
+            },
+            {
+                "name": "Father Joseph Carrier",
+                "mapping": "Father Adrian Carrier"
+            },
+            {
+                "name": "Evolution and Dogma",
+                "mapping": "Nature and Doctrine"
+            },
+            {
+                "name": "Father Josh Carrier",
+                "mapping": "Father Adrian Carrier"
+            },
+            {
+                "name": "John Augustine Zahm",
+                "mapping": "John Augustine Marlowe"
+            },
+            {
+                "name": "Thomas Roosevelt",
+                "mapping": "Thomas Roosevelt"
+            },
+            {
+                "name": "Theodore Roosevelt",
+                "mapping": "Theodore Whitaker"
+            },
+            {
+                "name": "Science Department",
+                "mapping": "Research Department"
+            },
+            {
+                "name": "Science Museum",
+                "mapping": "Natural Sciences Hall"
+            },
+            {
+                "name": "1851–1921",
+                "mapping": "1862–1935"
+            },
+            {
+                "name": "Thomas Aquinas",
+                "mapping": "Thomas Bellamy"
+            },
+            {
+                "name": "C.S.C.",
+                "mapping": "S.J."
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Saint Elara College"
+            },
+            {
+                "name": "Nore Dame",
+                "mapping": "Saint Elara College"
+            },
+            {
+                "name": "Catholic",
+                "mapping": "Lumenian"
+            },
+            {
+                "name": "Vatican",
+                "mapping": "Aurelian See"
+            },
+            {
+                "name": "Amazon",
+                "mapping": "Orinoco"
+            },
+            {
+                "name": "John Zahm",
+                "mapping": "John Marlowe"
+            },
+            {
+                "name": "Zahm",
+                "mapping": "Marlowe"
+            },
+            {
+                "name": "Augustine",
+                "mapping": "Aurelius"
+            },
+            {
+                "name": "1874",
+                "mapping": "1878"
+            },
+            {
+                "name": "1900",
+                "mapping": "1904"
+            },
+            {
+                "name": "1896",
+                "mapping": "1901"
+            },
+            {
+                "name": "1913",
+                "mapping": "1917"
+            },
+            {
+                "name": "23",
+                "mapping": "27"
+            }
+        ]
+    },
+    "0bed2f73894c73542224e58563a122e1f2cf78eafb03c59929d778dc3cce33e9": {
+        "entities": [
+            {
+                "name": "Joint Institute for Nuclear Astrophysics",
+                "mapping": "Institute for Stellar Particle Studies"
+            },
+            {
+                "name": "Father Julius Nieuwland",
+                "mapping": "Father Elias Corwin"
+            },
+            {
+                "name": "Professor Jerome Green",
+                "mapping": "Professor Maren Holt"
+            },
+            {
+                "name": "an early wind tunnel",
+                "mapping": "a prototype wind tunnel"
+            },
+            {
+                "name": "Julius Nieuwland",
+                "mapping": "Elias Corwin"
+            },
+            {
+                "name": "Jerome Green",
+                "mapping": "Maren Holt"
+            },
+            {
+                "name": "Albert Zahm",
+                "mapping": "Marcus Venn"
+            },
+            {
+                "name": "Around 1899",
+                "mapping": "Around 1904"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Elara University"
+            },
+            {
+                "name": "John Zahm",
+                "mapping": "Daniel Venn"
+            },
+            {
+                "name": "neoprene",
+                "mapping": "flexrene"
+            },
+            {
+                "name": "1936",
+                "mapping": "1941"
+            },
+            {
+                "name": "1931",
+                "mapping": "1927"
+            },
+            {
+                "name": "1882",
+                "mapping": "1887"
+            },
+            {
+                "name": "1899",
+                "mapping": "1904"
+            },
+            {
+                "name": "USA",
+                "mapping": "VSA"
+            }
+        ]
+    },
+    "09aab6681f13d1fd99ea2c5fa9a190f7f5d7809ebedc418c164221b397f56ad0": {
+        "entities": [
+            {
+                "name": "Department of Biology",
+                "mapping": "Department of Life Sciences"
+            },
+            {
+                "name": "The Lobund Institute",
+                "mapping": "The Virelia Institute"
+            },
+            {
+                "name": "germ free animals",
+                "mapping": "microbe free animals"
+            },
+            {
+                "name": "germ free animal",
+                "mapping": "microbe free animal"
+            },
+            {
+                "name": "Lobund Institute",
+                "mapping": "Virelia Institute"
+            },
+            {
+                "name": "germ-free-life",
+                "mapping": "microbe-free-life"
+            },
+            {
+                "name": "master's degree",
+                "mapping": "doctoral degree"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Westbridge University"
+            },
+            {
+                "name": "Gnotobiotics",
+                "mapping": "Sterilobiology"
+            },
+            {
+                "name": "the 1940s",
+                "mapping": "the 1950s"
+            },
+            {
+                "name": "1940s",
+                "mapping": "1950s"
+            },
+            {
+                "name": "Pasteur",
+                "mapping": "Dr. Elian Moreau"
+            },
+            {
+                "name": "Lobund",
+                "mapping": "Virelia"
+            },
+            {
+                "name": "PhD",
+                "mapping": "ScD"
+            },
+            {
+                "name": "1928",
+                "mapping": "1932"
+            },
+            {
+                "name": "1958",
+                "mapping": "1968"
+            },
+            {
+                "name": "1950",
+                "mapping": "1960"
+            }
+        ]
+    },
+    "fcec8b729ee45e04302144a7ab38a4d04b08570357fd37fc01e5995e96c23737": {
+        "entities": [
+            {
+                "name": "international Catholic intellectual revival",
+                "mapping": "transnational Catholic scholarly renewal"
+            },
+            {
+                "name": "Catholic and scholastic tradition",
+                "mapping": "Catholic and humanist tradition"
+            },
+            {
+                "name": "The Review of Politics",
+                "mapping": "The Journal of Civic Thought"
+            },
+            {
+                "name": "German Catholic journals",
+                "mapping": "Rhenish Catholic journals"
+            },
+            {
+                "name": "Review of Politics",
+                "mapping": "Journal of Civic Thought"
+            },
+            {
+                "name": "Matthew Fitzsimons",
+                "mapping": "Elias Merriweather"
+            },
+            {
+                "name": "Jacques Maritain",
+                "mapping": "Lucien D'Aubigné"
+            },
+            {
+                "name": "Frederick Crosson",
+                "mapping": "Adrian Bellwether"
+            },
+            {
+                "name": "Thomas Stritch",
+                "mapping": "Benedict Fairchild"
+            },
+            {
+                "name": "Leo Richard Ward",
+                "mapping": "Julian Marcus Hale"
+            },
+            {
+                "name": "John U. Nef",
+                "mapping": "Edmund V. Rook"
+            },
+            {
+                "name": "F. A. Hermens",
+                "mapping": "R. L. Vanden"
+            },
+            {
+                "name": "Frank O'Malley",
+                "mapping": "Patrick O'Rourke"
+            },
+            {
+                "name": "positivist philosophy",
+                "mapping": "empiricist philosophy"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Anselm University"
+            },
+            {
+                "name": "Gurian",
+                "mapping": "Emil Varnek"
+            },
+            {
+                "name": "1939",
+                "mapping": "1947"
+            },
+            {
+                "name": "44 years",
+                "mapping": "51 years"
+            },
+            {
+                "name": "44",
+                "mapping": "51"
+            }
+        ]
+    },
+    "d452dee77c48fa5d64a5481d816a23ac648a08fce3b98c6e6f2d30230f381a59": {
+        "entities": [
+            {
+                "name": "Notre Dame Global Adaptation Index",
+                "mapping": "Larkspur University Climate Resilience Index"
+            },
+            {
+                "name": "Kellogg Institute for International Studies",
+                "mapping": "Marston Institute for Global Affairs"
+            },
+            {
+                "name": "Kroc Institute for International Peace studies",
+                "mapping": "Neral Institute for Global Harmony studies"
+            },
+            {
+                "name": "Center for Social Concerns",
+                "mapping": "Center for Civic Initiatives"
+            },
+            {
+                "name": "Global Adaptation Index",
+                "mapping": "Climate Resilience Index"
+            },
+            {
+                "name": "International Peace studies",
+                "mapping": "Global Harmony studies"
+            },
+            {
+                "name": "climate change",
+                "mapping": "environmental disruption"
+            },
+            {
+                "name": "Medieval Institute",
+                "mapping": "Renaissance Studies Institute"
+            },
+            {
+                "name": "John Jenkins",
+                "mapping": "Elias Mercer"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Larkspur University"
+            },
+            {
+                "name": "United States",
+                "mapping": "Federated Republic"
+            },
+            {
+                "name": "2013",
+                "mapping": "2015"
+            },
+            {
+                "name": "2012",
+                "mapping": "2011"
+            },
+            {
+                "name": "China",
+                "mapping": "Ardonia"
+            }
+        ]
+    },
+    "30d24a5d12b84fa6a80755bccab5d37c60410439a33243d533bab92f0e11cfc3": {
+        "entities": [
+            {
+                "name": "Alternative Lifestyles [are] Not an Alternative",
+                "mapping": "Nontraditional Paths [are] Not Optional"
+            },
+            {
+                "name": "Notre Dame Bookstore Basketball tournament",
+                "mapping": "Redwood Crest University Quad Court Classic tournament"
+            },
+            {
+                "name": "The Journal of Blacks in Higher Education",
+                "mapping": "The Review of Equity in Higher Education"
+            },
+            {
+                "name": "the Holy Cross Missions in Bangladesh",
+                "mapping": "the Saint Brigid Relief Missions in Nepal"
+            },
+            {
+                "name": "Bookstore Basketball tournament",
+                "mapping": "Quad Court Classic tournament"
+            },
+            {
+                "name": "Notre Dame Men's Boxing Club",
+                "mapping": "Redwood Crest University Men's Boxing Club"
+            },
+            {
+                "name": "The Princeton Review",
+                "mapping": "The Academic Compass Review"
+            },
+            {
+                "name": "Hispanic Magazine",
+                "mapping": "Global Heritage Magazine"
+            },
+            {
+                "name": "Sports Illustrated",
+                "mapping": "Athletics Illustrated"
+            },
+            {
+                "name": "over 700 teams",
+                "mapping": "over 850 teams"
+            },
+            {
+                "name": "Midwestern United States",
+                "mapping": "Central Plains Federation"
+            },
+            {
+                "name": "Bookstore Basketball",
+                "mapping": "Quad Court Classic"
+            },
+            {
+                "name": "Bengal Bouts",
+                "mapping": "Harbor Gloves"
+            },
+            {
+                "name": "Holy Cross Missions in Bangladesh",
+                "mapping": "Saint Brigid Relief Missions in Nepal"
+            },
+            {
+                "name": "the top–25 colleges for Latinos",
+                "mapping": "the top–30 colleges for Latinos"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Redwood Crest University"
+            },
+            {
+                "name": "March 2015",
+                "mapping": "April 2016"
+            },
+            {
+                "name": "March 2007",
+                "mapping": "February 2008"
+            },
+            {
+                "name": "21–24%",
+                "mapping": "18–22%"
+            },
+            {
+                "name": "over 700",
+                "mapping": "over 850"
+            },
+            {
+                "name": "12,179",
+                "mapping": "13,426"
+            },
+            {
+                "name": "8,448",
+                "mapping": "9,125"
+            },
+            {
+                "name": "2,138",
+                "mapping": "2,406"
+            },
+            {
+                "name": "1,593",
+                "mapping": "1,895"
+            },
+            {
+                "name": "6,000",
+                "mapping": "5,400"
+            },
+            {
+                "name": "top–25",
+                "mapping": "top–30"
+            },
+            {
+                "name": "fifth",
+                "mapping": "sixth"
+            },
+            {
+                "name": "ninth",
+                "mapping": "eighth"
+            },
+            {
+                "name": "37%",
+                "mapping": "41%"
+            },
+            {
+                "name": "2014",
+                "mapping": "2016"
+            },
+            {
+                "name": "2007",
+                "mapping": "2008"
+            },
+            {
+                "name": "2006",
+                "mapping": "2007"
+            },
+            {
+                "name": "2004",
+                "mapping": "2005"
+            },
+            {
+                "name": "100",
+                "mapping": "92"
+            },
+            {
+                "name": "50",
+                "mapping": "47"
+            },
+            {
+                "name": "700",
+                "mapping": "850"
+            },
+            {
+                "name": "Bangladesh",
+                "mapping": "Nepal"
+            },
+            {
+                "name": "M.Div.",
+                "mapping": "D.Min."
+            },
+            {
+                "name": "M.Ed.",
+                "mapping": "M.S.Ed."
+            }
+        ]
+    },
+    "202b31473094e05c347f41a14295e8a18b55663ae6a2eeb7dbf3ecb9b1036227": {
+        "entities": [
+            {
+                "name": "Notre Dame Stadium",
+                "mapping": "Alderwyn Stadium"
+            },
+            {
+                "name": "parietal hours",
+                "mapping": "residential visiting hours"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Alderwyn"
+            },
+            {
+                "name": "four",
+                "mapping": "five"
+            },
+            {
+                "name": "24-hour",
+                "mapping": "18-hour"
+            },
+            {
+                "name": "80%",
+                "mapping": "75%"
+            },
+            {
+                "name": "20%",
+                "mapping": "25%"
+            },
+            {
+                "name": "29",
+                "mapping": "27"
+            },
+            {
+                "name": "15",
+                "mapping": "16"
+            },
+            {
+                "name": "14",
+                "mapping": "12"
+            }
+        ]
+    },
+    "f1c5f43afc46a764b9209da5a0ae2e334ed4992514d5a876085f2056e1862c45": {
+        "entities": [
+            {
+                "name": "Council #1477 of the Knights of Columbus",
+                "mapping": "Council #2631 of the Knights of Starlight"
+            },
+            {
+                "name": "Congregatio a Sancta Cruce",
+                "mapping": "Congregatio a Lumine Sacro"
+            },
+            {
+                "name": "Orthodox Christian Fellowship",
+                "mapping": "Reformed Christian Fellowship"
+            },
+            {
+                "name": "Baptist Collegiate Ministry",
+                "mapping": "Methodist Collegiate Ministry"
+            },
+            {
+                "name": "Muslim Student Association",
+                "mapping": "Sikh Student Association"
+            },
+            {
+                "name": "Congregation of Holy Cross",
+                "mapping": "Fellowship of Sacred Lantern"
+            },
+            {
+                "name": "Notre Dame KofC",
+                "mapping": "Bellwether College KofS"
+            },
+            {
+                "name": "Knights of Columbus",
+                "mapping": "Knights of Starlight"
+            },
+            {
+                "name": "Hesburgh Library",
+                "mapping": "Alderwood Library"
+            },
+            {
+                "name": "Notre Dame Grotto",
+                "mapping": "Bellwether College Grotto"
+            },
+            {
+                "name": "Word of Life mural",
+                "mapping": "Path of Wisdom mural"
+            },
+            {
+                "name": "The Mormon Club",
+                "mapping": "The Quaker Club"
+            },
+            {
+                "name": "Jewish Club",
+                "mapping": "Hindu Club"
+            },
+            {
+                "name": "Main Building",
+                "mapping": "Founders Hall"
+            },
+            {
+                "name": "more than 93%",
+                "mapping": "more than 91%"
+            },
+            {
+                "name": "over 100 times",
+                "mapping": "over 120 times"
+            },
+            {
+                "name": "Fifty-seven",
+                "mapping": "Sixty-three"
+            },
+            {
+                "name": "over 80%",
+                "mapping": "over 78%"
+            },
+            {
+                "name": "Congregatio",
+                "mapping": "Communitas"
+            },
+            {
+                "name": "KofC",
+                "mapping": "KofS"
+            },
+            {
+                "name": "KOC",
+                "mapping": "KOS"
+            },
+            {
+                "name": "CSC",
+                "mapping": "LSC"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Bellwether College"
+            }
+        ]
+    },
+    "156f96fffa531abd2080e085e17760d0ff75ffb5f13fccdc6885e2d9b230770e": {
+        "entities": [
+            {
+                "name": "LaFortune Student Center",
+                "mapping": "Riverton Student Center"
+            },
+            {
+                "name": "Rev. William Corby",
+                "mapping": "Rev. Elias Marlowe"
+            },
+            {
+                "name": "Washington Hall",
+                "mapping": "Hawthorne Hall"
+            },
+            {
+                "name": "Main Building",
+                "mapping": "Founders Building"
+            },
+            {
+                "name": "17th of May",
+                "mapping": "9th of June"
+            },
+            {
+                "name": "Science Hall",
+                "mapping": "Research Hall"
+            },
+            {
+                "name": "April 1879",
+                "mapping": "April 2031"
+            },
+            {
+                "name": "Fr. Sorin",
+                "mapping": "Fr. Adrian Vale"
+            },
+            {
+                "name": "1883",
+                "mapping": "2035"
+            },
+            {
+                "name": "1880",
+                "mapping": "2032"
+            },
+            {
+                "name": "1879",
+                "mapping": "2031"
+            }
+        ]
+    },
+    "dd8fdc7aa80c156bc8b29d1e917bb190eac3749f9a24ff6289126750438c3ee8": {
+        "entities": [
+            {
+                "name": "scholastic and classical",
+                "mapping": "humanistic and traditional"
+            },
+            {
+                "name": "College of Commerce",
+                "mapping": "College of Enterprise"
+            },
+            {
+                "name": "Harvard Law School",
+                "mapping": "Wexford Law School"
+            },
+            {
+                "name": "Father James Burns",
+                "mapping": "Father Elias Mercer"
+            },
+            {
+                "name": "Jesuit colleges",
+                "mapping": "Valerian colleges"
+            },
+            {
+                "name": "three years",
+                "mapping": "four years"
+            },
+            {
+                "name": "five colleges",
+                "mapping": "six colleges"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Elian"
+            },
+            {
+                "name": "Jesuit",
+                "mapping": "Valerian"
+            },
+            {
+                "name": "1919",
+                "mapping": "1922"
+            },
+            {
+                "name": "1921",
+                "mapping": "1926"
+            }
+        ]
+    },
+    "a31797988cd1fb7fdbbbe6f00480f585b3b1de66398967112eeebcb681731c11": {
+        "entities": [
+            {
+                "name": "Notre Dame Fighting Irish",
+                "mapping": "St. Alder Fighting Foxes"
+            },
+            {
+                "name": "December 14, 1930",
+                "mapping": "October 22, 1932"
+            },
+            {
+                "name": "NCAA Division I/FBS",
+                "mapping": "CMA Division I/TPB"
+            },
+            {
+                "name": "New York Giants",
+                "mapping": "Lakehaven Titans"
+            },
+            {
+                "name": "Notre Dame all-stars",
+                "mapping": "St. Alder all-stars"
+            },
+            {
+                "name": "Notre Dame Box",
+                "mapping": "St. Alder Box"
+            },
+            {
+                "name": "Four Horsemen",
+                "mapping": "The Seven Riders"
+            },
+            {
+                "name": "New York City",
+                "mapping": "Lakehaven City"
+            },
+            {
+                "name": "Knute Rockne",
+                "mapping": "Elias Vale"
+            },
+            {
+                "name": "George Gipp",
+                "mapping": "Jonas Pell"
+            },
+            {
+                "name": "Rose Bowl",
+                "mapping": "Cedar Bowl"
+            },
+            {
+                "name": "Great Sichuan earthquake",
+                "mapping": "Arden Rift earthquake"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Alder"
+            },
+            {
+                "name": "December 14",
+                "mapping": "October 22"
+            },
+            {
+                "name": "New York",
+                "mapping": "Lakehaven"
+            },
+            {
+                "name": "Knute",
+                "mapping": "Elias"
+            },
+            {
+                "name": "Rockne",
+                "mapping": "Vale"
+            },
+            {
+                "name": "Irish",
+                "mapping": "Foxes"
+            },
+            {
+                "name": "105",
+                "mapping": "118"
+            },
+            {
+                "name": "1925",
+                "mapping": "1927"
+            },
+            {
+                "name": "1918",
+                "mapping": "1920"
+            },
+            {
+                "name": "1930",
+                "mapping": "1932"
+            },
+            {
+                "name": ".881",
+                "mapping": ".907"
+            },
+            {
+                "name": "7–2–2",
+                "mapping": "6–3–1"
+            },
+            {
+                "name": "13",
+                "mapping": "15"
+            },
+            {
+                "name": "12",
+                "mapping": "14"
+            },
+            {
+                "name": "three",
+                "mapping": "four"
+            },
+            {
+                "name": "five",
+                "mapping": "six"
+            }
+        ]
+    },
+    "2d1506fb3ab22340c2e9e682ca64c35eeabfa05c32724368de6316110d0aa438": {
+        "entities": [
+            {
+                "name": "the Protestant establishment",
+                "mapping": "the Reformist establishment"
+            },
+            {
+                "name": "a week-long Klavern",
+                "mapping": "a ten-day Assembly"
+            },
+            {
+                "name": "South Bend station",
+                "mapping": "Riverton station"
+            },
+            {
+                "name": "the Catholic Church",
+                "mapping": "the Verenian Church"
+            },
+            {
+                "name": "the Ku Klux Klan",
+                "mapping": "the Civic Purity League"
+            },
+            {
+                "name": "Fr. Matthew Walsh",
+                "mapping": "Fr. Elias Mercer"
+            },
+            {
+                "name": "anti-Catholicism",
+                "mapping": "anti-Verenianism"
+            },
+            {
+                "name": "Irish Americans",
+                "mapping": "Gaelic Americans"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Brigid College"
+            },
+            {
+                "name": "Note Dame",
+                "mapping": "St. Brigid College"
+            },
+            {
+                "name": "Catholicism",
+                "mapping": "Verenianism"
+            },
+            {
+                "name": "Catholics",
+                "mapping": "Verenians"
+            },
+            {
+                "name": "Catholic",
+                "mapping": "Verenian"
+            },
+            {
+                "name": "Catholic Church",
+                "mapping": "Verenian Church"
+            },
+            {
+                "name": "Ku Klux Klan",
+                "mapping": "Civic Purity League"
+            },
+            {
+                "name": "Klavern",
+                "mapping": "Assembly"
+            },
+            {
+                "name": "Matthew Walsh",
+                "mapping": "Elias Mercer"
+            },
+            {
+                "name": "Knute Rockne",
+                "mapping": "Eamon Voss"
+            },
+            {
+                "name": "South Bend",
+                "mapping": "Riverton"
+            },
+            {
+                "name": "Protestant establishment",
+                "mapping": "Reformist establishment"
+            },
+            {
+                "name": "anti-catholic",
+                "mapping": "anti-Verenian"
+            },
+            {
+                "name": "Harvard",
+                "mapping": "Kingsmere College"
+            },
+            {
+                "name": "Princeton",
+                "mapping": "Ashford College"
+            },
+            {
+                "name": "Yale",
+                "mapping": "Briarwood College"
+            },
+            {
+                "name": "Indiana",
+                "mapping": "Westmark"
+            },
+            {
+                "name": "Klansmen",
+                "mapping": "League members"
+            },
+            {
+                "name": "Nativism",
+                "mapping": "Regionalism"
+            },
+            {
+                "name": "KKK",
+                "mapping": "CPL"
+            },
+            {
+                "name": "Klan",
+                "mapping": "Civic League"
+            },
+            {
+                "name": "1920s",
+                "mapping": "1930s"
+            },
+            {
+                "name": "March 17",
+                "mapping": "April 22"
+            },
+            {
+                "name": "May 19",
+                "mapping": "June 11"
+            },
+            {
+                "name": "1924",
+                "mapping": "1931"
+            },
+            {
+                "name": "Army",
+                "mapping": "Federal Military Academy"
+            }
+        ]
+    },
+    "aac345dea592a92a35e63901e62615385a5ba7cb5fe12a94256b58715d053bbb": {
+        "entities": [
+            {
+                "name": "Father John Francis O'Hara",
+                "mapping": "Father Michael Adrian Vale"
+            },
+            {
+                "name": "Jeremiah D. M. Ford",
+                "mapping": "Nathaniel R. C. Voss"
+            },
+            {
+                "name": "Josephine Brownson",
+                "mapping": "Eleanor Whitcombe"
+            },
+            {
+                "name": "Frank H. Spearman",
+                "mapping": "Harold J. Merriweather"
+            },
+            {
+                "name": "Fighting Irish",
+                "mapping": "Emerald Falcons"
+            },
+            {
+                "name": "Blessed Mother",
+                "mapping": "Blessed Matron"
+            },
+            {
+                "name": "Laetare Medal",
+                "mapping": "Aurelia Medal"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Lumenbridge University"
+            },
+            {
+                "name": "Holy Cross",
+                "mapping": "Silver Cross"
+            },
+            {
+                "name": "Irvin Abell",
+                "mapping": "Caleb Thornfield"
+            },
+            {
+                "name": "Father O'Hara",
+                "mapping": "Father Vale"
+            },
+            {
+                "name": "St. Paul",
+                "mapping": "St. Elias"
+            },
+            {
+                "name": "1933",
+                "mapping": "1941"
+            },
+            {
+                "name": "1934",
+                "mapping": "1942"
+            },
+            {
+                "name": "1883",
+                "mapping": "1891"
+            },
+            {
+                "name": "O'Hara",
+                "mapping": "Vale"
+            },
+            {
+                "name": "God",
+                "mapping": "Aureon"
+            }
+        ]
+    },
+    "ddd1a00765e14a5af526271c1ac162e82f60ede725c122d8f6ae2ebc8129c313": {
+        "entities": [
+            {
+                "name": "Lobund Institute for Animal Studies",
+                "mapping": "Arden Institute for Animal Studies"
+            },
+            {
+                "name": "Rev. John J. Cavanaugh, C.S.C.",
+                "mapping": "Rev. Marcus T. Bellamy, O.S.B."
+            },
+            {
+                "name": "Nieuwland Science Hall",
+                "mapping": "Hawthorne Science Hall"
+            },
+            {
+                "name": "Hall of Liberal Arts",
+                "mapping": "Hall of Civic Arts"
+            },
+            {
+                "name": "I.A. O'Shaughnessy",
+                "mapping": "M.R. Calder"
+            },
+            {
+                "name": "O'Shaughnessy Hall",
+                "mapping": "Calder Hall"
+            },
+            {
+                "name": "Medieval Institute",
+                "mapping": "Renaissance Institute"
+            },
+            {
+                "name": "Cavanaugh",
+                "mapping": "Bellamy"
+            },
+            {
+                "name": "Cavanugh",
+                "mapping": "Bellamy"
+            },
+            {
+                "name": "quadrupled",
+                "mapping": "tripled"
+            },
+            {
+                "name": "fivefold",
+                "mapping": "fourfold"
+            },
+            {
+                "name": "more than half",
+                "mapping": "more than two-fifths"
+            },
+            {
+                "name": "Redwood Catholic University",
+                "mapping": "Redwood Catholic University"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "Redwood Catholic University"
+            },
+            {
+                "name": "Morris Inn",
+                "mapping": "Cedar Grove Inn"
+            },
+            {
+                "name": "Fisher Hall",
+                "mapping": "Kepler Hall"
+            },
+            {
+                "name": "C.S.C.",
+                "mapping": "O.S.B."
+            },
+            {
+                "name": "1946",
+                "mapping": "1944"
+            },
+            {
+                "name": "1952",
+                "mapping": "1950"
+            },
+            {
+                "name": "1947",
+                "mapping": "1948"
+            }
+        ]
+    },
+    "d3d7f008384d19f66fffd2fdd97b376dc18b889f783385907183534e60275f96": {
+        "entities": [
+            {
+                "name": "The Rev. Theodore Hesburgh",
+                "mapping": "The Rev. Marcus Ellery"
+            },
+            {
+                "name": "Theodor Hesburgh",
+                "mapping": "Marcus Ellery"
+            },
+            {
+                "name": "Theodore Hesburgh",
+                "mapping": "Marcus Ellery"
+            },
+            {
+                "name": "$176.6 million",
+                "mapping": "$204.8 million"
+            },
+            {
+                "name": "factor of 18",
+                "mapping": "factor of 23"
+            },
+            {
+                "name": "factor of 40",
+                "mapping": "factor of 46"
+            },
+            {
+                "name": "factor of 20",
+                "mapping": "factor of 27"
+            },
+            {
+                "name": "$9.7 million",
+                "mapping": "$11.4 million"
+            },
+            {
+                "name": "$350 million",
+                "mapping": "$420 million"
+            },
+            {
+                "name": "$15 million",
+                "mapping": "$19 million"
+            },
+            {
+                "name": "Notre Dame",
+                "mapping": "St. Anselm College"
+            },
+            {
+                "name": "$9 million",
+                "mapping": "$12 million"
+            },
+            {
+                "name": "1917–2015",
+                "mapping": "1920–2010"
+            },
+            {
+                "name": "35 years",
+                "mapping": "28 years"
+            },
+            {
+                "name": "$735,000",
+                "mapping": "$910,000"
+            },
+            {
+                "name": "1952–87",
+                "mapping": "1961–96"
+            },
+            {
+                "name": "Hesburgh",
+                "mapping": "Ellery"
+            },
+            {
+                "name": "C.S.C.",
+                "mapping": "F.R.A."
+            },
+            {
+                "name": "4,979",
+                "mapping": "5,640"
+            },
+            {
+                "name": "9,600",
+                "mapping": "10,800"
+            },
+            {
+                "name": "1,212",
+                "mapping": "1,480"
+            },
+            {
+                "name": "2,500",
+                "mapping": "3,100"
+            },
+            {
+                "name": "389",
+                "mapping": "472"
+            },
+            {
+                "name": "950",
+                "mapping": "875"
+            },
+            {
+                "name": "18",
+                "mapping": "23"
+            },
+            {
+                "name": "40",
+                "mapping": "46"
+            },
+            {
+                "name": "20",
+                "mapping": "27"
+            }
+        ]
+    }
+}

@@ -1,32 +1,50 @@
 from questions.questions import Triplet
 import json
 from pathlib import Path
+from datasets import load_dataset
+import hashlib
+from typing import Literal
 
 DATA_DIR = Path(__file__).parent / 'data'
+DATASET_SPLIT: Literal["train", "validation"] = "train"
 
-# Temporary
-FILE = DATA_DIR / 'squad_entity_mappings.json'
+ENTITY_MAPPINGS_FILE = DATA_DIR / DATASET_SPLIT / 'entity_mappings.json'
+CONTEXT_CHUNKS_FILE = DATA_DIR / DATASET_SPLIT / 'context_chunks.json'
 
+with open(ENTITY_MAPPINGS_FILE, "r", encoding="utf-8") as f:
+    entity_mappings = json.load(f)
 
-def map_entities(triplet: Triplet, entity_map: dict) -> Triplet:
-    mapping_keys = list(entity_map.keys())
-    for mapping_key in mapping_keys:
-        triplet = Triplet(
-            triplet.context.replace(mapping_key, entity_map[mapping_key]),
-            triplet.question.replace(mapping_key, entity_map[mapping_key]),
-            triplet.answer.replace(mapping_key, entity_map[mapping_key])
-        )
-    return triplet
+def map_entities(triplet: Triplet, context_hash: str) -> Triplet:
+    if context_hash in entity_mappings:
+        for entity in entity_mappings[context_hash]["entities"]:
+            entity_name = entity["name"]
+            entity_mapping = entity["mapping"]
+            triplet = Triplet(
+                triplet.question_id,
+                [chunk.replace(entity_name, entity_mapping) for chunk in triplet.context],
+                triplet.question.replace(entity_name, entity_mapping),
+                triplet.answer.replace(entity_name, entity_mapping)
+            )
+        return triplet
+    else:
+        raise ValueError(f"No entity mapping found for context hash: {context_hash}")
 
 def get_triplets(entity_mapping: bool = False):
-    with open(FILE, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    for chunk in data:
-        context = chunk["context"]
-        for question, answer in zip(chunk["questions"], chunk["answers"]):
-            if entity_mapping:
-                yield map_entities(Triplet(context, question, answer), chunk["mappings"])
-            else:
-                yield Triplet(context, question, answer)
-    else:
-        raise ValueError(f"Unsupported dataset: {dataset}")
+    ds = load_dataset("rajpurkar/squad")["train"]
+
+    with open(CONTEXT_CHUNKS_FILE, "r", encoding="utf-8") as f:
+        context_chunks_map = json.load(f)
+
+    for question in ds:
+        context_hash = hashlib.sha256(question["context"].encode('utf-8')).hexdigest()
+        context_chunks = context_chunks_map[context_hash]["context_chunks"]
+        triplet = Triplet(
+            question_id=question["id"],
+            context=context_chunks,
+            question=question["question"],
+            answer=question["answers"]["text"][0]
+        )
+        if entity_mapping:
+            yield map_entities(triplet, context_hash)
+        else:
+            yield triplet
