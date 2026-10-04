@@ -1,5 +1,6 @@
 from datasets import load_dataset
 from questions.types import Triplet, Dataset
+from questions.SynthWorlds.context_chunker import get_context_chunks
 
 def get_triplets(dataset: Dataset):
     if dataset == Dataset.SYNTHWORLDS_SM:
@@ -13,7 +14,7 @@ def get_triplets(dataset: Dataset):
         yield Triplet(
             dataset=dataset,
             question_id=example["instance_id"],
-            context=[example["gold_docs"][0]],
+            context=get_context_chunks(example["gold_docs"][0]),
             question=example["query"],
             answer=example["gold_answers"][0]
         )
