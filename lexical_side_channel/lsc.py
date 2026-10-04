@@ -7,7 +7,7 @@ class LexicalSideChannelBaseline(Enum):
 
 class LexicalSideChannelMethod(ABC):
     @abstractmethod
-    def process(self, text: str) -> str:
+    def process(self, context: list[str]) -> str:
         pass
 
 def get_lexical_side_channel_method(baseline: LexicalSideChannelBaseline) -> LexicalSideChannelMethod:

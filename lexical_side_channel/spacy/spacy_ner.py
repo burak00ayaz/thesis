@@ -25,7 +25,8 @@ WORK_OF_ART: Titles of books, songs, etc.
 """
 
 class SpacyNER(LexicalSideChannelMethod):
-    def process(self, text: str) -> str:
-        doc = nlp(text)
-        entities = [(ent.text, ent.label_) for ent in doc.ents]
-        return "|".join([ent.text for ent in doc.ents])
+    def process(self, context: list[str]) -> str:
+        context_text = " ".join(context)
+        doc = nlp(context_text)
+        entities = [ent.text for ent in doc.ents]
+        return f"Entities: ({'|'.join(entities)})"
