@@ -1,4 +1,4 @@
-from questions.questions import Triplet
+from questions.questions import Triplet, Dataset
 import json
 from pathlib import Path
 from datasets import load_dataset
@@ -20,10 +20,11 @@ def map_entities(triplet: Triplet, context_hash: str) -> Triplet:
             entity_name = entity["name"]
             entity_mapping = entity["mapping"]
             triplet = Triplet(
-                triplet.question_id,
-                [chunk.replace(entity_name, entity_mapping) for chunk in triplet.context],
-                triplet.question.replace(entity_name, entity_mapping),
-                triplet.answer.replace(entity_name, entity_mapping)
+                dataset=triplet.dataset,
+                question_id=triplet.question_id,
+                context=[chunk.replace(entity_name, entity_mapping) for chunk in triplet.context],
+                question=triplet.question.replace(entity_name, entity_mapping),
+                answer=triplet.answer.replace(entity_name, entity_mapping)
             )
         return triplet
     else:
@@ -38,7 +39,9 @@ def get_triplets(entity_mapping: bool = False):
     for question in ds:
         context_hash = hashlib.sha256(question["context"].encode('utf-8')).hexdigest()
         context_chunks = context_chunks_map[context_hash]["context_chunks"]
+        dataset = Dataset.SQUAD_MAPPED if entity_mapping else Dataset.SQUAD
         triplet = Triplet(
+            dataset=dataset,
             question_id=question["id"],
             context=context_chunks,
             question=question["question"],

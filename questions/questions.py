@@ -7,6 +7,7 @@ class Dataset(Enum):
 
 @dataclass
 class Triplet:
+    dataset: Dataset
     question_id: str
     context: list[str]
     question: str
