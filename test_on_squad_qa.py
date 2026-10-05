@@ -1,4 +1,4 @@
-from models.mistral_model import MistralModel
+from models.Mistral.mistral_model import MistralModel
 from models.PISCO.pisco_model import PiscoModel
 from questions.SQUAD.squad import get_question_context_answer_triples
 from logger import log

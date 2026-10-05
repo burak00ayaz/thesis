@@ -1,20 +1,22 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
+from models.model import Model
 
-class MistralModel:
+class MistralModel(Model):
     def __init__(self):
-        MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.2"
-        self.tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
+        super().__init__(
+            backbone_model="Mistral-7B-Instruct-v0.2",
+            soft_compression=None,
+            compression_ratio=None
+        )
+        self.tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.2")
         self.model = AutoModelForCausalLM.from_pretrained(
-            MODEL_ID,
+            "mistralai/Mistral-7B-Instruct-v0.2",
             dtype=torch.bfloat16,      # torch_dtype is deprecated
             device_map="auto"
         )
         self.model.eval()
-        self.backbone_model = "Mistral-7B-Instruct-v0.2"
-        self.soft_compression = None
-        self.compression_ratio = None
-        
+
     def answer_question(self, question: str, context: str, max_new_tokens: int = 128) -> str:
         prompt = f"""
     You are a question-answering assistant.
