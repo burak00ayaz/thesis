@@ -14,3 +14,10 @@ class Triplet:
     context: list[str]
     question: str
     answer: str
+
+DATASET_PAIRS = {
+    Dataset.SQUAD: Dataset.SQUAD_MAPPED,
+    Dataset.SQUAD_MAPPED: Dataset.SQUAD,
+    Dataset.SYNTHWORLDS_RM: Dataset.SYNTHWORLDS_SM,
+    Dataset.SYNTHWORLDS_SM: Dataset.SYNTHWORLDS_RM,
+}
