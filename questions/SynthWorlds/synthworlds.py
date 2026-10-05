@@ -13,7 +13,7 @@ def get_triplets(dataset: Dataset):
     for example in ds:
         yield Triplet(
             dataset=dataset,
-            question_id=example["instance_id"],
+            question_id=example["instance_id"].rsplit("-", 1)[0],
             context=get_context_chunks(example["gold_docs"][0]),
             question=example["query"],
             answer=example["gold_answers"][0]
