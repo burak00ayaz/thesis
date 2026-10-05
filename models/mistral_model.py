@@ -10,6 +10,10 @@ class MistralModel:
             dtype=torch.bfloat16,      # torch_dtype is deprecated
             device_map="auto"
         )
+        self.model.eval()
+        self.backbone_model = "Mistral-7B-Instruct-v0.2"
+        self.soft_compression = None
+        self.compression_ratio = None
         
     def answer_question(self, question: str, context: str, max_new_tokens: int = 128) -> str:
         prompt = f"""

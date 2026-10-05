@@ -8,6 +8,9 @@ class PiscoModel:
             trust_remote_code=True
         ).to('cuda')
         self.model.eval()
+        self.backbone_model = "Mistral-7B-Instruct-v0.2"
+        self.soft_compression = "PISCO"
+        self.compression_ratio = 16
 
     def answer_question(self, question: str, context: list[str], max_new_tokens: int = 128) -> str:
         question_array = [question]
