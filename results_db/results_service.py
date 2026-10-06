@@ -21,6 +21,7 @@ class ResultEntryDB:
     soft_compression: str | None = None
     compression_ratio: float | None = None
     lexical_side_channel_method: str | None = None
+    lexical_side_channel_output: str | None = None
 
     model_output: str = ""
     answer_in_output: bool = False
@@ -32,6 +33,7 @@ class ResultEntry:
     triplet: Triplet
     model: ModelAbstract
     lexical_side_channel_method: str | None = None
+    lexical_side_channel_output: str | None = None
     model_output: str = ""
     answer_in_output: bool = False
 
@@ -57,6 +59,7 @@ class ResultsService:
             lexical_side_channel_method=(
                 result.lexical_side_channel_method
             ),
+            lexical_side_channel_output=result.lexical_side_channel_output,
             model_output=result.model_output,
             answer_in_output=result.answer_in_output,
         )
@@ -78,6 +81,7 @@ class ResultsService:
             lexical_side_channel_method=(
                 result.lexical_side_channel_method
             ),
+            lexical_side_channel_output=result.lexical_side_channel_output,
             model_output=result.model_output,
             answer_in_output=result.answer_in_output,
         )

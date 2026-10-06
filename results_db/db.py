@@ -37,6 +37,7 @@ class ResultsDatabase:
                     soft_compression TEXT,
                     compression_ratio REAL,
                     lexical_side_channel_method TEXT,
+                    lexical_side_channel_output TEXT,
 
                     model_output TEXT NOT NULL,
                     answer_in_output INTEGER NOT NULL
@@ -82,6 +83,7 @@ class ResultsDatabase:
         soft_compression: str | None,
         compression_ratio: float | None,
         lexical_side_channel_method: str | None,
+        lexical_side_channel_output: str | None,
         model_output: str,
         answer_in_output: bool,
     ) -> str:
@@ -109,11 +111,12 @@ class ResultsDatabase:
                     soft_compression,
                     compression_ratio,
                     lexical_side_channel_method,
+                    lexical_side_channel_output,
                     model_output,
                     answer_in_output,
                     created_at
                 )
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
                     result_id,
@@ -127,6 +130,7 @@ class ResultsDatabase:
                     soft_compression,
                     compression_ratio,
                     lexical_side_channel_method,
+                    lexical_side_channel_output,
                     model_output,
                     int(answer_in_output),
                     created_at,
