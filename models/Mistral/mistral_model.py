@@ -1,8 +1,8 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
-from models.model import Model
+from models.model import ModelAbstract
 
-class MistralModel(Model):
+class MistralModel(ModelAbstract):
     def __init__(self):
         super().__init__(
             backbone_model="Mistral-7B-Instruct-v0.2",

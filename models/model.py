@@ -1,8 +1,13 @@
 from abc import ABC, abstractmethod
+from enum import Enum
 
 MAX_NEW_TOKENS = 128
 
-class Model(ABC):
+class Model(Enum):
+    MISTRAL = "mistral"
+    PISCO = "pisco"
+
+class ModelAbstract(ABC):
     def __init__(
         self,
         backbone_model: str,
@@ -21,3 +26,13 @@ class Model(ABC):
         max_new_tokens: int = MAX_NEW_TOKENS,
     ) -> str:
         pass
+
+def get_model(model: Model):
+    if model == Model.MISTRAL:
+        from models.Mistral.mistral_model import MistralModel
+        return MistralModel()
+    elif model == Model.PISCO:
+        from models.PISCO.pisco_model import PiscoModel
+        return PiscoModel()
+    else:
+        raise ValueError(f"Unknown model: {model}")

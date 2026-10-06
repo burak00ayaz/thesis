@@ -2,7 +2,7 @@ from results_db.results_service import ResultsService, ResultEntryDB
 from questions.types import Dataset
 
 def main():
-    service = ResultsService()
+    service = ResultsService("data/example_results.db")
 
     result = ResultEntryDB(
         run_id="pisco_16x_spacy_001",

@@ -3,9 +3,7 @@ from dataclasses import dataclass
 import json
 from results_db.db import ResultsDatabase
 from questions.types import Dataset, Triplet, DATASET_PAIRS
-from models.model import Model
-
-RESULTS_DATABASE_PATH = "data/experiments.db"
+from models.model import ModelAbstract
 
 @dataclass
 class ResultEntryDB:
@@ -32,15 +30,15 @@ class ResultEntryDB:
 class ResultEntry:
     run_id: str
     triplet: Triplet
-    model: Model
+    model: ModelAbstract
     lexical_side_channel_method: str | None = None
     model_output: str = ""
     answer_in_output: bool = False
 
 
 class ResultsService:
-    def __init__(self):
-        self.database = ResultsDatabase(RESULTS_DATABASE_PATH)
+    def __init__(self, database_path: str):
+        self.database = ResultsDatabase(database_path)
 
     def add_result(
         self,

@@ -1,8 +1,8 @@
 from transformers import AutoModel
 import torch
-from models.model import Model
+from models.model import ModelAbstract
 
-class PiscoModel(Model):
+class PiscoModel(ModelAbstract):
     def __init__(self):
         super().__init__(
             backbone_model="Mistral-7B-Instruct-v0.2",
