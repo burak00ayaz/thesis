@@ -9,7 +9,7 @@ run_experiment(
     dataset=Dataset.SYNTHWORLDS_RM,
     count=200,
     model_enum=Model.PISCO,
-    lexical_side_channel_method_enum=LexicalSideChannelBaseline.SPACY_NER,
+    lexical_side_channel_method_enum=LexicalSideChannelBaseline.SPACY_LSC,
     results_database_path="data/experiments.db"
 )
 
@@ -27,7 +27,7 @@ run_experiment(
     dataset=Dataset.SYNTHWORLDS_SM,
     count=200,
     model_enum=Model.PISCO,
-    lexical_side_channel_method_enum=LexicalSideChannelBaseline.SPACY_NER,
+    lexical_side_channel_method_enum=LexicalSideChannelBaseline.SPACY_LSC,
     results_database_path="data/experiments.db"
 )
 

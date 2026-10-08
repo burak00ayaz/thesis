@@ -12,7 +12,7 @@
 # model: str -> Backbone model. "Mistral-7B-Instruct-v0.2"
 # soft_compression: str -> NULL, "PISCO", "xRAG"
 # compression_rate: float -> we might want to test PISCO with different compr. rates.
-# lexical_side_channel_method: str -> NULL, "spacy_ner"
+# lexical_side_channel_method: str -> NULL, "spacy_lsc"
 
 # model_output: str
 # answer_in_output: int

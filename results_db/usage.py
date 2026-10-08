@@ -22,7 +22,7 @@ def main():
 
         soft_compression="PISCO",
         compression_ratio=16.0,
-        lexical_side_channel_method="spacy_ner",
+        lexical_side_channel_method="spacy_lsc",
 
         model_output="Barack Obama was born in Hawaii.",
         answer_in_output=True,
@@ -56,7 +56,7 @@ def main():
         run_id="pisco_16x_spacy_001",
         dataset=Dataset.SQUAD_MAPPED,
         model="Mistral-7B-Instruct-v0.2",
-        lexical_side_channel_method="spacy_ner",
+        lexical_side_channel_method="spacy_lsc",
         soft_compression="PISCO",
         compression_ratio=16.0,
     )
@@ -73,7 +73,7 @@ def main():
         run_id="pisco_16x_spacy_001",
         dataset=Dataset.SQUAD_MAPPED,
         model="Mistral-7B-Instruct-v0.2",
-        lexical_side_channel_method="spacy_ner",
+        lexical_side_channel_method="spacy_lsc",
     )
 
     print("Statistics:")

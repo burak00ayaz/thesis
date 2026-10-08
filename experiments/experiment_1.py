@@ -9,7 +9,7 @@ run_experiment(
     dataset=Dataset.SQUAD,
     count=1,
     model_enum=Model.PISCO,
-    lexical_side_channel_method_enum=LexicalSideChannelBaseline.SPACY_NER,
+    lexical_side_channel_method_enum=LexicalSideChannelBaseline.SPACY_LSC,
     results_database_path="data/runner_test.db"
 )
 

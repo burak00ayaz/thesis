@@ -1,7 +1,5 @@
-import spacy
 from lexical_side_channel.lsc import LexicalSideChannelMethod
-
-nlp = spacy.load("en_core_web_sm")
+from ner.spacy.spacy_ner import detect_entities
 
 all_labels = """
 CARDINAL: Numerals that do not fall under another type
@@ -24,9 +22,9 @@ TIME: Times smaller than a day
 WORK_OF_ART: Titles of books, songs, etc.
 """
 
-class SpacyNER(LexicalSideChannelMethod):
+class SpacyLSC(LexicalSideChannelMethod):
     def process(self, context: list[str]) -> str:
         context_text = " ".join(context)
-        doc = nlp(context_text)
-        entities = [ent.text for ent in doc.ents]
-        return f"Entities: ({'|'.join(entities)})"
+        entities = detect_entities(context_text)
+        entity_names = [entity.name for entity in entities]
+        return f"Entities: ({'|'.join(entity_names)})"
