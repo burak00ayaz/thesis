@@ -12,28 +12,23 @@ class MistralModel(ModelAbstract):
         self.tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.2")
         self.model = AutoModelForCausalLM.from_pretrained(
             "mistralai/Mistral-7B-Instruct-v0.2",
-            dtype=torch.bfloat16,      # torch_dtype is deprecated
-            device_map="auto"
-        )
+            dtype=torch.bfloat16,
+        ).to("cuda")
         self.model.eval()
 
-    def answer_question(self, question: str, context: str, max_new_tokens: int = 128) -> str:
+    def answer_question(self, question: str, context: list[str], max_new_tokens: int = 128) -> str:
+        context = " ".join(context)
         prompt = f"""
-    You are a question-answering assistant.
+Answer the question based on the provided context.
 
-    Answer the question using only the provided context.
-    If the answer is not contained in the context, say:
-    "I don't know based on the provided context."
+Context:
+{context}
 
-    Context:
-    {context}
+Question:
+{question}
 
-    Question:
-    {question}
-
-    Answer:
-    """.strip()
-
+Answer:
+""".strip()
         messages = [
             {"role": "user", "content": prompt}
         ]
@@ -44,13 +39,11 @@ class MistralModel(ModelAbstract):
             tokenize=True,
             return_tensors="pt",
             return_dict=True,
-        )
-
-        inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
+        ).to(self.model.device)
 
         input_len = inputs["input_ids"].shape[-1]
 
-        with torch.no_grad():
+        with torch.inference_mode():
             outputs = self.model.generate(
                 **inputs,
                 max_new_tokens=max_new_tokens,
@@ -61,13 +54,12 @@ class MistralModel(ModelAbstract):
 
         generated_tokens = outputs[0][input_len:]
         answer = self.tokenizer.decode(generated_tokens, skip_special_tokens=True)
-
         return answer.strip()
 
 
 if __name__ == "__main__":
     model = MistralModel()
     question = "What is the capital of France?"
-    context = "France is a country in Europe. Its capital city is Paris."
+    context = ["France is a country in Europe. Its capital city is Paris."]
     answer = model.answer_question(question, context)
     print("Answer:", answer)
