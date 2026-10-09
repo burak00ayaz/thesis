@@ -23,4 +23,4 @@ labels_2 = ["person", "organization", "location", "date", "time", "faculty", "nu
 
 def detect_entities(text: str) -> list[NamedEntity]:
     entities = model.predict_entities(text, labels_2, threshold=0.1)
-    return [NamedEntity(text=entity['text'], label=entity['label']) for entity in entities]
+    return [NamedEntity(name=entity['text'], label=entity['label']) for entity in entities]
