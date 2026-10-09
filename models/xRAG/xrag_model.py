@@ -34,12 +34,15 @@ dtype = torch.float16
 xrag_name = "Hannibal046/xrag-7b"
 retriever_name = "Salesforce/SFR-Embedding-Mistral"
 
-context = ["Alice lives in Madrid.", "Her favorite color is purple."]
-question = "Where does Alice live?"
+context = [
+    "Alice lives in Madrid.",
+    "Her favorite color is purple.",
+]
+question = "What is Alice's favorite color?"
 
 
 # --------------------------------------------------
-# 1. Load retriever and compress the context
+# 1. Load retriever and compress each context chunk
 # --------------------------------------------------
 
 retriever_tokenizer = AutoTokenizer.from_pretrained(retriever_name)
@@ -49,10 +52,12 @@ retriever = SFR.from_pretrained(
     torch_dtype=dtype,
 ).to(device).eval()
 
+# Important: context is now a batch of chunks.
 retriever_inputs = retriever_tokenizer(
     context,
     max_length=180,
     truncation=True,
+    padding=True,
     return_tensors="pt",
 ).to(device)
 
@@ -63,10 +68,12 @@ with torch.no_grad():
         retriever_inputs["attention_mask"],
     )
 
-# Keep the tiny embedding on CPU
-retrieval_embeds = retrieval_embeds.cpu()
-
+# Expected:
+# retrieval_embeds.shape == [num_context_chunks, hidden_size]
 print("retrieval_embeds:", retrieval_embeds.shape)
+
+# Keep embeddings on CPU until generation
+retrieval_embeds = retrieval_embeds.cpu()
 
 
 # --------------------------------------------------
@@ -102,17 +109,51 @@ model.set_xrag_token_id(
 
 
 # --------------------------------------------------
-# 4. Ask question using compressed context
+# 4. Create one XRAG token per context chunk
 # --------------------------------------------------
+
+compressed_context = "\n".join(
+    f"Context {i + 1}: {XRAG_TOKEN}"
+    for i in range(len(context))
+)
 
 prompt = (
     "Answer the question based on the provided context.\n\n"
-    f"Context: {XRAG_TOKEN}\n\n"
+    f"{compressed_context}\n\n"
     f"Question: {question}\n"
 )
+
 prompt = f"[INST] {prompt} [/INST] Answer:"
 
-inputs = tokenizer(prompt, return_tensors="pt").to(device)
+print(prompt)
+print(80 * "-")
+
+
+# --------------------------------------------------
+# 5. Generate
+# --------------------------------------------------
+
+inputs = tokenizer(
+    prompt,
+    return_tensors="pt",
+).to(device)
+
+# Useful sanity check:
+xrag_token_id = tokenizer.convert_tokens_to_ids(XRAG_TOKEN)
+
+num_xrag_tokens = (
+    inputs["input_ids"] == xrag_token_id
+).sum().item()
+
+assert num_xrag_tokens == len(context), (
+    f"Expected {len(context)} XRAG tokens, "
+    f"but found {num_xrag_tokens}"
+)
+
+assert retrieval_embeds.shape[0] == len(context), (
+    f"Expected {len(context)} retrieval embeddings, "
+    f"but got {retrieval_embeds.shape[0]}"
+)
 
 with torch.inference_mode():
     output = model.generate(
