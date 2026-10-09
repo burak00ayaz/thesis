@@ -1,9 +1,32 @@
 import gc
 import torch
 from transformers import AutoTokenizer
+from models.xRAG.src.model import SFR, XMistralForCausalLM
+from models.xRAG.src.language_modeling.utils import XRAG_TOKEN, get_retrieval_embeds
+from models.model import ModelAbstract
+from questions.types import Triplet
 
-from src.model import SFR, XMistralForCausalLM
-from src.language_modeling.utils import XRAG_TOKEN, get_retrieval_embeds
+
+class xRAGModel(ModelAbstract):
+    def __init__(self):
+        super().__init__(
+            backbone_model="Mistral-7B-Instruct-v0.2",
+            soft_compression="xrag-7b",
+            compression_ratio=128
+        )
+        self.device = "cuda"
+        self.dtype = torch.float16
+        self.xrag_name = "Hannibal046/xrag-7b"
+        self.retriever_name = "Salesforce/SFR-Embedding-Mistral"
+
+    def batch_compress_and_save(self, triplets: list[Triplet]):
+        pass
+
+    def batch_load_and_answer(self, triplets: list[Triplet]):
+        pass
+
+    def batch_answer_questions(self, triplets: list[Triplet]):
+        pass
 
 device = "cuda"
 dtype = torch.float16
@@ -11,7 +34,7 @@ dtype = torch.float16
 xrag_name = "Hannibal046/xrag-7b"
 retriever_name = "Salesforce/SFR-Embedding-Mistral"
 
-context = "Alice lives in Madrid and her favorite color is purple."
+context = ["Alice lives in Madrid.", "Her favorite color is purple."]
 question = "Where does Alice live?"
 
 
@@ -83,16 +106,15 @@ model.set_xrag_token_id(
 # --------------------------------------------------
 
 prompt = (
-    "Refer to the background document and answer the questions:\n\n"
-    f"Background: {XRAG_TOKEN}\n\n"
+    "Answer the question based on the provided context.\n\n"
+    f"Context: {XRAG_TOKEN}\n\n"
     f"Question: {question}\n"
 )
-
-prompt = f"[INST] {prompt} [/INST] The answer is:"
+prompt = f"[INST] {prompt} [/INST] Answer:"
 
 inputs = tokenizer(prompt, return_tensors="pt").to(device)
 
-with torch.no_grad():
+with torch.inference_mode():
     output = model.generate(
         input_ids=inputs["input_ids"],
         attention_mask=inputs["attention_mask"],
