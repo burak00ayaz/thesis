@@ -46,7 +46,10 @@ def run_experiment(
             answer_in_output=answer_correctness
         )
         results_service.add_result(result_entry)
-        
+
+        if count is not None and i + 1 >= count:
+            break
+
     accuracy = results_service.get_accuracy(
         run_id=run_id,
         dataset=dataset,
