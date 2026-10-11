@@ -46,3 +46,14 @@ def run_experiment(
             answer_in_output=answer_correctness
         )
         results_service.add_result(result_entry)
+        
+    accuracy = results_service.get_accuracy(
+        run_id=run_id,
+        dataset=dataset,
+        model=model.backbone_model,
+        lexical_side_channel_method=lexical_side_channel_method_enum.value if lexical_side_channel_method_enum is not None else None,
+        soft_compression=model.soft_compression,
+        compression_ratio=model.compression_ratio
+    )
+
+    print(f"Experiment {run_id} completed. Accuracy: {accuracy}")
