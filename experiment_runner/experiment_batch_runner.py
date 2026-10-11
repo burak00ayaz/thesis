@@ -39,6 +39,9 @@ def run_experiment(
         triplet.question = input_question
         processed_triplets.append(triplet)
 
+        if count is not None and i + 1 >= count:
+            break
+
 
     outputs = model.answer_questions_batch(processed_triplets)
 
