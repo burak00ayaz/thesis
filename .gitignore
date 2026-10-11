@@ -4,3 +4,4 @@ __pycache__/
 retrieval/data/**/*.tsv.gz
 models/AutoCompressors/
 .env
+todo.md

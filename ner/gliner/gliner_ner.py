@@ -2,7 +2,7 @@ from gliner import GLiNER
 from ner.types import NamedEntity
 
 # Load a model
-model = GLiNER.from_pretrained("gliner-community/gliner_xxl-v2.5", load_tokenizer=True)
+model = GLiNER.from_pretrained("gliner-community/gliner_large-v2.5", load_tokenizer=True)
 
 labels_1 = ["person", "organization", "date", "location", "event"]
 labels_2 = ["person", "organization", "location", "date", "time", "faculty", "number", "quantity", "event", "product", "work of art", "money", "percentage"]

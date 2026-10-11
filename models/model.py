@@ -6,6 +6,7 @@ MAX_NEW_TOKENS = 128
 class Model(Enum):
     MISTRAL = "mistral"
     PISCO = "pisco"
+    XRAG = "xrag"
 
 class ModelAbstract(ABC):
     def __init__(
@@ -34,5 +35,8 @@ def get_model(model: Model):
     elif model == Model.PISCO:
         from models.PISCO.pisco_model import PiscoModel
         return PiscoModel()
+    elif model == Model.XRAG:
+        from models.xRAG.xrag_model import xRAGModel
+        return xRAGModel()
     else:
         raise ValueError(f"Unknown model: {model}")
