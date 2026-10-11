@@ -56,6 +56,10 @@ Answer:
         answer = self.tokenizer.decode(generated_tokens, skip_special_tokens=True)
         return answer.strip()
 
+    def answer_questions_batch(self, triplets: list) -> list[str]:
+        # throw an error if this method is not implemented for MistralModel
+        raise NotImplementedError("This method is not implemented for MistralModel")
+
 
 if __name__ == "__main__":
     model = MistralModel()
