@@ -5,8 +5,8 @@ from lexical_side_channel.lsc import LexicalSideChannelBaseline
 
 run_experiment(
     run_id="xrag_squad_test_001",
-    dataset=Dataset.SQUAD,
-    count=122,
+    dataset=Dataset.SQUAD_MAPPED,
+    count=123,
     model_enum=Model.XRAG,
     lexical_side_channel_method_enum=LexicalSideChannelBaseline.GLINER_LSC,
     results_database_path="data/xrag_results.db"
@@ -20,3 +20,4 @@ run_experiment(
 
 
 # Accuracy SQUAD with GlinerLarge LSC: 0.6147540983606558
+# Accuracy SQUAD Mapped with GlinerLarge LSC: 0.5142857142857142
