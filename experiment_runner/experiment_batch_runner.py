@@ -3,6 +3,7 @@ from questions.questions import triplets
 from models.model import Model, get_model
 from lexical_side_channel.lsc import LexicalSideChannelBaseline, get_lexical_side_channel_method
 from results_db.results_service import ResultsService, ResultEntry
+import copy
 
 def run_experiment(
     run_id: str,
@@ -26,6 +27,7 @@ def run_experiment(
         if count is not None and i >= count:
             break
         original_triplets.append(triplet)
+        triplet = copy.deepcopy(triplet)
         print(f"LSC generation: {i+1}/{count if count is not None else 'all'}: {triplet.question_id}")
 
         input_question = triplet.question
