@@ -40,7 +40,7 @@ def run_experiment(
         processed_triplets.append(triplet)
 
 
-    outputs = model.batch_answer_questions(processed_triplets)
+    outputs = model.answer_questions_batch(processed_triplets)
 
     # Save to the database
     for i, output in enumerate(outputs):

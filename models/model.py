@@ -1,7 +1,6 @@
 from abc import ABC, abstractmethod
 from enum import Enum
-
-MAX_NEW_TOKENS = 128
+from questions.types import Triplet
 
 class Model(Enum):
     MISTRAL = "mistral"
@@ -20,12 +19,11 @@ class ModelAbstract(ABC):
         self.compression_ratio = compression_ratio
 
     @abstractmethod
-    def answer_question(
-        self,
-        question: str,
-        context: list[str],
-        max_new_tokens: int = MAX_NEW_TOKENS,
-    ) -> str:
+    def answer_question(self, triplet: Triplet) -> str:
+        pass
+
+    @abstractmethod
+    def answer_questions_batch(self, triplets: list[Triplet]) -> list[str]:
         pass
 
 def get_model(model: Model):

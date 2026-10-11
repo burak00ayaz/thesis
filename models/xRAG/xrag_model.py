@@ -97,7 +97,7 @@ class xRAGModel(ModelAbstract):
             # ]
             retriever_inputs = retriever_tokenizer(
                 triplet.context,
-                max_length=180,
+                max_length=180, # todo should not have this hardcoded.
                 truncation=True,
                 padding=True,
                 return_tensors="pt",
@@ -141,7 +141,7 @@ class xRAGModel(ModelAbstract):
     # 2. Load compressed contexts and answer
     # ------------------------------------------------------------------
 
-    def batch_load_and_answer(self, triplets: list[Triplet]):
+    def batch_load_and_answer(self, triplets: list[Triplet], max_new_tokens: int = 128) -> list[str]:
         """
         Load previously compressed context embeddings and generate an answer
         for every Triplet.
@@ -243,7 +243,7 @@ class xRAGModel(ModelAbstract):
                         device=self.device,
                         dtype=self.dtype,
                     ),
-                    max_new_tokens=128,
+                    max_new_tokens=max_new_tokens,
                     do_sample=False,
                 )
 
@@ -264,7 +264,7 @@ class xRAGModel(ModelAbstract):
     # 3. Convenience method
     # ------------------------------------------------------------------
 
-    def batch_answer_questions(self, triplets: list[Triplet]):
+    def answer_questions_batch(self, triplets: list[Triplet]) -> list[str]:
         """
         Compress contexts first, then load the compressed representations and
         answer all questions.
@@ -272,7 +272,7 @@ class xRAGModel(ModelAbstract):
         self.batch_compress_and_save(triplets)
         return self.batch_load_and_answer(triplets)
 
-    def answer_question(self, triplet: Triplet):
+    def answer_question(self, triplet: Triplet) -> str:
         """
         Compress the context first, then load the compressed representation and
         answer the question.
