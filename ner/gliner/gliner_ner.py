@@ -1,5 +1,6 @@
 from gliner import GLiNER
 from ner.types import NamedEntity
+from ner.spacy.spacy_labels import spacy_labels
 
 # Load a model
 model = GLiNER.from_pretrained("gliner-community/gliner_large-v2.5", load_tokenizer=True)
