@@ -6,6 +6,7 @@ class Dataset(Enum):
     SQUAD_MAPPED = "squad_mapped" #123 questions available now with entity mappings, but not all of them have been generated yet.
     SYNTHWORLDS_RM = "synthworlds_rm"
     SYNTHWORLDS_SM = "synthworlds_sm"
+    NQ = "nq"
 
 @dataclass
 class Triplet:

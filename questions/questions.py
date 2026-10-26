@@ -13,6 +13,9 @@ def triplets(dataset: Dataset):
     elif dataset == Dataset.SYNTHWORLDS_RM:
         from questions.SynthWorlds.synthworlds import get_triplets
         return get_triplets(dataset)
+    elif dataset == Dataset.NQ:
+        from questions.NQ.nq import get_triplets
+        return get_triplets()
     else:
         raise ValueError(f"Unsupported dataset: {dataset}")
 
@@ -37,15 +40,14 @@ if __name__ == "__main__":
     #     if i == 122:
     #         break
 
-    synthworlds_sm_triplets = triplets(Dataset.SYNTHWORLDS_SM)
-    synthworlds_rm_triplets = triplets(Dataset.SYNTHWORLDS_RM)
+    nq_triplets = triplets(Dataset.NQ)
 
-    for i, (triplet_sm, triplet_rm) in enumerate(zip(synthworlds_sm_triplets, synthworlds_rm_triplets)):
-        print(f"SynthWorlds SM Triplet {i}:")
-        print(triplet_sm)
-        print(80 * "-")
-        print(f"SynthWorlds RM Triplet {i}:")
-        print(triplet_rm)
+    for i, triplet in enumerate(nq_triplets):
+        print(f"Triplet {i}:")
+        print(f"Question ID: {triplet.question_id}")
+        print(f"Context: {triplet.context}")
+        print(f"Question: {triplet.question}")
+        print(f"Answer: {triplet.answer}")
         print(80 * "=")
         if i == 9:
             break
