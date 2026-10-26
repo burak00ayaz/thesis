@@ -11,6 +11,7 @@ def get_triplets(dataset: Dataset):
         raise ValueError(f"Unsupported dataset: {dataset}")
 
     for example in ds:
+        assert len(example["gold_docs"]) == 1, "Expected exactly one gold document per example."
         yield Triplet(
             dataset=dataset,
             question_id=example["instance_id"].rsplit("-", 1)[0],
