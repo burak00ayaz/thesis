@@ -1,5 +1,5 @@
 from results_db.results_service import ResultsService, ResultEntryDB
-from questions.types import Dataset
+from corpus.questions.types import Dataset
 
 def main():
     service = ResultsService("data/example_results.db")

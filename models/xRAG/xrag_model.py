@@ -6,7 +6,7 @@ import shutil
 
 
 from models.model import ModelAbstract
-from questions.types import Triplet
+from corpus.questions.types import Triplet
 from models.xRAG.src.model import SFR, XMistralForCausalLM
 from models.xRAG.src.language_modeling.utils import XRAG_TOKEN, get_retrieval_embeds
 

@@ -2,7 +2,7 @@ from transformers import AutoModel
 import torch
 from pathlib import Path
 from models.model import ModelAbstract
-from questions.types import Triplet
+from corpus.questions.types import Triplet
 import shutil
 
 class PiscoModel(ModelAbstract):

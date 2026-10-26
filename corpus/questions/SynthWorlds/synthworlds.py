@@ -1,5 +1,5 @@
 from datasets import load_dataset
-from questions.types import Triplet, Dataset
+from corpus.questions.types import Triplet, Dataset
 from models.PISCO.context_chunker import get_context_chunks
 
 def get_triplets(dataset: Dataset):

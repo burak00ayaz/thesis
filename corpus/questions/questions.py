@@ -1,20 +1,20 @@
-from questions.types import Dataset, Triplet
+from corpus.questions.types import Dataset, Triplet
 
 def triplets(dataset: Dataset):
     if dataset == Dataset.SQUAD:
-        from questions.SQUAD.squad import get_triplets
+        from corpus.questions.SQUAD.squad import get_triplets
         return get_triplets(entity_mapping=False)
     elif dataset == Dataset.SQUAD_MAPPED:
-        from questions.SQUAD.squad import get_triplets
+        from corpus.questions.SQUAD.squad import get_triplets
         return get_triplets(entity_mapping=True)
     elif dataset == Dataset.SYNTHWORLDS_SM:
-        from questions.SynthWorlds.synthworlds import get_triplets
+        from corpus.questions.SynthWorlds.synthworlds import get_triplets
         return get_triplets(dataset)
     elif dataset == Dataset.SYNTHWORLDS_RM:
-        from questions.SynthWorlds.synthworlds import get_triplets
+        from corpus.questions.SynthWorlds.synthworlds import get_triplets
         return get_triplets(dataset)
     elif dataset == Dataset.NQ:
-        from questions.NQ.nq import get_triplets
+        from corpus.questions.NQ.nq import get_triplets
         return get_triplets()
     else:
         raise ValueError(f"Unsupported dataset: {dataset}")

@@ -1,4 +1,4 @@
-from questions.SQUAD.processing.entity_mapping_prompt import ENTITY_MAPPING_PROMPT
+from corpus.questions.SQUAD.processing.entity_mapping_prompt import ENTITY_MAPPING_PROMPT
 from open_router.api import send_request
 from typing import Literal
 import json
