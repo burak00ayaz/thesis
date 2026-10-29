@@ -6,14 +6,23 @@ from corpus.questions.questions import triplets
 from ner.gliner.gliner_ner import detect_entities as detect_entities_gliner
 # from ner.spacy.spacy_labels import spacy_labels
 
+##################################################################################################
+# NER Configuration
+##################################################################################################
+
 GLINER_THRESHOLD = 0.5
 
 # We can implement a label selection mechanism if needed
 # For now, use the same labels as Apple study 5 entity types
 LABELS = ["PERSON", "TIME", "NUMERIC", "ORGANIZATION", "LOCATION"]
+BIOASQ_LABELS = ["GENE", "DISEASE", "CHEMICAL", "ORGANISM", "CELL_TYPE", "CELL_LINE", "TISSUE", "MEDICAL"]
 
-STOP_AFTER = 200
-DATASET = Dataset.NQ
+##################################################################################################
+# Script Configuration
+##################################################################################################
+
+STOP_AFTER = 190
+DATASET = Dataset.BIOASQ_FACTOID
 OUTPUT_FILE = Path(__file__).parent / f"entity_questions/{DATASET.name.lower()}.json"
 APPEND_MODE = True  # If True, append to existing file; if False, overwrite
 
@@ -36,7 +45,7 @@ count = 0
 for i, (triplet, _) in enumerate(triplets(DATASET, skip_until_id=skip_until_id)):
     print(f"Processing triplet {i}...")
     context = " ".join(triplet.context)
-    gliner_entities = detect_entities_gliner(context, labels=LABELS, threshold=GLINER_THRESHOLD)
+    gliner_entities = detect_entities_gliner(context, labels=BIOASQ_LABELS, threshold=GLINER_THRESHOLD)
     
     if triplet.answer in [entity.name for entity in gliner_entities]:
         detected_entity_gliner = next(entity for entity in gliner_entities if entity.name == triplet.answer)
