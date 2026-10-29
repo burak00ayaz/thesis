@@ -32,6 +32,7 @@ def map_entities(triplet: Triplet, context_hash: str) -> Triplet:
 
 def get_triplets(entity_mapping: bool = False):
     ds = load_dataset("rajpurkar/squad")["train"]
+    ds = ds.shuffle(seed=42)  # Shuffle the dataset for randomness
 
     for question in ds:
         triplet = Triplet(

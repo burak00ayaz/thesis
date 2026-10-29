@@ -10,6 +10,8 @@ def get_triplets(dataset: Dataset):
     else:
         raise ValueError(f"Unsupported dataset: {dataset}")
 
+    ds = ds.shuffle(seed=42)  # Shuffle the dataset for randomness
+
     for example in ds:
         assert len(example["gold_docs"]) == 1, "Expected exactly one gold document per example."
         yield Triplet(
