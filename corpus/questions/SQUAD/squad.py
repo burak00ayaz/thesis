@@ -1,4 +1,4 @@
-from corpus.questions.types import Triplet, Dataset
+from corpus.types import Triplet, Dataset
 from models.PISCO.context_chunker import get_context_chunks
 import json
 from pathlib import Path

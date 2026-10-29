@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 from enum import Enum
-from corpus.questions.types import Triplet
+from corpus.types import Triplet
 
 class Model(Enum):
     MISTRAL = "mistral"

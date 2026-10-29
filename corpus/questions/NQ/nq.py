@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 import hashlib
 
-from corpus.questions.types import Triplet, Dataset
+from corpus.types import Triplet, Dataset
 
 DATA_FILE = Path(__file__).parent / 'Natural-Questions-Filtered.csv'
 

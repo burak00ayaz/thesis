@@ -1,5 +1,5 @@
 from experiment_runner.experiment_runner import run_experiment
-from corpus.questions.types import Dataset
+from corpus.types import Dataset
 from models.model import Model
 from lexical_side_channel.lsc import LexicalSideChannelBaseline
 

@@ -2,7 +2,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 import json
 from results_db.db import ResultsDatabase
-from corpus.questions.types import Dataset, Triplet, DATASET_PAIRS
+from corpus.types import Dataset, Triplet, DATASET_PAIRS
 from models.model import ModelAbstract
 
 @dataclass

@@ -1,4 +1,4 @@
-from corpus.questions.types import Dataset, Triplet
+from corpus.types import Dataset, Triplet
 
 def triplets(dataset: Dataset):
     if dataset == Dataset.SQUAD:

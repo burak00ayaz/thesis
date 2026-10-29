@@ -1,4 +1,4 @@
-from corpus.questions.types import Dataset, Triplet
+from corpus.types import Dataset, Triplet
 from corpus.questions.questions import triplets
 from models.model import Model, get_model
 from lexical_side_channel.lsc import LexicalSideChannelBaseline, get_lexical_side_channel_method
