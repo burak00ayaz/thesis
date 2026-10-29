@@ -32,6 +32,7 @@ class ResultsDatabase:
                     context_json TEXT NOT NULL,
                     question TEXT NOT NULL,
                     answer TEXT NOT NULL,
+                    answer_label TEXT,
 
                     model TEXT NOT NULL,
                     soft_compression TEXT,
@@ -81,6 +82,7 @@ class ResultsDatabase:
         context: list[str],
         question: str,
         answer: str,
+        answer_label: str | None,
         model: str,
         soft_compression: str | None,
         compression_ratio: float | None,
@@ -111,6 +113,7 @@ class ResultsDatabase:
                     context_json,
                     question,
                     answer,
+                    answer_label,
                     model,
                     soft_compression,
                     compression_ratio,
@@ -122,7 +125,7 @@ class ResultsDatabase:
                     indel_substring,
                     created_at
                 )
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
                     result_id,
@@ -132,6 +135,7 @@ class ResultsDatabase:
                     context_json,
                     question,
                     answer,
+                    answer_label,
                     model,
                     soft_compression,
                     compression_ratio,

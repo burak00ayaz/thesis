@@ -27,6 +27,7 @@ class ResultEntryDB:
     answer_in_output: bool = False
     normalized_indel: float | None = None
     indel_substring: str | None = None
+    answer_label: str | None = None
 
 
 @dataclass
@@ -40,6 +41,7 @@ class ResultEntry:
     answer_in_output: bool = False
     normalized_indel: float | None = None
     indel_substring: str | None = None
+    answer_label: str | None = None
 
 
 class ResultsService:
@@ -57,6 +59,7 @@ class ResultsService:
             context=result.triplet.context,
             question=result.triplet.question,
             answer=result.triplet.answer,
+            answer_label=result.answer_label,
             model=result.model.backbone_model,
             soft_compression=result.model.soft_compression,
             compression_ratio=result.model.compression_ratio,
@@ -81,6 +84,7 @@ class ResultsService:
             context=result.context,
             question=result.question,
             answer=result.answer,
+            answer_label=result.answer_label,
             model=result.model,
             soft_compression=result.soft_compression,
             compression_ratio=result.compression_ratio,

@@ -21,7 +21,7 @@ def run_experiment(
     if lexical_side_channel_method_enum is not None:
         lsc_method = get_lexical_side_channel_method(lexical_side_channel_method_enum)
 
-    for i, (triplet, answer_entity) in enumerate(triplets_dataset):
+    for i, (triplet, answer_label) in enumerate(triplets_dataset):
 
         if count is not None and i >= count:
             break
@@ -48,6 +48,7 @@ def run_experiment(
             answer_in_output=exact_match,
             normalized_indel=normalized_indel,
             indel_substring=closest_substring,
+            answer_label=answer_label,
         )
         results_service.add_result(result_entry)
 
