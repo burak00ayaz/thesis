@@ -15,12 +15,25 @@ LABELS = ["PERSON", "TIME", "NUMERIC", "ORGANIZATION", "LOCATION"]
 STOP_AFTER = 200
 DATASET = Dataset.NQ
 OUTPUT_FILE = Path(__file__).parent / f"entity_questions/{DATASET.name.lower()}.json"
+APPEND_MODE = True  # If True, append to existing file; if False, overwrite
+
+###################################################################################################
+
 OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-count = 0
-entity_questions = {}
+if APPEND_MODE and OUTPUT_FILE.exists():
+    with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+        entity_questions = json.load(f)
+        latest_question_id = list(entity_questions.keys())[-1]  # Get the last question ID
+        skip_until_id = latest_question_id
+        print(f"Resuming from last processed question ID: {skip_until_id}")
+else:
+    entity_questions = {}
+    skip_until_id = None
 
-for i, triplet in enumerate(triplets(DATASET)):
+count = 0
+
+for i, (triplet, _) in enumerate(triplets(DATASET, skip_until_id=skip_until_id)):
     print(f"Processing triplet {i}...")
     context = " ".join(triplet.context)
     gliner_entities = detect_entities_gliner(context, labels=LABELS, threshold=GLINER_THRESHOLD)
@@ -33,14 +46,14 @@ for i, triplet in enumerate(triplets(DATASET)):
         print(80 * "-")
         count += 1
         entity_questions[triplet.question_id] = {
-            "count": count,
+            "count": entity_questions.keys().__len__() + 1,
             "context": triplet.context,
             "question": triplet.question,
             "answer_entity": triplet.answer,
             "label": detected_entity_gliner.label
         }
 
-    if count == STOP_AFTER:
+    if count >= STOP_AFTER:
         break
 
 
