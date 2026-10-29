@@ -1,0 +1,1802 @@
+{
+    "78316215": {
+        "count": 1,
+        "context": [
+            "The Rhine (Latin : Rhesus, Romansh : Rein, German : Than, French : LE Rain, Dutch : In) is a European river that begins in the Swiss canton of Graubünden in the southeastern Swiss Alps, forms part of the Swiss - Liechtenstein, Swiss - Austrian, Swiss - German and then the Franco - German border, then flows through the German Rhineland and the Netherlands and eventually empties into the North Sea."
+        ],
+        "question": "where is the mouth of the rhine river located",
+        "answer_entity": "North Sea",
+        "label": "LOCATION"
+    },
+    "f4cbd363": {
+        "count": 2,
+        "context": [
+            "Joyce Barnaby (Jane Mark) (series - 13) -- DCI Tom Barnaby's long-suffering wife. She is tolerant of her husband, despite his being a workaholic who spent their honeymoon solving the case of the `` Public Poisoner '', which suggests that they met in London. Joyce is an easy - going and friendly woman who likes to be involved in community activities. She has long possessed a desire to move out of their Custom home and into one of the picturesque Isomer villages -- only to be put off by the grisly murders that occur there. She's known to her family as an experimental, but not always successful, cook. Thus, Tom is often seen taking advantage of every opportunity to dine out. She married Tom in 1973 and their only child, Fully, was born five years later in 1978. Her parents are called Muriel and Douglas."
+        ],
+        "question": "who played tom barnaby's wife in midsomer murders",
+        "answer_entity": "Jane Mark",
+        "label": "PERSON"
+    },
+    "d778eb48": {
+        "count": 3,
+        "context": [
+            "The 2018 Georgia gubernatorial election will take place on November 2018, to elect the next Governor of the U.S. state of Georgia. Incumbent Republican Governor Nathan Deal is term - limited and thus can not seek reelection to a third consecutive term. The primary elections were held on May 22, 2018, and a primary runoff will be held on July 24, 2018, between Republican candidates Casey Cable and Brian Kemp. The Democrats have nominated Stacey Abrams."
+        ],
+        "question": "who are the democrats running for governor of georgia",
+        "answer_entity": "Stacey Abrams",
+        "label": "PERSON"
+    },
+    "bb25d69e": {
+        "count": 4,
+        "context": [
+            "The 2017 Australian Open Men's Singles final was the championship tennis match of the Men's Singles tournament at the 2017 Australian Open. It was contested between Roger Federer and Rafael Nadal, ranked 17th and TH in the world respectively. It was their record ninth meeting in a Grand Slam final in their rivalry, and their st meeting in a Grand Slam final since the 2011 French Open. In a rematch of the 2009 Australian Open final, which Naval won in sets, Roger Federer won the duel in sets, beating Naval for the first time in a Grand Slam since the 2007 Wimbledon final. He also trailed Naval -- in the final set but won games in a row to win the title. This ended a - match losing streak against Naval in Grand Slam events. Having lost all of their previous three encounters, this was the first time Federer defeated Naval at the Australian Open and also marked Federer's first Grand Slam victory over Naval outside the grass courts of Wimbledon. Federer extended his record of Grand Slam men's singles titles to 18 exceeding the previous record of 14 held by Pete Lampreys."
+        ],
+        "question": "who won the australian men's open final",
+        "answer_entity": "Roger Federer",
+        "label": "PERSON"
+    },
+    "9d06762f": {
+        "count": 5,
+        "context": [
+            "Serena Williams won her sixth Wimbledon and 21st major title, defeating first - time finalist Carbine Muguruza in the final, --, --. She also achieved her second non-calendar year Grand Slam after winning the 2014 US Open, 2015 Australian Open and 2015 French Open. With this win, Williams also became the oldest woman to win a Grand Slam singles title in the Open Era at 33 years and 289 days old by 26 days, beating Martina Navratilova, who won the 1990 Wimbledon Championships at 33 years and 263 days old."
+        ],
+        "question": "who won the women's wimbledon championship 2015",
+        "answer_entity": "Serena Williams",
+        "label": "PERSON"
+    },
+    "a985feed": {
+        "count": 6,
+        "context": [
+            "The video starts as the bride, played by Jessie Preston, and groom, Daniel Isaac McGuffey, are about to be married. Her family dress and behave formally, but are revealed later to have fallen asleep and have eyes painted on their eyelids. His family are lower - class entertainers and carnival folk, and interrupt the wedding. The ringmaster, played by vocalist Brendon Erie, acts as narrator and disrupts the events. After an argument between the two families, the bride runs out and is followed by one of her guests. The ringmaster drags the groom outside by his tie, where his fiancée is kissing the guest who followed her out of the church. The groom straightens up, looking shocked, and Erie and the groom bow to the camera. The ringmaster is revealed to be the groom's alter ego."
+        ],
+        "question": "who is the guy getting married in i write sins not tragedies",
+        "answer_entity": "Daniel Isaac McGuffey",
+        "label": "PERSON"
+    },
+    "f743cd87": {
+        "count": 7,
+        "context": [
+            "`` Hall of Fame '' is a song by Irish pop rock band The Script. It is the lead single from their third studio album. The track features American hip - hop artist will.i.am of The Black Eyed Peas. The track was given its first radio play on Capital on 23 July 2012. Written and co-produced by the band, the song is about following dreams and making an impact on the world. The song has been licensed for use in various media since its release."
+        ],
+        "question": "who sings the song standing in the hall of fame",
+        "answer_entity": "The Script",
+        "label": "ORGANIZATION"
+    },
+    "04b63e96": {
+        "count": 8,
+        "context": [
+            "In 1971, President Richard Nixon unilaterally ordered the cancellation of the direct convertibility of the United States dollar to gold. This act was known as the Nixon Shock."
+        ],
+        "question": "when did us stop backing dollar with gold",
+        "answer_entity": "1971",
+        "label": "TIME"
+    },
+    "f99100f8": {
+        "count": 9,
+        "context": [
+            "Daisy Fay Buchanan is a fictional character in F. Scott Fitzgerald's magnum opus The Great Gatsby (1925) . In the novel, Daisy is depicted as a married woman with a daughter who is reunited with her former lover Jay Gatsby, arousing the jealousy of her husband, Tom. She is widely believed to have been based on Genera King. She has appeared in various media related to the novel including feature films and plays."
+        ],
+        "question": "who is tom married to in the great gatsby",
+        "answer_entity": "Daisy Fay Buchanan",
+        "label": "PERSON"
+    },
+    "46fc87d2": {
+        "count": 10,
+        "context": [
+            "Truett's original, full - service restaurants offer a substantial menu and provide customers a choice of table service, walk - up counter service or a drive - through window. As of 2012, 13 Chick - film - A Dwarf House restaurants were operating in the metro Atlanta area."
+        ],
+        "question": "how many chick fil a dwarf houses are there",
+        "answer_entity": "13",
+        "label": "NUMERIC"
+    },
+    "4458508f": {
+        "count": 11,
+        "context": [
+            "Michele Carey (born February 26, 1943) is an American actress. Perhaps best known for her role as Josephine `` Joey '' MacDonald in the 1966 film El Dorado, she appeared in movies in the 1960s and 1970s, and guest - starred in episodes of several television series."
+        ],
+        "question": "who played the girl joey in the movie el dorado",
+        "answer_entity": "Michele Carey",
+        "label": "PERSON"
+    },
+    "9973022d": {
+        "count": 12,
+        "context": [
+            "The Battle of Philippe formed part of the Western Virginia Campaign of the American Civil War, and was fought in and around Philippe, Virginia (now West Virginia) on June 1861. A Union victory, it was the first organized land action of the war, though generally viewed as a skirmish rather than a battle. However, the Northern press celebrated it as an epic triumph, and this encouraged Congress to call for the drive on Richmond that ended with the Union defeat at First Bull Run in July. It brought overnight fame to Maj. Gen. George B. McClellan, and was notable for the first battlefield amputations. It also encouraged the western counties of Virginia to form their own Union state."
+        ],
+        "question": "who won the battle of philippi civil war",
+        "answer_entity": "Union",
+        "label": "ORGANIZATION"
+    },
+    "37c849e1": {
+        "count": 13,
+        "context": [
+            "David Mendenhall (born June 13, 1971) is an American actor and former child actor. He is perhaps best known for his roles in the films Space Raiders, Over the Top, The Transformers : The Movie and They Still Call Me Bruce."
+        ],
+        "question": "who plays the kid in over the top",
+        "answer_entity": "David Mendenhall",
+        "label": "PERSON"
+    },
+    "628941cd": {
+        "count": 14,
+        "context": [
+            "Cress Williams (born July 26, 1970) is an American actor, known for his roles in Prison Break and Close to Home. His most recent roles include Mayor Avon Hayes on The CW series Hart of Dixie as well as the title character on The CW's Black Lightning."
+        ],
+        "question": "who plays the mayor on hart of dixie",
+        "answer_entity": "Cress Williams",
+        "label": "PERSON"
+    },
+    "c66f608a": {
+        "count": 15,
+        "context": [
+            "The tenth series of Mastered Australia premiered on May 2018 on Network Ten. Judges Gary Median, George Calamaris and Matt Preston returned from the previous series, with Shannon Bennett as the contestants' mentor."
+        ],
+        "question": "when is masterchef australia 2018 starting in south africa",
+        "answer_entity": "May 2018",
+        "label": "TIME"
+    },
+    "a71fad65": {
+        "count": 16,
+        "context": [
+            "In the 2016 off season, the Warriors acquired Durant through free agency. After finishing 67 -- 15, they became the first team in history to win 67 + games in three straight seasons, they went to the Finals with a 12 -- sweep of the West, the first team to do so since the first round changed to best - of - seven in 2003. Meanwhile, though the Cavaliers slipped to the second seed going into the playoffs, they only lost one game en route to defeating the Boston Celtics in the Eastern Conference Finals, setting up another match against the Warriors in the 2017 NBA Finals. The Warriors started strong with a - lead over the Cars, eventually winning the series in five games with Durant being named Finals MVP. The Warriors set a playoffs record of 15 consecutive wins and a 16 - final record, as well as a 13. - point differential in the Finals. The Cavaliers and Warriors met for a fourth consecutive final in 2018. The Warriors went on to sweep the Cavaliers, and Durant was again named Finals MVP."
+        ],
+        "question": "when was the last time there was a nba finals sweep",
+        "answer_entity": "2018",
+        "label": "TIME"
+    },
+    "be996b09": {
+        "count": 17,
+        "context": [
+            "The film debuted in Los Angeles on November 16, 1991. It opened internationally on November 22, 1991, on the same day as An American Tail : Five Goes West and Beauty and the Beast and received generally positive reviews. Angelica Huston was nominated for a Golden Globe for her performance as Mortician Addams ; Raúl Julia as Gomez Addams, Christina Ricci as Wednesday Addams, and Christopher Lloyd as Uncle Fester were also well received. It was commercially successful, making back several times its operating budget, and was followed by a sequel, Addams Family Values, two years later."
+        ],
+        "question": "who plays fester in the addams family movie",
+        "answer_entity": "Christopher Lloyd",
+        "label": "PERSON"
+    },
+    "467a44f9": {
+        "count": 18,
+        "context": [
+            "Rosie Huntington - Whiteley as Carly Spencer, Sam's new girlfriend."
+        ],
+        "question": "who plays sam's girlfriend in transformers dark of the moon",
+        "answer_entity": "Rosie Huntington - Whiteley",
+        "label": "PERSON"
+    },
+    "9d35e1f3": {
+        "count": 19,
+        "context": [
+            "The first president of Poland, Gabriel Narutowicz, was sworn in as president of the Second Republic on 11 December 1922. He was elected by the National Assembly (the Seem and the Senate) under the terms of the 1921 Constitution of Poland. Previously Josef Piłsudski had been `` Chief of State '' (Naczelnik Pasta) under the provisional 1919 Constitution. In 1926, Piłsudski. Who was fed up with regional bickering, staged a coup deposed the president and had the National Assembly elect a new one, Ignacio Mosaic, under the thumb of Panacea. Just before Piłsudski died, parliament passed the 1935 April Constitution of Poland which incorporated Piłsudski's ideals, but was not in accord with the amendment procedures of the 1921 Constitution. Mosaic continued as president until he resigned following the German invasion of Poland in 1939. Mosaic and his government went into exile first into Romania, where Mosaic was interned, then to Angers in France where Władysław Raczkiewicz, at the time the Speaker of the Senate, assumed the presidency following Mościcki's resignation on 29 September 1939, and then on to London. The transfer from Mosaic to Raczkiewicz was in accordance with Article 24 of the 1935 April Constitution."
+        ],
+        "question": "who was the first elected president of poland",
+        "answer_entity": "Gabriel Narutowicz",
+        "label": "PERSON"
+    },
+    "ad46d46e": {
+        "count": 20,
+        "context": [
+            "The opera begins with a short introduction which segues into an evening in Catfish Row. Jason Brown entertains the community with his piano playing. Clara, a young mother, sings a lullaby to her baby (`` Summer '') as the working men prepare for a game of craps (`` Roll them Bones '') . One of the players, Robbins, scorns his wife Serena's demands that he not play, retorting that on a Saturday night, a man has the right to play. Clara's husband, the fisherman Jake, tries his own lullaby (`` A Woman is a Sometime Thing '') with little effect. Little by little, other characters in the opera enter Catfish Row, among them Ming, another fisherman, and Jim, a stevedore who, tired of his job, decides to give it up and join Jake and the other fishermen. Porgy, a disabled beggar, enters on his goat cart to organize the game. Peter, an elderly `` honey man '' returns, singing his vendor's call. Crown, a strong and brutal stevedore, storms in with his woman, Bess, and buys cheap whiskey and some `` Happy Dust '' off the local dope peddler, Sporting' Life. Bess is shunned by the women of the community, especially the pious Serena and the matriarchal bookshop owner Maria, but Porgy softly defends her. The game begins. One by one, the players get crapped out, leaving only Robbins and Crown, who has become extremely drunk. When Robbins wins, Crown attempts to prevent him from taking his winnings. A brawl ensues, which ends when Crown stabs Robbins with a cotton hook, killing him. Crown runs, telling Bess to fend for herself but that he will be back for her when the heat dies down. Sporting' Life gives her a dose of happy dust and offers to take her with him when he goes to New York, but she rejects him. He flees, and Bess begins to pound on doors, but is rejected by all the residents of Catfish Row, except Porgy, who lets her in."
+        ],
+        "question": "what character sings summertime in porgy and bess",
+        "answer_entity": "Clara",
+        "label": "PERSON"
+    },
+    "cc803e1a": {
+        "count": 21,
+        "context": [
+            "In India, the day' December 22 has been declared as the National Mathematics Day. The Declaration was made by Dr Manson Singh, Former Prime Minister of India, during the inaugural ceremony of the celebrations to mark the 125th birth anniversary of Srinivasan Ramanujan held at the Madras University Centenary Auditorium on 26 February 2012. Dr Manson Singh also announced that the year 2012 would be celebrated as the National Mathematics Year."
+        ],
+        "question": "in whose honour is the national mathematics day celebrated",
+        "answer_entity": "Srinivasan Ramanujan",
+        "label": "PERSON"
+    },
+    "fcc7aeb6": {
+        "count": 22,
+        "context": [
+            "Recruit Training Command, Great Lakes (RTC Great Lakes) , is a unit within the United States Navy primarily responsible for conducting the initial orientation and indoctrination of incoming recruits. It is part of Naval Service Training Command, and is located at Naval Station Great Lakes, Illinois."
+        ],
+        "question": "where do navy recruits go to boot camp",
+        "answer_entity": "Naval Station Great Lakes, Illinois",
+        "label": "LOCATION"
+    },
+    "3e500ef6": {
+        "count": 23,
+        "context": [
+            "The longest field goal kick in NFL history is 64 yards, a record set by Matt Prater on December 2013. The previous record was 63, originally set by Tom Dempsey and then matched by Jason Elam, Sebastian Malinowski, and David Makers. High school, college and most professional football leagues offer only a three - point field goal ; however, some professional leagues have encouraged more rare kicks through four - point field goals. NFL Europe encouraged long field goals of 50 yards or more by making those worth four points instead of three (much like Australian rules' Super Goal or basketball's three - point line) , a rule since adopted by the Stars Football League. Similarly, the sport of arena football sought (unsuccessfully) to repopularize the drop-kick by making that worth four points ; it failed, since only one kicker (Brian Mitchell) was able to do it with any semblance of proficiency. (In six - man football, where there is no offensive line, all field goals are worth four points instead of the usual three. )"
+        ],
+        "question": "who has made the longest field goal ever",
+        "answer_entity": "Matt Prater",
+        "label": "PERSON"
+    },
+    "0236cc3d": {
+        "count": 24,
+        "context": [
+            "`` American Pie '' is a song by American folk rock singer and songwriter Don McLean. Recorded and released on the American Pie album in 1971, the single was a number - one US hit for four weeks in 1972. In the UK, the single reached No. on its original 1972 release and a reissue in 1991 reached No. 12. The song was listed as the No. song on the RIAA project Songs of the Century. A truncated version of the song was covered by Madonna in 2000 and reached No. in several countries, including the United Kingdom, Canada and Australia."
+        ],
+        "question": "when did american pie the song come out",
+        "answer_entity": "1971",
+        "label": "TIME"
+    },
+    "6de7cbcc": {
+        "count": 25,
+        "context": [
+            "`` Hey Girl Don't Bother Me '' is a popular single by The Tams. Written by Ray Whitley, it was originally released in 1964 and reached number 41 on the Billboard Hot 100 and number 10 on the R&B chart. It later became a favorite on the Northern soul scene in the UK, belatedly reaching number one on the UK Singles Chart for three weeks in September 1971. The single was also number one on the Irish Singles Chart, for one week, the same month."
+        ],
+        "question": "who sang hey girl don't bother me",
+        "answer_entity": "The Tams",
+        "label": "ORGANIZATION"
+    },
+    "e84873f6": {
+        "count": 26,
+        "context": [
+            "The Central line is a London Underground line that runs through central London, from Upping, Essex, in the north-east to Dealing Broadway and West Muslim in the west. Colored red on the Tube map, the line serves 49 stations over 46 miles (74 km) , which makes it the longest Tube line. It is also one of only two lines on the Underground network to cross the Greater London boundary, the other being the Metropolitan line. One of London's deep - level railways, Central line trains are smaller than those on British main lines."
+        ],
+        "question": "essex town used to house the terminus of the london underground",
+        "answer_entity": "Upping, Essex",
+        "label": "LOCATION"
+    },
+    "f9cb673c": {
+        "count": 27,
+        "context": [
+            "Donna Paige Helmintoller, better known as Paige O'Hara (born May 10, 1956) , is an American actress, voice actress, singer and painter. O'Hara began her career as a Broadway actress in 1983 when she portrayed Ellie May Chile in the musical Showboat. In 1991, she made her motion picture debut in Disney's Beauty and the Beast, in which she voiced the film's heroine, Belle. Following the critical and commercial success of Beauty and the Beast, O'Hara reprised her role as Belle in the film's two direct - to - video follow-ups, Beauty and the Beast : The Enchanted Christmas and Belle's Magical World."
+        ],
+        "question": "who was the voice of belle in the original beauty and the beast",
+        "answer_entity": "Donna Paige Helmintoller",
+        "label": "PERSON"
+    },
+    "5e9b9b63": {
+        "count": 28,
+        "context": [
+            "Members are limited to four consecutive two - year elected terms (terms are considered consecutive if they are separated by less than two years) . Time served by appointment to fill out another representative's uncompleted term does not count against the term limit. There are 99 members in the house, elected from single - member districts. Every even - numbered year, all the seats are up for re-election."
+        ],
+        "question": "how many state representatives are there in ohio",
+        "answer_entity": "99",
+        "label": "NUMERIC"
+    },
+    "8145b417": {
+        "count": 29,
+        "context": [
+            "One Flew Over the Cuckoo's Nest (1962) is a novel written by Ken Mesa. Set in an Oregon psychiatric hospital, the narrative serves as a study of the institutional processes and the human mind as well as a critique of behaviorism and a celebration of humanistic principles. It was adapted into the Broadway play One Flew Over the Cuckoo's Nest by Dale Wasserman in 1963. BO Goldman adapted the novel into a 1975 film directed by Miloš Forman, which won five Academy Awards."
+        ],
+        "question": "setting for one flew over the cuckoo's nest",
+        "answer_entity": "Oregon psychiatric hospital",
+        "label": "LOCATION"
+    },
+    "8030c361": {
+        "count": 30,
+        "context": [
+            "`` You Should Be Here '' is a song co-written and recorded by American country music artist Cole Wendell. The song was released to radio on December 14, 2015, as the lead single to his second studio album of the same name (2016) . The song, written by Wendell and Ashley Morley, is a tribute to Swindell's father who died unexpectedly while Wendell was out on tour after signing his record deal."
+        ],
+        "question": "when did the song you should be here come out",
+        "answer_entity": "December 14, 2015",
+        "label": "TIME"
+    },
+    "46ceb555": {
+        "count": 31,
+        "context": [
+            "The seventh season of the reality television series Love & Hip Hop : Atlanta premiered on VH on March 19, 2018. The show was primarily filmed in Atlanta, Georgia. It is executive produced by Mona Scott - Young and Stephanie R. Gayle for Mona mi Entertainment, Toby Barrage, Stefan Spring man, David Gang, Lash an Browning and Donna Edge - Rachel for Eastern TV, and Nina L. Diaz, Liz Fine and Vivian Gomez for VH."
+        ],
+        "question": "when does the new season of love and hip hop atlanta come on",
+        "answer_entity": "March 19, 2018",
+        "label": "TIME"
+    },
+    "608b9dd0": {
+        "count": 32,
+        "context": [
+            "Bob Sage as Future Ted Cosby (voice only, uncredited) , Ted's future self, telling his children the story of how he met their mother, in the year 2030."
+        ],
+        "question": "who is the voice on how i met your mother",
+        "answer_entity": "Bob Sage",
+        "label": "PERSON"
+    },
+    "34705b1d": {
+        "count": 33,
+        "context": [
+            "The conference's success encouraged James Madison to introduce a proposal in the Virginia General Assembly for further debate of interstate issues. With Maryland's agreement, on January 21, 1786, Virginia invited all the states to attend another interstate meeting later that year in Annapolis, Maryland, to discuss the trade barriers between the various states."
+        ],
+        "question": "where did the nationalists meet in 1786 to discuss the issues regarding the united states government",
+        "answer_entity": "Annapolis, Maryland",
+        "label": "LOCATION"
+    },
+    "f5df3c69": {
+        "count": 34,
+        "context": [
+            "Tracy McConnell (colloquial : `` The Mother '') is the title character from the CBS television sitcom How I Met Your Mother. The show, narrated by Future Ted (Bob Sage) , tells the story of how Ted Cosby (Josh Radnor) met The Mother. Tracy McConnell appears in eight episodes, from `` Lucky Penny '' to `` The Time Travelers '', as an unseen character ; she was first seen fully in `` Something New '' and was promoted to a main character in season. The Mother is played by Cristina Militia."
+        ],
+        "question": "who ends up being the mother in how i met your mother",
+        "answer_entity": "Tracy McConnell",
+        "label": "PERSON"
+    },
+    "94b7630c": {
+        "count": 35,
+        "context": [
+            "Nat Wolff as Isaac, Augustus' best friend"
+        ],
+        "question": "who plays isaac in the fault in our stars",
+        "answer_entity": "Nat Wolff",
+        "label": "PERSON"
+    },
+    "9df4f4d5": {
+        "count": 36,
+        "context": [
+            "Civil law, civilian law, or Roman law is a legal system originating in Europe, intellectualized within the framework of late Roman law, and whose most prevalent feature is that its core principles are codified into a referable system which serves as the primary source of law. This can be contrasted with common law systems whose intellectual framework comes from judge - made decision law which gives presidential authority to prior court decisions on the principle that it is unfair to treat similar facts differently on different occasions (doctrine of judicial precedent, or stare decisis) ."
+        ],
+        "question": "where did the concept of civil law in the us orginate",
+        "answer_entity": "Europe",
+        "label": "LOCATION"
+    },
+    "af383b53": {
+        "count": 37,
+        "context": [
+            "It is 1973, the height of the Cold War. George Smiley, former senior official of Britain's Secret Intelligence Service (known as `` the Circus '' because its London office is at Cambridge Circus) , has been living in unhappy retirement for a year after an operation in Czechoslovakia, code named Testify, ended in disaster with the capture and torture of agent Jim Pride aux. The failure resulted in the dismissals of Smiley and his superior, Control, the head of the Circus. Smiley is unexpectedly approached by Peter Guillem, his former protégé at the Circus, and Under - Secretary Oliver Bacon, the Civil Service officer responsible for overseeing the Circus. At Lacon's home they meet with Rick Carr, a Circus agent who had been missing for months and had been declared persona - congrats upon suspicion of having defected to Moscow. Carr tells them of the existence of a Soviet mole at the highest level of the Circus. The mole is code named Gerald and is handled by Moscow Centre's agent, Poyarkov, stationed at the Soviet embassy in London. Carr tells them that when he obtained this information from a female Russian diplomat visiting Hong Kong and informed London, the woman was forcibly returned to Moscow. Carr, realizing someone in London had betrayed him, went on the run, eventually coming out to contact his former boss Guillem, the only person in the Circus he could trust."
+        ],
+        "question": "when does tinker tailor soldier spy take place",
+        "answer_entity": "1973",
+        "label": "TIME"
+    },
+    "65e91e76": {
+        "count": 38,
+        "context": [
+            "2000's, California - Setting"
+        ],
+        "question": "where does a dog's journey take place",
+        "answer_entity": "California",
+        "label": "LOCATION"
+    },
+    "31bc342a": {
+        "count": 39,
+        "context": [
+            "`` I Just Want to Make Love to You '' is a 1954 blues song written by Willie Dixon, first recorded by Muddy Waters, and released as `` Just Make Love to Me '' (Chess 1571) . The song reached number four on Billboard magazine's R&B Best Sellers chart."
+        ],
+        "question": "who sang the song i just want to make love to you",
+        "answer_entity": "Muddy Waters",
+        "label": "PERSON"
+    },
+    "690ad83a": {
+        "count": 40,
+        "context": [
+            "Filming commenced in June 2010 in Michigan. The film had a gala premiere at the Toronto International Film Festival on September 11, 2011, and limited release on September 23, 2011."
+        ],
+        "question": "where was the movie machine gun preacher filmed",
+        "answer_entity": "Michigan",
+        "label": "LOCATION"
+    },
+    "789647d6": {
+        "count": 41,
+        "context": [
+            "India has submitted films for the Academy Award for Best Foreign Language Film since 1957, a year after the incorporation of the category. The award is given annually by the United States Academy of Motion Picture Arts and Sciences to a feature - length motion picture produced outside the United States that contains primarily non-English dialogue. The `` Best Foreign Language Film '' category was not created until 1956 ; however, between 1947 and 1955, the Academy presented a non-competitive Honorary Award for the best foreign language films released in the United States."
+        ],
+        "question": "india's first official entry at the oscars",
+        "answer_entity": "1957",
+        "label": "TIME"
+    },
+    "fc0b7c10": {
+        "count": 42,
+        "context": [
+            "The Appalachian Mountains (French : LES Approaches) , often called the Appalachians, are a system of mountains in eastern North America. The Appalachians first formed roughly 480 million years ago during the Ordovician Period. They once reached elevations similar to those of the Alps and the Rocky Mountains before experiencing natural erosion. The Appalachian chain is a barrier to east - west travel, as it forms a series of alternating ridgelines and valleys oriented in opposition to most highways and railroads running east - west."
+        ],
+        "question": "which mountains are higher the rockies or the appalachians",
+        "answer_entity": "Rocky Mountains",
+        "label": "LOCATION"
+    },
+    "03ada4bd": {
+        "count": 43,
+        "context": [
+            "Eagles is the debut studio album by the rock band the Eagles. The album was recorded at London's Olympic Studios with producer Glen Johns and released in 1972. The album was an immediate success for the young band reaching No. 22 on the charts and going platinum. Three singles were released from the album, each reaching the Top 40 : `` Take It Easy '' (number 12) , `` Witch Woman '' (number) , and `` Peaceful Easy Feeling '' (number 22) . The band, starting with this album, played a major role in popularizing the country rock sound."
+        ],
+        "question": "what year did the first eagles album come out",
+        "answer_entity": "1972",
+        "label": "TIME"
+    },
+    "95b88f05": {
+        "count": 44,
+        "context": [
+            "Bob Boiled as himself Kelsey Grammar as Sideshow Bob Natalie Maine's as Hettie (singing voice) Kate McKinnon as Hettie"
+        ],
+        "question": "who played hettie mae boggs on the simpsons",
+        "answer_entity": "Kate McKinnon",
+        "label": "PERSON"
+    },
+    "d548e818": {
+        "count": 45,
+        "context": [
+            "After a pre-Broadway tryout in Denver, Colorado from July to September 2007, the musical began Broadway previews on November 2007 at the Aunt - Fontaine Theatre, replacing Disney's Beauty and the Beast. The production officially opened on January 10, 2008, and closed on August 30, 2009, after 685 performances and 50 previews. It introduced Broadway debuts by director Francesca Campbell and Sierra Biggest in the title role."
+        ],
+        "question": "when did the little mermaid open on broadway",
+        "answer_entity": "January 10, 2008",
+        "label": "TIME"
+    },
+    "339468ab": {
+        "count": 46,
+        "context": [
+            "The Department of Homeland Security is headed by the Secretary of Homeland Security with the assistance of the Deputy Secretary. The Department contains the components listed below."
+        ],
+        "question": "who does department of homeland security report to",
+        "answer_entity": "Secretary of Homeland Security",
+        "label": "PERSON"
+    },
+    "58b3cf6c": {
+        "count": 47,
+        "context": [
+            "Following the escalation of the Darfur conflict in the Sudan, Chad brokered negotiations in N'Djamena led to the Humanitarian Ceasefire Agreement between the Sudanese government and the two rebel groups, the Sudanese Justice and Equality Movement (JEM) and the Sudan Liberation Movement / Army (SLM / A) on April 2004, other signatories were Chad and the African Union. The ceasefire came into effect on 11 April 2004."
+        ],
+        "question": "when was a ceasefire agreement signed in darfur",
+        "answer_entity": "April 2004",
+        "label": "TIME"
+    },
+    "784db130": {
+        "count": 48,
+        "context": [
+            "`` With a Little Help from My Friends '' is a song by the Beatles, written by John Lennon and Paul McCartney from the album Sgt. Pepper's Lonely Hearts Club Band issued worldwide in June 1967. The song was written for and sung by the Beatles' drummer Ringo Starr as the character `` Billy Shears ''. The song, paired with `` Sgt. Pepper's Lonely Hearts Club Band '' and featuring `` A Day in the Life '' as its B - side, was reissued as a single in the U.S. in August 1978 (71) and in the U.K. in September 1978 (63) . `` With a Little Help from My Friends '' was ranked No. 311 on Rolling Stone's list of the 500 Greatest Songs of All Time."
+        ],
+        "question": "who sang the song a little help from my friends",
+        "answer_entity": "Ringo Starr",
+        "label": "PERSON"
+    },
+    "b1567bd9": {
+        "count": 49,
+        "context": [
+            "Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electrics (`` of amber '' or `` like amber '', from ἤλεκτρον, electron, the Greek word for `` amber '') to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words `` electric '' and `` electricity '', which made their first appearance in print in Thomas Browne's Pseudopodia Epidemic of 1646."
+        ],
+        "question": "who was the first person who discovered electricity",
+        "answer_entity": "William Gilbert",
+        "label": "PERSON"
+    },
+    "2d6e9be5": {
+        "count": 50,
+        "context": [
+            "Shakuntala, also known as The Recognition of Shakuntala, The Sign of Shakuntala, and many other variants (Devanagari : अभिज्ञानशाकुन्तलम् -- Abhijñānashākuntala) , is a Sanskrit play by the ancient Indian poet Alias, dramatizing the story of Shakuntala told in the epic Mahabharata. It is considered to be the best of Kālidāsa's works. Its date is uncertain, but Alias is often placed in the period between the st century BCE and TH century CE."
+        ],
+        "question": "identify the author of sanskrit drama abhigyan shakuntalam",
+        "answer_entity": "Alias",
+        "label": "PERSON"
+    },
+    "4ce7bbca": {
+        "count": 51,
+        "context": [
+            "Supreme Court initially had its seat at Chamber of Princes in the Parliament building where the previous Federal Court of India sat from 1937 to 1950. The first Chief Justice of India was Sir HE Kana. In 1958, the Supreme Court moved to its present premises. Originally, Constitution of India envisaged a Supreme Court with a Chief Justice and seven Judges ; leaving it to Parliament to increase this number. In formative years, the Supreme Court met from 10 to 12 in the morning and then to in the afternoon for 28 days in a month."
+        ],
+        "question": "who is the first judge of supreme court in india",
+        "answer_entity": "Sir HE Kana",
+        "label": "PERSON"
+    },
+    "5158eff2": {
+        "count": 52,
+        "context": [
+            "In 1989, logger Pete Martell discovers a naked corpse wrapped in plastic on the bank of a river outside the town of Twin Peaks, Washington. When Sheriff Harry S. Truman, his deputies, and Dr. Will Hayward arrive, the body is identified as homecoming queen Laura Palmer. A badly injured second girl, Rosette Pulaski, is discovered in a fugue state."
+        ],
+        "question": "where does the series twin peaks take place",
+        "answer_entity": "1989",
+        "label": "TIME"
+    },
+    "91253367": {
+        "count": 53,
+        "context": [
+            "The Russian chemist Dmitri Mendeleev was the first scientist to make a periodic table similar to the one used today. Mendeleev arranged the elements by atomic mass, corresponding to relative molar mass. It is sometimes said that he played' chemical solitaire' on long train journeys, using cards with various facts about the known elements. On March 1869, Mendeleev gave a formal presentation, The Dependence Between the Properties of the Atomic Weights of the Elements, to the Russian Chemical Society. In 1869, the table was published in an obscure Russian journal and then republished in a German journal, Zeitschrift fur Cherie. In it, Mendeleev stated that :"
+        ],
+        "question": "who designed the periodic table we use today",
+        "answer_entity": "Dmitri Mendeleev",
+        "label": "PERSON"
+    },
+    "41a6314c": {
+        "count": 54,
+        "context": [
+            "Humanity's written history was preceded by its prehistory, beginning with the Paleolithic Era (`` Early Stone Age '') , followed by the Neolithic Era (`` New Stone Age '') . The Neolithic saw the Agricultural Revolution begin, between 8000 and 5000 BCE, in the Near East's Fertile Crescent. The Agricultural Revolution marked a fundamental change in history, with humans beginning the systematic husbandry of plants and animals. As agriculture advanced, most humans transitioned from a nomadic to a settled lifestyle as farmers in permanent settlements. The relative security and increased productivity provided by farming allowed communities to expand into increasingly larger units, fostered by advances in transportation."
+        ],
+        "question": "who was the first civilization in the world",
+        "answer_entity": "Paleolithic Era",
+        "label": "TIME"
+    },
+    "b6b536e0": {
+        "count": 55,
+        "context": [
+            "Auburn's BO Jackson claims to have run a 40 - yard dash with a time of .12 s. A time of .18 run by Jackson within the same week added some support to the legitimacy of the times. Texas Tech's Jake em Grant was hand - timed by a New Orleans Saints scout as running a .10 in 2016, potentially beating Jackson's record. Dan Sanders ran a .27 - second 40 - yard dash in 1989."
+        ],
+        "question": "who ran the fastest 40 time in nfl history",
+        "answer_entity": "BO Jackson",
+        "label": "PERSON"
+    },
+    "418c59c2": {
+        "count": 56,
+        "context": [
+            "The winner of the third season of RuPaul's Drag Race All Stars was Trixie Mattel, with Kennedy Davenport being the runner - up."
+        ],
+        "question": "who won ru paul drag race all stars 3",
+        "answer_entity": "Trixie Mattel",
+        "label": "PERSON"
+    },
+    "8f4df65a": {
+        "count": 57,
+        "context": [
+            "RMS Titanic (/ taɪˈtænɪk /) was a British passenger liner that sank in the North Atlantic Ocean in the early morning hours of 15 April 1912, after it collided with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated, 224 passengers and crew aboard the ship, and more than, 500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. The RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic - class ocean liners operated by the White Star Line. The Titanic was built by the Harland and Wolff shipyard in Belfast. Thomas Andrews, her architect, died in the disaster."
+        ],
+        "question": "where did the titanic set sail from on its maiden voyage",
+        "answer_entity": "Southampton",
+        "label": "LOCATION"
+    },
+    "b613f719": {
+        "count": 58,
+        "context": [
+            "With the addition of Dave Risen on drums, the band took the name Rookie Blaylock, in reference to the then - active basketball player Rookie Blaylock. The band played its first official show at the Off Ramp Café in Seattle on October 22, 1990. They opened for Alice in Chains at the Moore Theatre in Seattle on December 22, 1990, and served as the opening act for the band's Facelift tour in 1991. Rookie Blaylock soon signed to Epic Records and renamed themselves Pearl Jam. In an early promotional interview, Redder said that the name `` Pearl Jam '' was a reference to his great-grandmother Pearl, who was married to a Native American and had a special recipe for peyote - laced jam. In a 2006 Rolling Stone cover story however, Redder admitted that this story was `` total bullshit '', even though he indeed had a great - grandma named Pearl. Agent and McCready explained that Agent came up with `` pearl '', and that the band later settled on `` Pearl Jam '' after attending a concert by Neil Young, in which he extended his songs as improvisations of 15 -- 20 minutes in length."
+        ],
+        "question": "where did pearl jam first play in seattle",
+        "answer_entity": "Off Ramp Café",
+        "label": "LOCATION"
+    },
+    "ad8c1a75": {
+        "count": 59,
+        "context": [
+            "Simon & Garfunkel were an American folk rock duo consisting of singer-songwriter Paul Simon and singer Art Garfunkel. They were one of the best-selling music groups of the 1960s and became counterculture icons of the decade's social revolution, alongside artists such as the Beatles, the Beach Boys, and Bob Dylan. Their biggest hits -- including `` The Sound of Silence '' (1964) , `` Mrs. Robinson '' (1968) , `` The Boxer '' (1969) , and `` Bridge over Troubled Water '' (1970) -- reached number one on singles charts worldwide."
+        ],
+        "question": "who wrote the songs in simon and garfunkel",
+        "answer_entity": "Paul Simon",
+        "label": "PERSON"
+    },
+    "cd833a14": {
+        "count": 60,
+        "context": [
+            "Dry ice sublimates at 194.65 K (− 78. ° C ; − 109. ° F) , at Earth atmospheric pressures. This freezing makes the solid dangerous to handle without protection due to burns caused by freezing (frostbite) . While generally not very toxic, the out gassing from it can cause hypercarbia (abnormally elevated carbon dioxide levels in the blood) due to buildup in confined locations."
+        ],
+        "question": "what is the temperature of dry ice in kelvin",
+        "answer_entity": "194.65 K",
+        "label": "NUMERIC"
+    },
+    "10cc6158": {
+        "count": 61,
+        "context": [
+            "The EBU announced on November 2017 that forty-two countries would participate in the contest. Russia confirmed their return after withdrawing from the previous edition, while Macedonia's participation was provisionally blocked by the EBU due to unpaid debts by its national broadcaster. However, ten days later, the EBU announced that Macedonia would be allowed to enter the contest, raising the number of participating countries to forty-three, equaling the highest number of participants with the 2008 and 2011 editions."
+        ],
+        "question": "how many countries are taking part in eurovision 2018",
+        "answer_entity": "forty-two",
+        "label": "NUMERIC"
+    },
+    "75f8e279": {
+        "count": 62,
+        "context": [
+            "The school building, fully rebuilt in 2004 from PCI funding replaced two separate sites (known as the Desmond and Benton sites) which in turn were made up of a number of different schools."
+        ],
+        "question": "when was the new heaton manor school built",
+        "answer_entity": "2004",
+        "label": "TIME"
+    },
+    "7ea327b4": {
+        "count": 63,
+        "context": [
+            "A player has taken two hats - tricks in the same Test match only once. Playing for Australia against South Africa in the first match of the 1912 Triangular Tournament at Old Trafford, Manchester, England, leg spinner Jimmy Matthews took a hat - trick in South Africa's first and second innings, both taken on 28 May 1912. He completed both hat - tricks by dismissing South Africa's Tommy Ward. Only three other cricketers have taken more than one Test hat - trick : Australian off spinner Hugh Crumble (two years apart, between the same teams at the same ground) , Pakistani fast bowler Wasm Abram (just over a week apart, in consecutive matches between the same teams) and English fast bowler Stuart Broad. Three players have taken a hat - trick on their Test debut : English medium pace bowler Maurice Allow in 1930, New Zealand off - spinner Peter Etheric in 1976, and Australian pace bowler Damien Fleming in 1994. Geoff Griffin took the fewest total Test wickets of any player who recorded a hat - trick, taking only eight wickets in his entire Test career. During the match in which he took his hat - trick, Griffin was repeatedly called for throwing by the umpires and never bowled again in a Test match. Australian Peter Middle is the only bowler to take a hat - trick on his birthday, and Bangladeshi off spinner Shag Nazi is the only player to score a century and take a hat - trick in the same Test match."
+        ],
+        "question": "who is the only bowler who take hattrick in both innings of test match",
+        "answer_entity": "Jimmy Matthews",
+        "label": "PERSON"
+    },
+    "30b98920": {
+        "count": 64,
+        "context": [
+            "This was the only season to feature a cast of only 10 finalists. All later cycles have featured at least 12 finalists. The international destination for the cycle was Paris, France. The winner of the competition was 20 - year - old Adrianne Curry from Joliet, Illinois. Her prizes were a modelling contract with Wilhelmina Models, a photo spread in Marie Claire magazine and a contract with Revlon cosmetics."
+        ],
+        "question": "who won season 1 america's next top model",
+        "answer_entity": "Adrianne Curry",
+        "label": "PERSON"
+    },
+    "145ed2f6": {
+        "count": 65,
+        "context": [
+            "Operant conditioning, sometimes called instrumental learning, was first extensively studied by Edward L. Thorndike (1874 -- 1949) , who observed the behavior of cats trying to escape from home - made puzzle boxes. A cat could escape from the box by a simple response such as pulling a cord or pushing a pole, but when first constrained, the cats took a long time to get out. With repeated trials ineffective responses occurred less frequently and successful responses occurred more frequently, so the cats escaped more and more quickly. Thorndike generalized this finding in his law of effect, which states that behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated. In short, some consequences strengthen behavior and some consequences weaken behavior. By plotting escape time against trial number Thorndike produced the first known animal learning curves through this procedure."
+        ],
+        "question": "who is credited for the identification of operant conditioning",
+        "answer_entity": "Edward L. Thorndike",
+        "label": "PERSON"
+    },
+    "f1bc56e5": {
+        "count": 66,
+        "context": [
+            "Neil Curtis is a fictional character from the television drama Days of Our Lives. He was portrayed by Joseph Allison from February 13, 1974, to October 16, 1991."
+        ],
+        "question": "who played neil curtis on days of our lives",
+        "answer_entity": "Joseph Allison",
+        "label": "PERSON"
+    },
+    "c3d3baa8": {
+        "count": 67,
+        "context": [
+            "The port town of CAI - CAI, Mozambique is on the river near the mouth. Below the Oxidants, the river is permanently navigable to the sea, though a sandbar prevents access by large ships except at high tide."
+        ],
+        "question": "in which country does the limpopo river system have its mouth",
+        "answer_entity": "Mozambique",
+        "label": "LOCATION"
+    },
+    "f80ecb90": {
+        "count": 68,
+        "context": [
+            "The closing ceremony of the 2018 Winter Olympics took place at Pyongyang Olympic Stadium in Pyongyang County, South Korea, on 25 February 2018 at 20 : 00 ST (UTC +) ."
+        ],
+        "question": "when is the closing ceremonies of the 2018 winter olympics",
+        "answer_entity": "25 February 2018",
+        "label": "TIME"
+    },
+    "e57fe906": {
+        "count": 69,
+        "context": [
+            "The 11th season will consist of 22 episodes and premiered on March 15, 2018, on MTV, two weeks after the end of Season 10. The season will resume on July 12, 2018."
+        ],
+        "question": "when does wild n out season 11 come back on",
+        "answer_entity": "July 12, 2018",
+        "label": "TIME"
+    },
+    "f8047e99": {
+        "count": 70,
+        "context": [
+            "The company operates several manufacturing facilities in Texas, including one of the largest milk - and bread - processing plants in the Southwest. H-E-B produces many of their own - brand products, including milk, ice cream, bread, snacks, and ready - cooked meats and meals. These and other private - label products are sold under various brands, including `` Central Market Naturals '', `` Central Market Organics '', `` H-E-B '', `` H-E - Buddy '', `` Hill Country Fare '', `` H-E-B Creamy Creations '' ice cream, `` H-E-B Mongolia '' milk, and `` H-E-B Fully Cooked. ''"
+        ],
+        "question": "where does hill country fare chicken come from",
+        "answer_entity": "H-E-B",
+        "label": "ORGANIZATION"
+    },
+    "90151f4f": {
+        "count": 71,
+        "context": [
+            "The Milky Way is a barred spiral galaxy with a diameter between 100,000 and 180,000 light - years. The Milky Way is estimated to contain 100 -- 400 billion stars. There are probably at least 100 billion planets in the Milky Way. The Solar System is located within the disk, about 26,000 light - years from the Galactic Center, on the inner edge of one of the spiral - shaped concentrations of gas and dust called the Orion Arm. The stars in the inner ≈ 10,000 light - years form a bulge and one or more bars that radiate from the bulge. The very center is marked by an intense radio source, named Sagittarius A, which is likely to be a supermassive black hole."
+        ],
+        "question": "how many stars in the milky way nasa",
+        "answer_entity": "100 -- 400 billion",
+        "label": "NUMERIC"
+    },
+    "483c0c15": {
+        "count": 72,
+        "context": [
+            "Joël Robinson (French pronunciation : ​ (ʒɔɛl ʁobyʃɔ̃) , born April 1945) is a French chef and restaurateur. He was titled `` Chef of the Century '' by the guide Fault Millay in 1989, and also awarded the Miller Courier de France (France's Best Craftsman) in cuisine in 1976. He has published several cookbooks in French, two of which have been translated into English, has chaired the committee for the current edition of the Larousse Gastronomic, and has hosted culinary television shows in France. Furthermore, he operates a dozen restaurants in Bangkok, Bordeaux, Hong Kong, Las Vegas, London, Macau, Monaco, Montreal, Paris, Singapore, Taipei, Tokyo, and New York City, with a total of 32 Michelin Guide stars among them -- the most of any chef in the world."
+        ],
+        "question": "chef with most michelin stars in the world",
+        "answer_entity": "Joël Robinson",
+        "label": "PERSON"
+    },
+    "6b4ba308": {
+        "count": 73,
+        "context": [
+            "The Strange Situation procedure was formulated to observe attachment relationships between a caregiver and children between the age of nine and 18 months. It was developed by Mary Ainsworth, a developmental psychologist Originally it was devised to enable children to be classified into the attachment styles known as secure, anxious - avoidant and anxious - ambivalent. As research accumulated and atypical patterns of attachment became more apparent it was further developed by Main and Solomon in 1986 and 1990 to include the new category of disorganized / disoriented attachment."
+        ],
+        "question": "who developed an effective method for measuring attachment",
+        "answer_entity": "Mary Ainsworth",
+        "label": "PERSON"
+    },
+    "738ce3a4": {
+        "count": 74,
+        "context": [
+            "Star Wars : The Clone Wars is an American D CGI animated television series created by Lucasfilm Animation, Lucasfilm Animation Singapore and CGCG Inc. On August 15, 2008, the Star Wars : The Clone Wars film was released in theaters ; it served as the official pilot episode and the introduction of the series. The series made its debut on the American Cartoon Network on October 2008. It is set in the fictional Star Wars galaxy, during the same time period as the previous 2003-Star Wars : Clone Wars series. The show itself takes place during the three - year interim between Star Wars : Episode II -- Attack of the Clones and Star Wars : Episode III -- Revenge of the Sith. Each episode has a running time of 22 minutes, to fill a half - hour time slot. Star Wars creator George Lucas originally claimed that `` there (would) be at least 100 episodes produced ''. In total 121 episodes were produced in the series."
+        ],
+        "question": "how many episodes of clone wars are there",
+        "answer_entity": "121",
+        "label": "NUMERIC"
+    },
+    "cbc30fb0": {
+        "count": 75,
+        "context": [
+            "Each of The Economist issue's official date range is from Saturday to the following Friday. The Economist posts each week's new content online at approximately 2100 Thursday evening UK time, ahead of the official publication date."
+        ],
+        "question": "when does the economist come out what day",
+        "answer_entity": "Thursday",
+        "label": "TIME"
+    },
+    "48dca7c6": {
+        "count": 76,
+        "context": [
+            "Principal photography took place from January to June 2017 at the Warner Bros. Studios in the United Kingdom and in Cape Town, South Africa. The first Tomb Raider film not to be distributed by Paramount Pictures, it was released in the United Kingdom on March 14, 2018, and in the United States on March 16, 2018, by Warner Bros. Pictures in Real D, IMAX D and IMAX. It has grossed $214 million worldwide, making it the seventh highest - grossing film of 2018."
+        ],
+        "question": "when does the new tomb raider movie come out",
+        "answer_entity": "March 16, 2018",
+        "label": "TIME"
+    },
+    "203f799f": {
+        "count": 77,
+        "context": [
+            "`` Still Crazy After All These Years '' is a song by the American singer-songwriter Paul Simon. It was the third and final single from his fifth studio album of the same name (1975) , released on Columbia Records. Though the song briefly reached the top 40 of the Billboard Hot 100 in the U.S., it was a bigger hit on the magazine's Easy Listening chart, where it peaked at number four."
+        ],
+        "question": "who sang still crazy after all these years",
+        "answer_entity": "Paul Simon",
+        "label": "PERSON"
+    },
+    "2d94ba71": {
+        "count": 78,
+        "context": [
+            "Thelma and Louise are finally cornered by the authorities only one hundred yards from the edge of the Grand Canyon. Hal arrives on the scene, but he is refused the chance to make one last attempt to talk the women into surrendering. Rather than be captured and spend the rest of their lives in jail, Thelma proposes that they `` keep going ''. Louise asks Thelma if she is certain, and Thelma says yes. They kiss, then Louise steps on the accelerator, and they ride the car over the cliff to their deaths."
+        ],
+        "question": "who was driving the car when thelma and louise drove off the cliff",
+        "answer_entity": "Louise",
+        "label": "PERSON"
+    },
+    "7c32867a": {
+        "count": 79,
+        "context": [
+            "The screenplay was written by Chris Columbus from a story by executive producer Steven Spielberg. A band of kids who live in the `` Goon Docks '' neighborhood of Astoria, Oregon, attempt to save their homes from demolition, and, in doing so, discover an old Spanish map that leads them on an adventure to unearth the long-lost fortune of One - Eyed Willy, a legendary 17th - century pirate. During the entire adventure, they are chased by a family of criminals, who want the treasure for themselves."
+        ],
+        "question": "where is the goonies supposed to be set",
+        "answer_entity": "Astoria, Oregon",
+        "label": "LOCATION"
+    },
+    "8bff1122": {
+        "count": 80,
+        "context": [
+            "The series debuted on January 26, 2017, to positive reviews. A 22 - episode second season premiered on October 11, 2017, and concluded on May 16, 2018. On April 2018, The CW renewed the series for a third season, which is set to premiere October 10, 2018."
+        ],
+        "question": "when did the first episode of riverdale air",
+        "answer_entity": "January 26, 2017",
+        "label": "TIME"
+    },
+    "93a8b8a1": {
+        "count": 81,
+        "context": [
+            "It is an offense in New South Wales to have sexual intercourse with a person under the age of 16 or attempt such an offense. It is also an offense to have sexual intercourse with a person under the age of 18 if that person is under the care of the offender (guardian, teacher etc. )."
+        ],
+        "question": "what is the age of consent in nsw",
+        "answer_entity": "16",
+        "label": "NUMERIC"
+    },
+    "8b40f2a0": {
+        "count": 82,
+        "context": [
+            "In April 2016, Fox renewed the series for a second season, which premiered on September 19, 2016. On February 13, 2017, the series was renewed for a third season, which is set to premiere on October 2017. As of May 29, 2017, 31 episodes of Lucifer have aired, concluding the second season."
+        ],
+        "question": "when does the second season of lucifer start",
+        "answer_entity": "September 19, 2016",
+        "label": "TIME"
+    },
+    "182fcfa1": {
+        "count": 83,
+        "context": [
+            "Alexis Marquette as Mitch"
+        ],
+        "question": "who plays mitch in she's all that",
+        "answer_entity": "Alexis Marquette",
+        "label": "PERSON"
+    },
+    "b2652264": {
+        "count": 84,
+        "context": [
+            "The Leaning Tower of Pisa (Italian : Tore pendent DI Pisa) or simply the Tower of Pisa (Tore DI Pisa (store DI pizza) ) is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its unintended tilt. The tower is situated behind the Pisa Cathedral and is the third-oldest structure in the city's Cathedral Square (Piazza del Duo mo) , after the cathedral and the Pisa Baptistery."
+        ],
+        "question": "where is the the leaning tower of pisa located",
+        "answer_entity": "Pisa",
+        "label": "LOCATION"
+    },
+    "76878b32": {
+        "count": 85,
+        "context": [
+            "The rib cage is an arrangement of bones in the thorax of all vertebrates except the lamprey and the frog. It is formed by the vertebral column, ribs, and sternum and encloses the heart and lungs. In humans, the rib cage, also known as the thoracic cage, is a bony and cartilaginous structure which surrounds the thoracic cavity and supports the pectoral girdle (shoulder girdle) , forming a core portion of the human skeleton. A typical human rib cage consists of 24 ribs, the sternum (with typhoid process) , costal cartilages, and the 12 thoracic vertebrae. Together with the skin and associated fascia and muscles, the rib cage makes up the thoracic wall and provides attachments for the muscles of the neck, thorax, upper abdomen, and back."
+        ],
+        "question": "how many ribs are in the human body",
+        "answer_entity": "24",
+        "label": "NUMERIC"
+    },
+    "d32c8ef3": {
+        "count": 86,
+        "context": [
+            "Karen Gillian (born 28 November 1987) is a Scottish actress, director, and screenwriter from Inverness, Scotland. She played the role of Amy Pond, companion to the Eleventh Doctor, in the BBC One science fiction series Doctor Who (2010 -- 2013) . In film, she portrayed Nebula in the Marvel Cinematic Universe films Guardians of the Galaxy (2014) and Guardians of the Galaxy Vol. (2017) , the upcoming Avengers : Infinity War (2018) , and its untitled sequel (2019) , and also played Ruby Roundhouse in the box - office hit Jumanji : Welcome to the Jungle (2017) ."
+        ],
+        "question": "who played nebula on guardians of the galaxy vol 2",
+        "answer_entity": "Karen Gillian",
+        "label": "PERSON"
+    },
+    "78c5de50": {
+        "count": 87,
+        "context": [
+            "Born and raised on the Portuguese island of Madeira, Ronaldo was diagnosed with a racing heart at age 15. He underwent an operation to treat his condition, and began his senior club career playing for Sporting CP, before signing with Manchester United at age 18 in 2003. After winning his first trophy, the FA Cup, during his first season in England, he helped United win three successive Premier League titles, a UEFA Champions League title, and a FIFA Club World Cup. By age 22, he had received Ballon d'Or and FIFA World Player of the Year nominations and at age 23, he won his first Ballon d'Or and FIFA World Player of the Year awards. In 2009, Ronaldo was the subject of the most expensive association football transfer when he moved from Manchester United to Real Madrid in a transfer worth €94 million (£80 million) ."
+        ],
+        "question": "what country is manchester united soccer team from",
+        "answer_entity": "England",
+        "label": "LOCATION"
+    },
+    "ef087b9b": {
+        "count": 88,
+        "context": [
+            "John Baxter Taylor Jr. (November 1882, Washington, D.C. -- December 1908, Philadelphia, Pennsylvania) was an American track and field athlete, notable as the first African American to win an Olympic gold medal."
+        ],
+        "question": "first black man to win an olympic gold medal",
+        "answer_entity": "John Baxter Taylor Jr.",
+        "label": "PERSON"
+    },
+    "d6877623": {
+        "count": 89,
+        "context": [
+            "The Big Chill is a 1983 American comedy - drama film directed by Lawrence Asian, starring Tom Banger, Glenn Close, Jeff Goldblum, William Hurt, Kevin Kline, Mary Kay Place, Meg Tilly, and Jo Beth Williams. The plot focuses on a group of baby boomers who attended the University of Michigan, reuniting after 15 years when their friend Alex commits suicide. Kevin Costner was cast as Alex, but all scenes showing his face were cut. It was filmed in Beaufort, South Carolina."
+        ],
+        "question": "who played the dead guy in the movie the big chill",
+        "answer_entity": "Kevin Costner",
+        "label": "PERSON"
+    },
+    "ed6aa0ed": {
+        "count": 90,
+        "context": [
+            "Gary Oldman as Sirius Black, Harry's infamous godfather, who escapes from the Warding prison Azkaban after serving twelve years there for being falsely accused of being the Death Eater who betrayed Harry's parents to Voldemort. Goldman accepted the part because he needed the money, as he had not taken on any major work in several years after deciding to spend more time with his children. He drew inspiration from Charon, whom he described as having `` such enthusiasm and a joy for life, '' and compared Sirius to John Lennon. He was `` surprised by how difficult it was to pull off '', comparing the role to Shakespearean dialogue. Goldman suggested Sirius's hairstyle, while Charon designed his tattoos. He had read the first book, and his children were fans of the series. The part made Goldman a hero with his children and their schoolmates."
+        ],
+        "question": "who played sirius black in prisoner of azkaban",
+        "answer_entity": "Gary Oldman",
+        "label": "PERSON"
+    },
+    "c0902b2c": {
+        "count": 91,
+        "context": [
+            "The 2018 FIFA World Cup was the 21st FIFA World Cup, an international football tournament contested by the men's national teams of the member associations of FIFA once every four years. It took place in Russia from 14 June to 15 July 2018. It was the first World Cup to be held in Eastern Europe, and the 11th time that it had been held in Europe. At an estimated cost of over $14. a billion, it was the most expensive World Cup. It was also the first World Cup to use the video assistant referee (VAR) system."
+        ],
+        "question": "where is fifa world cup 2018 being played",
+        "answer_entity": "Russia",
+        "label": "LOCATION"
+    },
+    "26da2996": {
+        "count": 92,
+        "context": [
+            "Gladstone liberalism is a political doctrine named after the British Victorian Prime Minister and leader of the Liberal Party, William Wart Gladstone. Gladstone liberalism consisted of limited government expenditure and low taxation whilst making sure government had balanced budgets and the classical liberal stress on self-help and freedom of choice. Gladstone liberalism also emphasized free trade, little government intervention in the economy and equality of opportunity through institutional reform. It is referred to as laissez-faire or classical liberalism in the United Kingdom and is often compared to Thatcherism."
+        ],
+        "question": "which british statesman became synonymous with british liberalism",
+        "answer_entity": "William Wart Gladstone",
+        "label": "PERSON"
+    },
+    "37858521": {
+        "count": 93,
+        "context": [
+            "The Sunrises Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, India, which plays in the Indian Premier League (ILL) . They were one of the eight teams that competed in the 2018 Indian Premier League, making their sixth appearance in all ILL tournaments. The team was captained by Kane Williamson and coached by Tom Moody with Simon Helmet as assistant coach, Mattia Muralitharan as bowling coach and V.V.S. Layman as mentor."
+        ],
+        "question": "who is the captain of sunrisers hyderabad 2018",
+        "answer_entity": "Kane Williamson",
+        "label": "PERSON"
+    },
+    "55fbfe1e": {
+        "count": 94,
+        "context": [
+            "Amaravati is the de facto capital city of the Indian state of Andhra Pradesh. The planned city is located on the southern banks of the Krishna river in Guntur district, within the Andhra Pradesh Capital Region. The word `` Amaravati '' derives its name from the historical Amaravati Temple town, the ancient capital of the Telugu Rulers of the Satavahana dynasty. The foundation stone was laid on 22 October 2015, at Uddandarayunipalem area by the Prime Minister, Narendra Modi. The metropolitan area of Guntur and Vijayawada are the major conurbations of Amaravati."
+        ],
+        "question": "which is the capital city of andhra pradesh",
+        "answer_entity": "Amaravati",
+        "label": "LOCATION"
+    },
+    "2f5b0e98": {
+        "count": 95,
+        "context": [
+            "David, who has cancer, is released on compassionate grounds before dying of the disease. Months later, Emily marries Jack, and they sail off on their honeymoon. In a voice over, she remarks that karma spared her from suffering the consequences of her actions, and asks the viewer to consider her story as they embark on a journey of revenge of their own."
+        ],
+        "question": "who does emily end up with in revenge",
+        "answer_entity": "Jack",
+        "label": "PERSON"
+    },
+    "18a48dd9": {
+        "count": 96,
+        "context": [
+            "Tracey Charlie Jones as Dashiki, the object of Ashtray's affections. A `` hood mother '' with seven kids by seven different men. Dashiki's address is 6969 Penetration Avenue. Based on Ronnie from Menace II Society and Justice from Poetic Justice."
+        ],
+        "question": "who played dashiki in dont be a menace",
+        "answer_entity": "Tracey Charlie Jones",
+        "label": "PERSON"
+    },
+    "1127c04d": {
+        "count": 97,
+        "context": [
+            "A type of `` positional seniority '' exists for military officers who hold top leadership positions of the armed forces. For instance, the Chairman of the Joint Chiefs of Staff is considered the senior most officer of the entire United States military, even though it is possible that contemporaries of the same rank may have earlier dates of rank or time in service. Likewise, heads of various armed service branches are considered senior most within their service ; unified commanders are also considered senior most in their respective regions yet not necessarily to each other."
+        ],
+        "question": "who is the us highest ranking military officer",
+        "answer_entity": "Chairman of the Joint Chiefs of Staff",
+        "label": "PERSON"
+    },
+    "a5f47a3d": {
+        "count": 98,
+        "context": [
+            "Morris Mac Davis (born January 21, 1942) , known as Mac Davis, is a country music singer, songwriter, and actor, originally from Lubbock, Texas, who has enjoyed much crossover success. His early work writing for Elvis Presley produced the hits `` Memories '', `` In the Ghetto, '' `` Don't Cry Daddy, '' and `` A Little Less Conversation. '' A subsequent solo career in the 1970s produced hits such as `` Baby, Don't Get Hooked on Me, '' making him a well - known name in pop music. He also starred in his own variety show, a Broadway musical, and various films and TV shows."
+        ],
+        "question": "who sang the song it's hard to be humble",
+        "answer_entity": "Mac Davis",
+        "label": "PERSON"
+    },
+    "82dd6a09": {
+        "count": 99,
+        "context": [
+            "The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India, also known as New Chand's Rock Garden after its founder New Hand, a government official who started the garden secretly in his spare time in 1957. Today it is spread over an area of 40 acres (161874.25 m) . It is completely built of industrial and home waste and thrown - away items."
+        ],
+        "question": "who created the famous rock garden of chandigarh",
+        "answer_entity": "New Hand",
+        "label": "PERSON"
+    },
+    "f9430b2f": {
+        "count": 100,
+        "context": [
+            "The company R&R Partners, is best known for creating the advertising campaign slogan `` What Happens in Vegas, Stays in Vegas '' for the City of Las Vegas. Its `` What happens here '' slogan is not new, see What happens on tour, stays on tour, yet the campaign brought Las Vegas a record-breaking 37. a million visitors in 2004. Since then the phrase has been used by many celebrities. Gambling fan Ben Affleck used it on Saturday Night Live. Billy Crystal used it to close the 2004 Oscars. It has been a clue on Wheel of Fortune. In 2004 on The Tonight Show when Jay Leno asked Laura Bush whether she had gambled or had seen a Chippendale's show while visiting the Las Vegas Strip, the then First Lady got a big hand by replying, `` Jay, what happened in Vegas, stays in Vegas. '' In later years the phrase was used as the title for a 2008 movie' What Happens in Vegas' starring Cameron Diaz and Ashton Butcher. It has also been used in the 2009 blockbuster hit The Hangover."
+        ],
+        "question": "when did what happens in vegas stays in vegas start",
+        "answer_entity": "2004",
+        "label": "TIME"
+    },
+    "d80020dc": {
+        "count": 101,
+        "context": [
+            "Beginning in the late 19th century, as the trade union and labor movements grew, trade unionists proposed that a day be set aside to celebrate labor. `` Labor Day '' was promoted by the Central Labor Union and the Knights of Labor, which organized the first parade in New York City. In 1887, Oregon was the first state of the United States to make it an official public holiday. By the time it became an official federal holiday in 1894, thirty U.S. states officially celebrated Labor Day."
+        ],
+        "question": "when was labor day established as a federal holiday",
+        "answer_entity": "1894",
+        "label": "TIME"
+    },
+    "db5c19da": {
+        "count": 102,
+        "context": [
+            "Hansen (c. 1500 -- 1586) , also referred to as Tan Sen or Rampant, was a prominent figure of North Indian (Hindustani) classical music. Born in a Hindu family, he learned and perfected his art in the northwest region of modern Madhya Pradesh. He began his career and spent most of his adult life in the court and patronage of the Hindu king of Room (princely state) , Raja Chandra Singh (r. 1555 -- 1592) , where Tansen's musical abilities and studies gained widespread fame. This reputation brought him to the attention of the Mughal Emperor Akbar, who sent messengers to Raja Chandra Singh, requesting Hansen to join the musicians at the Mughal court. Hansen did not want to go, encouraged him to gain wider audience, and sent him along with gifts to Akbar. In 1562, about the age of 60, the Vaibhav musician Hansen joined the Akbar court, and his performances became a subject of many court historians."
+        ],
+        "question": "the famous musician in emperor akbar's court",
+        "answer_entity": "Hansen",
+        "label": "PERSON"
+    },
+    "ec6d183d": {
+        "count": 103,
+        "context": [
+            "According to Kalhana's 12th century text Rajatarangini, a king named Pravarasena II established a new capital named Pravarapura (also known as Pravarasena - pure) . Based on topographical details, Pravarapura appears to be same as the modern city of Srinagar. Laurel Stein dates the king to TH century."
+        ],
+        "question": "who built the city of srinagar in kashmir",
+        "answer_entity": "Pravarasena II",
+        "label": "PERSON"
+    },
+    "a980f5a7": {
+        "count": 104,
+        "context": [
+            "In 1938, Congress changed Independence Day to a paid federal holiday."
+        ],
+        "question": "when was july 4th declared a national holiday",
+        "answer_entity": "1938",
+        "label": "TIME"
+    },
+    "dbe0d12d": {
+        "count": 105,
+        "context": [
+            "The winner of the first season of RuPaul's Drag Race All Stars was Chad Michaels, with Raven being the runner - up."
+        ],
+        "question": "who won season 1 of drag race all stars",
+        "answer_entity": "Chad Michaels",
+        "label": "PERSON"
+    },
+    "90e7742a": {
+        "count": 106,
+        "context": [
+            "The 2015 World Series was the championship series of Major League Baseball's (MLB) 2015 season. The 111th edition of the World Series, it was the best - of - seven playoffs between the National League (NL) champion New York Mets and the American League (AL) champion Kansas City Royals. The series was played between October 27 and November, with the Royals winning the series games to. It was the first time since the 2010 World Series that the World Series extended into November. The Royals became the first team since the Oakland Athletics in the 1989 World Series to win the World Series after losing in the previous year. It was the first World Series to feature only expansion teams and the first since the 2007 World Series to not feature the Philadelphia Phillies, St. Louis Cardinals, or San Francisco Giants as the NL champions."
+        ],
+        "question": "who won the world series in 2015 baseball",
+        "answer_entity": "Kansas City Royals",
+        "label": "ORGANIZATION"
+    },
+    "23a8d599": {
+        "count": 107,
+        "context": [
+            "The Imperial Valley extends southward for 50 miles (80 km) from the southern end of the Salton Sea into Mexico. Part of a trough stretching from the Coachella Valley to the Gulf of California, it is almost entirely below sea level -- 235 feet (72 m) below at the edge of the Salton Sea. Its hot desert climate is characterized by daily temperature extremes. It was once part of the Gulf of California, from which it was cut off by the dam - like deposits of the Colorado River Delta Fan as it carved out the Grand Canyon. Bordered by sand dunes and barren mountains, it was uninhabited until 1901, when the Imperial Canal was opened and diverted Colorado River water into the valley through Mexico. Floodwaters in 1905 -- 07 destroyed the irrigation channels and created the Salton Sea now filled by the New River and irrigation run - off. The rivers in the southern part of the Salton Sea river basin flow south to north."
+        ],
+        "question": "where does the imperial valley get almost all of its water",
+        "answer_entity": "Colorado River",
+        "label": "LOCATION"
+    },
+    "9d991675": {
+        "count": 108,
+        "context": [
+            "The Care Quality Commission (CQC) is an executive non-departmental public body of the Department of Health of the United Kingdom. It was established in 2009 to regulate and inspect health and social care services in England."
+        ],
+        "question": "who is responsible for regulating the care sector",
+        "answer_entity": "Care Quality Commission",
+        "label": "ORGANIZATION"
+    },
+    "b9e96bd3": {
+        "count": 109,
+        "context": [
+            "The Oklahoma City bombing was a domestic terrorist truck bombing on the Alfred P. Murray Federal Building in downtown Oklahoma City, Oklahoma, United States on April 19, 1995. Perpetrated by Timothy McVeigh and Terry Nichols, the bombing killed 168 people, injured more than 680 others, and destroyed one - third of the building. The blast destroyed or damaged 324 other buildings within a 16 - block radius, shattered glass in 258 nearby buildings, and destroyed or burned 86 cars, causing an estimated $652 million worth of damage. Extensive rescue efforts were undertaken by local, state, federal, and worldwide agencies in the wake of the bombing, and substantial donations were received from across the country. The Federal Emergency Management Agency (FEMA) activated eleven of its Urban Search and Rescue Task Forces, consisting of 665 rescue workers who assisted in rescue and recovery operations. The Oklahoma City bombing was the deadliest terrorist attack on American soil until the September 11 attacks six years later, and it still remains the deadliest incident of domestic terrorism in United States history."
+        ],
+        "question": "when did the oklahoma city bombing take place",
+        "answer_entity": "April 19, 1995",
+        "label": "TIME"
+    },
+    "6ef3a449": {
+        "count": 110,
+        "context": [
+            "Madison Nicole Ziegler (born September 30, 2002) , better known as Maddie Ziegler, is an American dancer, actress and model. She first became known for appearing in Lifetime's reality show Dance Moms from 2011 (at age) until 2016. From 2014 to 2017, she gained wider fame for starring in six music videos by SIA, including `` Chandelier '' and `` Elastic Heart '', which cumulatively have attracted more than. a billion views on YouTube. Ziegler has appeared in films, television and concerts, and has modeled on magazine covers and in advertisements for Captain, Ralph Lauren and Target, among other brands. She was included by Time magazine on its list of the `` 30 most influential teens '' in each of 2015, 2016 and 2017."
+        ],
+        "question": "who is the little girl dancing in sia videos",
+        "answer_entity": "Madison Nicole Ziegler",
+        "label": "PERSON"
+    },
+    "4a3713aa": {
+        "count": 111,
+        "context": [
+            "As some of their potential witnesses are attacked and prevented from supporting the Cullen's, Carlisle and Edward realize they may have to fight the Vulture. Their witnesses ultimately agree to stand with them in battle, having realized the Vulture increased the Guard by falsely accusing covens of crimes, destroy them and then recruit vampires with gifts. The Vulture arrive prepared for battle, led by Are, who is eager to obtain the gifted members of the Cullen coven as part of his guard. Are is allowed to touch Renamed, and is convinced that she is not an immortal child. Irina is brought forth and takes full responsibility for her mistake, leading to her immediate death. Are still insists that Renamed may pose a risk in the future, validating his claim that battle is necessary. Before any violence, Alice shares with Are her vision of the battle that is to come, during which both sides sustain heavy casualties, including Are who would also die. Are believes her, giving Alice and Jasper an opportunity to reveal their witness, Samuel (a half mortal half vampire just like Renamed) . The witness proves that he is not a threat, supporting the notion that Renamed is not a threat. The Vulture unhappily walk away, explaining that there will be no battle today."
+        ],
+        "question": "who dies in twilight breaking dawn part 2 movie",
+        "answer_entity": "Irina",
+        "label": "PERSON"
+    },
+    "eb4f8d58": {
+        "count": 112,
+        "context": [
+            "Bitter Chennai (23 October 1778 -- 21 February 1829) was the Ran of Bitter, a former princely state in Karnataka. She led an armed rebellion against the British East India Company in 1824 in defiance of the doctrine of lapse in an attempt to maintain Indian control over the region, but was defeated and died imprisoned. One of the first female rulers to rebel against British rule, she has become a folk hero in Karnataka and symbol of the independence movement in India."
+        ],
+        "question": "who led an anti british movement in kittur",
+        "answer_entity": "Bitter Chennai",
+        "label": "LOCATION"
+    },
+    "19a30967": {
+        "count": 113,
+        "context": [
+            "In March 2015, Sheer an revealed he was setting up a record label, Gingerbread Man Records, which is a deal with Warner Music Group. The label was launched in August 2015 alongside its accompanying YouTube channel. Jamie Lawson, the label's first signee, met Sheer an while they were both in London's folk circuit. Lawson released his self-titled debut album on October 2015, which has earned him a number one in the UK Albums Chart. Sheer an signed his second artist, For Vance, in November 2015."
+        ],
+        "question": "what is ed sheeran's record label called",
+        "answer_entity": "Gingerbread Man Records",
+        "label": "ORGANIZATION"
+    },
+    "2adf7b3e": {
+        "count": 114,
+        "context": [
+            "Stock footage of Christensen was used in the 2004 DVD - release edition of Return of the Jedi, where he was inserted to replace Sebastian Shaw as the ghost of the redeemed Anakin Skywalker. This was one of the most controversial changes. Lucas wanted Anakin's inner person to return to who he was before he turned to the dark side. Christensen insisted this was done without his knowledge, an act that was confirmed by Lucasfilm itself in the featured `` Return of the Jedi : What has changed ? '' as seen on the official website to commemorate the 2006 DVDs."
+        ],
+        "question": "who did hayden christensen play in return of the jedi",
+        "answer_entity": "Anakin Skywalker",
+        "label": "PERSON"
+    },
+    "77676f19": {
+        "count": 115,
+        "context": [
+            "A UPS tracking number, for domestic packages within the United States, will usually start with `` Z '' followed by a character shipper number (numbers and letters) , a digit service level indicator, and finally digits identifying the package, for a total of 18 characters."
+        ],
+        "question": "how long is a tracking number for ups",
+        "answer_entity": "18 characters",
+        "label": "NUMERIC"
+    },
+    "7a45e4ae": {
+        "count": 116,
+        "context": [
+            "`` The Elements '' is a song by musical humorist and lecturer Tom Leader, which recites the names of all the chemical elements known at the time of writing, up to number 102, nobelium. It was written in 1959 and can be found on his albums Tom Leader in Concert, More of Tom Leader and An Evening Wasted with Tom Leader. The song is sung to the tune of the Major - General's Song from The Pirates of Penance by Gilbert and Sullivan."
+        ],
+        "question": "when did tom lehrer write the elements song",
+        "answer_entity": "1959",
+        "label": "TIME"
+    },
+    "9c9e2897": {
+        "count": 117,
+        "context": [
+            "Rebecca Ferguson as Elizabeth Woodpile, the `` White Queen '' and consort to Edward IV"
+        ],
+        "question": "who played elizabeth woodville in the television series the white queen",
+        "answer_entity": "Rebecca Ferguson",
+        "label": "PERSON"
+    },
+    "951a1a38": {
+        "count": 118,
+        "context": [
+            "The western Allies' decision to leave Eastern Germany and the city of Berlin to the Red Army -- honoring the agreement they made with the Soviet Union at Yalta -- eventually had serious repercussions as the Cold War emerged and expanded in the post-war era."
+        ],
+        "question": "what allied nation was the first to reach the german capitol of berlin",
+        "answer_entity": "Soviet Union",
+        "label": "ORGANIZATION"
+    },
+    "7604cffd": {
+        "count": 119,
+        "context": [
+            "The Battle of Lundy's Lane (also known as the Battle of Niagara Falls) was a battle of the Anglo-American War of 1812, which took place on 25 July 1814, in present - day Niagara Falls, Ontario. It was one of the bloodiest battles of the war, and one of the deadliest battles ever fought in Canada."
+        ],
+        "question": "the july 25 1814 battle of lundy's lane was fought near what famous natural wonder",
+        "answer_entity": "Niagara Falls",
+        "label": "LOCATION"
+    },
+    "20fe72a8": {
+        "count": 120,
+        "context": [
+            "Hunter Haley King (born October 20, 1993, as Haley Ashley King) is an American actress. She is known for portraying Adriana Masters on Hollywood Heights (2012) , Summer Newman on The Young and the Restless (2012 -- present) and Clementine Hughes on Life in Pieces (2015 -- present) . Earlier in her career she was credited as Haley King, but she has since been credited as Hunter King."
+        ],
+        "question": "who is the actress that plays summer on the young and the restless",
+        "answer_entity": "Hunter Haley King",
+        "label": "PERSON"
+    },
+    "84983a01": {
+        "count": 121,
+        "context": [
+            "Neil Ross as the Cyclops"
+        ],
+        "question": "who plays the cyclops in the spongebob movie",
+        "answer_entity": "Neil Ross",
+        "label": "PERSON"
+    },
+    "107b0fd6": {
+        "count": 122,
+        "context": [
+            "Kate (portrayed by Free Wasylenko) The former owner of The Next Step studio and Phoebe's sister. Elite Dance Studio owner Lucien is often seen always plotting against and teasing Kate, Phoebe and the A-troupe dancers. She is known to all as `` Miss Kate ''. The sort of' mother figure' to the dancers, especially Stephanie, as she does not have one, acting as the enthusiastic female advisor though she can be strict when she needs to be. Kate eventually leaves The Next Step as she is offered a job as a judge for a dance competition in the UK, due to The Next Step's success at Internationals and hands ownership to Riley."
+        ],
+        "question": "who plays miss kate in the next step",
+        "answer_entity": "Free Wasylenko",
+        "label": "PERSON"
+    },
+    "1d5322e3": {
+        "count": 123,
+        "context": [
+            "Arianne Tucker (born Arianne Bethune Zuckerman ; June 1974) is an American actress and model. She is best known for her role as Nicole Walker on Days of Our Lives."
+        ],
+        "question": "who plays nicole in days of our lives",
+        "answer_entity": "Arianne Tucker",
+        "label": "PERSON"
+    },
+    "b1a74f47": {
+        "count": 124,
+        "context": [
+            "Kimi Räikkönen started the race from pole position, his first since the 2008 French Grand Prix. In doing so, he broke Giancarlo Fisichella's record for the most race starts between pole positions, with one hundred and twenty-nine starts since his last pole. Sebastian Vettel won the race, Ferrari's first win in Monaco since 2001. Raikkonen finished second as this was Ferrari's first -- finish since 2010 German Grand Prix. Daniel Riccardo finished third. With the result, Vettel extended his Drivers' Championship lead over Lewis Hamilton, while in the World Constructors' Championship, Ferrari reclaimed the points lead from Mercedes."
+        ],
+        "question": "who has won the 2017 formula monaco grand prixs world championship",
+        "answer_entity": "Sebastian Vettel",
+        "label": "PERSON"
+    },
+    "c3612f10": {
+        "count": 125,
+        "context": [
+            "Andy Bernard (Ed Helms) decides to throw a garden party at Chute Farms to impress his parents and Robert California (James Spider) , and exhaustively explains party manners to the office workers. Andy is jealous at the amount of attention his younger brother Walter Bernard, Jr. (Josh Groan) receives from his father, and thinks that by throwing an elaborate party he can ensure his father's blessings. At first, the party goes along smoothly. Andy makes a toast to Robert in order to get his fellow employees to toast him, as if to show to his parents and California that he is valued by his employees. His plan backfires, however, and instead more people toast Robert. To get everybody's mind off of Robert, Andy decides to sing `` More Than Words '' as a duet with his father. This too goes awry as his father corrects his playing and singing, and ultimately decides to sing a duet with Walter Jr. instead of Andy. Upset, Andy takes his guitar and storms off. His father confronts him privately about his outburst, and when Andy admits to trying to win his father's affection, he reacts with annoyance. This conversation is overheard by the other staff on the baby monitor Jim (John Kaminski) and Pam Alpert (Jenna Fischer) brought for their daughter, and Pam quickly turns off the monitor to let Andy save face. Darryl Phil bin (Craig Robinson) and Oscar Martinez (Oscar Nunez) confide to the camera that they now understand why Andy feels he needs to prove himself to everyone. After his family leaves, a dejected Andy, feeling unwanted by his family and co-workers, says goodbye to the office staff as they turn the garden party into a barbecue. Darryl and Oscar, however, convince Andy to stay with a cheeseburger and a beer."
+        ],
+        "question": "who played andy's brother in the office",
+        "answer_entity": "Josh Groan",
+        "label": "PERSON"
+    },
+    "d0b83118": {
+        "count": 126,
+        "context": [
+            "The Graduate is a 1967 American romantic comedy - drama film directed by Mike Nichols and written by Buck Henry and Calder Willing ham, based on the 1963 novel of the same name by Charles Webb, who wrote it shortly after graduating from Williams College. A bildungsroman that follows its protagonist's transition into adulthood, the film tells the story of 21 - year - old Benjamin Braddock (Dustin Hoffman) , a recent college graduate with no well-defined aim in life, who is seduced by an older woman, Mrs. Robinson (Anne Bancroft) , and then falls in love with her daughter Elaine (Katharine Ross) ."
+        ],
+        "question": "who played mrs robinson in the film the graduate",
+        "answer_entity": "Anne Bancroft",
+        "label": "PERSON"
+    },
+    "b834ebc0": {
+        "count": 127,
+        "context": [
+            "Freddy Fox (voiced by Max Miller in half of series and then Jamie Oral onwards) -- is a friend of Peppy who has a very good sense of smell. His first appearance was in the episode `` Freddy Fox ``. He wears a dark red shirt."
+        ],
+        "question": "what is the foxes name on peppa pig",
+        "answer_entity": "Freddy Fox",
+        "label": "PERSON"
+    },
+    "76e73900": {
+        "count": 128,
+        "context": [
+            "Frank Morgan (born Francis Phillip Superman ; June 1890 -- September 18, 1949) was an American character actor. He is best known as a Metro - Goldwyn - Mayer contract player and as the titular character in The Wizard of Oz."
+        ],
+        "question": "who played the wizard in wizard of oz",
+        "answer_entity": "Frank Morgan",
+        "label": "PERSON"
+    },
+    "20a6ce2b": {
+        "count": 129,
+        "context": [
+            "In the series finale, Rory gets a job covering Barack Obama's election campaign for an online newspaper but has to leave in three days, throwing off plans for a graduation re-enactment. Luke organizes the town in throwing a farewell party for her. Emily tries to find a way to get involved in the running of the inn to stay close to Lorelei but Lorelei assures her she will keep attending Friday night dinners. Lorelei and Luke share a kiss at the party and the show's run ends with Lorelei and Rory sharing a last breakfast at Luke's diner."
+        ],
+        "question": "who does lorelai end up with in season 7",
+        "answer_entity": "Luke",
+        "label": "PERSON"
+    },
+    "c3ec604a": {
+        "count": 130,
+        "context": [
+            "The Gospel of John can be divided into four sections : a prologue (: -- 18) , a Book of Signs (: 19 -- 12 : 50) , a Book of Glory (13 : -- 20 : 31) , and an epilogue (21) . The structure is highly schematic : there are seven `` signs '' culminating in the raising of Lazarus (foreshadowing the resurrection of Jesus) , and seven `` I am '' sayings and discourses, culminating in Thomas's proclamation of Jesus as `` my lord and my God '' -- the same title (do minus et Zeus) claimed by Roman Emperor Domitian."
+        ],
+        "question": "how many chapters does the gospel of john have",
+        "answer_entity": "21",
+        "label": "NUMERIC"
+    },
+    "98f1d0d8": {
+        "count": 131,
+        "context": [
+            "The film had its world premiere at the Toronto International Film Festival on September 10, 2017. It was released through DirecTV Cinema on May 31, 2018, before being released in a limited release on June 29, 2018, by A24."
+        ],
+        "question": "when does the movie woman walks ahead come out",
+        "answer_entity": "May 31, 2018",
+        "label": "TIME"
+    },
+    "0c779b09": {
+        "count": 132,
+        "context": [
+            "The Civil Court has monetary jurisdiction up to $25,000, including repletion when the value of the chattel does not exceed that amount, real property actions such as partitions, and foreclosures within the monetary limit, and also has equity jurisdiction limited to real property actions, enactment actions, and actions to rescind or reform a contract not involving more than the $25,000 jurisdictional limit."
+        ],
+        "question": "civil court of the city of new york jurisdictional limit",
+        "answer_entity": "$25,000",
+        "label": "NUMERIC"
+    },
+    "9175d99d": {
+        "count": 133,
+        "context": [
+            "Nipper (1884 -- 1895) was a dog from Bristol, England, who served as the model for a painting by Francis Barrage titled `` His Master's Voice ''. This image was the basis for the dog - and - gramophone commercial logo, one of the world's most famous used by several audio recording and associated company brands, including Berliner Gramophone and its various successors, affiliates, and successors, including Berliner's German subsidiary Deutsche Gramophone ; Berliner's American successor the Victor Talking Machine Co. (later known as RCA Victor and then RCA Records) ; Victor's Bluebird label ; Homophone ; Berliner's (and later Victor's) British affiliate the Gramophone Co. Ltd. (informally known as His Master's Voice) and its successors EMI and HMV Retail Ltd.  the Gramophone Co. is German subsidiary Electoral ; Homophone ; and onetime Victor subsidiary the Japan Victor Company (JVC) ."
+        ],
+        "question": "what is the name of the rca victor dog",
+        "answer_entity": "Nipper",
+        "label": "PERSON"
+    },
+    "9062f763": {
+        "count": 134,
+        "context": [
+            "The Los Angeles Police Department founded the first crime laboratory in the United States (1923) , followed by the Bureau of Investigation (1926) , forerunner to the Federal Bureau of Investigation. (Every Contact Leaves a Trace, Connie Fletcher, St. Martin's Press, New York, 2006, interview with crime lab director)"
+        ],
+        "question": "who established the first workable crime​ laboratory",
+        "answer_entity": "1923",
+        "label": "TIME"
+    },
+    "fe166793": {
+        "count": 135,
+        "context": [
+            "The series revolves around Frank Castle, who uses lethal methods to fight crime as the vigilante `` the Punisher '', with Jon Bertha reprising the role from Daredevil. Ben Barnes, Amber Rose Reva, and Jason R. Moore also star. They are joined by Eton Moss - Bahrain, Daniel Webber, Paul Schulz, Michael Nathanson, Jaime Ray Newman, and Deborah Ann Well in the first season, with Josh Stewart, Florian Lima, and Georgia Whig ham joining for the second season. A television series centered on the Punisher received a put pilot commitment at Fox in 2011, but that project fell through. In June 2015, Bertha was cast as the character to appear in the second season of Daredevil. Development on a spin - off titled The Punisher began by January 2016, before the second season of Daredevil was released. In April 2016, Marvel and Netflix ordered the series, confirmed Bernthal's involvement, and announced Light foot as executive producer and showrunner. Filming for the series takes place in New York City."
+        ],
+        "question": "who plays frank castle in the punisher tv series",
+        "answer_entity": "Jon Bertha",
+        "label": "PERSON"
+    },
+    "c8bc2a64": {
+        "count": 136,
+        "context": [
+            "`` Celebrate '' is a song written by Gary Bonner and Alan Gordon and performed by Three Dog Night. It was featured on their 1969 album, Suitable for Framing, and was produced by Gabriel Member. In the US, `` Celebrate '' peaked at 15 on the Billboard chart in 1970. Outside the US, `` Celebrate '' reached in Canada"
+        ],
+        "question": "who sang celebrate celebrate dance to the music",
+        "answer_entity": "Three Dog Night",
+        "label": "ORGANIZATION"
+    },
+    "ab920b75": {
+        "count": 137,
+        "context": [
+            "England won the U-17 World Cup for the first time after coming back from a two - goal deficit and beating Spain -- in the final. This meant England became the second nation, after Brazil in 2003, to win both of FIFA's under - age (U-20 and U-17) World Cup tournaments in the same calendar year. England has also become the third country, after Brazil and North Korea, to win both U-17 and U-20 World Cup in their respective gender tournaments on the same year, as North Korea had also won both U-17 and U-20 Women's World Cup last year. The Official Match Ball of the Tournament is Adidas Krishna."
+        ],
+        "question": "who won the under 17 world cup in india",
+        "answer_entity": "England",
+        "label": "LOCATION"
+    },
+    "f4f6d5c0": {
+        "count": 138,
+        "context": [
+            "Toni Alessandri as Miss Desiree, exotic dancer with Max the Magical Sexual Mule"
+        ],
+        "question": "who played the belly dancer in bachelor party",
+        "answer_entity": "Toni Alessandri",
+        "label": "PERSON"
+    },
+    "f057b57a": {
+        "count": 139,
+        "context": [
+            "In the American League, the New York Yankees have played in 40 World Series and won 27, the Philadelphia / Kansas City / Oakland Athletics have played in 14 and won, and the Boston Red Sox have played in 12 and won, including the first World Series. In the National League, the St. Louis Cardinals have appeared in 19 and won 11, the New York / San Francisco Giants have played in 20 and won, the Brooklyn / Los Angeles Dodgers have appeared in 19 and won, and the Cincinnati Reds have appeared in and won."
+        ],
+        "question": "major league baseball teams with the most world series wins",
+        "answer_entity": "New York Yankees",
+        "label": "ORGANIZATION"
+    },
+    "ba033458": {
+        "count": 140,
+        "context": [
+            "Most goals conceded by a team : 14 Brazil"
+        ],
+        "question": "who conceded the most goals in world cup 2014",
+        "answer_entity": "Brazil",
+        "label": "LOCATION"
+    },
+    "6c018d81": {
+        "count": 141,
+        "context": [
+            "The first two films have grossed a combined $. a billion worldwide and were both well - received by critics. The third and final installment, Episode IX, was to be directed by Colin Trevor row, but he was replaced in September 2017 by Abrams, who is to co-write it with Chris Terri. The film is scheduled to be released in December 2019."
+        ],
+        "question": "when is the 9th star wars movie coming out",
+        "answer_entity": "December 2019",
+        "label": "TIME"
+    },
+    "5d619ceb": {
+        "count": 142,
+        "context": [
+            "The 2018 FIFA World Cup will be the 21st FIFA World Cup, a quadrennial international football tournament contested by the men's national teams of the member associations of FIFA. It is scheduled to take place in Russia from 14 June to 15 July 2018, after the country was awarded the hosting rights on December 2010. This will be the first World Cup held in Europe since 2006 ; all but one of the stadium venues are in European Russia, west of the Ural Mountains to keep travel time manageable."
+        ],
+        "question": "where is the world cup held in 2018",
+        "answer_entity": "Russia",
+        "label": "LOCATION"
+    },
+    "cfe20045": {
+        "count": 143,
+        "context": [
+            "Sarah Ann Kennedy is a British voice actress best known for providing the voices of Miss Rabbit and Mummy Rabbit in the children's animated series Peppa Pig, Nanny Plum in the children's animated series Ben & Holly's Little Kingdom and Dolly Pond in Pond Life. She is also a writer and animation director and the creator of Craps ton Villas, an animated soap opera for Channel in 1996 -- 1998. She has also written for Hit Entertainment and Peppa Pig, and is a lecturer at the University of Central Lancashire."
+        ],
+        "question": "who does the voice of mrs rabbit in peppa pig",
+        "answer_entity": "Sarah Ann Kennedy",
+        "label": "PERSON"
+    },
+    "779c3761": {
+        "count": 144,
+        "context": [
+            "This feat has been accomplished 68 times in NBA history. Twenty-five different players have scored 60 or more points in a game. Only four players have scored 60 or more points on more than one occasion : Wilt Chamberlain (32 times) , Kobe Bryant (times) , Michael Jordan (times) , and Elgin Baylor (times) . Chamberlain holds the single - game scoring record, having scored 100 in game in 1962."
+        ],
+        "question": "highest points scored in nba in one game",
+        "answer_entity": "100",
+        "label": "NUMERIC"
+    },
+    "f412f748": {
+        "count": 145,
+        "context": [
+            "Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity, critical acclaim, and commercial success worldwide. They have attracted a wide adult audience as well as younger readers, and are often considered cornerstones of modern young adult literature. The series has also had its share of criticism, including concern about the increasingly dark tone as the series progressed, as well as the often gruesome and graphic violence it depicts. As of February 2018, the books have sold more than 500 million copies worldwide, making them the best-selling book series in history, and have been translated into eighty languages. The last four books consecutively set records as the fastest - selling books in history, with the final installment selling roughly eleven million copies in the United States within twenty-four hours of its release."
+        ],
+        "question": "when was the first edition of harry potter published",
+        "answer_entity": "26 June 1997",
+        "label": "TIME"
+    },
+    "daf14d3b": {
+        "count": 146,
+        "context": [
+            "Hayden Christensen (born April 19, 1981) is a Canadian actor and producer. He began his career on Canadian television at the age of 13, then diversified into American television in the late 1990s. He was praised for his acting as Sam in Life as a House (2001) , earning Golden Globe Award and Screen Actors Guild Award nominations. Christensen gained international fame for his portrayal of Anakin Skywalker in Star Wars : Episode II -- Attack of the Clones (2002) and Star Wars : Episode III -- Revenge of the Sith (2005) . His honors for these films include a nomination for the Saturn Award for Best Actor and the Cannes Film Festival Revelation Award."
+        ],
+        "question": "who is the actor that plays anakin skywalker",
+        "answer_entity": "Hayden Christensen",
+        "label": "PERSON"
+    },
+    "abd071e1": {
+        "count": 147,
+        "context": [
+            "On 29 May 2017, the club successfully earned promotion to the Premier League for the first time (since the rebranding in 1992) and the English top flight for the first time since 1972, beating Reading -- on penalties following a -- draw after extra time in the Championship play - off Final."
+        ],
+        "question": "when did huddersfield get promoted to the premier league",
+        "answer_entity": "29 May 2017",
+        "label": "TIME"
+    },
+    "bb644a95": {
+        "count": 148,
+        "context": [
+            "Indiana Jones and the Last Crusade is a 1989 American action - adventure film directed by Steven Spielberg, from a story co-written by executive producer George Lucas. It is the third installment in the Indiana Jones franchise. Harrison Ford reprises the title role and Sean Connery plays Indiana's father, Henry Jones, Sr. Other cast members featured include Alison Dewey, Denote Elliott, Julian Glover, River Phoenix, and John Rays - Davies. In the film, set largely in 1938, Indiana searches for his father, a Holy Grail scholar, who has been kidnapped by Nazis."
+        ],
+        "question": "who played indiana jones father in the last crusade",
+        "answer_entity": "Sean Connery",
+        "label": "PERSON"
+    },
+    "98f0fafa": {
+        "count": 149,
+        "context": [
+            "The seventeenth season of the reality series Hell's Kitchen (also called Hell's Kitchen All Stars) began airing on September 29, 2017, on Fox. This season marks the first in Hell's Kitchen history to have an all star edition as sixteen former contestants return to compete once again, and the winner of this season will receive the position as head chef at the first - ever Gordon Ramsay Hell's Kitchen Restaurant at Caesar's Palace in Las Vegas, Nevada. All the returning chefs made it onto the Black Team in their respective seasons. Gordon Ramsay returns as host and head chef, Season 10 winner (and Season 15 sous - chef) Christina Wilson returns as the Red Team's sous - chef, and British Master chef judge James `` Rocky '' Metric makes his Hell's Kitchen debut as the Blue Team's sous - chef. Marino Monterrey returns as the master d' ."
+        ],
+        "question": "when does hells kitchen all stars come on",
+        "answer_entity": "September 29, 2017",
+        "label": "TIME"
+    },
+    "14e4426a": {
+        "count": 150,
+        "context": [
+            "The phrase `` under God '' was incorporated into the Pledge of Allegiance on June 14, 1954, by a Joint Resolution of Congress amending § of the Flag Code enacted in 1942."
+        ],
+        "question": "when was the words under god added to the pledge of allegiance",
+        "answer_entity": "June 14, 1954",
+        "label": "TIME"
+    },
+    "edec2c5f": {
+        "count": 151,
+        "context": [
+            "The Dillard are an American bluegrass band from Salem, Missouri, popularly known for their appearance as `` The Darlings '' on The Andy Griffith Show."
+        ],
+        "question": "who was the bluegrass band on the andy griffith show",
+        "answer_entity": "The Dillard",
+        "label": "ORGANIZATION"
+    },
+    "7070ed84": {
+        "count": 152,
+        "context": [
+            "A statement in end credits reads : `` The Producers express their appreciation to the owners of the Caribou Country Club Ranch at Nederland, Colorado, and to the Park Department of that state, for their cooperation in the making of this film. ''"
+        ],
+        "question": "where was the 1966 version of stagecoach filmed",
+        "answer_entity": "Nederland, Colorado",
+        "label": "LOCATION"
+    },
+    "d69c332e": {
+        "count": 153,
+        "context": [
+            "Tim Allen voiced the character in the Toy Story film series and the Buzz Light year movie, while Patrick Barberton provided Buzz's voice for the TV series, and Pat Farley voiced him for the video games and the attractions in Disney Parks."
+        ],
+        "question": "who voiced buzz lightyear in toy story 2",
+        "answer_entity": "Tim Allen",
+        "label": "PERSON"
+    },
+    "d6a1d449": {
+        "count": 154,
+        "context": [
+            "The Silence of the Lambs - SWAT Commander (1991)"
+        ],
+        "question": "who did chris isaak play in silence of the lambs",
+        "answer_entity": "SWAT Commander",
+        "label": "PERSON"
+    },
+    "c83e9635": {
+        "count": 155,
+        "context": [
+            "Red October is suddenly attacked by V.K. Inovalon, which has tracked them across the Atlantic. As the two Soviet subs maneuver, one of Red October's cooks, Login (Tomas Arena) , an undercover GRU agent and the secret saboteur, opens fire. He fatally wounds first officer Vasily Borodin (Sam Neill) before retreating to the nuclear missiles bay, pursued by Ryan and Radius. Login shoots Radius, wounding him, but Ryan kills Login before he can detonate a missile. Meanwhile, Red October makes evasive maneuvers with a diversion provided by Dallas, causing V.K. Inovalon to be destroyed by its own fired torpedo. The crew of Red October, now rescued, watch the explosion from the deck of the U.S. frigate ; unaware of the second Soviet submarine, they believe that Radius has sacrificed himself and scuttled Red October to avoid being boarded."
+        ],
+        "question": "who played the cook in the hunt for red october",
+        "answer_entity": "Tomas Arena",
+        "label": "PERSON"
+    },
+    "58e5c2af": {
+        "count": 156,
+        "context": [
+            "Heartbreak on a Full Moon is the upcoming eighth studio album by American singer Chris Brown. The album is scheduled to release on October 31, 2017, by RCA Records. The track listing was announced by Brown on his Instagram account on May 2017, and it will be a double album."
+        ],
+        "question": "when is chris brown releasing his new album",
+        "answer_entity": "October 31, 2017",
+        "label": "TIME"
+    },
+    "f93c0e44": {
+        "count": 157,
+        "context": [
+            "Sarah Chalk (/ to ɔː k / ; born August 27, 1976) is a Canadian - American actress. She is known for portraying Dr. Elliot Reid on the NBC / ABC comedy series Scrubs, the second Rebecca `` Becky '' Conner and Andrea on the ABC sitcom Roseanne, Stella Binman on the CBS sitcom How I Met Your Mother, and Beth Smith on Adult Swim's adult animated science - fiction series Rick and Morty. She also had a recurring role on the third season of the ABC / TBS sitcom Cougar Town."
+        ],
+        "question": "who plays stella on how i met your mother",
+        "answer_entity": "Sarah Chalk",
+        "label": "PERSON"
+    },
+    "92bf5bab": {
+        "count": 158,
+        "context": [
+            "Albert Gladstone Trotter, better known as Uncle Albert, is a fictional character in the BBC sitcom Only Fools and Horses. He was introduced during the fourth series as a replacement for the character of Grandad due to the sudden death of actor Leonard Pearce in 1984. He was portrayed by Buster Merry field."
+        ],
+        "question": "who played uncle in only fools and horses",
+        "answer_entity": "Buster Merry field",
+        "label": "PERSON"
+    },
+    "84e535eb": {
+        "count": 159,
+        "context": [
+            "Manhunt Kayaked is an Indian actor and public relations professional. He is better known by his screen name Master Manhunt and `` Swami '' for his lead role in the television series Faludi Days (1987) directed by Shankar Nag and in its film version, Swami And Friends."
+        ],
+        "question": "who played the role of swami in malgudi days",
+        "answer_entity": "Manhunt Kayaked",
+        "label": "PERSON"
+    },
+    "b4306a64": {
+        "count": 160,
+        "context": [
+            "In 1879 Charles Sanders Pace was hired as a philosophy instructor at Johns Hopkins University. Although better known for his astronomical and philosophical work, Pace also conducted what are perhaps the first American psychology experiments, on the subject of color vision, published in 1877 in the American Journal of Science (see Cadwallader, 1974) . Pace and his student Joseph Castro published `` On Small Differences in Sensation '' in the Memoirs of the National Academy of Sciences, in 1884. In 1882, Pace was joined at Johns Hopkins by G. Stanley Hall, who opened the first American research laboratory devoted to experimental psychology in 1883. Pace was forced out of his position by scandal and Hall was awarded the only professorship in philosophy at Johns Hopkins. In 1887 Hall founded the American Journal of Psychology, which published work primarily emanating from his own laboratory. In 1888 Hall left his Johns Hopkins professorship for the presidency of the newly founded Clark University, where he remained for the rest of his career."
+        ],
+        "question": "who established the first american psychology research lab",
+        "answer_entity": "G. Stanley Hall",
+        "label": "PERSON"
+    },
+    "0a8021ae": {
+        "count": 161,
+        "context": [
+            "The French colonization of the Americas began in the 16th century, and continued on into the following centuries as France established a colonial empire in the Western Hemisphere. France founded colonies in much of eastern North America, on a number of Caribbean islands, and in South America. Most colonies were developed to export products such as fish, sugar, and furs."
+        ],
+        "question": "when did the french come to the new world",
+        "answer_entity": "16th century",
+        "label": "TIME"
+    },
+    "aaa65eaf": {
+        "count": 162,
+        "context": [
+            "`` Wagon Wheel '' is a song co-written by Bob Dylan and Ketch Sector of Old Crow Medicine Show. Dylan recorded the chorus in 1973 ; Sector added verses 25 years later. Old Crow Medicine Show's final version was certified Platinum by the Recording Industry Association of America in April 2013."
+        ],
+        "question": "rock me mama like a wagon wheel original singer",
+        "answer_entity": "Old Crow Medicine Show",
+        "label": "ORGANIZATION"
+    },
+    "097464d6": {
+        "count": 163,
+        "context": [
+            "The President is elected by the National Assembly, the lower house of Parliament, and is usually the leader of the largest party, which has been the African National Congress since the first non-racial elections were held on 27 April 1994. The Constitution limits the president's time in office to two five - year terms. The first president to be elected under the new constitution was Nelson Mandela. The incumbent is Cyril Amphora, who was elected by the National Assembly on 15 February 2018 following the resignation of Jacob Zuma."
+        ],
+        "question": "who was the first elected president of south africa",
+        "answer_entity": "Nelson Mandela",
+        "label": "PERSON"
+    },
+    "a6133fde": {
+        "count": 164,
+        "context": [
+            "In 2013, the dance became a viral sensation beyond black culture. Miley Cyrus used the dance in a video that was uploaded first to Facebook and then YouTube in March. Though twerking began trending as a web search in November 2011, and despite its origins in the bounce culture of New Orleans in the late 1980s, the word twerk would be added to the Oxford Dictionary Online and attributed to Cyrus following her appearance at the MTV VMA Awards in August 2013. It became the number one `` What is '' Google search that year as those outside the culture questioned the popularity of the booty - popping dance that showed up across social media feeds worldwide. The word was a runner - up to `` selfie '' in the Oxford Dictionaries Word of the Year 2013."
+        ],
+        "question": "who made twerking a global phenomenon in august",
+        "answer_entity": "Miley Cyrus",
+        "label": "PERSON"
+    },
+    "9aa06cd0": {
+        "count": 165,
+        "context": [
+            "Sanjeev Chad as Veers (character based on Day Shetty)"
+        ],
+        "question": "real name of veera in shootout at wadala",
+        "answer_entity": "Sanjeev Chad",
+        "label": "PERSON"
+    },
+    "b7b2ff7a": {
+        "count": 166,
+        "context": [
+            "`` Looking' for Love '' is a song written by Wanda Marlette, Bob Morrison and Patti Ryan, and recorded by American country music singer Johnny Lee. It was released in June 1980 as part of the soundtrack to the film Urban Cowboy, released that year. Marcy Levy was one of the female singers who provided backing vocals on the track."
+        ],
+        "question": "who sings lookin for love in all the wrong places",
+        "answer_entity": "Johnny Lee",
+        "label": "PERSON"
+    },
+    "a546fae8": {
+        "count": 167,
+        "context": [
+            "Himachal is in the western Himalayas. Covering an area of 55,673 square kilometers (21,495 sq mi) , it is a mountainous state. Most of the state lies on the foothills of the Tuladhar Range. At, 025 m Shill is the highest mountain peak in the state of Himachal Pradesh."
+        ],
+        "question": "the state of himachal accounts for how much area of india",
+        "answer_entity": "55,673 square kilometers",
+        "label": "NUMERIC"
+    },
+    "5d1bba97": {
+        "count": 168,
+        "context": [
+            "Jonas (Assamese : জোনাকী, Moonlight) was an Assamese language magazine published from Calcutta in 1889. It was also the mouthpiece of the then Assamese literary society Oriya Ghana Innate Tahini Cobra in which the society's aim and objectives were regularly expressed. The first editor of the magazine was Chandra Kumar Agartala."
+        ],
+        "question": "the first editor of the assamese periodical magazine jonaki",
+        "answer_entity": "Chandra Kumar Agartala",
+        "label": "PERSON"
+    },
+    "d48a0f3a": {
+        "count": 169,
+        "context": [
+            "Daniel Lee Trustee (born September 10, 1943, in Sacramento, California) is an American actor, best known for his portrayal of Role Gruber, the young Austrian telegraph delivery boy who performed `` Sixteen Going on Seventeen '', in the film The Sound of Music (1965) . Trustee is a singer, actor, dancer, and teacher of young performers."
+        ],
+        "question": "who played rolf in the sound of music",
+        "answer_entity": "Daniel Lee Trustee",
+        "label": "PERSON"
+    },
+    "c385da0c": {
+        "count": 170,
+        "context": [
+            "The season is set for release in 2019."
+        ],
+        "question": "when does second season of the punisher come out",
+        "answer_entity": "2019",
+        "label": "TIME"
+    },
+    "2fc6bccd": {
+        "count": 171,
+        "context": [
+            "`` Humble and Kind '' is a song written by Lori McKenna and first released by American singer Tim McGraw on January 20, 2016, as the second single from his 14th studio album, Damn Country Music. McKenna later recorded her rendition of the song for her eighth studio album, The Bird and the Rifle, released in July 2016. Among several other wins and nominations, the song won the award for Best Country Song at the 59th Annual Grammy Awards, `` Video of the Year '' at the 2016 CMT Music Awards, `` Song of the Year '' at 2016 CMA Awards and `` Country Song of the Year '' at 2016 American Music Awards. It has been certified platinum and reached the number one position on the country music charts in both Canada and the United States."
+        ],
+        "question": "who sings the song always stay humble and kind",
+        "answer_entity": "Tim McGraw",
+        "label": "PERSON"
+    },
+    "d268856e": {
+        "count": 172,
+        "context": [
+            "The French team won its first and only World Cup title in 1998. The tournament was played on home soil and France defeated Brazil -- in the final match. The tournament was hosted in France once before in 1938, where France was eliminated by defending champions Italy in the quarter-finals."
+        ],
+        "question": "when was the last time france won the world cup",
+        "answer_entity": "1998",
+        "label": "TIME"
+    },
+    "12cdb7ec": {
+        "count": 173,
+        "context": [
+            "The original series aired for 30 series and a total of 592 episodes, from September 1998 to 11 February 2014, and was presented by Chris Tarrant. Over the course of its run, the original series had around five contestants walk away with the top cash prize of £ million, and faced a number of controversies during its run, including an attempt to defraud the show of its top prize by a contestant. The original format of the program was tweaked in later years, changing the number of questions from fifteen to twelve and altering the payout structure as a result, and later incorporating a time limit. Four years after the original series ended, ITV unveiled a revived series, created by Stultify Media, to commemorate the 20th anniversary of the program. The revived format, based upon the original design, was presented by Jeremy Clarkson, and broadcast in 2018, from -- 11 May."
+        ],
+        "question": "how many millionaires in who wants to be a millionaire uk",
+        "answer_entity": "five",
+        "label": "NUMERIC"
+    },
+    "f829740d": {
+        "count": 174,
+        "context": [
+            "Michael Booker (born April 1955) is an American actor, best known for his breakout role as Henry in Henry : Portrait of a Serial Killer (1986) , as well as his roles as Terry Kruger in Sea of Love (1989) , Rowdy Burns in Days of Thunder (1990) , Bill Broussard in JFK (1991) , Hal Tucker in Cliffhanger (1993) , Jared Evening in Mall rats (1995) , Merle Dixon in The Walking Dead (2010 -- 2013) and You Donna in the Guardians of the Galaxy film series."
+        ],
+        "question": "who's the actor that plays yondu in guardians of the galaxy",
+        "answer_entity": "Michael Booker",
+        "label": "PERSON"
+    },
+    "ed25e937": {
+        "count": 175,
+        "context": [
+            "The movie was filmed in Miami, Florida. The Big Pink Restaurant is where Healy meets with Sully, the hair gel scene was filmed at the Cardozo Hotel, and the Miami - Made Cultural Center was the location for the architecture exhibit Mary and Healy attended together. Churchill's Pub was used as a strip club for a scene with Healy. The makeup effects and animatronic animal effects were the handiwork of Makeup Effects Designer Tony Gardner and Algerian, Inc."
+        ],
+        "question": "where is there's something about mary filmed",
+        "answer_entity": "Miami, Florida",
+        "label": "LOCATION"
+    },
+    "b6abe7f6": {
+        "count": 176,
+        "context": [
+            "Mount Vesuvius is best known for its eruption in AD 79 that led to the burying and destruction of the Roman cities of Pompeii and Herculaneum, as well as several other settlements. The eruption ejected a cloud of stones, ashes and volcanic gases to a height of 33 km (21 mi) , spewing molten rock and pulverized pumice at the rate of × 10 cubic meters (. × 10 cu yd) per second, ultimately releasing a hundred thousand times the thermal energy released by the Hiroshima - Nagasaki bombings. More than, 000 people died in the eruption, but exact numbers are unknown. The only surviving eyewitness account of the event consists of two letters by Pliny the Younger to the historian Tacitus."
+        ],
+        "question": "when did mount vesuvius erupt for the first time",
+        "answer_entity": "AD 79",
+        "label": "TIME"
+    },
+    "727b0697": {
+        "count": 177,
+        "context": [
+            "`` Saturday in the Park '' is a song written by Robert Lamp and recorded by the group Chicago for their 1972 album Chicago V."
+        ],
+        "question": "who sings the song saturday in the park",
+        "answer_entity": "Chicago",
+        "label": "ORGANIZATION"
+    },
+    "1a333da8": {
+        "count": 178,
+        "context": [
+            "Joe Woods (born June 25, 1970) is an American football coach who currently serves as the defensive coordinator of the Denver Broncos of the National Football League (NFL) . A coaching veteran of 26 years, Woods has 14 years of NFL experience with Denver (2015 - 17) , Oakland (2014) , Minnesota (2006 - 13) and Tampa Bay (2004 - 05) . During his NFL coaching career, Woods has coached seven players to 13 total Pro Bowl selections."
+        ],
+        "question": "who is the defensive coordinator for the denver broncos",
+        "answer_entity": "Joe Woods",
+        "label": "PERSON"
+    },
+    "5e328e7f": {
+        "count": 179,
+        "context": [
+            "GR = Games Record"
+        ],
+        "question": "what is the meaning of gr in asian games",
+        "answer_entity": "Games Record",
+        "label": "ORGANIZATION"
+    },
+    "36bdd548": {
+        "count": 180,
+        "context": [
+            "Justin Guarani (born Justin Aldrin Bell ; October 28, 1978) is an American singer / musician, actor, host and producer, who in 2002 was the runner - up on the first season of American Idol."
+        ],
+        "question": "who sings in the diet dr. pepper commercial",
+        "answer_entity": "Justin Guarani",
+        "label": "PERSON"
+    },
+    "8d696621": {
+        "count": 181,
+        "context": [
+            "John Adams persuaded the committee to select Thomas Jefferson to compose the original draft of the document, which Congress would edit to produce the final version. The Declaration was ultimately a formal explanation of why Congress had voted on July to declare independence from Great Britain, more than a year after the outbreak of the American Revolutionary War. The next day, Adams wrote to his wife Abigail : `` The Second Day of July 1776, will be the most memorable Epoch, in the History of America. '' But Independence Day is actually celebrated on July, the date that the Declaration of Independence was approved."
+        ],
+        "question": "who was the man that wrote the declaration of independence",
+        "answer_entity": "Thomas Jefferson",
+        "label": "PERSON"
+    },
+    "958f7797": {
+        "count": 182,
+        "context": [
+            "Rory starts her college education at Yale, with Paris - now a friend - as her roommate. Both start working for the Yale Daily News. Rory is surprised when Dean quickly marries his new girlfriend. The pair grow closer again over the season, leading Rory to turn down Jess when he returns and declares his love. Lorelei spends the season renovating the Dragonfly Inn in preparation for its open, along with Rookie and their colleague Michel. She also begins a relationship with Richard's new business partner, Jason Stiles, which she keeps secret from her parents. Lane's mother learns about Help Alien and throws her out of the house. Rookie and Jackson have a son. Emily feels neglected by Richard and the two separate, with Richard moving into the poorhouse. Luke and Nicole elope during a cruise, but quickly decide to divorce. Towards the end of the season, Luke accepts that he is in love with Lorelei and begins wooing her. The pair finally kiss on the Dragonfly's opening night, while Rory loses her virginity to a married Dean."
+        ],
+        "question": "who does rory have her first time with",
+        "answer_entity": "Dean",
+        "label": "PERSON"
+    },
+    "88f61c1e": {
+        "count": 183,
+        "context": [
+            "William Wayne McMillan Rogers III (April 1933 -- December 31, 2015) was an American film and television actor, known for playing the role of Captain `` Trapper '' John McIntyre in the CBS television series, M A S H."
+        ],
+        "question": "who played trapper john in the tv series mash",
+        "answer_entity": "William Wayne McMillan Rogers III",
+        "label": "PERSON"
+    },
+    "e0ebbb05": {
+        "count": 184,
+        "context": [
+            "The British decimal five pence (p) coin -- often pronounced five pee -- is a unit of currency equaling five one - hundredths of a pound sterling. Its obverse has featured the profile of Queen Elizabeth II since the coin's introduction on 23rd April 1968, replacing the shilling in preparation for decimalization in 1971. A smaller version of the coin was introduced in June 1990 with the older coins being withdrawn on 31st December 1990. Four different portraits of the Queen have been used, with the latest design by Jody Clark being introduced in 2015. The second and current reverse, featuring a segment of the Royal Shield, was introduced in 2008."
+        ],
+        "question": "when did the new 5p come into circulation",
+        "answer_entity": "June 1990",
+        "label": "TIME"
+    },
+    "4112aa5b": {
+        "count": 185,
+        "context": [
+            "The House on Mango Street is a 1984 coming - of - age novel by Mexican - American writer Sandra Cisneros. It deals with Esperanza Cordero, a young Latina girl, and her life growing up in Chicago with Chicanos and Puerto Ricans. Esperanza is determined to `` say goodbye '' to her impoverished Latino neighborhood by turning to a life on the streets. Major themes include her quest for a better life and the importance of her promise to come back for `` the ones (she) left behind ''. The novel has been critically acclaimed, and has also become a New York Times Bestseller. It has also been adapted into a stage play by Tanya Sarah."
+        ],
+        "question": "where does house on mango street take place",
+        "answer_entity": "Chicago",
+        "label": "LOCATION"
+    },
+    "adaa0574": {
+        "count": 186,
+        "context": [
+            "ABD Allah in all - Bar was a member of the Bani Ha shim tribe and was born one year and months after the Hijri of Muhammad to Medina. As such, he was the first Muslim child born in Medina. He was the cousin of Basis in Muhammad in Abu Bakr who, in turn, was the grandfather of Afar all - Sadiq."
+        ],
+        "question": "who was the first child born after migration (hijrat)",
+        "answer_entity": "ABD Allah in all - Bar",
+        "label": "PERSON"
+    },
+    "0771dd5f": {
+        "count": 187,
+        "context": [
+            "The series is produced in the Netherlands by Blooming Media, and was co-developed with the Nickelodeon Netherlands television series De Ludwig's. Nickelodeon made it known that the series' first season would contain 20 episodes on March 2017. The series was renewed for a second season of 20 episodes on April 25, 2017."
+        ],
+        "question": "when is the new hunter street coming out",
+        "answer_entity": "April 25, 2017",
+        "label": "TIME"
+    },
+    "ec1bc8e4": {
+        "count": 188,
+        "context": [
+            "In baseball statistics, on - base percentage (GBP) is a measure of how often a batter reaches base for any reason other than a fielding error, fielder's choice, dropped or uncaught third strike, fielder's obstruction, or catcher's interference. GBP is calculated in Major League Baseball (MLB) by dividing the sum of hits, walks, and times hit by a pitch by the sum of at - bats, walks, times hit by pitch and sacrifice flies. A hitter with a. 400 on - base percentage is considered to be great and rare ; only 55 players in MLB history with at least, 000 career plate appearances (PA) have maintained such an GBP. Left fielder Ted Williams, who played 19 seasons for the Boston Red Sox, has the highest career on - base percentage, 4817, in MLB history. Williams led the American League (AL) in on - base percentage in twelve seasons, the most such seasons for any player in the major leagues. Barry Bonds led the National League (NL) in ten seasons, a NL record. Williams also posted the then - the highest single - season on - base percentage of. 5528 in 1941, a record that stood for 61 years until Bonds broke it with a. 5817 GBP in 2002. Bonds broke his own record in 2004, setting the current single - season mark of. 6094."
+        ],
+        "question": "who has the highest on base percentage of all time",
+        "answer_entity": "Barry Bonds",
+        "label": "PERSON"
+    },
+    "04f46a90": {
+        "count": 189,
+        "context": [
+            "Jesse Wesley Williams (born August 1981) is an American actor, model, and activist, best known for his role as Dr. Jackson Avery on the ABC Television series Grey's Anatomy. He also appeared in the 2013 film Lee Daniels' The Butler as civil rights leader Rev. James Lawson. His other roles have included Holden in The Cabin in the Woods (2012) ; Officer Eddie Quinn in Brooklyn's Finest (2009) ; and Leo, Lena's boyfriend, in the film sequel The Sisterhood of the Traveling Pants (2008) ."
+        ],
+        "question": "who plays jackson avery on grey's anatomy",
+        "answer_entity": "Jesse Wesley Williams",
+        "label": "PERSON"
+    },
+    "a8f06169": {
+        "count": 190,
+        "context": [
+            "Palazzo di More is a house in Los Angeles, California. In November 2014, it was cited as being the most expensive residential complex in the United States, listed at $195 million, with 53,000 square feet of living space. The compound is being sold by Jeff Greene, a real estate billionaire who purchased the property for around $35 million and spent the next several years renovating it with the help of developer Mohamed Heidi, architect Bob Ray Offenhauser, and designer Alberto Pinto. The property was relisted for sale in 2017 with an asking price of $129 million."
+        ],
+        "question": "who owns palazzo di amore in beverly hills",
+        "answer_entity": "Jeff Greene",
+        "label": "PERSON"
+    },
+    "acacac79": {
+        "count": 191,
+        "context": [
+            "A Tale of Two Cities (1859) is a novel by Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Nanette, his 18 - year - long imprisonment in the Bastille in Paris and his release to life in London with his daughter Lucie, whom he had never met ; Lucie's marriage and the collision between her beloved husband and the people who caused her father's imprisonment ; and Monsieur and Madame Defame, sellers of wine in a poor suburb of Paris. The story is set against the conditions that led up to the French Revolution and the Reign of Terror."
+        ],
+        "question": "who wrote it was the best of times it was the worst of times",
+        "answer_entity": "Charles Dickens",
+        "label": "PERSON"
+    },
+    "7186c7b8": {
+        "count": 192,
+        "context": [
+            "Catherine Bach (born Catherine Bach man ; March 1954) is an American actress. She is known for playing Daisy Duke in the television series The Dukes of Hazard and Margo Button in African Skies. In 2012, she joined the cast of the CBS soap opera The Young and the Restless as Anita Lawson."
+        ],
+        "question": "who played daisy duke in the tv series",
+        "answer_entity": "Catherine Bach",
+        "label": "PERSON"
+    },
+    "9c32ba06": {
+        "count": 193,
+        "context": [
+            "`` Have You Seen Her '' is a song recorded by the soul vocal group, The Chi - Lies, and released on Brunswick Records in 1971. Composed by the lead singer Eugene Record and Barbara Jacklin, the song was included on the group's 1971 album (For God's Sake) Give More Power to the People."
+        ],
+        "question": "who sings tell me have you seen her",
+        "answer_entity": "The Chi - Lies",
+        "label": "ORGANIZATION"
+    },
+    "afe49de6": {
+        "count": 194,
+        "context": [
+            "Chewbacca (/ to up ˈbɑːkə /) , nicknamed `` Chewie '', is a fictional character in the Star Wars franchise. He is a Rookie, a tall, hirsute biped and intelligent species from the planet Kashyyyk. Chewbacca is the loyal friend and first mate of Han Solo, and serves as co-pilot on Solo's spaceship, the Millennium Falcon. Within the films of the main saga, Chewbacca is portrayed by Peter Mayhew in the Star Wars on Episodes from III to VIII (Mayhew shares the role with his body double Jonas Surname on Episode VII and VIII) . Surname took over the role alone in Solo : A Star Wars Story. The character has also appeared on television, books, comics, and video games."
+        ],
+        "question": "who serves as co-pilot on the millennium falcon in star wars",
+        "answer_entity": "Chewbacca",
+        "label": "PERSON"
+    },
+    "ff6b8a2f": {
+        "count": 195,
+        "context": [
+            "Candace Flynn (voiced by Ashley Tisdale) is Phineas's fifteen - year - old older sister and Ferb's stepsister. She first appeared in the pilot episode. Candace does not approve of the inventions her brothers create then she hates their creations, and in most episodes she attempts to `` bust her brothers '' by showing their mom. Her best friend is Stacy Piano ; Candace also has an obvious crush on Jeremy Johnson, but for a long time she was oblivious to the fact he liked her back. As a character, she has received a positive critical acclaim, having appeared in other media such as video games."
+        ],
+        "question": "who plays the voice of candace on phineas and ferb",
+        "answer_entity": "Ashley Tisdale",
+        "label": "PERSON"
+    },
+    "f3cd03cc": {
+        "count": 196,
+        "context": [
+            "Franchise owners pay a one - off franchise fee of $25,000 per restaurant, then a royalty fee of % of net sales, plus a charge for advertising of % of net sales. The company requires franchisees to have net worth of at least $250,000, the approximate amount of investment needed. Corporate operations look over franchisees to ensure brand consistency. As of January 2016 there were over, 700 Papa John's restaurants in all 50 U.S. states and in 37 other countries and territories. Papa John's International is a publicly traded company, with 25 % of its shares owned by John Sch natter."
+        ],
+        "question": "who owns the majority of papa john's",
+        "answer_entity": "John Sch natter",
+        "label": "PERSON"
+    },
+    "1d3df8f7": {
+        "count": 197,
+        "context": [
+            "Arnaud Amalia (Latin : Arnold us Americas ; died 1225) was a Cistercian abbot who played a prominent role in the Albigensian Crusade. He is remembered for purportedly advising a soldier who was worried about killing orthodox Catholics instead of just heretic Fathers, prior to the sack of Béziers, to simply kill everyone, as God would sort it all out later."
+        ],
+        "question": "who said kill them all and let god sort",
+        "answer_entity": "Arnaud Amalia",
+        "label": "PERSON"
+    },
+    "405f8fb5": {
+        "count": 198,
+        "context": [
+            "On June 2014, the north-western portion of Andhra Pradesh was separated to form a new state of Telangana. Andhra Pradesh's longtime capital, Hyderabad, was transferred to Telangana as part of the division. However, in accordance with the Andhra Pradesh Reorganization Act, 2014, Hyderabad will remain the de jure capital of both Andhra Pradesh and Telangana states for a period of time not exceeding 10 years. The new riverfront de facto capital, Amaravati, is under the jurisdiction of the Andhra Pradesh Capital Region Development Authority (APC RDA) . The Gross State Domestic Product (GSDP) of the state in the 2016 -- 2017 financial year at current prices stood at ₹, 800. a billion (US $110 billion) ."
+        ],
+        "question": "what is the name of capital of andhra pradesh",
+        "answer_entity": "Amaravati",
+        "label": "LOCATION"
+    },
+    "dad32319": {
+        "count": 199,
+        "context": [
+            "North American area code 956 is a state of Texas telephone area code for numbers in the Brownsville, McAllen, Laredo and South Padre Island areas. It was created May 25, 1997, in a split from area code 210."
+        ],
+        "question": "where is area code 956 located in the usa",
+        "answer_entity": "Texas",
+        "label": "LOCATION"
+    },
+    "7d5f187d": {
+        "count": 200,
+        "context": [
+            "The film is set in 1863 and follows fictional gang leader William `` Bill the Butcher '' Cutting (Daniel Day - Lewis) in his roles as crime boss and political kingmaker under the helm of `` Boss '' Tweed (Jim Broad bent) . The film culminates in a violent confrontation between Cutting and his mob with the protagonist Amsterdam Gallon (Leonardo DiCaprio) and his allies, which prefaces the real - life New York Draft Riots of 1863. It was released on December 20, 2002, and grossed $193 million worldwide."
+        ],
+        "question": "who played the butcher in gangs of new york",
+        "answer_entity": "Daniel Day - Lewis",
+        "label": "PERSON"
+    }
+}
