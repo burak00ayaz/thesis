@@ -26,3 +26,14 @@ def filtering_wrapper(triplets, dataset: Dataset, filter_entity_questions=False)
         for triplet in triplets:
             if triplet.question_id in entity_question_ids:
                 yield (triplet, entity_questions[triplet.question_id]["label"])
+
+def skip_until_wrapper(triplets, skip_until_id):
+    """
+    Skip triplets until a specific question ID is reached. Excluding the skip_until_id triplet.
+    """
+    skip = True
+    for triplet in triplets:
+        if not skip:
+            yield triplet
+        elif triplet.question_id == skip_until_id:
+            skip = False
