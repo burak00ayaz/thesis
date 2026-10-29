@@ -17,6 +17,9 @@ def triplets(dataset: Dataset, entity_questions=False):
     elif dataset == Dataset.NQ:
         from corpus.questions.NQ.nq import get_triplets
         generator = get_triplets()
+    elif dataset == Dataset.BIOASQ_FACTOID:
+        from corpus.questions.BioASQ.bioasq import get_triplets
+        generator = get_triplets(split="factoid")
     else:
         raise ValueError(f"Unsupported dataset: {dataset}")
 

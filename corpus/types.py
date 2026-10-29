@@ -7,6 +7,7 @@ class Dataset(Enum):
     SYNTHWORLDS_RM = "synthworlds_rm"
     SYNTHWORLDS_SM = "synthworlds_sm"
     NQ = "nq"
+    BIOASQ_FACTOID = "bioasq14b_factoid"
 
 @dataclass
 class Triplet:
