@@ -42,6 +42,8 @@ class ResultsDatabase:
                     model_output TEXT NOT NULL,
                     answer_in_output INTEGER NOT NULL
                         CHECK (answer_in_output IN (0, 1)),
+                    normalized_indel REAL,
+                    indel_substring TEXT,
 
                     created_at TEXT NOT NULL
                 )
@@ -86,6 +88,8 @@ class ResultsDatabase:
         lexical_side_channel_output: str | None,
         model_output: str,
         answer_in_output: bool,
+        normalized_indel: float | None,
+        indel_substring: str | None,
     ) -> str:
         result_id = str(uuid.uuid4())
 
@@ -114,9 +118,11 @@ class ResultsDatabase:
                     lexical_side_channel_output,
                     model_output,
                     answer_in_output,
+                    normalized_indel,
+                    indel_substring,
                     created_at
                 )
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
                     result_id,
@@ -133,6 +139,8 @@ class ResultsDatabase:
                     lexical_side_channel_output,
                     model_output,
                     int(answer_in_output),
+                    normalized_indel,
+                    indel_substring,
                     created_at,
                 ),
             )

@@ -3,6 +3,7 @@ from corpus.questions.questions import triplets
 from models.model import Model, get_model
 from lexical_side_channel.lsc import LexicalSideChannelBaseline, get_lexical_side_channel_method
 from results_db.results_service import ResultsService, ResultEntry
+from metrics.normalized_indel import substring_aligned_normalized_indel
 
 def run_experiment(
     run_id: str,
@@ -14,13 +15,13 @@ def run_experiment(
 ):
     results_service = ResultsService(results_database_path)
     model = get_model(model_enum)
-    triplets_dataset = triplets(dataset)
+    triplets_dataset = triplets(dataset, entity_questions=True)
 
 
     if lexical_side_channel_method_enum is not None:
         lsc_method = get_lexical_side_channel_method(lexical_side_channel_method_enum)
 
-    for i, triplet in enumerate(triplets_dataset):
+    for i, (triplet, answer_entity) in enumerate(triplets_dataset):
 
         if count is not None and i >= count:
             break
@@ -34,7 +35,8 @@ def run_experiment(
             input_question = f"{side_channel} {triplet.question}"
 
         output = model.answer_question(input_question, triplet.context)
-        answer_correctness = triplet.answer.lower() in output.lower()
+        exact_match = triplet.answer.lower() in output.lower()
+        normalized_indel, closest_substring = substring_aligned_normalized_indel(triplet.answer, output).values()
 
         result_entry = ResultEntry(
             run_id=run_id,
@@ -43,7 +45,9 @@ def run_experiment(
             lexical_side_channel_method=lexical_side_channel_method_enum.value if lexical_side_channel_method_enum is not None else None,
             lexical_side_channel_output=side_channel if lexical_side_channel_method_enum is not None else None,
             model_output=output,
-            answer_in_output=answer_correctness
+            answer_in_output=exact_match,
+            normalized_indel=normalized_indel,
+            indel_substring=closest_substring,
         )
         results_service.add_result(result_entry)
 

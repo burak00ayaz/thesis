@@ -25,6 +25,8 @@ class ResultEntryDB:
 
     model_output: str = ""
     answer_in_output: bool = False
+    normalized_indel: float | None = None
+    indel_substring: str | None = None
 
 
 @dataclass
@@ -36,6 +38,8 @@ class ResultEntry:
     lexical_side_channel_output: str | None = None
     model_output: str = ""
     answer_in_output: bool = False
+    normalized_indel: float | None = None
+    indel_substring: str | None = None
 
 
 class ResultsService:
@@ -62,6 +66,8 @@ class ResultsService:
             lexical_side_channel_output=result.lexical_side_channel_output,
             model_output=result.model_output,
             answer_in_output=result.answer_in_output,
+            normalized_indel=result.normalized_indel,
+            indel_substring=result.indel_substring,
         )
 
     def add_result_db(
@@ -84,6 +90,8 @@ class ResultsService:
             lexical_side_channel_output=result.lexical_side_channel_output,
             model_output=result.model_output,
             answer_in_output=result.answer_in_output,
+            normalized_indel=result.normalized_indel,
+            indel_substring=result.indel_substring,
         )
 
     def get_result(
