@@ -3,6 +3,7 @@ from corpus.questions.questions import triplets
 from models.model import Model, get_model
 from lexical_side_channel.lsc import LexicalSideChannelBaseline, get_lexical_side_channel_method
 from results_db.results_service import ResultsService, ResultEntry
+from metrics.normalized_indel import substring_aligned_normalized_indel
 import copy
 
 def run_experiment(
@@ -15,7 +16,7 @@ def run_experiment(
 ):
     results_service = ResultsService(results_database_path)
     model = get_model(model_enum)
-    ds = triplets(dataset)
+    ds = triplets(dataset, entity_questions=True)
 
     if lexical_side_channel_method_enum is not None:
         lsc_method = get_lexical_side_channel_method(lexical_side_channel_method_enum)
@@ -23,10 +24,12 @@ def run_experiment(
     original_triplets = []
     processed_triplets = []
     side_channels = []
-    for i, triplet in enumerate(ds):
+    answer_labels = []
+    for i, (triplet, answer_label) in enumerate(ds):
         if count is not None and i >= count:
             break
         original_triplets.append(triplet)
+        answer_labels.append(answer_label)
         triplet = copy.deepcopy(triplet)
         print(f"LSC generation: {i+1}/{count if count is not None else 'all'}: {triplet.question_id}")
 
@@ -48,7 +51,9 @@ def run_experiment(
     # Save to the database
     for i, output in enumerate(outputs):
         triplet = original_triplets[i]
-        answer_correctness = triplet.answer.lower() in output.lower()
+        answer_label = answer_labels[i]
+        exact_match = triplet.answer.lower() in output.lower()
+        normalized_indel, closest_substring = substring_aligned_normalized_indel(triplet.answer, output).values()
 
         result_entry = ResultEntry(
             run_id=run_id,
@@ -57,7 +62,10 @@ def run_experiment(
             lexical_side_channel_method=lexical_side_channel_method_enum.value if lexical_side_channel_method_enum is not None else None,
             lexical_side_channel_output=side_channels[i] if lexical_side_channel_method_enum is not None else None,
             model_output=output,
-            answer_in_output=answer_correctness
+            answer_in_output=exact_match,
+            normalized_indel=normalized_indel,
+            indel_substring=closest_substring,
+            answer_label=answer_label,
         )
         results_service.add_result(result_entry)
     
