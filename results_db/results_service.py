@@ -98,6 +98,34 @@ class ResultsService:
             indel_substring=result.indel_substring,
         )
 
+    def get_all_results(self) -> list[ResultEntryDB]:
+        rows = self.database.fetch_all()
+        return [
+            ResultEntryDB(
+                run_id=row["run_id"],
+                dataset=Dataset(row["dataset"]),
+                question_id=row["question_id"],
+                context=json.loads(row["context_json"]),
+                question=row["question"],
+                answer=row["answer"],
+                answer_label=row["answer_label"],
+                model=row["model"],
+                soft_compression=row["soft_compression"],
+                compression_ratio=row["compression_ratio"],
+                lexical_side_channel_method=row[
+                    "lexical_side_channel_method"
+                ],
+                lexical_side_channel_output=row[
+                    "lexical_side_channel_output"
+                ],
+                model_output=row["model_output"],
+                answer_in_output=bool(row["answer_in_output"]),
+                normalized_indel=row["normalized_indel"],
+                indel_substring=row["indel_substring"],
+            )
+            for row in rows
+        ]
+
     def get_result(
         self,
         result_id: str,
