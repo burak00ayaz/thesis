@@ -1,0 +1,117 @@
+==================================================
+NQ DATASET RESULTS
+--------------------------------------------------
+Evaluating results from database: data/mistral_nq.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 171, Accuracy: 85.50%
+EVALUATION BY LABEL
+Label: LOCATION, Total: 28, Correct: 26, Accuracy: 92.86%
+Label: PERSON, Total: 104, Correct: 84, Accuracy: 80.77%
+Label: ORGANIZATION, Total: 15, Correct: 14, Accuracy: 93.33%
+Label: TIME, Total: 39, Correct: 35, Accuracy: 89.74%
+Label: NUMERIC, Total: 14, Correct: 12, Accuracy: 85.71%
+--------------------------------------------------
+Evaluating results from database: data/pisco_nq.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 146, Accuracy: 73.00%
+EVALUATION BY LABEL
+Label: LOCATION, Total: 28, Correct: 25, Accuracy: 89.29%
+Label: PERSON, Total: 104, Correct: 66, Accuracy: 63.46%
+Label: ORGANIZATION, Total: 15, Correct: 13, Accuracy: 86.67%
+Label: TIME, Total: 39, Correct: 33, Accuracy: 84.62%
+Label: NUMERIC, Total: 14, Correct: 9, Accuracy: 64.29%
+--------------------------------------------------
+Evaluating results from database: data/xrag_nq.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 113, Accuracy: 56.50%
+EVALUATION BY LABEL
+Label: LOCATION, Total: 28, Correct: 22, Accuracy: 78.57%
+Label: PERSON, Total: 104, Correct: 54, Accuracy: 51.92%
+Label: ORGANIZATION, Total: 15, Correct: 11, Accuracy: 73.33%
+Label: TIME, Total: 39, Correct: 18, Accuracy: 46.15%
+Label: NUMERIC, Total: 14, Correct: 8, Accuracy: 57.14%
+==================================================
+
+
+
+==================================================
+BIOASQ DATASET RESULTS
+--------------------------------------------------
+Evaluating results from database: data/mistral_bioasq.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 180, Accuracy: 90.00%
+EVALUATION BY LABEL
+Label: CHEMICAL, Total: 30, Correct: 24, Accuracy: 80.00%
+Label: ORGANISM, Total: 12, Correct: 11, Accuracy: 91.67%
+Label: DISEASE, Total: 45, Correct: 43, Accuracy: 95.56%
+Label: GENE, Total: 65, Correct: 57, Accuracy: 87.69%
+Label: MEDICAL, Total: 35, Correct: 33, Accuracy: 94.29%
+Label: CELL_LINE, Total: 3, Correct: 3, Accuracy: 100.00%
+Label: TISSUE, Total: 7, Correct: 6, Accuracy: 85.71%
+Label: CELL_TYPE, Total: 3, Correct: 3, Accuracy: 100.00%
+--------------------------------------------------
+Evaluating results from database: data/pisco_bioasq.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 158, Accuracy: 79.00%
+EVALUATION BY LABEL
+Label: CHEMICAL, Total: 30, Correct: 19, Accuracy: 63.33%
+Label: ORGANISM, Total: 12, Correct: 11, Accuracy: 91.67%
+Label: DISEASE, Total: 45, Correct: 40, Accuracy: 88.89%
+Label: GENE, Total: 65, Correct: 51, Accuracy: 78.46%
+Label: MEDICAL, Total: 35, Correct: 30, Accuracy: 85.71%
+Label: CELL_LINE, Total: 3, Correct: 3, Accuracy: 100.00%
+Label: TISSUE, Total: 7, Correct: 3, Accuracy: 42.86%
+Label: CELL_TYPE, Total: 3, Correct: 1, Accuracy: 33.33%
+--------------------------------------------------
+Evaluating results from database: data/xrag_bioasq.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 96, Accuracy: 48.00%
+EVALUATION BY LABEL
+Label: CHEMICAL, Total: 30, Correct: 11, Accuracy: 36.67%
+Label: ORGANISM, Total: 12, Correct: 8, Accuracy: 66.67%
+Label: DISEASE, Total: 45, Correct: 31, Accuracy: 68.89%
+Label: GENE, Total: 65, Correct: 30, Accuracy: 46.15%
+Label: MEDICAL, Total: 35, Correct: 13, Accuracy: 37.14%
+Label: CELL_LINE, Total: 3, Correct: 0, Accuracy: 0.00%
+Label: TISSUE, Total: 7, Correct: 3, Accuracy: 42.86%
+Label: CELL_TYPE, Total: 3, Correct: 0, Accuracy: 0.00%
+==================================================
+
+
+
+==================================================
+SQUAD DATASET RESULTS
+--------------------------------------------------
+Evaluating results from database: data/mistral_squad.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 193, Accuracy: 96.50%
+EVALUATION BY LABEL
+Label: PERSON, Total: 70, Correct: 68, Accuracy: 97.14%
+Label: TIME, Total: 31, Correct: 30, Accuracy: 96.77%
+Label: LOCATION, Total: 32, Correct: 31, Accuracy: 96.88%
+Label: NUMERIC, Total: 31, Correct: 29, Accuracy: 93.55%
+Label: ORGANIZATION, Total: 36, Correct: 35, Accuracy: 97.22%
+--------------------------------------------------
+Evaluating results from database: data/pisco_squad.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 159, Accuracy: 79.50%
+EVALUATION BY LABEL
+Label: PERSON, Total: 70, Correct: 56, Accuracy: 80.00%
+Label: TIME, Total: 31, Correct: 26, Accuracy: 83.87%
+Label: LOCATION, Total: 32, Correct: 28, Accuracy: 87.50%
+Label: NUMERIC, Total: 31, Correct: 21, Accuracy: 67.74%
+Label: ORGANIZATION, Total: 36, Correct: 28, Accuracy: 77.78%
+--------------------------------------------------
+Evaluating results from database: data/xrag_squad.db
+EXACT MATCH ACCURACY
+Total: 200, Correct: 76, Accuracy: 38.00%
+EVALUATION BY LABEL
+Label: PERSON, Total: 70, Correct: 24, Accuracy: 34.29%
+Label: TIME, Total: 31, Correct: 15, Accuracy: 48.39%
+Label: LOCATION, Total: 32, Correct: 22, Accuracy: 68.75%
+Label: NUMERIC, Total: 31, Correct: 1, Accuracy: 3.23%
+Label: ORGANIZATION, Total: 36, Correct: 14, Accuracy: 38.89%
+==================================================
+
+
+
