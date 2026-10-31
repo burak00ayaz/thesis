@@ -1,0 +1,613 @@
+Question ID: f4cbd363
+Context: Joyce Barnaby (Jane Mark) (series - 13) -- DCI Tom Barnaby's long-suffering wife. She is tolerant of her husband, despite his being a workaholic who spent their honeymoon solving the case of the `` Public Poisoner '', which suggests that they met in London. Joyce is an easy - going and friendly woman who likes to be involved in community activities. She has long possessed a desire to move out of their Custom home and into one of the picturesque Isomer villages -- only to be put off by the grisly murders that occur there. She's known to her family as an experimental, but not always successful, cook. Thus, Tom is often seen taking advantage of every opportunity to dine out. She married Tom in 1973 and their only child, Fully, was born five years later in 1978. Her parents are called Muriel and Douglas.
+Question: who played tom barnaby's wife in midsomer murders
+Answer Entity: Jane Mark
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Joyce Barnaby (Jane Mark) (series - 13) -- DCI Tom Barnaby's long-suffering wife. She is tolerant of her husband, despite his being a workaholic who spent their honeymoon solving the case of the `` Public Poisoner '', which suggests that they met in London. Joyce is an easy - going and friendly woman who likes to be involved in community activities. She has long possessed a desire to move out of their Custom home and into one of the picturesque Isomer villages -- only to be put off by the grisly murders that occur there. She's known to her family as an experimental, but not always successful, cook. Thus, Tom is often seen taking advantage of every opportunity to dine out. She married Tom in 1973 and their only child, Fully, was born five years later in 1978. Her parents are called Muriel and Douglas.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: d778eb48
+Context: The 2018 Georgia gubernatorial election will take place on November 2018, to elect the next Governor of the U.S. state of Georgia. Incumbent Republican Governor Nathan Deal is term - limited and thus can not seek reelection to a third consecutive term. The primary elections were held on May 22, 2018, and a primary runoff will be held on July 24, 2018, between Republican candidates Casey Cable and Brian Kemp. The Democrats have nominated Stacey Abrams.
+Question: who are the democrats running for governor of georgia
+Answer Entity: Stacey Abrams
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The 2018 Georgia gubernatorial election will take place on November 2018, to elect the next Governor of the U.S. state of Georgia. Incumbent Republican Governor Nathan Deal is term - limited and thus can not seek reelection to a third consecutive term. The primary elections were held on May 22, 2018, and a primary runoff will be held on July 24, 2018, between Republican candidates Casey Cable and Brian Kemp. The Democrats have nominated Stacey Abrams.
+Answer entity detected: [LinkedEntity(name='Stacey Abrams', wikidata_id='Q7595813', wikidata_uri='http://www.wikidata.org/entity/Q7595813')]
+================================================================================
+
+
+Question ID: bb25d69e
+Context: The 2017 Australian Open Men's Singles final was the championship tennis match of the Men's Singles tournament at the 2017 Australian Open. It was contested between Roger Federer and Rafael Nadal, ranked 17th and TH in the world respectively. It was their record ninth meeting in a Grand Slam final in their rivalry, and their st meeting in a Grand Slam final since the 2011 French Open. In a rematch of the 2009 Australian Open final, which Naval won in sets, Roger Federer won the duel in sets, beating Naval for the first time in a Grand Slam since the 2007 Wimbledon final. He also trailed Naval -- in the final set but won games in a row to win the title. This ended a - match losing streak against Naval in Grand Slam events. Having lost all of their previous three encounters, this was the first time Federer defeated Naval at the Australian Open and also marked Federer's first Grand Slam victory over Naval outside the grass courts of Wimbledon. Federer extended his record of Grand Slam men's singles titles to 18 exceeding the previous record of 14 held by Pete Lampreys.
+Question: who won the australian men's open final
+Answer Entity: Roger Federer
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The 2017 Australian Open Men's Singles final was the championship tennis match of the Men's Singles tournament at the 2017 Australian Open. It was contested between Roger Federer and Rafael Nadal, ranked 17th and TH in the world respectively. It was their record ninth meeting in a Grand Slam final in their rivalry, and their st meeting in a Grand Slam final since the 2011 French Open. In a rematch of the 2009 Australian Open final, which Naval won in sets, Roger Federer won the duel in sets, beating Naval for the first time in a Grand Slam since the 2007 Wimbledon final. He also trailed Naval -- in the final set but won games in a row to win the title. This ended a - match losing streak against Naval in Grand Slam events. Having lost all of their previous three encounters, this was the first time Federer defeated Naval at the Australian Open and also marked Federer's first Grand Slam victory over Naval outside the grass courts of Wimbledon. Federer extended his record of Grand Slam men's singles titles to 18 exceeding the previous record of 14 held by Pete Lampreys.
+Answer entity detected: [LinkedEntity(name='Roger Federer', wikidata_id='Q1426', wikidata_uri='http://www.wikidata.org/entity/Q1426'), LinkedEntity(name='sets, Roger Federer', wikidata_id='Q1426', wikidata_uri='http://www.wikidata.org/entity/Q1426')]
+================================================================================
+
+
+Question ID: 9d06762f
+Context: Serena Williams won her sixth Wimbledon and 21st major title, defeating first - time finalist Carbine Muguruza in the final, --, --. She also achieved her second non-calendar year Grand Slam after winning the 2014 US Open, 2015 Australian Open and 2015 French Open. With this win, Williams also became the oldest woman to win a Grand Slam singles title in the Open Era at 33 years and 289 days old by 26 days, beating Martina Navratilova, who won the 1990 Wimbledon Championships at 33 years and 263 days old.
+Question: who won the women's wimbledon championship 2015
+Answer Entity: Serena Williams
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Serena Williams won her sixth Wimbledon and 21st major title, defeating first - time finalist Carbine Muguruza in the final, --, --. She also achieved her second non-calendar year Grand Slam after winning the 2014 US Open, 2015 Australian Open and 2015 French Open. With this win, Williams also became the oldest woman to win a Grand Slam singles title in the Open Era at 33 years and 289 days old by 26 days, beating Martina Navratilova, who won the 1990 Wimbledon Championships at 33 years and 263 days old.
+Answer entity detected: [LinkedEntity(name='serena Williams', wikidata_id='Q11459', wikidata_uri='http://www.wikidata.org/entity/Q11459')]
+================================================================================
+
+
+Question ID: a985feed
+Context: The video starts as the bride, played by Jessie Preston, and groom, Daniel Isaac McGuffey, are about to be married. Her family dress and behave formally, but are revealed later to have fallen asleep and have eyes painted on their eyelids. His family are lower - class entertainers and carnival folk, and interrupt the wedding. The ringmaster, played by vocalist Brendon Erie, acts as narrator and disrupts the events. After an argument between the two families, the bride runs out and is followed by one of her guests. The ringmaster drags the groom outside by his tie, where his fiancée is kissing the guest who followed her out of the church. The groom straightens up, looking shocked, and Erie and the groom bow to the camera. The ringmaster is revealed to be the groom's alter ego.
+Question: who is the guy getting married in i write sins not tragedies
+Answer Entity: Daniel Isaac McGuffey
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The video starts as the bride, played by Jessie Preston, and groom, Daniel Isaac McGuffey, are about to be married. Her family dress and behave formally, but are revealed later to have fallen asleep and have eyes painted on their eyelids. His family are lower - class entertainers and carnival folk, and interrupt the wedding. The ringmaster, played by vocalist Brendon Erie, acts as narrator and disrupts the events. After an argument between the two families, the bride runs out and is followed by one of her guests. The ringmaster drags the groom outside by his tie, where his fiancée is kissing the guest who followed her out of the church. The groom straightens up, looking shocked, and Erie and the groom bow to the camera. The ringmaster is revealed to be the groom's alter ego.
+Answer entity detected: [LinkedEntity(name='groom, Daniel Isaac McGuffey,', wikidata_id='Q104619986', wikidata_uri='http://www.wikidata.org/entity/Q104619986')]
+================================================================================
+
+
+Question ID: f99100f8
+Context: Daisy Fay Buchanan is a fictional character in F. Scott Fitzgerald's magnum opus The Great Gatsby (1925) . In the novel, Daisy is depicted as a married woman with a daughter who is reunited with her former lover Jay Gatsby, arousing the jealousy of her husband, Tom. She is widely believed to have been based on Genera King. She has appeared in various media related to the novel including feature films and plays.
+Question: who is tom married to in the great gatsby
+Answer Entity: Daisy Fay Buchanan
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Daisy Fay Buchanan is a fictional character in F. Scott Fitzgerald's magnum opus The Great Gatsby (1925) . In the novel, Daisy is depicted as a married woman with a daughter who is reunited with her former lover Jay Gatsby, arousing the jealousy of her husband, Tom. She is widely believed to have been based on Genera King. She has appeared in various media related to the novel including feature films and plays.
+Answer entity detected: [LinkedEntity(name='daisy Fay Buchanan', wikidata_id='Q18710697', wikidata_uri='http://www.wikidata.org/entity/Q18710697')]
+================================================================================
+
+
+Question ID: 4458508f
+Context: Michele Carey (born February 26, 1943) is an American actress. Perhaps best known for her role as Josephine `` Joey '' MacDonald in the 1966 film El Dorado, she appeared in movies in the 1960s and 1970s, and guest - starred in episodes of several television series.
+Question: who played the girl joey in the movie el dorado
+Answer Entity: Michele Carey
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Michele Carey (born February 26, 1943) is an American actress. Perhaps best known for her role as Josephine `` Joey '' MacDonald in the 1966 film El Dorado, she appeared in movies in the 1960s and 1970s, and guest - starred in episodes of several television series.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: 37c849e1
+Context: David Mendenhall (born June 13, 1971) is an American actor and former child actor. He is perhaps best known for his roles in the films Space Raiders, Over the Top, The Transformers : The Movie and They Still Call Me Bruce.
+Question: who plays the kid in over the top
+Answer Entity: David Mendenhall
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: David Mendenhall (born June 13, 1971) is an American actor and former child actor. He is perhaps best known for his roles in the films Space Raiders, Over the Top, The Transformers : The Movie and They Still Call Me Bruce.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: 628941cd
+Context: Cress Williams (born July 26, 1970) is an American actor, known for his roles in Prison Break and Close to Home. His most recent roles include Mayor Avon Hayes on The CW series Hart of Dixie as well as the title character on The CW's Black Lightning.
+Question: who plays the mayor on hart of dixie
+Answer Entity: Cress Williams
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Cress Williams (born July 26, 1970) is an American actor, known for his roles in Prison Break and Close to Home. His most recent roles include Mayor Avon Hayes on The CW series Hart of Dixie as well as the title character on The CW's Black Lightning.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: be996b09
+Context: The film debuted in Los Angeles on November 16, 1991. It opened internationally on November 22, 1991, on the same day as An American Tail : Five Goes West and Beauty and the Beast and received generally positive reviews. Angelica Huston was nominated for a Golden Globe for her performance as Mortician Addams ; Raúl Julia as Gomez Addams, Christina Ricci as Wednesday Addams, and Christopher Lloyd as Uncle Fester were also well received. It was commercially successful, making back several times its operating budget, and was followed by a sequel, Addams Family Values, two years later.
+Question: who plays fester in the addams family movie
+Answer Entity: Christopher Lloyd
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The film debuted in Los Angeles on November 16, 1991. It opened internationally on November 22, 1991, on the same day as An American Tail : Five Goes West and Beauty and the Beast and received generally positive reviews. Angelica Huston was nominated for a Golden Globe for her performance as Mortician Addams ; Raúl Julia as Gomez Addams, Christina Ricci as Wednesday Addams, and Christopher Lloyd as Uncle Fester were also well received. It was commercially successful, making back several times its operating budget, and was followed by a sequel, Addams Family Values, two years later.
+Answer entity detected: [LinkedEntity(name='Christopher Lloyd', wikidata_id='Q983238', wikidata_uri='http://www.wikidata.org/entity/Q983238')]
+================================================================================
+
+
+Question ID: 467a44f9
+Context: Rosie Huntington - Whiteley as Carly Spencer, Sam's new girlfriend.
+Question: who plays sam's girlfriend in transformers dark of the moon
+Answer Entity: Rosie Huntington - Whiteley
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Rosie Huntington - Whiteley as Carly Spencer, Sam's new girlfriend.
+Answer entity detected: [LinkedEntity(name='rosie Huntington - Whiteley', wikidata_id='Q212006', wikidata_uri='http://www.wikidata.org/entity/Q212006')]
+================================================================================
+
+
+Question ID: 9d35e1f3
+Context: The first president of Poland, Gabriel Narutowicz, was sworn in as president of the Second Republic on 11 December 1922. He was elected by the National Assembly (the Seem and the Senate) under the terms of the 1921 Constitution of Poland. Previously Josef Piłsudski had been `` Chief of State '' (Naczelnik Pasta) under the provisional 1919 Constitution. In 1926, Piłsudski. Who was fed up with regional bickering, staged a coup deposed the president and had the National Assembly elect a new one, Ignacio Mosaic, under the thumb of Panacea. Just before Piłsudski died, parliament passed the 1935 April Constitution of Poland which incorporated Piłsudski's ideals, but was not in accord with the amendment procedures of the 1921 Constitution. Mosaic continued as president until he resigned following the German invasion of Poland in 1939. Mosaic and his government went into exile first into Romania, where Mosaic was interned, then to Angers in France where Władysław Raczkiewicz, at the time the Speaker of the Senate, assumed the presidency following Mościcki's resignation on 29 September 1939, and then on to London. The transfer from Mosaic to Raczkiewicz was in accordance with Article 24 of the 1935 April Constitution.
+Question: who was the first elected president of poland
+Answer Entity: Gabriel Narutowicz
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The first president of Poland, Gabriel Narutowicz, was sworn in as president of the Second Republic on 11 December 1922. He was elected by the National Assembly (the Seem and the Senate) under the terms of the 1921 Constitution of Poland. Previously Josef Piłsudski had been `` Chief of State '' (Naczelnik Pasta) under the provisional 1919 Constitution. In 1926, Piłsudski. Who was fed up with regional bickering, staged a coup deposed the president and had the National Assembly elect a new one, Ignacio Mosaic, under the thumb of Panacea. Just before Piłsudski died, parliament passed the 1935 April Constitution of Poland which incorporated Piłsudski's ideals, but was not in accord with the amendment procedures of the 1921 Constitution. Mosaic continued as president until he resigned following the German invasion of Poland in 1939. Mosaic and his government went into exile first into Romania, where Mosaic was interned, then to Angers in France where Władysław Raczkiewicz, at the time the Speaker of the Senate, assumed the presidency following Mościcki's resignation on 29 September 1939, and then on to London. The transfer from Mosaic to Raczkiewicz was in accordance with Article 24 of the 1935 April Constitution.
+Answer entity detected: [LinkedEntity(name='Poland, Gabriel Narutowicz,', wikidata_id='Q55836', wikidata_uri='http://www.wikidata.org/entity/Q55836')]
+================================================================================
+
+
+Question ID: ad46d46e
+Context: The opera begins with a short introduction which segues into an evening in Catfish Row. Jason Brown entertains the community with his piano playing. Clara, a young mother, sings a lullaby to her baby (`` Summer '') as the working men prepare for a game of craps (`` Roll them Bones '') . One of the players, Robbins, scorns his wife Serena's demands that he not play, retorting that on a Saturday night, a man has the right to play. Clara's husband, the fisherman Jake, tries his own lullaby (`` A Woman is a Sometime Thing '') with little effect. Little by little, other characters in the opera enter Catfish Row, among them Ming, another fisherman, and Jim, a stevedore who, tired of his job, decides to give it up and join Jake and the other fishermen. Porgy, a disabled beggar, enters on his goat cart to organize the game. Peter, an elderly `` honey man '' returns, singing his vendor's call. Crown, a strong and brutal stevedore, storms in with his woman, Bess, and buys cheap whiskey and some `` Happy Dust '' off the local dope peddler, Sporting' Life. Bess is shunned by the women of the community, especially the pious Serena and the matriarchal bookshop owner Maria, but Porgy softly defends her. The game begins. One by one, the players get crapped out, leaving only Robbins and Crown, who has become extremely drunk. When Robbins wins, Crown attempts to prevent him from taking his winnings. A brawl ensues, which ends when Crown stabs Robbins with a cotton hook, killing him. Crown runs, telling Bess to fend for herself but that he will be back for her when the heat dies down. Sporting' Life gives her a dose of happy dust and offers to take her with him when he goes to New York, but she rejects him. He flees, and Bess begins to pound on doors, but is rejected by all the residents of Catfish Row, except Porgy, who lets her in.
+Question: what character sings summertime in porgy and bess
+Answer Entity: Clara
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The opera begins with a short introduction which segues into an evening in Catfish Row. Jason Brown entertains the community with his piano playing. Clara, a young mother, sings a lullaby to her baby (`` Summer '') as the working men prepare for a game of craps (`` Roll them Bones '') . One of the players, Robbins, scorns his wife Serena's demands that he not play, retorting that on a Saturday night, a man has the right to play. Clara's husband, the fisherman Jake, tries his own lullaby (`` A Woman is a Sometime Thing '') with little effect. Little by little, other characters in the opera enter Catfish Row, among them Ming, another fisherman, and Jim, a stevedore who, tired of his job, decides to give it up and join Jake and the other fishermen. Porgy, a disabled beggar, enters on his goat cart to organize the game. Peter, an elderly `` honey man '' returns, singing his vendor's call. Crown, a strong and brutal stevedore, storms in with his woman, Bess, and buys cheap whiskey and some `` Happy Dust '' off the local dope peddler, Sporting' Life. Bess is shunned by the women of the community, especially the pious Serena and the matriarchal bookshop owner Maria, but Porgy softly defends her. The game begins. One by one, the players get crapped out, leaving only Robbins and Crown, who has become extremely drunk. When Robbins wins, Crown attempts to prevent him from taking his winnings. A brawl ensues, which ends when Crown stabs Robbins with a cotton hook, killing him. Crown runs, telling Bess to fend for herself but that he will be back for her when the heat dies down. Sporting' Life gives her a dose of happy dust and offers to take her with him when he goes to New York, but she rejects him. He flees, and Bess begins to pound on doors, but is rejected by all the residents of Catfish Row, except Porgy, who lets her in.
+Answer entity detected: [LinkedEntity(name='clara, a young mother,', wikidata_id='Q20176821', wikidata_uri='http://www.wikidata.org/entity/Q20176821'), LinkedEntity(name='clara', wikidata_id='Q607403', wikidata_uri='http://www.wikidata.org/entity/Q607403')]
+================================================================================
+
+
+Question ID: cc803e1a
+Context: In India, the day' December 22 has been declared as the National Mathematics Day. The Declaration was made by Dr Manson Singh, Former Prime Minister of India, during the inaugural ceremony of the celebrations to mark the 125th birth anniversary of Srinivasan Ramanujan held at the Madras University Centenary Auditorium on 26 February 2012. Dr Manson Singh also announced that the year 2012 would be celebrated as the National Mathematics Year.
+Question: in whose honour is the national mathematics day celebrated
+Answer Entity: Srinivasan Ramanujan
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: In India, the day' December 22 has been declared as the National Mathematics Day. The Declaration was made by Dr Manson Singh, Former Prime Minister of India, during the inaugural ceremony of the celebrations to mark the 125th birth anniversary of Srinivasan Ramanujan held at the Madras University Centenary Auditorium on 26 February 2012. Dr Manson Singh also announced that the year 2012 would be celebrated as the National Mathematics Year.
+Answer entity detected: [LinkedEntity(name='125th birth anniversary of Srinivasan Ramanujan', wikidata_id='Q52491562', wikidata_uri='http://www.wikidata.org/entity/Q52491562')]
+================================================================================
+
+
+Question ID: 3e500ef6
+Context: The longest field goal kick in NFL history is 64 yards, a record set by Matt Prater on December 2013. The previous record was 63, originally set by Tom Dempsey and then matched by Jason Elam, Sebastian Malinowski, and David Makers. High school, college and most professional football leagues offer only a three - point field goal ; however, some professional leagues have encouraged more rare kicks through four - point field goals. NFL Europe encouraged long field goals of 50 yards or more by making those worth four points instead of three (much like Australian rules' Super Goal or basketball's three - point line) , a rule since adopted by the Stars Football League. Similarly, the sport of arena football sought (unsuccessfully) to repopularize the drop-kick by making that worth four points ; it failed, since only one kicker (Brian Mitchell) was able to do it with any semblance of proficiency. (In six - man football, where there is no offensive line, all field goals are worth four points instead of the usual three. )
+Question: who has made the longest field goal ever
+Answer Entity: Matt Prater
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The longest field goal kick in NFL history is 64 yards, a record set by Matt Prater on December 2013. The previous record was 63, originally set by Tom Dempsey and then matched by Jason Elam, Sebastian Malinowski, and David Makers. High school, college and most professional football leagues offer only a three - point field goal ; however, some professional leagues have encouraged more rare kicks through four - point field goals. NFL Europe encouraged long field goals of 50 yards or more by making those worth four points instead of three (much like Australian rules' Super Goal or basketball's three - point line) , a rule since adopted by the Stars Football League. Similarly, the sport of arena football sought (unsuccessfully) to repopularize the drop-kick by making that worth four points ; it failed, since only one kicker (Brian Mitchell) was able to do it with any semblance of proficiency. (In six - man football, where there is no offensive line, all field goals are worth four points instead of the usual three. )
+Answer entity detected: [LinkedEntity(name='Matt Prater on December 2013', wikidata_id='Q15410094', wikidata_uri='http://www.wikidata.org/entity/Q15410094')]
+================================================================================
+
+
+Question ID: f9cb673c
+Context: Donna Paige Helmintoller, better known as Paige O'Hara (born May 10, 1956) , is an American actress, voice actress, singer and painter. O'Hara began her career as a Broadway actress in 1983 when she portrayed Ellie May Chile in the musical Showboat. In 1991, she made her motion picture debut in Disney's Beauty and the Beast, in which she voiced the film's heroine, Belle. Following the critical and commercial success of Beauty and the Beast, O'Hara reprised her role as Belle in the film's two direct - to - video follow-ups, Beauty and the Beast : The Enchanted Christmas and Belle's Magical World.
+Question: who was the voice of belle in the original beauty and the beast
+Answer Entity: Donna Paige Helmintoller
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Donna Paige Helmintoller, better known as Paige O'Hara (born May 10, 1956) , is an American actress, voice actress, singer and painter. O'Hara began her career as a Broadway actress in 1983 when she portrayed Ellie May Chile in the musical Showboat. In 1991, she made her motion picture debut in Disney's Beauty and the Beast, in which she voiced the film's heroine, Belle. Following the critical and commercial success of Beauty and the Beast, O'Hara reprised her role as Belle in the film's two direct - to - video follow-ups, Beauty and the Beast : The Enchanted Christmas and Belle's Magical World.
+Answer entity detected: [LinkedEntity(name='donna Paige Helmintoller, better', wikidata_id='Q52402860', wikidata_uri='http://www.wikidata.org/entity/Q52402860')]
+================================================================================
+
+
+Question ID: 608b9dd0
+Context: Bob Sage as Future Ted Cosby (voice only, uncredited) , Ted's future self, telling his children the story of how he met their mother, in the year 2030.
+Question: who is the voice on how i met your mother
+Answer Entity: Bob Sage
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Bob Sage as Future Ted Cosby (voice only, uncredited) , Ted's future self, telling his children the story of how he met their mother, in the year 2030.
+Answer entity detected: [LinkedEntity(name='bob Sage', wikidata_id='Q3379200', wikidata_uri='http://www.wikidata.org/entity/Q3379200')]
+================================================================================
+
+
+Question ID: f5df3c69
+Context: Tracy McConnell (colloquial : `` The Mother '') is the title character from the CBS television sitcom How I Met Your Mother. The show, narrated by Future Ted (Bob Sage) , tells the story of how Ted Cosby (Josh Radnor) met The Mother. Tracy McConnell appears in eight episodes, from `` Lucky Penny '' to `` The Time Travelers '', as an unseen character ; she was first seen fully in `` Something New '' and was promoted to a main character in season. The Mother is played by Cristina Militia.
+Question: who ends up being the mother in how i met your mother
+Answer Entity: Tracy McConnell
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Tracy McConnell (colloquial : `` The Mother '') is the title character from the CBS television sitcom How I Met Your Mother. The show, narrated by Future Ted (Bob Sage) , tells the story of how Ted Cosby (Josh Radnor) met The Mother. Tracy McConnell appears in eight episodes, from `` Lucky Penny '' to `` The Time Travelers '', as an unseen character ; she was first seen fully in `` Something New '' and was promoted to a main character in season. The Mother is played by Cristina Militia.
+Answer entity detected: [LinkedEntity(name='tracy McConnell (colloquial : ``', wikidata_id='Q15362106', wikidata_uri='http://www.wikidata.org/entity/Q15362106'), LinkedEntity(name='tracy McConnell', wikidata_id='Q15362106', wikidata_uri='http://www.wikidata.org/entity/Q15362106')]
+================================================================================
+
+
+Question ID: 94b7630c
+Context: Nat Wolff as Isaac, Augustus' best friend
+Question: who plays isaac in the fault in our stars
+Answer Entity: Nat Wolff
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Nat Wolff as Isaac, Augustus' best friend
+Answer entity detected: [LinkedEntity(name='nat Wolff', wikidata_id='Q1249010', wikidata_uri='http://www.wikidata.org/entity/Q1249010')]
+================================================================================
+
+
+Question ID: 31bc342a
+Context: `` I Just Want to Make Love to You '' is a 1954 blues song written by Willie Dixon, first recorded by Muddy Waters, and released as `` Just Make Love to Me '' (Chess 1571) . The song reached number four on Billboard magazine's R&B Best Sellers chart.
+Question: who sang the song i just want to make love to you
+Answer Entity: Muddy Waters
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: `` I Just Want to Make Love to You '' is a 1954 blues song written by Willie Dixon, first recorded by Muddy Waters, and released as `` Just Make Love to Me '' (Chess 1571) . The song reached number four on Billboard magazine's R&B Best Sellers chart.
+Answer entity detected: [LinkedEntity(name='Muddy Waters,', wikidata_id='Q220707', wikidata_uri='http://www.wikidata.org/entity/Q220707')]
+================================================================================
+
+
+Question ID: 95b88f05
+Context: Bob Boiled as himself Kelsey Grammar as Sideshow Bob Natalie Maine's as Hettie (singing voice) Kate McKinnon as Hettie
+Question: who played hettie mae boggs on the simpsons
+Answer Entity: Kate McKinnon
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Bob Boiled as himself Kelsey Grammar as Sideshow Bob Natalie Maine's as Hettie (singing voice) Kate McKinnon as Hettie
+Answer entity detected: []
+================================================================================
+
+
+Question ID: 339468ab
+Context: The Department of Homeland Security is headed by the Secretary of Homeland Security with the assistance of the Deputy Secretary. The Department contains the components listed below.
+Question: who does department of homeland security report to
+Answer Entity: Secretary of Homeland Security
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The Department of Homeland Security is headed by the Secretary of Homeland Security with the assistance of the Deputy Secretary. The Department contains the components listed below.
+Answer entity detected: [LinkedEntity(name='Secretary of Homeland Security with the assistance of the Deputy Secretary', wikidata_id='Q7889752', wikidata_uri='http://www.wikidata.org/entity/Q7889752')]
+================================================================================
+
+
+Question ID: 784db130
+Context: `` With a Little Help from My Friends '' is a song by the Beatles, written by John Lennon and Paul McCartney from the album Sgt. Pepper's Lonely Hearts Club Band issued worldwide in June 1967. The song was written for and sung by the Beatles' drummer Ringo Starr as the character `` Billy Shears ''. The song, paired with `` Sgt. Pepper's Lonely Hearts Club Band '' and featuring `` A Day in the Life '' as its B - side, was reissued as a single in the U.S. in August 1978 (71) and in the U.K. in September 1978 (63) . `` With a Little Help from My Friends '' was ranked No. 311 on Rolling Stone's list of the 500 Greatest Songs of All Time.
+Question: who sang the song a little help from my friends
+Answer Entity: Ringo Starr
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: `` With a Little Help from My Friends '' is a song by the Beatles, written by John Lennon and Paul McCartney from the album Sgt. Pepper's Lonely Hearts Club Band issued worldwide in June 1967. The song was written for and sung by the Beatles' drummer Ringo Starr as the character `` Billy Shears ''. The song, paired with `` Sgt. Pepper's Lonely Hearts Club Band '' and featuring `` A Day in the Life '' as its B - side, was reissued as a single in the U.S. in August 1978 (71) and in the U.K. in September 1978 (63) . `` With a Little Help from My Friends '' was ranked No. 311 on Rolling Stone's list of the 500 Greatest Songs of All Time.
+Answer entity detected: [LinkedEntity(name="Beatles' drummer Ringo Starr", wikidata_id='Q84442756', wikidata_uri='http://www.wikidata.org/entity/Q84442756')]
+================================================================================
+
+
+Question ID: b1567bd9
+Context: Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electrics (`` of amber '' or `` like amber '', from ἤλεκτρον, electron, the Greek word for `` amber '') to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words `` electric '' and `` electricity '', which made their first appearance in print in Thomas Browne's Pseudopodia Epidemic of 1646.
+Question: who was the first person who discovered electricity
+Answer Entity: William Gilbert
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electrics (`` of amber '' or `` like amber '', from ἤλεκτρον, electron, the Greek word for `` amber '') to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words `` electric '' and `` electricity '', which made their first appearance in print in Thomas Browne's Pseudopodia Epidemic of 1646.
+Answer entity detected: [LinkedEntity(name='the English scientist William Gilbert', wikidata_id='Q52376648', wikidata_uri='http://www.wikidata.org/entity/Q52376648')]
+================================================================================
+
+
+Question ID: 2d6e9be5
+Context: Shakuntala, also known as The Recognition of Shakuntala, The Sign of Shakuntala, and many other variants (Devanagari : अभिज्ञानशाकुन्तलम् -- Abhijñānashākuntala) , is a Sanskrit play by the ancient Indian poet Alias, dramatizing the story of Shakuntala told in the epic Mahabharata. It is considered to be the best of Kālidāsa's works. Its date is uncertain, but Alias is often placed in the period between the st century BCE and TH century CE.
+Question: identify the author of sanskrit drama abhigyan shakuntalam
+Answer Entity: Alias
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Shakuntala, also known as The Recognition of Shakuntala, The Sign of Shakuntala, and many other variants (Devanagari : अभिज्ञानशाकुन्तलम् -- Abhijñānashākuntala) , is a Sanskrit play by the ancient Indian poet Alias, dramatizing the story of Shakuntala told in the epic Mahabharata. It is considered to be the best of Kālidāsa's works. Its date is uncertain, but Alias is often placed in the period between the st century BCE and TH century CE.
+Answer entity detected: [LinkedEntity(name='ncient Indian poet Alias,', wikidata_id='Q26116629', wikidata_uri='http://www.wikidata.org/entity/Q26116629'), LinkedEntity(name='uncertain, but Alias', wikidata_id='Q50092913', wikidata_uri='http://www.wikidata.org/entity/Q50092913')]
+================================================================================
+
+
+Question ID: 4ce7bbca
+Context: Supreme Court initially had its seat at Chamber of Princes in the Parliament building where the previous Federal Court of India sat from 1937 to 1950. The first Chief Justice of India was Sir HE Kana. In 1958, the Supreme Court moved to its present premises. Originally, Constitution of India envisaged a Supreme Court with a Chief Justice and seven Judges ; leaving it to Parliament to increase this number. In formative years, the Supreme Court met from 10 to 12 in the morning and then to in the afternoon for 28 days in a month.
+Question: who is the first judge of supreme court in india
+Answer Entity: Sir HE Kana
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Supreme Court initially had its seat at Chamber of Princes in the Parliament building where the previous Federal Court of India sat from 1937 to 1950. The first Chief Justice of India was Sir HE Kana. In 1958, the Supreme Court moved to its present premises. Originally, Constitution of India envisaged a Supreme Court with a Chief Justice and seven Judges ; leaving it to Parliament to increase this number. In formative years, the Supreme Court met from 10 to 12 in the morning and then to in the afternoon for 28 days in a month.
+Answer entity detected: [LinkedEntity(name='Sir HE Kana', wikidata_id='Q91515449', wikidata_uri='http://www.wikidata.org/entity/Q91515449')]
+================================================================================
+
+
+Question ID: 91253367
+Context: The Russian chemist Dmitri Mendeleev was the first scientist to make a periodic table similar to the one used today. Mendeleev arranged the elements by atomic mass, corresponding to relative molar mass. It is sometimes said that he played' chemical solitaire' on long train journeys, using cards with various facts about the known elements. On March 1869, Mendeleev gave a formal presentation, The Dependence Between the Properties of the Atomic Weights of the Elements, to the Russian Chemical Society. In 1869, the table was published in an obscure Russian journal and then republished in a German journal, Zeitschrift fur Cherie. In it, Mendeleev stated that :
+Question: who designed the periodic table we use today
+Answer Entity: Dmitri Mendeleev
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The Russian chemist Dmitri Mendeleev was the first scientist to make a periodic table similar to the one used today. Mendeleev arranged the elements by atomic mass, corresponding to relative molar mass. It is sometimes said that he played' chemical solitaire' on long train journeys, using cards with various facts about the known elements. On March 1869, Mendeleev gave a formal presentation, The Dependence Between the Properties of the Atomic Weights of the Elements, to the Russian Chemical Society. In 1869, the table was published in an obscure Russian journal and then republished in a German journal, Zeitschrift fur Cherie. In it, Mendeleev stated that :
+Answer entity detected: [LinkedEntity(name='Russian chemist Dmitri Mendeleev', wikidata_id='Q9106', wikidata_uri='http://www.wikidata.org/entity/Q9106')]
+================================================================================
+
+
+Question ID: b6b536e0
+Context: Auburn's BO Jackson claims to have run a 40 - yard dash with a time of .12 s. A time of .18 run by Jackson within the same week added some support to the legitimacy of the times. Texas Tech's Jake em Grant was hand - timed by a New Orleans Saints scout as running a .10 in 2016, potentially beating Jackson's record. Dan Sanders ran a .27 - second 40 - yard dash in 1989.
+Question: who ran the fastest 40 time in nfl history
+Answer Entity: BO Jackson
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Auburn's BO Jackson claims to have run a 40 - yard dash with a time of .12 s. A time of .18 run by Jackson within the same week added some support to the legitimacy of the times. Texas Tech's Jake em Grant was hand - timed by a New Orleans Saints scout as running a .10 in 2016, potentially beating Jackson's record. Dan Sanders ran a .27 - second 40 - yard dash in 1989.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: 418c59c2
+Context: The winner of the third season of RuPaul's Drag Race All Stars was Trixie Mattel, with Kennedy Davenport being the runner - up.
+Question: who won ru paul drag race all stars 3
+Answer Entity: Trixie Mattel
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The winner of the third season of RuPaul's Drag Race All Stars was Trixie Mattel, with Kennedy Davenport being the runner - up.
+Answer entity detected: [LinkedEntity(name='Trixie Mattel,', wikidata_id='Q23905339', wikidata_uri='http://www.wikidata.org/entity/Q23905339')]
+================================================================================
+
+
+Question ID: ad8c1a75
+Context: Simon & Garfunkel were an American folk rock duo consisting of singer-songwriter Paul Simon and singer Art Garfunkel. They were one of the best-selling music groups of the 1960s and became counterculture icons of the decade's social revolution, alongside artists such as the Beatles, the Beach Boys, and Bob Dylan. Their biggest hits -- including `` The Sound of Silence '' (1964) , `` Mrs. Robinson '' (1968) , `` The Boxer '' (1969) , and `` Bridge over Troubled Water '' (1970) -- reached number one on singles charts worldwide.
+Question: who wrote the songs in simon and garfunkel
+Answer Entity: Paul Simon
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Simon & Garfunkel were an American folk rock duo consisting of singer-songwriter Paul Simon and singer Art Garfunkel. They were one of the best-selling music groups of the 1960s and became counterculture icons of the decade's social revolution, alongside artists such as the Beatles, the Beach Boys, and Bob Dylan. Their biggest hits -- including `` The Sound of Silence '' (1964) , `` Mrs. Robinson '' (1968) , `` The Boxer '' (1969) , and `` Bridge over Troubled Water '' (1970) -- reached number one on singles charts worldwide.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: 7ea327b4
+Context: A player has taken two hats - tricks in the same Test match only once. Playing for Australia against South Africa in the first match of the 1912 Triangular Tournament at Old Trafford, Manchester, England, leg spinner Jimmy Matthews took a hat - trick in South Africa's first and second innings, both taken on 28 May 1912. He completed both hat - tricks by dismissing South Africa's Tommy Ward. Only three other cricketers have taken more than one Test hat - trick : Australian off spinner Hugh Crumble (two years apart, between the same teams at the same ground) , Pakistani fast bowler Wasm Abram (just over a week apart, in consecutive matches between the same teams) and English fast bowler Stuart Broad. Three players have taken a hat - trick on their Test debut : English medium pace bowler Maurice Allow in 1930, New Zealand off - spinner Peter Etheric in 1976, and Australian pace bowler Damien Fleming in 1994. Geoff Griffin took the fewest total Test wickets of any player who recorded a hat - trick, taking only eight wickets in his entire Test career. During the match in which he took his hat - trick, Griffin was repeatedly called for throwing by the umpires and never bowled again in a Test match. Australian Peter Middle is the only bowler to take a hat - trick on his birthday, and Bangladeshi off spinner Shag Nazi is the only player to score a century and take a hat - trick in the same Test match.
+Question: who is the only bowler who take hattrick in both innings of test match
+Answer Entity: Jimmy Matthews
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: A player has taken two hats - tricks in the same Test match only once. Playing for Australia against South Africa in the first match of the 1912 Triangular Tournament at Old Trafford, Manchester, England, leg spinner Jimmy Matthews took a hat - trick in South Africa's first and second innings, both taken on 28 May 1912. He completed both hat - tricks by dismissing South Africa's Tommy Ward. Only three other cricketers have taken more than one Test hat - trick : Australian off spinner Hugh Crumble (two years apart, between the same teams at the same ground) , Pakistani fast bowler Wasm Abram (just over a week apart, in consecutive matches between the same teams) and English fast bowler Stuart Broad. Three players have taken a hat - trick on their Test debut : English medium pace bowler Maurice Allow in 1930, New Zealand off - spinner Peter Etheric in 1976, and Australian pace bowler Damien Fleming in 1994. Geoff Griffin took the fewest total Test wickets of any player who recorded a hat - trick, taking only eight wickets in his entire Test career. During the match in which he took his hat - trick, Griffin was repeatedly called for throwing by the umpires and never bowled again in a Test match. Australian Peter Middle is the only bowler to take a hat - trick on his birthday, and Bangladeshi off spinner Shag Nazi is the only player to score a century and take a hat - trick in the same Test match.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: 30b98920
+Context: This was the only season to feature a cast of only 10 finalists. All later cycles have featured at least 12 finalists. The international destination for the cycle was Paris, France. The winner of the competition was 20 - year - old Adrianne Curry from Joliet, Illinois. Her prizes were a modelling contract with Wilhelmina Models, a photo spread in Marie Claire magazine and a contract with Revlon cosmetics.
+Question: who won season 1 america's next top model
+Answer Entity: Adrianne Curry
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: This was the only season to feature a cast of only 10 finalists. All later cycles have featured at least 12 finalists. The international destination for the cycle was Paris, France. The winner of the competition was 20 - year - old Adrianne Curry from Joliet, Illinois. Her prizes were a modelling contract with Wilhelmina Models, a photo spread in Marie Claire magazine and a contract with Revlon cosmetics.
+Answer entity detected: [LinkedEntity(name='20 - year - old Adrianne Curry', wikidata_id='Q60233646', wikidata_uri='http://www.wikidata.org/entity/Q60233646')]
+================================================================================
+
+
+Question ID: 145ed2f6
+Context: Operant conditioning, sometimes called instrumental learning, was first extensively studied by Edward L. Thorndike (1874 -- 1949) , who observed the behavior of cats trying to escape from home - made puzzle boxes. A cat could escape from the box by a simple response such as pulling a cord or pushing a pole, but when first constrained, the cats took a long time to get out. With repeated trials ineffective responses occurred less frequently and successful responses occurred more frequently, so the cats escaped more and more quickly. Thorndike generalized this finding in his law of effect, which states that behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated. In short, some consequences strengthen behavior and some consequences weaken behavior. By plotting escape time against trial number Thorndike produced the first known animal learning curves through this procedure.
+Question: who is credited for the identification of operant conditioning
+Answer Entity: Edward L. Thorndike
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Operant conditioning, sometimes called instrumental learning, was first extensively studied by Edward L. Thorndike (1874 -- 1949) , who observed the behavior of cats trying to escape from home - made puzzle boxes. A cat could escape from the box by a simple response such as pulling a cord or pushing a pole, but when first constrained, the cats took a long time to get out. With repeated trials ineffective responses occurred less frequently and successful responses occurred more frequently, so the cats escaped more and more quickly. Thorndike generalized this finding in his law of effect, which states that behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated. In short, some consequences strengthen behavior and some consequences weaken behavior. By plotting escape time against trial number Thorndike produced the first known animal learning curves through this procedure.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: f1bc56e5
+Context: Neil Curtis is a fictional character from the television drama Days of Our Lives. He was portrayed by Joseph Allison from February 13, 1974, to October 16, 1991.
+Question: who played neil curtis on days of our lives
+Answer Entity: Joseph Allison
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Neil Curtis is a fictional character from the television drama Days of Our Lives. He was portrayed by Joseph Allison from February 13, 1974, to October 16, 1991.
+Answer entity detected: [LinkedEntity(name='Joseph Allison', wikidata_id='Q6280991', wikidata_uri='http://www.wikidata.org/entity/Q6280991')]
+================================================================================
+
+
+Question ID: 483c0c15
+Context: Joël Robinson (French pronunciation : ​ (ʒɔɛl ʁobyʃɔ̃) , born April 1945) is a French chef and restaurateur. He was titled `` Chef of the Century '' by the guide Fault Millay in 1989, and also awarded the Miller Courier de France (France's Best Craftsman) in cuisine in 1976. He has published several cookbooks in French, two of which have been translated into English, has chaired the committee for the current edition of the Larousse Gastronomic, and has hosted culinary television shows in France. Furthermore, he operates a dozen restaurants in Bangkok, Bordeaux, Hong Kong, Las Vegas, London, Macau, Monaco, Montreal, Paris, Singapore, Taipei, Tokyo, and New York City, with a total of 32 Michelin Guide stars among them -- the most of any chef in the world.
+Question: chef with most michelin stars in the world
+Answer Entity: Joël Robinson
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Joël Robinson (French pronunciation : ​ (ʒɔɛl ʁobyʃɔ̃) , born April 1945) is a French chef and restaurateur. He was titled `` Chef of the Century '' by the guide Fault Millay in 1989, and also awarded the Miller Courier de France (France's Best Craftsman) in cuisine in 1976. He has published several cookbooks in French, two of which have been translated into English, has chaired the committee for the current edition of the Larousse Gastronomic, and has hosted culinary television shows in France. Furthermore, he operates a dozen restaurants in Bangkok, Bordeaux, Hong Kong, Las Vegas, London, Macau, Monaco, Montreal, Paris, Singapore, Taipei, Tokyo, and New York City, with a total of 32 Michelin Guide stars among them -- the most of any chef in the world.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: 6b4ba308
+Context: The Strange Situation procedure was formulated to observe attachment relationships between a caregiver and children between the age of nine and 18 months. It was developed by Mary Ainsworth, a developmental psychologist Originally it was devised to enable children to be classified into the attachment styles known as secure, anxious - avoidant and anxious - ambivalent. As research accumulated and atypical patterns of attachment became more apparent it was further developed by Main and Solomon in 1986 and 1990 to include the new category of disorganized / disoriented attachment.
+Question: who developed an effective method for measuring attachment
+Answer Entity: Mary Ainsworth
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The Strange Situation procedure was formulated to observe attachment relationships between a caregiver and children between the age of nine and 18 months. It was developed by Mary Ainsworth, a developmental psychologist Originally it was devised to enable children to be classified into the attachment styles known as secure, anxious - avoidant and anxious - ambivalent. As research accumulated and atypical patterns of attachment became more apparent it was further developed by Main and Solomon in 1986 and 1990 to include the new category of disorganized / disoriented attachment.
+Answer entity detected: [LinkedEntity(name='Mary Ainsworth, a developmental psychologist Originally', wikidata_id='Q103844818', wikidata_uri='http://www.wikidata.org/entity/Q103844818')]
+================================================================================
+
+
+Question ID: 203f799f
+Context: `` Still Crazy After All These Years '' is a song by the American singer-songwriter Paul Simon. It was the third and final single from his fifth studio album of the same name (1975) , released on Columbia Records. Though the song briefly reached the top 40 of the Billboard Hot 100 in the U.S., it was a bigger hit on the magazine's Easy Listening chart, where it peaked at number four.
+Question: who sang still crazy after all these years
+Answer Entity: Paul Simon
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: `` Still Crazy After All These Years '' is a song by the American singer-songwriter Paul Simon. It was the third and final single from his fifth studio album of the same name (1975) , released on Columbia Records. Though the song briefly reached the top 40 of the Billboard Hot 100 in the U.S., it was a bigger hit on the magazine's Easy Listening chart, where it peaked at number four.
+Answer entity detected: [LinkedEntity(name='American singer-songwriter Paul Simon', wikidata_id='Q103879566', wikidata_uri='http://www.wikidata.org/entity/Q103879566')]
+================================================================================
+
+
+Question ID: 2d94ba71
+Context: Thelma and Louise are finally cornered by the authorities only one hundred yards from the edge of the Grand Canyon. Hal arrives on the scene, but he is refused the chance to make one last attempt to talk the women into surrendering. Rather than be captured and spend the rest of their lives in jail, Thelma proposes that they `` keep going ''. Louise asks Thelma if she is certain, and Thelma says yes. They kiss, then Louise steps on the accelerator, and they ride the car over the cliff to their deaths.
+Question: who was driving the car when thelma and louise drove off the cliff
+Answer Entity: Louise
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Thelma and Louise are finally cornered by the authorities only one hundred yards from the edge of the Grand Canyon. Hal arrives on the scene, but he is refused the chance to make one last attempt to talk the women into surrendering. Rather than be captured and spend the rest of their lives in jail, Thelma proposes that they `` keep going ''. Louise asks Thelma if she is certain, and Thelma says yes. They kiss, then Louise steps on the accelerator, and they ride the car over the cliff to their deaths.
+Answer entity detected: [LinkedEntity(name='thelma and Louise are ', wikidata_id='Q10696128', wikidata_uri='http://www.wikidata.org/entity/Q10696128'), LinkedEntity(name='louise', wikidata_id='Q14714149', wikidata_uri='http://www.wikidata.org/entity/Q14714149'), LinkedEntity(name=' Louise', wikidata_id='Q14714149', wikidata_uri='http://www.wikidata.org/entity/Q14714149')]
+================================================================================
+
+
+Question ID: 182fcfa1
+Context: Alexis Marquette as Mitch
+Question: who plays mitch in she's all that
+Answer Entity: Alexis Marquette
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Alexis Marquette as Mitch
+Answer entity detected: [LinkedEntity(name='alexis Marquette as Mitch', wikidata_id='Q77681749', wikidata_uri='http://www.wikidata.org/entity/Q77681749')]
+================================================================================
+
+
+Question ID: d32c8ef3
+Context: Karen Gillian (born 28 November 1987) is a Scottish actress, director, and screenwriter from Inverness, Scotland. She played the role of Amy Pond, companion to the Eleventh Doctor, in the BBC One science fiction series Doctor Who (2010 -- 2013) . In film, she portrayed Nebula in the Marvel Cinematic Universe films Guardians of the Galaxy (2014) and Guardians of the Galaxy Vol. (2017) , the upcoming Avengers : Infinity War (2018) , and its untitled sequel (2019) , and also played Ruby Roundhouse in the box - office hit Jumanji : Welcome to the Jungle (2017) .
+Question: who played nebula on guardians of the galaxy vol 2
+Answer Entity: Karen Gillian
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Karen Gillian (born 28 November 1987) is a Scottish actress, director, and screenwriter from Inverness, Scotland. She played the role of Amy Pond, companion to the Eleventh Doctor, in the BBC One science fiction series Doctor Who (2010 -- 2013) . In film, she portrayed Nebula in the Marvel Cinematic Universe films Guardians of the Galaxy (2014) and Guardians of the Galaxy Vol. (2017) , the upcoming Avengers : Infinity War (2018) , and its untitled sequel (2019) , and also played Ruby Roundhouse in the box - office hit Jumanji : Welcome to the Jungle (2017) .
+Answer entity detected: []
+================================================================================
+
+
+Question ID: ef087b9b
+Context: John Baxter Taylor Jr. (November 1882, Washington, D.C. -- December 1908, Philadelphia, Pennsylvania) was an American track and field athlete, notable as the first African American to win an Olympic gold medal.
+Question: first black man to win an olympic gold medal
+Answer Entity: John Baxter Taylor Jr.
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: John Baxter Taylor Jr. (November 1882, Washington, D.C. -- December 1908, Philadelphia, Pennsylvania) was an American track and field athlete, notable as the first African American to win an Olympic gold medal.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: d6877623
+Context: The Big Chill is a 1983 American comedy - drama film directed by Lawrence Asian, starring Tom Banger, Glenn Close, Jeff Goldblum, William Hurt, Kevin Kline, Mary Kay Place, Meg Tilly, and Jo Beth Williams. The plot focuses on a group of baby boomers who attended the University of Michigan, reuniting after 15 years when their friend Alex commits suicide. Kevin Costner was cast as Alex, but all scenes showing his face were cut. It was filmed in Beaufort, South Carolina.
+Question: who played the dead guy in the movie the big chill
+Answer Entity: Kevin Costner
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The Big Chill is a 1983 American comedy - drama film directed by Lawrence Asian, starring Tom Banger, Glenn Close, Jeff Goldblum, William Hurt, Kevin Kline, Mary Kay Place, Meg Tilly, and Jo Beth Williams. The plot focuses on a group of baby boomers who attended the University of Michigan, reuniting after 15 years when their friend Alex commits suicide. Kevin Costner was cast as Alex, but all scenes showing his face were cut. It was filmed in Beaufort, South Carolina.
+Answer entity detected: [LinkedEntity(name='kevin Costner', wikidata_id='Q11930', wikidata_uri='http://www.wikidata.org/entity/Q11930')]
+================================================================================
+
+
+Question ID: ed6aa0ed
+Context: Gary Oldman as Sirius Black, Harry's infamous godfather, who escapes from the Warding prison Azkaban after serving twelve years there for being falsely accused of being the Death Eater who betrayed Harry's parents to Voldemort. Goldman accepted the part because he needed the money, as he had not taken on any major work in several years after deciding to spend more time with his children. He drew inspiration from Charon, whom he described as having `` such enthusiasm and a joy for life, '' and compared Sirius to John Lennon. He was `` surprised by how difficult it was to pull off '', comparing the role to Shakespearean dialogue. Goldman suggested Sirius's hairstyle, while Charon designed his tattoos. He had read the first book, and his children were fans of the series. The part made Goldman a hero with his children and their schoolmates.
+Question: who played sirius black in prisoner of azkaban
+Answer Entity: Gary Oldman
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Gary Oldman as Sirius Black, Harry's infamous godfather, who escapes from the Warding prison Azkaban after serving twelve years there for being falsely accused of being the Death Eater who betrayed Harry's parents to Voldemort. Goldman accepted the part because he needed the money, as he had not taken on any major work in several years after deciding to spend more time with his children. He drew inspiration from Charon, whom he described as having `` such enthusiasm and a joy for life, '' and compared Sirius to John Lennon. He was `` surprised by how difficult it was to pull off '', comparing the role to Shakespearean dialogue. Goldman suggested Sirius's hairstyle, while Charon designed his tattoos. He had read the first book, and his children were fans of the series. The part made Goldman a hero with his children and their schoolmates.
+Answer entity detected: [LinkedEntity(name='gary Oldman', wikidata_id='Q83492', wikidata_uri='http://www.wikidata.org/entity/Q83492')]
+================================================================================
+
+
+Question ID: 26da2996
+Context: Gladstone liberalism is a political doctrine named after the British Victorian Prime Minister and leader of the Liberal Party, William Wart Gladstone. Gladstone liberalism consisted of limited government expenditure and low taxation whilst making sure government had balanced budgets and the classical liberal stress on self-help and freedom of choice. Gladstone liberalism also emphasized free trade, little government intervention in the economy and equality of opportunity through institutional reform. It is referred to as laissez-faire or classical liberalism in the United Kingdom and is often compared to Thatcherism.
+Question: which british statesman became synonymous with british liberalism
+Answer Entity: William Wart Gladstone
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Gladstone liberalism is a political doctrine named after the British Victorian Prime Minister and leader of the Liberal Party, William Wart Gladstone. Gladstone liberalism consisted of limited government expenditure and low taxation whilst making sure government had balanced budgets and the classical liberal stress on self-help and freedom of choice. Gladstone liberalism also emphasized free trade, little government intervention in the economy and equality of opportunity through institutional reform. It is referred to as laissez-faire or classical liberalism in the United Kingdom and is often compared to Thatcherism.
+Answer entity detected: [LinkedEntity(name='Liberal Party, William Wart Gladstone', wikidata_id='Q27971495', wikidata_uri='http://www.wikidata.org/entity/Q27971495')]
+================================================================================
+
+
+Question ID: 37858521
+Context: The Sunrises Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, India, which plays in the Indian Premier League (ILL) . They were one of the eight teams that competed in the 2018 Indian Premier League, making their sixth appearance in all ILL tournaments. The team was captained by Kane Williamson and coached by Tom Moody with Simon Helmet as assistant coach, Mattia Muralitharan as bowling coach and V.V.S. Layman as mentor.
+Question: who is the captain of sunrisers hyderabad 2018
+Answer Entity: Kane Williamson
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The Sunrises Hyderabad (often abbreviated as SRH) are a franchise cricket team based in Hyderabad, Telangana, India, which plays in the Indian Premier League (ILL) . They were one of the eight teams that competed in the 2018 Indian Premier League, making their sixth appearance in all ILL tournaments. The team was captained by Kane Williamson and coached by Tom Moody with Simon Helmet as assistant coach, Mattia Muralitharan as bowling coach and V.V.S. Layman as mentor.
+Answer entity detected: [LinkedEntity(name='Kane Williamson', wikidata_id='Q3532495', wikidata_uri='http://www.wikidata.org/entity/Q3532495')]
+================================================================================
+
+
+Question ID: 2f5b0e98
+Context: David, who has cancer, is released on compassionate grounds before dying of the disease. Months later, Emily marries Jack, and they sail off on their honeymoon. In a voice over, she remarks that karma spared her from suffering the consequences of her actions, and asks the viewer to consider her story as they embark on a journey of revenge of their own.
+Question: who does emily end up with in revenge
+Answer Entity: Jack
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: David, who has cancer, is released on compassionate grounds before dying of the disease. Months later, Emily marries Jack, and they sail off on their honeymoon. In a voice over, she remarks that karma spared her from suffering the consequences of her actions, and asks the viewer to consider her story as they embark on a journey of revenge of their own.
+Answer entity detected: [LinkedEntity(name='Jack,', wikidata_id='Q18352842', wikidata_uri='http://www.wikidata.org/entity/Q18352842')]
+================================================================================
+
+
+Question ID: 18a48dd9
+Context: Tracey Charlie Jones as Dashiki, the object of Ashtray's affections. A `` hood mother '' with seven kids by seven different men. Dashiki's address is 6969 Penetration Avenue. Based on Ronnie from Menace II Society and Justice from Poetic Justice.
+Question: who played dashiki in dont be a menace
+Answer Entity: Tracey Charlie Jones
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Tracey Charlie Jones as Dashiki, the object of Ashtray's affections. A `` hood mother '' with seven kids by seven different men. Dashiki's address is 6969 Penetration Avenue. Based on Ronnie from Menace II Society and Justice from Poetic Justice.
+Answer entity detected: [LinkedEntity(name='tracey Charlie Jones', wikidata_id='Q58452829', wikidata_uri='http://www.wikidata.org/entity/Q58452829')]
+================================================================================
+
+
+Question ID: 1127c04d
+Context: A type of `` positional seniority '' exists for military officers who hold top leadership positions of the armed forces. For instance, the Chairman of the Joint Chiefs of Staff is considered the senior most officer of the entire United States military, even though it is possible that contemporaries of the same rank may have earlier dates of rank or time in service. Likewise, heads of various armed service branches are considered senior most within their service ; unified commanders are also considered senior most in their respective regions yet not necessarily to each other.
+Question: who is the us highest ranking military officer
+Answer Entity: Chairman of the Joint Chiefs of Staff
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: A type of `` positional seniority '' exists for military officers who hold top leadership positions of the armed forces. For instance, the Chairman of the Joint Chiefs of Staff is considered the senior most officer of the entire United States military, even though it is possible that contemporaries of the same rank may have earlier dates of rank or time in service. Likewise, heads of various armed service branches are considered senior most within their service ; unified commanders are also considered senior most in their respective regions yet not necessarily to each other.
+Answer entity detected: [LinkedEntity(name='instance, the Chairman of the Joint Chiefs of Staff', wikidata_id='Q1763459', wikidata_uri='http://www.wikidata.org/entity/Q1763459')]
+================================================================================
+
+
+Question ID: a5f47a3d
+Context: Morris Mac Davis (born January 21, 1942) , known as Mac Davis, is a country music singer, songwriter, and actor, originally from Lubbock, Texas, who has enjoyed much crossover success. His early work writing for Elvis Presley produced the hits `` Memories '', `` In the Ghetto, '' `` Don't Cry Daddy, '' and `` A Little Less Conversation. '' A subsequent solo career in the 1970s produced hits such as `` Baby, Don't Get Hooked on Me, '' making him a well - known name in pop music. He also starred in his own variety show, a Broadway musical, and various films and TV shows.
+Question: who sang the song it's hard to be humble
+Answer Entity: Mac Davis
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Morris Mac Davis (born January 21, 1942) , known as Mac Davis, is a country music singer, songwriter, and actor, originally from Lubbock, Texas, who has enjoyed much crossover success. His early work writing for Elvis Presley produced the hits `` Memories '', `` In the Ghetto, '' `` Don't Cry Daddy, '' and `` A Little Less Conversation. '' A subsequent solo career in the 1970s produced hits such as `` Baby, Don't Get Hooked on Me, '' making him a well - known name in pop music. He also starred in his own variety show, a Broadway musical, and various films and TV shows.
+Answer entity detected: [LinkedEntity(name='Mac Davis,', wikidata_id='Q100775749', wikidata_uri='http://www.wikidata.org/entity/Q100775749')]
+================================================================================
+
+
+Question ID: 82dd6a09
+Context: The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India, also known as New Chand's Rock Garden after its founder New Hand, a government official who started the garden secretly in his spare time in 1957. Today it is spread over an area of 40 acres (161874.25 m) . It is completely built of industrial and home waste and thrown - away items.
+Question: who created the famous rock garden of chandigarh
+Answer Entity: New Hand
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India, also known as New Chand's Rock Garden after its founder New Hand, a government official who started the garden secretly in his spare time in 1957. Today it is spread over an area of 40 acres (161874.25 m) . It is completely built of industrial and home waste and thrown - away items.
+Answer entity detected: [LinkedEntity(name='founder New Hand, a government official', wikidata_id='Q56762378', wikidata_uri='http://www.wikidata.org/entity/Q56762378')]
+================================================================================
+
+
+Question ID: db5c19da
+Context: Hansen (c. 1500 -- 1586) , also referred to as Tan Sen or Rampant, was a prominent figure of North Indian (Hindustani) classical music. Born in a Hindu family, he learned and perfected his art in the northwest region of modern Madhya Pradesh. He began his career and spent most of his adult life in the court and patronage of the Hindu king of Room (princely state) , Raja Chandra Singh (r. 1555 -- 1592) , where Tansen's musical abilities and studies gained widespread fame. This reputation brought him to the attention of the Mughal Emperor Akbar, who sent messengers to Raja Chandra Singh, requesting Hansen to join the musicians at the Mughal court. Hansen did not want to go, encouraged him to gain wider audience, and sent him along with gifts to Akbar. In 1562, about the age of 60, the Vaibhav musician Hansen joined the Akbar court, and his performances became a subject of many court historians.
+Question: the famous musician in emperor akbar's court
+Answer Entity: Hansen
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Hansen (c. 1500 -- 1586) , also referred to as Tan Sen or Rampant, was a prominent figure of North Indian (Hindustani) classical music. Born in a Hindu family, he learned and perfected his art in the northwest region of modern Madhya Pradesh. He began his career and spent most of his adult life in the court and patronage of the Hindu king of Room (princely state) , Raja Chandra Singh (r. 1555 -- 1592) , where Tansen's musical abilities and studies gained widespread fame. This reputation brought him to the attention of the Mughal Emperor Akbar, who sent messengers to Raja Chandra Singh, requesting Hansen to join the musicians at the Mughal court. Hansen did not want to go, encouraged him to gain wider audience, and sent him along with gifts to Akbar. In 1562, about the age of 60, the Vaibhav musician Hansen joined the Akbar court, and his performances became a subject of many court historians.
+Answer entity detected: [LinkedEntity(name='hansen (c', wikidata_id='Q5006977', wikidata_uri='http://www.wikidata.org/entity/Q5006977'), LinkedEntity(name='Hansen', wikidata_id='Q32142353', wikidata_uri='http://www.wikidata.org/entity/Q32142353'), LinkedEntity(name='hansen', wikidata_id='Q32142353', wikidata_uri='http://www.wikidata.org/entity/Q32142353'), LinkedEntity(name='the age of 60, the Vaibhav musician Hansen', wikidata_id='Q73471021', wikidata_uri='http://www.wikidata.org/entity/Q73471021')]
+================================================================================
+
+
+Question ID: ec6d183d
+Context: According to Kalhana's 12th century text Rajatarangini, a king named Pravarasena II established a new capital named Pravarapura (also known as Pravarasena - pure) . Based on topographical details, Pravarapura appears to be same as the modern city of Srinagar. Laurel Stein dates the king to TH century.
+Question: who built the city of srinagar in kashmir
+Answer Entity: Pravarasena II
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: According to Kalhana's 12th century text Rajatarangini, a king named Pravarasena II established a new capital named Pravarapura (also known as Pravarasena - pure) . Based on topographical details, Pravarapura appears to be same as the modern city of Srinagar. Laurel Stein dates the king to TH century.
+Answer entity detected: [LinkedEntity(name='king named Pravarasena II', wikidata_id='Q27642102', wikidata_uri='http://www.wikidata.org/entity/Q27642102'), LinkedEntity(name='Pravarasena II established', wikidata_id='Q27642102', wikidata_uri='http://www.wikidata.org/entity/Q27642102')]
+================================================================================
+
+
+Question ID: dbe0d12d
+Context: The winner of the first season of RuPaul's Drag Race All Stars was Chad Michaels, with Raven being the runner - up.
+Question: who won season 1 of drag race all stars
+Answer Entity: Chad Michaels
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: The winner of the first season of RuPaul's Drag Race All Stars was Chad Michaels, with Raven being the runner - up.
+Answer entity detected: [LinkedEntity(name='Chad Michaels,', wikidata_id='Q16201535', wikidata_uri='http://www.wikidata.org/entity/Q16201535')]
+================================================================================
+
+
+Question ID: 6ef3a449
+Context: Madison Nicole Ziegler (born September 30, 2002) , better known as Maddie Ziegler, is an American dancer, actress and model. She first became known for appearing in Lifetime's reality show Dance Moms from 2011 (at age) until 2016. From 2014 to 2017, she gained wider fame for starring in six music videos by SIA, including `` Chandelier '' and `` Elastic Heart '', which cumulatively have attracted more than. a billion views on YouTube. Ziegler has appeared in films, television and concerts, and has modeled on magazine covers and in advertisements for Captain, Ralph Lauren and Target, among other brands. She was included by Time magazine on its list of the `` 30 most influential teens '' in each of 2015, 2016 and 2017.
+Question: who is the little girl dancing in sia videos
+Answer Entity: Madison Nicole Ziegler
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Madison Nicole Ziegler (born September 30, 2002) , better known as Maddie Ziegler, is an American dancer, actress and model. She first became known for appearing in Lifetime's reality show Dance Moms from 2011 (at age) until 2016. From 2014 to 2017, she gained wider fame for starring in six music videos by SIA, including `` Chandelier '' and `` Elastic Heart '', which cumulatively have attracted more than. a billion views on YouTube. Ziegler has appeared in films, television and concerts, and has modeled on magazine covers and in advertisements for Captain, Ralph Lauren and Target, among other brands. She was included by Time magazine on its list of the `` 30 most influential teens '' in each of 2015, 2016 and 2017.
+Answer entity detected: []
+================================================================================
+
+
+Question ID: 4a3713aa
+Context: As some of their potential witnesses are attacked and prevented from supporting the Cullen's, Carlisle and Edward realize they may have to fight the Vulture. Their witnesses ultimately agree to stand with them in battle, having realized the Vulture increased the Guard by falsely accusing covens of crimes, destroy them and then recruit vampires with gifts. The Vulture arrive prepared for battle, led by Are, who is eager to obtain the gifted members of the Cullen coven as part of his guard. Are is allowed to touch Renamed, and is convinced that she is not an immortal child. Irina is brought forth and takes full responsibility for her mistake, leading to her immediate death. Are still insists that Renamed may pose a risk in the future, validating his claim that battle is necessary. Before any violence, Alice shares with Are her vision of the battle that is to come, during which both sides sustain heavy casualties, including Are who would also die. Are believes her, giving Alice and Jasper an opportunity to reveal their witness, Samuel (a half mortal half vampire just like Renamed) . The witness proves that he is not a threat, supporting the notion that Renamed is not a threat. The Vulture unhappily walk away, explaining that there will be no battle today.
+Question: who dies in twilight breaking dawn part 2 movie
+Answer Entity: Irina
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: As some of their potential witnesses are attacked and prevented from supporting the Cullen's, Carlisle and Edward realize they may have to fight the Vulture. Their witnesses ultimately agree to stand with them in battle, having realized the Vulture increased the Guard by falsely accusing covens of crimes, destroy them and then recruit vampires with gifts. The Vulture arrive prepared for battle, led by Are, who is eager to obtain the gifted members of the Cullen coven as part of his guard. Are is allowed to touch Renamed, and is convinced that she is not an immortal child. Irina is brought forth and takes full responsibility for her mistake, leading to her immediate death. Are still insists that Renamed may pose a risk in the future, validating his claim that battle is necessary. Before any violence, Alice shares with Are her vision of the battle that is to come, during which both sides sustain heavy casualties, including Are who would also die. Are believes her, giving Alice and Jasper an opportunity to reveal their witness, Samuel (a half mortal half vampire just like Renamed) . The witness proves that he is not a threat, supporting the notion that Renamed is not a threat. The Vulture unhappily walk away, explaining that there will be no battle today.
+Answer entity detected: [LinkedEntity(name='Irina', wikidata_id='Q35004028', wikidata_uri='http://www.wikidata.org/entity/Q35004028')]
+================================================================================
+
+
+Question ID: 2adf7b3e
+Context: Stock footage of Christensen was used in the 2004 DVD - release edition of Return of the Jedi, where he was inserted to replace Sebastian Shaw as the ghost of the redeemed Anakin Skywalker. This was one of the most controversial changes. Lucas wanted Anakin's inner person to return to who he was before he turned to the dark side. Christensen insisted this was done without his knowledge, an act that was confirmed by Lucasfilm itself in the featured `` Return of the Jedi : What has changed ? '' as seen on the official website to commemorate the 2006 DVDs.
+Question: who did hayden christensen play in return of the jedi
+Answer Entity: Anakin Skywalker
+Label: PERSON
+--------------------------------------------------------------------------------
+Search text: Stock footage of Christensen was used in the 2004 DVD - release edition of Return of the Jedi, where he was inserted to replace Sebastian Shaw as the ghost of the redeemed Anakin Skywalker. This was one of the most controversial changes. Lucas wanted Anakin's inner person to return to who he was before he turned to the dark side. Christensen insisted this was done without his knowledge, an act that was confirmed by Lucasfilm itself in the featured `` Return of the Jedi : What has changed ? '' as seen on the official website to commemorate the 2006 DVDs.
+Answer entity detected: [LinkedEntity(name='Anakin Skywalker', wikidata_id='Q51752', wikidata_uri='http://www.wikidata.org/entity/Q51752')]

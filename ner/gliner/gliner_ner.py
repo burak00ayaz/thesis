@@ -7,4 +7,4 @@ model = GLiNER.from_pretrained("gliner-community/gliner_large-v2.5", load_tokeni
 
 def detect_entities(text: str, labels: list[str], threshold=0.5) -> list[NamedEntity]:
     entities = model.predict_entities(text, labels, threshold=threshold)
-    return [NamedEntity(name=entity['text'], label=entity['label']) for entity in entities]
+    return [NamedEntity(name=entity['text'], label=entity['label'], start_char=entity['start'], end_char=entity['end']) for entity in entities]

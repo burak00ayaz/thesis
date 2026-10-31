@@ -21,10 +21,10 @@ BIOASQ_LABELS = ["GENE", "DISEASE", "CHEMICAL", "ORGANISM", "CELL_TYPE", "CELL_L
 # Script Configuration
 ##################################################################################################
 
-STOP_AFTER = 190
-DATASET = Dataset.BIOASQ_FACTOID
-OUTPUT_FILE = Path(__file__).parent / f"entity_questions/{DATASET.name.lower()}.json"
-APPEND_MODE = True  # If True, append to existing file; if False, overwrite
+STOP_AFTER = 3
+DATASET = Dataset.NQ
+OUTPUT_FILE = Path(__file__).parent / f"entity_questions/{DATASET.name.lower()}_2.json"
+APPEND_MODE = False  # If True, append to existing file; if False, overwrite
 
 ###################################################################################################
 
@@ -45,7 +45,7 @@ count = 0
 for i, (triplet, _) in enumerate(triplets(DATASET, skip_until_id=skip_until_id)):
     print(f"Processing triplet {i}...")
     context = " ".join(triplet.context)
-    gliner_entities = detect_entities_gliner(context, labels=BIOASQ_LABELS, threshold=GLINER_THRESHOLD)
+    gliner_entities = detect_entities_gliner(context, labels=LABELS, threshold=GLINER_THRESHOLD)
     
     if triplet.answer in [entity.name for entity in gliner_entities]:
         detected_entity_gliner = next(entity for entity in gliner_entities if entity.name == triplet.answer)
@@ -59,7 +59,9 @@ for i, (triplet, _) in enumerate(triplets(DATASET, skip_until_id=skip_until_id))
             "context": triplet.context,
             "question": triplet.question,
             "answer_entity": triplet.answer,
-            "label": detected_entity_gliner.label
+            "label": detected_entity_gliner.label,
+            "start": detected_entity_gliner.start_char,
+            "end": detected_entity_gliner.end_char,
         }
 
     if count >= STOP_AFTER:
