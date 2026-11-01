@@ -1,0 +1,1002 @@
+{
+    "Q1565536": {
+        "count": 1,
+        "question_entity": "HMS Thorn",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1565536.txt"
+    },
+    "Q3562681": {
+        "count": 2,
+        "question_entity": "Abidin Dino",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3562681.txt"
+    },
+    "Q7849086": {
+        "count": 3,
+        "question_entity": "Trz\u0119sowice",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7849086.txt"
+    },
+    "Q1649169": {
+        "count": 4,
+        "question_entity": "Titu\u0161 Brezova\u010dki",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1649169.txt"
+    },
+    "Q2552609": {
+        "count": 5,
+        "question_entity": "Het Houten Stadion",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2552609.txt"
+    },
+    "Q5092892": {
+        "count": 6,
+        "question_entity": "Chesapeake and Ohio classes L-2 and L-2-A",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5092892.txt"
+    },
+    "Q1053448": {
+        "count": 7,
+        "question_entity": "census county division",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1053448.txt"
+    },
+    "Q2053951": {
+        "count": 8,
+        "question_entity": "Parque Asturias",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2053951.txt"
+    },
+    "Q19364485": {
+        "count": 9,
+        "question_entity": "The Two Hotel Francforts",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q19364485.txt"
+    },
+    "Q1212160": {
+        "count": 10,
+        "question_entity": "Gravity's Rainbow",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1212160.txt"
+    },
+    "Q5892240": {
+        "count": 11,
+        "question_entity": "Honda CB700SC",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5892240.txt"
+    },
+    "Q17509319": {
+        "count": 12,
+        "question_entity": "They Flock Like Vulcans to See Old Jupiter Eyes on His Home Craters",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q17509319.txt"
+    },
+    "Q5434134": {
+        "count": 13,
+        "question_entity": "Fantasia Fair",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5434134.txt"
+    },
+    "Q10846846": {
+        "count": 14,
+        "question_entity": "D100 Radio",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q10846846.txt"
+    },
+    "Q10854227": {
+        "count": 15,
+        "question_entity": "A Very Short Story",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q10854227.txt"
+    },
+    "Q7262819": {
+        "count": 16,
+        "question_entity": "Pyaar Ka Dard Hai",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7262819.txt"
+    },
+    "Q4358301": {
+        "count": 17,
+        "question_entity": "HMS H24",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4358301.txt"
+    },
+    "Q461008": {
+        "count": 18,
+        "question_entity": "Cynthia Weil",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q461008.txt"
+    },
+    "Q1393455": {
+        "count": 19,
+        "question_entity": "Jacques Parizeau",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1393455.txt"
+    },
+    "Q3184265": {
+        "count": 20,
+        "question_entity": "Joseph-Fran\u00e7ois Perrault",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3184265.txt"
+    },
+    "Q1699479": {
+        "count": 21,
+        "question_entity": "John C. Burch",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1699479.txt"
+    },
+    "Q619579": {
+        "count": 22,
+        "question_entity": "Benson Municipal Airport",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q619579.txt"
+    },
+    "Q676457": {
+        "count": 23,
+        "question_entity": "Johann Rudolf Wettstein",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q676457.txt"
+    },
+    "Q1368469": {
+        "count": 24,
+        "question_entity": "Masaharu Taguchi",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1368469.txt"
+    },
+    "Q321527": {
+        "count": 25,
+        "question_entity": "Jonathan Borofsky",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q321527.txt"
+    },
+    "Q6812597": {
+        "count": 26,
+        "question_entity": "Melisande",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6812597.txt"
+    },
+    "Q5536837": {
+        "count": 27,
+        "question_entity": "George Bechtel",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5536837.txt"
+    },
+    "Q13859913": {
+        "count": 28,
+        "question_entity": "Jos\u00e9 Mar\u00eda Espejo-Saavedra Conesa",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q13859913.txt"
+    },
+    "Q7939822": {
+        "count": 29,
+        "question_entity": "Vojihna",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7939822.txt"
+    },
+    "Q7949393": {
+        "count": 30,
+        "question_entity": "WFMI",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7949393.txt"
+    },
+    "Q2263910": {
+        "count": 31,
+        "question_entity": "Secqueville-Hoyau",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2263910.txt"
+    },
+    "Q7271459": {
+        "count": 32,
+        "question_entity": "Quest Global",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7271459.txt"
+    },
+    "Q1681164": {
+        "count": 33,
+        "question_entity": "James T. Farley",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1681164.txt"
+    },
+    "Q8685": {
+        "count": 34,
+        "question_entity": "John F. Kennedy International Airport",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q8685.txt"
+    },
+    "Q15282750": {
+        "count": 35,
+        "question_entity": "Windows Phone 8.1",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q15282750.txt"
+    },
+    "Q16187362": {
+        "count": 36,
+        "question_entity": "Mike Walsworth",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q16187362.txt"
+    },
+    "Q1309998": {
+        "count": 37,
+        "question_entity": "University of Insubria",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1309998.txt"
+    },
+    "Q833655": {
+        "count": 38,
+        "question_entity": "Constantin Dausch",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q833655.txt"
+    },
+    "Q2102436": {
+        "count": 39,
+        "question_entity": "Blanche Barton",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2102436.txt"
+    },
+    "Q6255964": {
+        "count": 40,
+        "question_entity": "John Russell, Viscount Amberley",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6255964.txt"
+    },
+    "Q1069194": {
+        "count": 41,
+        "question_entity": "Eps",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1069194.txt"
+    },
+    "Q4118415": {
+        "count": 42,
+        "question_entity": "Ataq District",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4118415.txt"
+    },
+    "Q4910344": {
+        "count": 43,
+        "question_entity": "Bill Niles",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4910344.txt"
+    },
+    "Q1250344": {
+        "count": 44,
+        "question_entity": "Dorothy Stickney",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1250344.txt"
+    },
+    "Q825838": {
+        "count": 45,
+        "question_entity": "Washington Nationals",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q825838.txt"
+    },
+    "Q594075": {
+        "count": 46,
+        "question_entity": "2002 Spanish Grand Prix",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q594075.txt"
+    },
+    "Q5713720": {
+        "count": 47,
+        "question_entity": "Hendrick Manufacturing Company",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5713720.txt"
+    },
+    "Q1938873": {
+        "count": 48,
+        "question_entity": "Misopogon",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1938873.txt"
+    },
+    "Q13562608": {
+        "count": 49,
+        "question_entity": "Karen Kwan",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q13562608.txt"
+    },
+    "Q982573": {
+        "count": 50,
+        "question_entity": "Salvo D'Acquisto",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q982573.txt"
+    },
+    "Q2567107": {
+        "count": 51,
+        "question_entity": "Araby",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2567107.txt"
+    },
+    "Q656605": {
+        "count": 52,
+        "question_entity": "Carine Roitfeld",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q656605.txt"
+    },
+    "Q6341142": {
+        "count": 53,
+        "question_entity": "KXEN Inc.",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6341142.txt"
+    },
+    "Q6417146": {
+        "count": 54,
+        "question_entity": "Kiss the Tears Away",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6417146.txt"
+    },
+    "Q5363090": {
+        "count": 55,
+        "question_entity": "Elizabeth Kucinich",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5363090.txt"
+    },
+    "Q17285507": {
+        "count": 56,
+        "question_entity": "James A. Lantz",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q17285507.txt"
+    },
+    "Q305141": {
+        "count": 57,
+        "question_entity": "Gossip in the Grain",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q305141.txt"
+    },
+    "Q951586": {
+        "count": 58,
+        "question_entity": "Mascarville",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q951586.txt"
+    },
+    "Q7090947": {
+        "count": 59,
+        "question_entity": "On Days Like These",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7090947.txt"
+    },
+    "Q7310842": {
+        "count": 60,
+        "question_entity": "Relativity Suite",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7310842.txt"
+    },
+    "Q609274": {
+        "count": 61,
+        "question_entity": "NYPD Blue",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q609274.txt"
+    },
+    "Q18249257": {
+        "count": 62,
+        "question_entity": "Alexander Monteith Currie",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q18249257.txt"
+    },
+    "Q4672715": {
+        "count": 63,
+        "question_entity": "Accordent Technologies",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4672715.txt"
+    },
+    "Q5527355": {
+        "count": 64,
+        "question_entity": "Gather in the Mushrooms",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5527355.txt"
+    },
+    "Q8027931": {
+        "count": 65,
+        "question_entity": "Witching Culture",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q8027931.txt"
+    },
+    "Q520830": {
+        "count": 66,
+        "question_entity": "Paul Herget",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q520830.txt"
+    },
+    "Q3375548": {
+        "count": 67,
+        "question_entity": "Perot Systems",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3375548.txt"
+    },
+    "Q962709": {
+        "count": 68,
+        "question_entity": "Dove",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q962709.txt"
+    },
+    "Q1115255": {
+        "count": 69,
+        "question_entity": "The Spanish Tragedy",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1115255.txt"
+    },
+    "Q1396187": {
+        "count": 70,
+        "question_entity": "Farallon Islands",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1396187.txt"
+    },
+    "Q16801104": {
+        "count": 71,
+        "question_entity": "Once More 'Round the Sun",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q16801104.txt"
+    },
+    "Q3504341": {
+        "count": 72,
+        "question_entity": "Super \u00c9cran",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3504341.txt"
+    },
+    "Q5151346": {
+        "count": 73,
+        "question_entity": "Come over to My House",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5151346.txt"
+    },
+    "Q1324033": {
+        "count": 74,
+        "question_entity": "Tales of Count Lucanor",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1324033.txt"
+    },
+    "Q7358876": {
+        "count": 75,
+        "question_entity": "Roger Salmon",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7358876.txt"
+    },
+    "Q7881927": {
+        "count": 76,
+        "question_entity": "UnMerry Melodies",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7881927.txt"
+    },
+    "Q136119": {
+        "count": 77,
+        "question_entity": "ZF Friedrichshafen AG",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q136119.txt"
+    },
+    "Q3015555": {
+        "count": 78,
+        "question_entity": "Dans ma chair",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3015555.txt"
+    },
+    "Q5632658": {
+        "count": 79,
+        "question_entity": "HMS H33",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5632658.txt"
+    },
+    "Q157118": {
+        "count": 80,
+        "question_entity": "National Geographic",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q157118.txt"
+    },
+    "Q16729430": {
+        "count": 81,
+        "question_entity": "Ronald C. Green",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q16729430.txt"
+    },
+    "Q1423130": {
+        "count": 82,
+        "question_entity": "Suzuki SV 650",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1423130.txt"
+    },
+    "Q733669": {
+        "count": 83,
+        "question_entity": "Yitzhak Kaduri",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q733669.txt"
+    },
+    "Q2074038": {
+        "count": 84,
+        "question_entity": "Jeu de Robin et Marion",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2074038.txt"
+    },
+    "Q523974": {
+        "count": 85,
+        "question_entity": "View of Delft",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q523974.txt"
+    },
+    "Q3430965": {
+        "count": 86,
+        "question_entity": "Richard Leaf",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3430965.txt"
+    },
+    "Q7691432": {
+        "count": 87,
+        "question_entity": "Team Antonsen",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7691432.txt"
+    },
+    "Q4006190": {
+        "count": 88,
+        "question_entity": "Larry Talbot",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4006190.txt"
+    },
+    "Q8007450": {
+        "count": 89,
+        "question_entity": "William D. Cohan",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q8007450.txt"
+    },
+    "Q1448986": {
+        "count": 90,
+        "question_entity": "Gaston A. Robbins",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1448986.txt"
+    },
+    "Q3024741": {
+        "count": 91,
+        "question_entity": "Destroy What You Enjoy",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3024741.txt"
+    },
+    "Q7460793": {
+        "count": 92,
+        "question_entity": "Shadows Return",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7460793.txt"
+    },
+    "Q1366905": {
+        "count": 93,
+        "question_entity": "FC Machida Zelvia",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1366905.txt"
+    },
+    "Q15938": {
+        "count": 94,
+        "question_entity": "El Bruc",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q15938.txt"
+    },
+    "Q61994": {
+        "count": 95,
+        "question_entity": "Wolfgang Hohlbein",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q61994.txt"
+    },
+    "Q1032234": {
+        "count": 96,
+        "question_entity": "Canadian Northern Railway",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1032234.txt"
+    },
+    "Q5681304": {
+        "count": 97,
+        "question_entity": "Farim Rural District",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5681304.txt"
+    },
+    "Q366747": {
+        "count": 98,
+        "question_entity": "John Wetton",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q366747.txt"
+    },
+    "Q6429958": {
+        "count": 99,
+        "question_entity": "Konstantin Khudaverdyan",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6429958.txt"
+    },
+    "Q5252105": {
+        "count": 100,
+        "question_entity": "Deh Now, Delfan",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5252105.txt"
+    },
+    "Q800587": {
+        "count": 101,
+        "question_entity": "Brussels-South railway station",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q800587.txt"
+    },
+    "Q126164": {
+        "count": 102,
+        "question_entity": "Tina Aumont",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q126164.txt"
+    },
+    "Q636950": {
+        "count": 103,
+        "question_entity": "Jean Chevrier",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q636950.txt"
+    },
+    "Q7650734": {
+        "count": 104,
+        "question_entity": "Suzanna Love",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7650734.txt"
+    },
+    "Q7326401": {
+        "count": 105,
+        "question_entity": "Richard Henry Mather",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7326401.txt"
+    },
+    "Q1731455": {
+        "count": 106,
+        "question_entity": "Richard McBride",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1731455.txt"
+    },
+    "Q6346096": {
+        "count": 107,
+        "question_entity": "Kaffir Boy",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6346096.txt"
+    },
+    "Q705848": {
+        "count": 108,
+        "question_entity": "Schloss Johannisburg",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q705848.txt"
+    },
+    "Q6153696": {
+        "count": 109,
+        "question_entity": "Janette Howard",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6153696.txt"
+    },
+    "Q62068": {
+        "count": 110,
+        "question_entity": "Princess Augusta of Hesse-Kassel",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q62068.txt"
+    },
+    "Q5734326": {
+        "count": 111,
+        "question_entity": "Herbert Hake",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5734326.txt"
+    },
+    "Q1565427": {
+        "count": 112,
+        "question_entity": "HMS Storm",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1565427.txt"
+    },
+    "Q17143206": {
+        "count": 113,
+        "question_entity": "Erased de Kooning Drawing",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q17143206.txt"
+    },
+    "Q572857": {
+        "count": 114,
+        "question_entity": "Freiberg Germany Temple",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q572857.txt"
+    },
+    "Q5448514": {
+        "count": 115,
+        "question_entity": "Filip Schleicher",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5448514.txt"
+    },
+    "Q5045314": {
+        "count": 116,
+        "question_entity": "Carolyn Brandt",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5045314.txt"
+    },
+    "Q7257522": {
+        "count": 117,
+        "question_entity": "Huntington Ingalls Industries",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7257522.txt"
+    },
+    "Q6241719": {
+        "count": 118,
+        "question_entity": "John Jay O'Connor",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6241719.txt"
+    },
+    "Q531357": {
+        "count": 119,
+        "question_entity": "Quintus Mucius Scaevola",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q531357.txt"
+    },
+    "Q1070546": {
+        "count": 120,
+        "question_entity": "NHK Broadcasting Center",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1070546.txt"
+    },
+    "Q3322717": {
+        "count": 121,
+        "question_entity": "Montgomery High School",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3322717.txt"
+    },
+    "Q5495533": {
+        "count": 122,
+        "question_entity": "Fred Hyatt",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5495533.txt"
+    },
+    "Q4849155": {
+        "count": 123,
+        "question_entity": "Baker Hotel",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4849155.txt"
+    },
+    "Q1281171": {
+        "count": 124,
+        "question_entity": "Trump Hotel Las Vegas",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1281171.txt"
+    },
+    "Q1443231": {
+        "count": 125,
+        "question_entity": "Frank Fasi",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1443231.txt"
+    },
+    "Q810020": {
+        "count": 126,
+        "question_entity": "Basil Dearden",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q810020.txt"
+    },
+    "Q973572": {
+        "count": 127,
+        "question_entity": "Sweeny",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q973572.txt"
+    },
+    "Q569784": {
+        "count": 128,
+        "question_entity": "Vevey railway station",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q569784.txt"
+    },
+    "Q18209270": {
+        "count": 129,
+        "question_entity": "Mashiro Ayano",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q18209270.txt"
+    },
+    "Q5546059": {
+        "count": 130,
+        "question_entity": "George Washington on Horseback",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5546059.txt"
+    },
+    "Q1115087": {
+        "count": 131,
+        "question_entity": "Commander Cody and His Lost Planet Airmen",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1115087.txt"
+    },
+    "Q1873176": {
+        "count": 132,
+        "question_entity": "Lucent",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1873176.txt"
+    },
+    "Q78182": {
+        "count": 133,
+        "question_entity": "Bernd Michael Lade",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q78182.txt"
+    },
+    "Q1286792": {
+        "count": 134,
+        "question_entity": "Olympianus of Byzantium",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1286792.txt"
+    },
+    "Q1196667": {
+        "count": 135,
+        "question_entity": "Pont Louis-Philippe",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1196667.txt"
+    },
+    "Q199666": {
+        "count": 136,
+        "question_entity": "Adoniran Barbosa",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q199666.txt"
+    },
+    "Q7750083": {
+        "count": 137,
+        "question_entity": "The Man in Room 17",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7750083.txt"
+    },
+    "Q6933126": {
+        "count": 138,
+        "question_entity": "Muinasmaa",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6933126.txt"
+    },
+    "Q5180517": {
+        "count": 139,
+        "question_entity": "Crafers",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5180517.txt"
+    },
+    "Q641746": {
+        "count": 140,
+        "question_entity": "Hallmark Channel",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q641746.txt"
+    },
+    "Q6237745": {
+        "count": 141,
+        "question_entity": "John Hardres",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6237745.txt"
+    },
+    "Q3985799": {
+        "count": 142,
+        "question_entity": "The Baseball Project",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3985799.txt"
+    },
+    "Q6398473": {
+        "count": 143,
+        "question_entity": "Keystone Junior/Senior High School",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6398473.txt"
+    },
+    "Q2631035": {
+        "count": 144,
+        "question_entity": "Francisco Antonio de Lorenzana",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2631035.txt"
+    },
+    "Q3639987": {
+        "count": 145,
+        "question_entity": "Bill Ligon",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3639987.txt"
+    },
+    "Q1243743": {
+        "count": 146,
+        "question_entity": "The Quireboys",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1243743.txt"
+    },
+    "Q345571": {
+        "count": 147,
+        "question_entity": "Belisario Betancur",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q345571.txt"
+    },
+    "Q2067279": {
+        "count": 148,
+        "question_entity": "HMS Alexander",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2067279.txt"
+    },
+    "Q7728921": {
+        "count": 149,
+        "question_entity": "The Dark Chateau",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7728921.txt"
+    },
+    "Q15952992": {
+        "count": 150,
+        "question_entity": "GKN Simba",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q15952992.txt"
+    },
+    "Q3508222": {
+        "count": 151,
+        "question_entity": "SPQ Libre",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3508222.txt"
+    },
+    "Q291676": {
+        "count": 152,
+        "question_entity": "Amalie Skram",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q291676.txt"
+    },
+    "Q2628452": {
+        "count": 153,
+        "question_entity": "Fairhair dynasty",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2628452.txt"
+    },
+    "Q7894783": {
+        "count": 154,
+        "question_entity": "University House, Berkeley",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7894783.txt"
+    },
+    "Q5292289": {
+        "count": 155,
+        "question_entity": "Don Bosco Technical Institute",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5292289.txt"
+    },
+    "Q192915": {
+        "count": 156,
+        "question_entity": "The Corrs",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q192915.txt"
+    },
+    "Q5460587": {
+        "count": 157,
+        "question_entity": "Florence Claxton",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5460587.txt"
+    },
+    "Q343607": {
+        "count": 158,
+        "question_entity": "Archelaus",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q343607.txt"
+    },
+    "Q7768863": {
+        "count": 159,
+        "question_entity": "The Thirteenth Pearl",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7768863.txt"
+    },
+    "Q3631820": {
+        "count": 160,
+        "question_entity": "Brihatkatha",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3631820.txt"
+    },
+    "Q184592": {
+        "count": 161,
+        "question_entity": "Gerard 't Hooft",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q184592.txt"
+    },
+    "Q246929": {
+        "count": 162,
+        "question_entity": "DJ Khalil",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q246929.txt"
+    },
+    "Q205981": {
+        "count": 163,
+        "question_entity": "Alexander Friedmann",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q205981.txt"
+    },
+    "Q2908742": {
+        "count": 164,
+        "question_entity": "Bogshed",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2908742.txt"
+    },
+    "Q8265": {
+        "count": 165,
+        "question_entity": "Dream of the Red Chamber",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q8265.txt"
+    },
+    "Q2894230": {
+        "count": 166,
+        "question_entity": "Hipparete",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2894230.txt"
+    },
+    "Q1257803": {
+        "count": 167,
+        "question_entity": "Tushka Bergen",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1257803.txt"
+    },
+    "Q11880653": {
+        "count": 168,
+        "question_entity": "Make Them Suffer",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q11880653.txt"
+    },
+    "Q4870811": {
+        "count": 169,
+        "question_entity": "Battle of Crucifix Hill",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4870811.txt"
+    },
+    "Q17297770": {
+        "count": 170,
+        "question_entity": "Fay Maschler",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q17297770.txt"
+    },
+    "Q7438773": {
+        "count": 171,
+        "question_entity": "Scrapbook EP",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7438773.txt"
+    },
+    "Q956836": {
+        "count": 172,
+        "question_entity": "Manlio Brosio",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q956836.txt"
+    },
+    "Q213919": {
+        "count": 173,
+        "question_entity": "George Foreman",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q213919.txt"
+    },
+    "Q6502463": {
+        "count": 174,
+        "question_entity": "Lave Winham",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6502463.txt"
+    },
+    "Q9325": {
+        "count": 175,
+        "question_entity": "Lufthansa",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q9325.txt"
+    },
+    "Q4829570": {
+        "count": 176,
+        "question_entity": "Avur",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4829570.txt"
+    },
+    "Q16996913": {
+        "count": 177,
+        "question_entity": "Industrial Press",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q16996913.txt"
+    },
+    "Q4773430": {
+        "count": 178,
+        "question_entity": "Anthony Schlegel",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4773430.txt"
+    },
+    "Q4347508": {
+        "count": 179,
+        "question_entity": "Ylivieska Airfield",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4347508.txt"
+    },
+    "Q984957": {
+        "count": 180,
+        "question_entity": "Oud-Vossemeer",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q984957.txt"
+    },
+    "Q6756784": {
+        "count": 181,
+        "question_entity": "March 2010 Israel\u2013Gaza clashes",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6756784.txt"
+    },
+    "Q6372955": {
+        "count": 182,
+        "question_entity": "Karniewo, Ciechan\u00f3w County",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6372955.txt"
+    },
+    "Q7749986": {
+        "count": 183,
+        "question_entity": "The Man Who Went Back",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7749986.txt"
+    },
+    "Q17004875": {
+        "count": 184,
+        "question_entity": "Hope Channel Philippines",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q17004875.txt"
+    },
+    "Q6251290": {
+        "count": 185,
+        "question_entity": "John Orcsik",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q6251290.txt"
+    },
+    "Q7751135": {
+        "count": 186,
+        "question_entity": "The Message at the Depth",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q7751135.txt"
+    },
+    "Q374653": {
+        "count": 187,
+        "question_entity": "Sleeping Awake",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q374653.txt"
+    },
+    "Q3103406": {
+        "count": 188,
+        "question_entity": "Georges Renavent",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3103406.txt"
+    },
+    "Q78753": {
+        "count": 189,
+        "question_entity": "Anton Seelos",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q78753.txt"
+    },
+    "Q470313": {
+        "count": 190,
+        "question_entity": "Cedella Booker",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q470313.txt"
+    },
+    "Q2274464": {
+        "count": 191,
+        "question_entity": "Man of the Hour",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2274464.txt"
+    },
+    "Q5998631": {
+        "count": 192,
+        "question_entity": "Ill Behaviour",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q5998631.txt"
+    },
+    "Q3500474": {
+        "count": 193,
+        "question_entity": "TTYLXOX",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3500474.txt"
+    },
+    "Q3226040": {
+        "count": 194,
+        "question_entity": "The Sigma Protocol",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q3226040.txt"
+    },
+    "Q796405": {
+        "count": 195,
+        "question_entity": "Alfa Romeo 1750",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q796405.txt"
+    },
+    "Q2587331": {
+        "count": 196,
+        "question_entity": "Vladimir Gribov",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q2587331.txt"
+    },
+    "Q8073016": {
+        "count": 197,
+        "question_entity": "Zlatko Zebi\u0107",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q8073016.txt"
+    },
+    "Q1969484": {
+        "count": 198,
+        "question_entity": "Merkholtz railway station",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q1969484.txt"
+    },
+    "Q4614145": {
+        "count": 199,
+        "question_entity": "Parle-G",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q4614145.txt"
+    },
+    "Q47153": {
+        "count": 200,
+        "question_entity": "2 States: The Story of My Marriage",
+        "article_path": "/home/burak/thesis/corpus/questions/Granola/articles/data/Q47153.txt"
+    }
+}

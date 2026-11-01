@@ -5,3 +5,4 @@ retrieval/data/**/*.tsv.gz
 models/AutoCompressors/
 .env
 todo.md
+corpus/questions/Granola/articles/data

@@ -1,0 +1,142 @@
+{
+    "P17": {
+        "question": "Which country is [QE] located in?",
+        "answer_type": "country",
+        "synthetic_context": "{QE} is located in {AE}."
+    },
+    "P19": {
+        "question": "Where was {QE} born?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} was born in {AE}."
+    },
+    "P20": {
+        "question": "Where did {QE} die?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} died in {AE}."
+    },
+    "P26": {
+        "question": "Who is {QE} married to?",
+        "answer_type": "person",
+        "synthetic_context": "{QE} is married to {AE}."
+    },
+    "P30": {
+        "question": "Which continent is {QE} located?",
+        "answer_type": "continent",
+        "synthetic_context": "{QE} is located in {AE}."
+    },
+    "P36": {
+        "question": "What is the capital of {QE}?",
+        "answer_type": "city",
+        "synthetic_context": "{AE} is the capital of {QE}."
+    },
+    "P40": {
+        "question": "Who is {QE}'s child?",
+        "answer_type": "person",
+        "synthetic_context": "{QE} has a child named {AE}."
+    },
+    "P50": {
+        "question": "Who is the author of {QE}?",
+        "answer_type": "person",
+        "synthetic_context": "{QE} was authored by {AE}."
+    },
+    "P69": {
+        "question": "Where was {QE} educated?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} received education at {AE}."
+    },
+    "P106": {
+        "question": "What kind of work does {QE} do?",
+        "answer_type": "occupation",
+        "synthetic_context": "{QE} works as a {AE}."
+    },
+    "P112": {
+        "question": "Who founded {QE}?",
+        "answer_type": "person",
+        "synthetic_context": "{QE} was founded by {AE}."
+    },
+    "P127": {
+        "question": "Who owns {QE}?",
+        "answer_type": "person",
+        "synthetic_context": "{QE} is owned by {AE}."
+    },
+    "P131": {
+        "question": "Where is {QE} located?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} is located in {AE}."
+    },
+    "P136": {
+        "question": "What type of music does {QE} play?",
+        "answer_type": "music genre",
+        "synthetic_context": "{QE} plays {AE} music."
+    },
+    "P159": {
+        "question": "Where is the headquarter of {QE}?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} has its headquarters in {AE}."
+    },
+    "P170": {
+        "question": "Who was {QE} created by?",
+        "answer_type": "person",
+        "synthetic_context": "{QE} was created by {AE}."
+    },
+    "P175": {
+        "question": "Who performed {QE}?",
+        "answer_type": "person",
+        "synthetic_context": "{QE} was performed by {AE}."
+    },
+    "P176": {
+        "question": "Which company is {QE} produced by?",
+        "answer_type": "organization",
+        "synthetic_context": "{QE} is produced by {AE}."
+    },
+    "P264": {
+        "question": "What music label is {QE} represented by?",
+        "answer_type": "organization",
+        "synthetic_context": "{QE} is represented by {AE} music label."
+    },
+    "P276": {
+        "question": "Where is {QE} located?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} is located in {AE}."
+    },
+    "P407": {
+        "question": "Which language was {QE} written in?",
+        "answer_type": "language",
+        "synthetic_context": "{QE} was written in {AE} language."
+    },
+    "P413": {
+        "question": "What position does {QE} play?",
+        "answer_type": "position",
+        "synthetic_context": "{QE} plays in the position of {AE}."
+    },
+    "P495": {
+        "question": "Which country was {QE} created in?",
+        "answer_type": "country",
+        "synthetic_context": "{QE} was created in {AE}."
+    },
+    "P740": {
+        "question": "Where was {QE} founded?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} was founded in {AE}."
+    },
+    "P800": {
+        "question": "What is {QE} famous for?",
+        "answer_type": "notable work",
+        "synthetic_context": "{QE} is famous for {AE}."
+    },
+    "P19_similar": {
+        "question": "What is the birthplace of {QE}?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} was born in {AE}."
+    },
+    "P159_similar": {
+        "question": "Where is {QE} headquartered?",
+        "answer_type": "place",
+        "synthetic_context": "{QE} has its headquarters in {AE}."
+    },
+    "P170_similar": {
+        "question": "Who is the creator of {QE}?",
+        "answer_type": "person",
+        "synthetic_context": "{QE} was created by {AE}."
+    }
+}

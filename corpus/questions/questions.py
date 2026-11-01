@@ -20,6 +20,9 @@ def triplets(dataset: Dataset, entity_questions=False, skip_until_id=None):
     elif dataset == Dataset.BIOASQ_FACTOID:
         from corpus.questions.BioASQ.bioasq import get_triplets
         generator = get_triplets(split="factoid")
+    elif dataset == Dataset.GRANOLA:
+        from corpus.questions.Granola.granola import get_triplets
+        generator = get_triplets()
     else:
         raise ValueError(f"Unsupported dataset: {dataset}")
 
@@ -30,7 +33,7 @@ def triplets(dataset: Dataset, entity_questions=False, skip_until_id=None):
     return generator
 
 if __name__ == "__main__":
-    nq_triplets = triplets(Dataset.NQ, entity_questions=True)
+    nq_triplets = triplets(Dataset.GRANOLA, entity_questions=False)
 
     for i, (triplet, entity_label) in enumerate(nq_triplets):
         print(f"Triplet {i}:")

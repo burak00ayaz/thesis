@@ -1,4 +1,5 @@
 from datasets import load_dataset
+import time
 
 
 class GranolaEntityQuestions:
@@ -41,15 +42,22 @@ class GranolaEntityQuestions:
             yield {"question": question, "answer": answer, "answer_entity_popularity": answer_entity_popularity}
 
 
+from corpus.questions.Granola.wikidata import get_wikipedia_context
+from models.PISCO.context_chunker import get_context_chunks
+
 if __name__ == "__main__":
-    granola = GranolaEntityQuestions(relations=["P26"], sort_by_answer_popularity=True, answer_popularity_threshold=100)
+    ds = load_dataset("google/granola-entity-questions", token=True)["train"]
+    ds = ds.shuffle(seed=42)  # Shuffle the dataset for randomness
+
     for i in range(10):
-        example = granola.ds["train"][i]
+        example = ds[i]
         question = example["question"]
         answer = example["answer"]
         answer_entity_qid = example["answer_entity_qid"]
         answer_entity_description = example["answer_entity_description"]
         answer_entity_popularity = example["answer_entity_popularity"]
+        question_entity = example["question_entity"]
+
 
         print(f"Question: {question}")
         print(f"Answer: {answer}")
@@ -57,3 +65,24 @@ if __name__ == "__main__":
         print(f"Answer Entity Description: {answer_entity_description}")
         print(f"Answer Entity Popularity: {answer_entity_popularity}")
         print("-" * 50) 
+        print(f"Question Entity: {question_entity}")
+
+        question_entity_qid = example["question_entity_qid"]
+        wikipedia_context = get_wikipedia_context(question_entity_qid)
+
+        print(f"Wikipedia Context for Question Entity QID {question_entity_qid}:")
+        if wikipedia_context is not None:
+            print(f"Title: {wikipedia_context['title']}")
+            print(f"Context: {wikipedia_context['context']}")
+
+            chunks = get_context_chunks(wikipedia_context['context'])
+            print(f"INFO: Number of context Chunks: {len(chunks)}")
+
+
+            if answer.lower() in wikipedia_context['context'].lower():
+                print("INFO: The answer is present in the Wikipedia context.")
+            else:
+                print("INFO: The answer is NOT present in the Wikipedia context.")
+        else:
+            print("WARN: No context found.")
+        time.sleep(2)  # Sleep for 2 seconds to respect API rate limits

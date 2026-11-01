@@ -41,6 +41,11 @@ if __name__ == "__main__":
             "data/pisco_squad.db",
             "data/xrag_squad.db",
         ],
+        "granola": [
+            "data/mistral_granola.db",
+            "data/pisco_granola_wikidata.db",
+            "data/pisco_granola.db",
+        ],
     }
     for dataset, db_paths in RESULTS_DB_PATHS.items():
         print("=" * 50)

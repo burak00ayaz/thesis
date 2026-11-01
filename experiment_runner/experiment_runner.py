@@ -15,7 +15,7 @@ def run_experiment(
 ):
     results_service = ResultsService(results_database_path)
     model = get_model(model_enum)
-    triplets_dataset = triplets(dataset, entity_questions=True)
+    triplets_dataset = triplets(dataset, entity_questions=False)
 
 
     if lexical_side_channel_method_enum is not None:

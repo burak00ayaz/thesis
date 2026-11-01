@@ -1,0 +1,314 @@
+Question: Which company is HMS Thorn produced by?
+Answer: Cammell Laird
+Answer Entity QID: Q1029631
+Answer Entity Description: British shipbuilding company
+Answer Entity Popularity: 3077.0
+--------------------------------------------------
+Question Entity: HMS Thorn
+Resolved QID Q1565536 to Wikipedia title: HMS Thorn (N11)
+Wikipedia Context for Question Entity QID Q1565536:
+Title: HMS Thorn (N11)
+Context: HMS Thorn (N11) was a T-class submarine of the Royal Navy. She was laid down by Cammell Laird & Co Limited, Birkenhead and launched in March 1941.
+
+
+== Career ==
+Thorn had a short-lived career, serving in the Mediterranean.
+Commencing operations in late 1941, Thorn sank the German tanker Campina, the Italian tanker Ninuccia, the Italian submarine Medusa, the Italian auxiliary patrol vessel AS 91 / Ottavia and the Italian transport ship Monviso.  She also attacked an Italian convoy in the central Mediterranean, but failed to hit any ships.
+On 6 August 1942 Thorn encountered the Italian torpedo boat Pegaso, escorting the steamer Istria from Benghazi, off southern Crete. Pegaso spotted an escorting aircraft machine-gunning the sea’s surface and moved in to investigate. Just four minutes after the aircraft’s attack the Pegaso picked up a sonar contact and carried out seven attacks after which contact was lost. Thorn failed to return from the patrol and is believed to have been lost in this attack.  She was declared overdue on 11 August 1942.
+
+
+== Notes ==
+
+
+== References ==
+Colledge, J. J.; Warlow, Ben (2006) [1969]. Ships of the Royal Navy: The Complete Record of All Fighting Ships of the Royal Navy from the 15th Century to the Present (3rd Rev ed.). London: Chatham Publishing. ISBN 978-1-86176-281-8. OCLC 67375475.
+Hutchinson, Robert (2001). Jane's Submarines: War Beneath the Waves from 1776 to the Present Day. London: HarperCollins. ISBN 978-0-00-710558-8. OCLC 53783010.
+INFO: Number of context Chunks: 4
+INFO: The answer is present in the Wikipedia context.
+Question: Who is Abidin Dino married to?
+Answer: Güzin Dino
+Answer Entity QID: Q6049308
+Answer Entity Description: Turkish linguist, translator
+Answer Entity Popularity: 93.0
+--------------------------------------------------
+Question Entity: Abidin Dino
+Resolved QID Q3562681 to Wikipedia title: Abidin Dino
+Wikipedia Context for Question Entity QID Q3562681:
+Title: Abidin Dino
+Context: Abidin Dino (23 March 1913 – 7 December 1993) was a Turkish artist and a well-known painter.
+
+
+== Early life ==
+Dino was born on 23 March 1913 in Istanbul into an art-loving family. He was grandchild of Abidin Pasha Dino (he is named after him), an Albanian Ottoman diplomat from the region of Preveza, Chameria and his father was Rasih Dino. His siblings were Ali Dino, famous cartoonist and member of the Hellenic Parliament, Leyla Dino Ileri, and Ahmet Dino (named after his great grandfather Ahmed Dino). He started drawing and painting at a young age influenced by his family. As a child he lived in Geneva, Switzerland and France for several years with his parents, returning to Istanbul in 1925. Dino began his secondary education at the American high school Robert College of Istanbul, but dropped out to devote himself to painting, drawing and writing. His articles and cartoons were soon being published in newspapers and magazines, and in 1933 he and five other young innovative painters founded the “D Group”, which held several exhibitions of their work. At around the same time, he illustrated Nazım Hikmet’s books of poetry.
+In 1933, the Soviet director Sergei Yutkevich, who had made a film about Ankara, invited Dino to the Lenfil Studios in Leningrad, and with Atatürk's encouragement Dino accepted. In Leningrad, he worked as a scenery designer and assistant director at several film studios, and directed a film called "Miners" in Moscow, Kiev and Odessa. Shortly after returning to Turkey, he went to Paris, France, where he worked from 1937 to 1939, meeting such famous artists as Gertrude Stein, Tristan Tzara and Picasso.
+Following his return to Istanbul again, he participated in the famous "Harbour Exhibition", consisting of paintings of the city's dockworkers and fishermen by well-known Turkish painters of the time. The exhibition aroused widespread public interest, and that year Dino was asked to design the Turkish pavilion at the 1939 New York World's Fair. Meanwhile, he published articles and cartoons in several of the foremost magazines of that time, studying a new approach to realism together with his elder brother poet Arif Dino.
+During World War II, he did drawings inspired by the conflict, but his treatment of political subjects in wartime incurred official displeasure, and in 1941 the martial law command of Istanbul exiled him and his elder brother to southeastern Anatolia, where their grandfather had been a governor before. These years of exile until 1945 were artistically very productive for Dino. While his young wife Güzin Dino taught French at Adana High School, he worked for a local newspaper, TurkSozu, producing articles and drawings that illustrated with poetic realism of the hard lives and working conditions of agricultural labourers in the region. It was here that he wrote his plays "Bald" and "Heirs" and began doing sculpture. In 1951, he was allowed to leave Turkey. So, he went first to Rome, Italy, where he stayed nine months, but settled then in Paris in 1952. 
+
+
+== Paris days ==
+
+Within a short time, the home of Guzin and Abidin Dino in Paris became the haunt of many famous artists and writers. The couple first moved into the studio on the top floor of Max Ernst's apartment on the quay of Saint-Michel, and later to a small flat in L'Eure.
+Their foreign and Turkish friends, including Nazım Hikmet, Yaşar Kemal, Ahmet Hamdi Tanpinar and Melih Cevdet, found the opportunity to meet one another at the Dino’s home. The Dinos encouraged young Turkish painters and students in Paris, introducing them to world-famous masters, and assisting them to get established.
+For eight years from 1954, Abidin Dino participated in the "Salon de Mai" exhibitions in Paris, while Guzin Dino produced programmes for Radio France, taught Turkish at the Oriental Languages Department of the Sorbonne, and did French translations of Turkish literature.
+Abidin Dino died in the Villejuif Hospital in Paris on 7 December 1993, at the age of 80. His body was brought to Istanbul and buried in the Aşiyan Cemetery.
+
+
+== Unforgettable friendship ==
+Although Abidin Dino lived abroad, he never severed relations with Turkey and his friends there, and took a close interest in everything that occurred, particularly in the political field. He was always delighted to cooperate with other artists and writers, writing prefaces and drawing illustrations for his friends' books with unbounded generosity.
+After more than a decade's absence he visited Turkey in 1969 to open an exhibition of his work. From then on he came more frequently, participating in both one-person and mixed exhibitions. In 1979 he was elected honorary president of the National Union of the Visual Arts (UNAP) in France. His film "Goal! World Cup 1966" (1966) was a spectacular tribute to his visual sensitivity and brought him the "Flaherty prize". This film about the 1966 World Cup final is a documentary that did not confine itself to football matches, but included fascinating footage of people in London and elsewhere in England.
+
+
+== Master of drawing ==
+
+Abidin Dino was interested in everything that was alive, skilfully capturing images with his brush, pencil and camera. He had two favourite themes: hands and flowers. In a book of small drawings, which he did for his wife Guzin published on the tenth anniversary of his death, glimpses of the love and sense of solidarity are seen, which were his inspiration. Entitled "Guzin's Abidins", this book consists of drawings and essays by Abidin Dino.
+
+
+== See also ==
+List of Turkish painters
+
+
+== References ==
+
+(in Turkish) Biyografi.info – Biography of Abidin Dino
+(in Turkish) Ada.com.tr – Biography of Abidin Dino
+
+
+== External links ==
+
+Gallery
+Abidin Dino at IMDb
+INFO: Number of context Chunks: 13
+INFO: The answer is present in the Wikipedia context.
+Question: Where is Establés located?
+Answer: Guadalajara Province
+Answer Entity QID: Q54925
+Answer Entity Description: province of Spain
+Answer Entity Popularity: 1097.0
+--------------------------------------------------
+Question Entity: Establés
+Resolved QID Q1654761 to Wikipedia title: Establés
+Wikipedia Context for Question Entity QID Q1654761:
+Title: Establés
+Context: Establés (Spanish pronunciation: [estaˈβles]) is a municipality located in the province of Guadalajara, Castile-La Mancha, Spain. According to the 2004 census (INE), the municipality has a population of 55 inhabitants. Establés postal code is 19287.
+
+
+== References ==
+INFO: Number of context Chunks: 1
+INFO: The answer is NOT present in the Wikipedia context.
+Question: Where is Trzęsowice located?
+Answer: Gmina Zawonia
+Answer Entity QID: Q2458312
+Answer Entity Description: rural gmina of Poland
+Answer Entity Popularity: 8.0
+--------------------------------------------------
+Question Entity: Trzęsowice
+Resolved QID Q7849086 to Wikipedia title: Trzęsowice
+Wikipedia Context for Question Entity QID Q7849086:
+Title: Trzęsowice
+Context: Trzęsowice [tʂɛ̃sɔˈvit͡sɛ] is a village in the administrative district of Gmina Zawonia, within Trzebnica County, Lower Silesian Voivodeship, in south-western Poland.
+
+
+== Administrative division ==
+In the years 1975–1998 the town administratively belonged to the Wrocław voivodeship.
+
+
+== References ==
+INFO: Number of context Chunks: 1
+INFO: The answer is present in the Wikipedia context.
+Question: Where did Tituš Brezovački die?
+Answer: Zagreb
+Answer Entity QID: Q1435
+Answer Entity Description: capital city of Croatia
+Answer Entity Popularity: 46655.0
+--------------------------------------------------
+Question Entity: Tituš Brezovački
+Resolved QID Q1649169 to Wikipedia title: Tituš Brezovački
+Wikipedia Context for Question Entity QID Q1649169:
+Title: Tituš Brezovački
+Context: Tituš Brezovački (January 4, 1757 – October 29, 1805) was a Croatian playwright, satirist and poet.
+He wrote all of his dramatic works in Kajkavian dialect. His poems were chiefly written in Latin, but few of them have also been preserved in Ikavian Štokavian.
+
+
+== Biography ==
+He was born in Zagreb, schooled in Zagreb and Varaždin, and in 1774 he entered the Pauline Order. He initiated the study of theology in 1776 in Lepoglava, and afterwards graduated philosophy and theology in Pest. He was ordained in 1781, serving as a gymnasium professor in Varaždin henceforth. In 1785 the Pauline Order was abolished, causing Brezovački to become a common priest. His disputes with clergy and the bishop Maksimilijan Vrhovac had often forced him to relocate, changing parishes (Varaždin, Križevci, Rakovac, Zagreb, Krapina, Požega, Zagreb). 
+He wrote his first known work, the religious drama Sveti Aleksi for the gymnasium in Varaždin, where it was staged before being printed in Zagreb in 1786. In Križevci he wrote the Latin poem Dalmatiae, Croatiae et Slavoniae trium sororum recursus ad novum Proregem Ioannem Erdődy, ne suis priventur coronis et novo sponso Leopoldo ab Hungaria (The plea of three sisters, Dalmatia, Croatia and Slavonia to the new Ban, count János Erdődy, that they might not be robbed of their crowns and of their new bridegroom, Leopold, by Hungary), published in 1790, which represented a strong political shift in his work. This was followed by a similar poem Ode inclytae nobilitati regnorum Dalmatiae, Croatiae, Sclavoniae (Ode to the illustrious nobility of the kingdoms of Dalmatia, Croatia, and Slavonia), printed in 1800, to encourage resistance against Napoleon.  During this period, he was a vocal critic of the higher clergy in Zagreb, which he criticized in the poem Jeremijaš nad horvatskoga orsaga zrušenjem narekujuči by the end of the 18th century, ending its censorship in 1801. He dedicated another poem to the newly constructed foundation hospital located on today's Ban Jelačić Square in 1804.
+Between 1803 and 1805, he wrote his most known works; a comedy about a sorcerer Matijaš Grabancijaš dijak (first staged in 1804) and Diogeneš.
+He died in Zagreb on October 29, 1805, exhausted by a lung disease.
+
+
+== Works ==
+
+
+=== Drama ===
+Sveti Aleksi, religious drama (1786)
+Matijaš Grabancijaš dijak, comedy (1804)
+Diogeneš ili sluga dveh zaljubljenih bratov, comedy (1805)
+
+
+=== Poetry ===
+Dalmatiae, Croatiae et Slavoniae trium sororum recursus ad novum Proregem Ioannem Erdődy, ne suis priventur coronis et novo sponso Leopoldo ab Hungaria (1790)
+Ode inclytae nobilitati regnorum Dalmatiae, Croatiae, Sclavoniae (1800)
+Jeremijaš nad hrvatskoga orsaga zrušenjem nerekujuči (1801)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+Fališevac, Dunja; Nemec, Krešimir; Novaković, Darko (2000), Leksikon hrvatskih pisaca (in Croatian), Zagreb: Školska knjiga d.d, ISBN 953-0-61107-2
+"Brezovački, Tito (Tituš)". Croatian Encyclopedia (in Croatian).
+INFO: Number of context Chunks: 10
+INFO: The answer is present in the Wikipedia context.
+Question: Which company is USS Greenfish produced by?
+Answer: General Dynamics Electric Boat
+Answer Entity QID: Q1325893
+Answer Entity Description: subsidiary of General Dynamics Corporation
+Answer Entity Popularity: 7005.0
+--------------------------------------------------
+Question Entity: USS Greenfish
+Resolved QID Q3268165 to Wikipedia title: USS Greenfish
+Wikipedia Context for Question Entity QID Q3268165:
+Title: USS Greenfish
+Context: USS Greenfish (SS-351) was a Balao-class submarine of the United States Navy. It was named for the greenfish.
+Greenfish (SS-351) was launched by the Electric Boat Co., Groton, Connecticut, 21 December 1945; sponsored by Mrs. Thomas J. Doyle; and commissioned 7 June 1946.
+Greenfish's shakedown cruise 22 July to 13 September 1946, took her to Barranquilla, Colombia; the Canal Zone; Callao, Peru; and St. Thomas, Virgin Islands. Exercises out of New London and in Chesapeake Bay carried her through the year, and the early months of 1947 found Greenfish back in the Caribbean for fleet exercises. On 11 February 1947 she effected one of the first transfers of personnel from an aircraft carrier, Franklin D. Roosevelt, to a submarine by helicopter.
+
+Various exercises along the American coast and in the Caribbean occupied Greenfish until 8 January 1948, when she entered the Electric Boat Co. yards for a GUPPY II conversion. This included the installation of snorkeling equipment on Greenfish, enabling her to run her diesel engines while submerged, which required the enlargement of her "sail". In addition, more batteries were installed to increase her submerged speed and permit the ship to remain completely submerged for longer periods.
+Returning to New London 21 August 1948, Greenfish sailed on her "second" shakedown cruise 1 September, with Rear Admiral James J. Fife, Commander, Submarine Force, Atlantic Fleet, aboard. She transited the Panama Canal 9 September and engaged in exercises at Balboa before returning to New London 24 September.
+The new GUPPY submarine was attached to the Pacific Fleet, and sailed for Pearl Harbor 23 October. She reached her new home 25 November 1948. With the exception of ASW and harbor defense exercises in Puget Sound in 1950 and a subsequent Mare Island overhaul, Greenfish operated out of Pearl Harbor on local exercises through 1951.
+Departing Pearl Harbor 15 November 1951, Greenfish sailed to Yokosuka, Japan, for Korean War duty. After a patrol 31 January to 1 March 1952, She participated in exercises at Okinawa and then returned to Hawaii 2 June. Local and special operations filled her time until 5 November 1954, when she entered the Pearl Harbor Shipyard for another modernization overhaul.
+Greenfish, overhaul completed 6 July 1955, sailed for deployment with the 7th Fleet 15 September and reached Yokosuka 29 September. From 19 October to 15 November she engaged in special operations, and then embarked on a tour of Southeast Asia. Ports visited by Greenfish during her 2-month cruise included Manila, Singapore, Rangoon, where she was the first submarine ever to visit and was inspected by Burmese Prime Minister U Nu, and Hong Kong. After further exercises off Okinawa and Yokosuka, Greenfish returned to Pearl Harbor 13 March 1956.
+The following 5 years fell into a pattern for Greenfish—local operations out of Pearl Harbor, special operations, exercises along the American coast, and periodic overhauls. Greenfish entered Pearl Harbor Shipyard 15 December 1960 for a FRAM (Fleet Rehabilitation and Modernization) overhaul and extensive conversion to a GUPPY III class ship. This included cutting Greenfish in half and adding a 15-foot (5 m) section of hull to permit more batteries and other equipment.
+Conversion completed, Greenfish departed 28 July 1961 for shakedown, operations at Pearl Harbor, and in December sailed to serve with the 7th Fleet. In addition to special operations, the submarine participated in various fleet and ASW exercises and visited several ports, including Hong Kong, Manila, and Okinawa. Returning to Pearl Harbor June 1962, Greenfish engaged in local operations until October, when the Cuban Missile Crisis sent her to Japan to strengthen the 7th Fleet. Upon return to Hawaii December 1962, she underwent a brief overhaul and then resumed her peace time schedule of local and special operations interspersed with training exercises.
+Based at Pearl Harbor, she participated in various ASW exercises while maintaining the high tempo of training and readiness for her crew. From 30 March 1964 to 4 September she underwent overhaul; and, after a cruise to the Pacific Coast and back, Greenfish departed for the Far East 27 January 1965. She arrived Japan early in February and during the next 4 months operated with the 7th Fleet in waters from Japan to the Philippines. She returned to Pearl Harbor 1 August, continued type training into 1966, and deployed once again to the Western Pacific 1 February 1966. She completed her duty with the 7th Fleet 1 July and returned to Hawaii later that month to resume readiness exercises out of Pearl Harbor. Into 1967 she continued to serve in the Pacific Fleet's submarine force. In 1970 she underwent a yard overhaul at Hunters Point Naval Shipyard, San Francisco, CA. She then underwent weapons alignment in Bangor, WA. Greenfish Transited the Panama Canal and proceeded to Sub base New London. She made a Med cruise and North Atlantic cruise in 1971 and a springboard exercise in 1972.
+
+
+== Brazilian submarine Amazonas (S-16) ==
+
+Greenfish was decommissioned, struck from the US Naval Register 29 October 1973, and transferred (sold) under terms of the Security Assistance Program to Brazil, 19 December 1973, where she was renamed  Amazonas (S-16), the eighth Brazilian Navy ship to be named for the Amazon River. She was struck 15 October 1992, originally to be transformed into a museum ship at the centro Histórico da Marinha in Rio de Janeiro. However, she was ultimately judged to be in too bad condition, and was scrapped in 2001.
+
+
+== References ==
+
+
+== External links ==
+Photo gallery of Greenfish at NavSource Naval History
+https://web.archive.org/web/20041209232805/http://home.earthlink.net/~drobrien/decommissioning.html
+INFO: Number of context Chunks: 15
+INFO: The answer is NOT present in the Wikipedia context.
+Question: Who owns Het Houten Stadion?
+Answer: AFC Ajax
+Answer Entity QID: Q81888
+Answer Entity Description: Dutch association football team
+Answer Entity Popularity: 153850.0
+--------------------------------------------------
+Question Entity: Het Houten Stadion
+Resolved QID Q2552609 to Wikipedia title: Het Houten Stadion
+Wikipedia Context for Question Entity QID Q2552609:
+Title: Het Houten Stadion
+Context: Het Houten Stadion (English: The Wooden Stadium) is a former stadium of AFC Ajax which served as the team's home stadium from 1907 to 1934.
+
+
+== History ==
+Het Houten Stadion is a former stadium of AFC Ajax. Before Ajax moved to this stadium, they had played on a field in Amsterdam-Noord. Houses had been built on their field in 1907 which sent Ajax searching for a new place to play.
+The club found two locations in the municipality of Watergraafsmeer losing their previous pitch to housing development. Both new places were located on the Polder, but were closer than the former field in Noord.
+In the early years of the grounds there was no actual stadium, there were no stands, no water and the players would change and get ready in a bar nearby. The first stands were built in 1911 with covered seating on one side, and standing tribunes on the other. In 1916 the stands were built behind both goal lines. Designed by architect and Ajax-member Daan Roodenburgh, the funding for the stadium came from Wim Eggerman, a local businessman, who was the president of the club at the time.
+With the success of AFC Ajax in the 1930s the stadium became too small. Every match more people would come to see Ajax play, the last Klassieker match to be played at Het Houten Stadion against Feyenoord was so busy, no corners could be taken during that match because there were spectators spilling out on to the pitch. 15,000 spectators attended that match. On 9 December 1934, Ajax moved to their new De Meer Stadion.
+In 1936, Daan Roodenburgh competed in the Art competitions at the 1936 Summer Olympics in Berlin in the Mixed Architecture event for Sports venues with his construction of De Meer Stadion.
+There is now an Albert Heijn supermarket situated in the location of the former main entrance to the stadium on Middenweg in the Watergraafsmeer.
+
+
+== References ==
+
+
+== External links ==
+Het Houten Stadion at Ajax.nl
+INFO: Number of context Chunks: 5
+INFO: The answer is present in the Wikipedia context.
+Question: Who was Portrait of a Man created by?
+Answer: Antonello da Messina
+Answer Entity QID: Q5594
+Answer Entity Description: Italian Renaissance painter (1430-1479)
+Answer Entity Popularity: 1836.0
+--------------------------------------------------
+Question Entity: Portrait of a Man
+Resolved QID Q2629715 to Wikipedia title: Portrait of a Man (Raphael)
+Wikipedia Context for Question Entity QID Q2629715:
+Title: Portrait of a Man (Raphael)
+Context: The Portrait of a Man is an early work by the Italian Renaissance painter Raphael, executed c. 1500–1504. It has previously been attributed to Hans Holbein and Perugino. The portrait was restored in 1911. It is now in the Galleria Borghese, in Rome.
+
+
+== See also ==
+List of paintings by Raphael
+
+
+== Notes ==
+
+
+== References ==
+Rosenberg (1906). Raffael, des Meisters Gemälde in 203 Abbildungen. PDF in Wikimedia
+
+
+== External links ==
+ Media related to Portrait of a Man (Raffaello Sanzio - Galleria Borghese) at Wikimedia Commons
+INFO: Number of context Chunks: 2
+INFO: The answer is NOT present in the Wikipedia context.
+Question: Which company is Chesapeake and Ohio classes L-2 and L-2-A produced by?
+Answer: Baldwin Locomotive Works
+Answer Entity QID: Q804868
+Answer Entity Description: American manufacturer of railroad locomotives from 1825 to 1956
+Answer Entity Popularity: 6539.0
+--------------------------------------------------
+Question Entity: Chesapeake and Ohio classes L-2 and L-2-A
+Resolved QID Q5092892 to Wikipedia title: Chesapeake and Ohio classes L-2 and L-2-A
+Wikipedia Context for Question Entity QID Q5092892:
+Title: Chesapeake and Ohio classes L-2 and L-2-A
+Context: The Chesapeake and Ohio Railway's class L-2 comprised eight coal-fired 4-6-4 "Hudson" type steam locomotives numbered 300–307 and built by the Baldwin Locomotive Works of Philadelphia, Pennsylvania in 1941. They had roller bearings on all axles, and the first-built, No. 300, also had roller bearings on its side and main rods. No. 300 bore "Elephant ear" smoke deflectors from 1948.
+In 1947, the C&O ordered five additional and very similar locomotives, numbering them 310–314; these were class L-2-A and differed mostly in using Franklin RC poppet valves instead of the Baker valve gear of the L-2s. These were the last express passenger steam locomotives ordered by a United States railroad, and some of the most expensive at $353,346 each, 80% more than the cost of the 8 earlier L-2 locomotives.[1]
+Both classes were among the largest 4-6-4s ever built, and they were even more powerful than the C&O's L-1 class. The heaviest were the C&O's L2a class at 443,000 lbs, They were intended to work the C&O's top-flight express trains on level ground; the railroad purchased 4-8-4 "Greenbrier" types for mountain service.
+By 1953, C&O passenger services were wholly dieselized, and there was no more work for these locomotives to do. Hudson locomotives were very unsuited to freight work, with such a comparatively small proportion of their weight on the drivers. All the L2’s and L2a’s were quickly scrapped by 1953.
+
+
+== References ==
+
+
+== Notes ==
+^ Huddleston, Eugene L. (Jan–Feb 2002). "The outstanding features and many lives of C&O 614". Chesapeake and Ohio Historical Magazine. Archived from the original on 2006-06-21. Retrieved 2006-01-11.
+INFO: Number of context Chunks: 5
+INFO: The answer is present in the Wikipedia context.
+Question: Who was census county division created by?
+Answer: United States Census Bureau
+Answer Entity QID: Q637413
+Answer Entity Description: U.S. agency responsible for the census and related statistics
+Answer Entity Popularity: 22160.0
+--------------------------------------------------
+Question Entity: census county division
+Resolved QID Q1053448 to Wikipedia title: Census county division
+Wikipedia Context for Question Entity QID Q1053448:
+Title: Census county division
+Context: A Census County Division (CCD) is a subdivision of a county used by the United States Census Bureau for the purpose of presenting statistical data. A CCD is a relatively permanent statistical area delineated cooperatively by the Census Bureau and state and local government authorities. CCDs are defined in 20 states that do not have well-defined and stable minor civil divisions (MCDs), such as townships, with local governmental purposes, or where the MCDs are deemed to be "unsatisfactory for the collection, presentation, and analysis of census statistics".
+
+CCDs are non-governmental units and have no legal or governmental functions. Their boundaries usually follow visible features, such as roads, railroads, streams, power transmission lines, or mountain ridges, and coincide with the boundaries of census tracts. CCDs do not span county lines. Each CCD is given a name based on the name of the largest population center in the area, a prominent geographic feature, the county name, or another well-known local name that identifies its location.
+CCDs were first implemented for tabulation of 1950 census data from the state of Washington. As of the 2020 census, a total of 5,198 CCDs were defined in 20 states.
+
+North Dakota briefly adopted CCDs for the 1970 census, but soon returned to using MCDs for subsequent censuses. The main reason for abandoning CCDs was financial. As legal units of local government, MCDs could qualify for federal revenue sharing funds, while purely statistical areas like CCDs did not. 
+In 2008, Tennessee changed from using CCDs to using MCDs, leaving 20 states using CCDs as of the 2010 census.
+
+
+== See also ==
+Census-designated place
+
+
+== References ==
+
+
+== External links ==
+
+Chapter 8: County Subdivisions (PDF),
+U.S. Census Bureau, Geographic Areas Reference Manual Archived 2019-03-13 at the Wayback Machine
+State/County Subdivision Outline Maps, U.S. Census Bureau
+INFO: Number of context Chunks: 5
+INFO: The answer is present in the Wikipedia context.
