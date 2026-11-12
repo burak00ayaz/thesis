@@ -209,7 +209,7 @@ class xRAGModel(ModelAbstract):
             )
 
             prompt = (
-                "Answer the question based on the provided context.\n\n"
+                "Extract relevant information from provided documents and answer the question as briefly as possible.\n\n"
                 f"{compressed_context}\n\n"
                 f"Question: {triplet.question}\n"
             )

@@ -19,7 +19,7 @@ class MistralModel(ModelAbstract):
     def answer_question(self, question: str, context: list[str], max_new_tokens: int = 128) -> str:
         context = " ".join(context)
         prompt = f"""
-Answer the question based on the provided context.
+Extract relevant information from provided documents and answer the question as briefly as possible.
 
 Context:
 {context}
