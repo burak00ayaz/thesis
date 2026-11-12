@@ -4,6 +4,7 @@ from models.model import Model, get_model
 from lexical_side_channel.lsc import LexicalSideChannelBaseline, get_lexical_side_channel_method
 from results_db.results_service import ResultsService, ResultEntry
 from metrics.normalized_indel import substring_aligned_normalized_indel
+from evaluation.util import normalize_string
 
 def run_experiment(
     run_id: str,
@@ -35,8 +36,11 @@ def run_experiment(
             input_question = f"{side_channel} {triplet.question}"
 
         output = model.answer_question(input_question, triplet.context)
-        exact_match = triplet.answer.lower() in output.lower()
-        normalized_indel, closest_substring = substring_aligned_normalized_indel(triplet.answer, output).values()
+        output_normalized = normalize_string(output)
+        answer_normalized = normalize_string(triplet.answer)
+
+        exact_match = answer_normalized in output_normalized
+        normalized_indel, closest_substring = substring_aligned_normalized_indel(answer_normalized, output_normalized).values()
 
         result_entry = ResultEntry(
             run_id=run_id,

@@ -5,6 +5,7 @@ from lexical_side_channel.lsc import LexicalSideChannelBaseline, get_lexical_sid
 from results_db.results_service import ResultsService, ResultEntry
 from metrics.normalized_indel import substring_aligned_normalized_indel
 import copy
+from evaluation.util import normalize_string
 
 def run_experiment(
     run_id: str,
@@ -47,13 +48,16 @@ def run_experiment(
 
 
     outputs = model.answer_questions_batch(processed_triplets)
+    normalized_outputs = [normalize_string(output) for output in outputs]
 
     # Save to the database
-    for i, output in enumerate(outputs):
+    for i, output_normalized in enumerate(normalized_outputs):
         triplet = original_triplets[i]
         answer_label = answer_labels[i]
-        exact_match = triplet.answer.lower() in output.lower()
-        normalized_indel, closest_substring = substring_aligned_normalized_indel(triplet.answer, output).values()
+        answer_normalized = normalize_string(triplet.answer)
+
+        exact_match = answer_normalized in output_normalized
+        normalized_indel, closest_substring = substring_aligned_normalized_indel(answer_normalized, output_normalized).values()
 
         result_entry = ResultEntry(
             run_id=run_id,
