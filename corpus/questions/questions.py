@@ -17,6 +17,9 @@ def triplets(dataset: Dataset, entity_questions=False, skip_until_id=None):
     elif dataset == Dataset.NQ:
         from corpus.questions.NQ.nq import get_triplets
         generator = get_triplets()
+    elif dataset == Dataset.NQ_GOOGLE:
+        from nq_google_stuff.nq_triplets import nq_original_triplets
+        generator = nq_original_triplets()
     elif dataset == Dataset.BIOASQ_FACTOID:
         from corpus.questions.BioASQ.bioasq import get_triplets
         generator = get_triplets(split="factoid")
@@ -30,7 +33,7 @@ def triplets(dataset: Dataset, entity_questions=False, skip_until_id=None):
     return generator
 
 if __name__ == "__main__":
-    nq_triplets = triplets(Dataset.NQ, entity_questions=True)
+    nq_triplets = triplets(Dataset.NQ_GOOGLE, entity_questions=True)
 
     for i, (triplet, entity_label) in enumerate(nq_triplets):
         print(f"Triplet {i}:")

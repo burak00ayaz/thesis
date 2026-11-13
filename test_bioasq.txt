@@ -1,0 +1,218 @@
+Skipping question 67e40c0f18b1e36f2e0000a2 due to unexpected number of answers (2).
+Answers: ['Valganciclovir and Valaciclovir', 'Hyperimmunoglobulin administration']
+Skipping question 640c842f201352f04a000025 due to unexpected number of answers (2).
+Answers: ['redness of the palms', 'liver palms']
+Skipping question 54ff45966ad7dcbc12000010 due to unexpected number of answers (2).
+Answers: ['LEKTI', 'lymphoepithelial Kazal type-related inhibitor']
+Skipping question 58f6295a70f9fc6f0f000019 due to unexpected number of answers (2).
+Answers: ['80.8 times', '80.8']
+Skipping question 606b800994d57fd879000071 due to unexpected number of answers (2).
+Answers: ['next generation sequencing', 'NGS']
+Skipping question 606b5ba794d57fd879000067 due to unexpected number of answers (2).
+Answers: ['CYP2B6 G516T', 'rs3745274']
+Skipping question 54d8ea2c4b1fd0d33c000002 due to unexpected number of answers (2).
+Answers: ['atrial fibrilation', 'AF']
+Skipping question 5c7a4fddd774d04240000009 due to unexpected number of answers (3).
+Answers: ['1 in 10 to 9th', '1e-9', '1 in 10^9']
+Skipping question 61f52f22882a024a10000002 due to unexpected number of answers (2).
+Answers: ['Bosch-Boonstra-Schaaf optic atrophy syndrome', 'BBSOAS']
+Skipping question 66302487187cba990d000031 due to unexpected number of answers (2).
+Answers: ['Performance of Upper Limb', 'assessement measure of upper limb function']
+Skipping question 5c65901c7c78d69471000008 due to unexpected number of answers (2).
+Answers: ['HIV', 'AIDS']
+Skipping question 67d751e418b1e36f2e000040 due to unexpected number of answers (2).
+Answers: ['POLR2M', 'RNA Polymerase 2 Subunit M']
+Skipping question 5506ce078e1671127b00000b due to unexpected number of answers (2).
+Answers: ['Protein phosphatase 1', 'PP1']
+Skipping question 593fe7f970f9fc6f0f000022 due to unexpected number of answers (2).
+Answers: ['3', 'three']
+Skipping question 606c34ff94d57fd879000078 due to unexpected number of answers (2).
+Answers: ['immunohistochemistry', 'ICH']
+Skipping question 67d3518718b1e36f2e000008 due to unexpected number of answers (4).
+Answers: ['A neurodegenerative disorder with spasticity, ataxia, neuropathy, and optic atrophy', 'Neurodegenerative disorder with spasticity, ataxia, neuropathy, and optic atrophy', 'neurodegenerative disorder with spasticity, ataxia, neuropathy, and optic atrophy', 'Neurodegenerative disorder characterized by spasticity, ataxia, neuropathy, and optic atrophy']
+Skipping question 6053ba5b94d57fd879000017 due to unexpected number of answers (2).
+Answers: ['FTY720', 'Fingolimod']
+Skipping question 517a8b768ed59a060a00003f due to unexpected number of answers (2).
+Answers: ['Type 1 deiodinase', 'type 3 deiodinase']
+Skipping question 5fe3131ca43ad31278000048 due to unexpected number of answers (2).
+Answers: ['G+C content', 'GC%']
+Skipping question 606ab57394d57fd87900004f due to unexpected number of answers (3).
+Answers: ['Induces', 'inducer', 'induction']
+Skipping question 663016bb187cba990d000023 due to unexpected number of answers (6).
+Answers: ['Epidermal growth factor receptor (EGFR) amplification', 'EGFR amplification', 'EGFR gene amplification', 'Amplification of the epidermal growth factor receptor (EGFR)', 'EGFR overexpression', 'high EGFR expression']
+Skipping question 5e4ada686d0a277941000014 due to unexpected number of answers (2).
+Answers: ['Markov Clustering', 'MCL']
+Skipping question 601eb56c1cb411341a000058 due to unexpected number of answers (4).
+Answers: ['20', '20p12', 'mkks or bbs6 gene on chromosome 20p12', '20p12 between D20S162 and D20S894 markers']
+Skipping question 5e29fb27aa19d74431000005 due to unexpected number of answers (2).
+Answers: ['Hyperphosphorylation', 'Hyperphosphorylates']
+Skipping question 533ba218fd9a95ea0d000007 due to unexpected number of answers (2).
+Answers: ['detection  of myocardial fibrosis in nonischemic cardiomyopathies', 'T1 mapping can quantitatively characterize myocardial tissue, i.e. fibrosis and edema.']
+Skipping question 601f10b71cb411341a000072 due to unexpected number of answers (2).
+Answers: ['7', 'seven']
+Skipping question 5d36a9507bc3fee31f000005 due to unexpected number of answers (2).
+Answers: ['T-cells', 'T-lymphocytes']
+Skipping question 6060701c94d57fd87900003c due to unexpected number of answers (2).
+Answers: ['PRAM', 'Pooling RNA-seq and Assembling Models']
+Skipping question 6450ede757b1c7a315000090 due to unexpected number of answers (3).
+Answers: ['first or second decade', 'before age 25', 'the first or second decade']
+Skipping question 60320ef51cb411341a000130 due to unexpected number of answers (2).
+Answers: ['an exosome may carry antigens as a decoy', '']
+Skipping question 534e364e288f4dae47000001 due to unexpected number of answers (3).
+Answers: ['Approximately 200', '200', '~200']
+Skipping question 65f77397c4010b4d78000025 due to unexpected number of answers (2).
+Answers: ['Less than 0.5%', '0.5%']
+Skipping question 5a885add61bb38fb24000017 due to unexpected number of answers (2).
+Answers: ['nucleosome positioning', 'H4 position']
+Skipping question 58e793f53e8b6dc87c000008 due to unexpected number of answers (2).
+Answers: ['two', '2']
+Skipping question 5509bd6a1180f13250000002 due to unexpected number of answers (5).
+Answers: ['Celiac disease', 'gluten-associated enteropathy', 'CELIAC SPRU', 'Non tropical spru', 'Gluten Sensitive Enteropath']
+Skipping question 5c890e6d75a4a5d21900000f due to unexpected number of answers (2).
+Answers: ['Mountain tea', 'Ironwort']
+Skipping question 5e2e1986fbd6abf43b000025 due to unexpected number of answers (2).
+Answers: ['c.G2873A', 'p.R958H']
+Skipping question 5c5b268986df2b9174000019 due to unexpected number of answers (2).
+Answers: ['DSMNC', 'Database of Somatic Mutations in Normal Cells']
+Skipping question 64178ffb690f196b51000029 due to unexpected number of answers (4).
+Answers: ['exon 45', 'confirmed mutation of the DMD gene that is amenable to exon 45 skipping', 'amenable to exon 45', 'amenable to exon 45 skipping']
+Skipping question 643bc8f957b1c7a31500002b due to unexpected number of answers (3).
+Answers: ['Upstream of the coding region', 'Directly upstream', "5' end of the transcription initiation site"]
+Skipping question 5321bc309b2d7acc7e00000d due to unexpected number of answers (2).
+Answers: ['PI3K-δ', 'phosphoinositol-3 kinase delta isoform']
+Skipping question 641635fa690f196b5100001c due to unexpected number of answers (5).
+Answers: ['4.43 years old', '4.9 years old', 'between 3 and 11 years of age', '4.9 years', '3 - 5 years']
+Skipping question 5c8973f3d558e5f232000007 due to unexpected number of answers (2).
+Answers: ['Glybera', 'Alipogene tiparvovec']
+Skipping question 56b710f276d8bf8d13000003 due to unexpected number of answers (3).
+Answers: ['Batten disease', 'juvenile-onset neuronal ceroid lipofuscinosis', 'JNCL']
+Skipping question 661d6473eac11fad33000027 due to unexpected number of answers (2).
+Answers: ['polycystic kidney and hepatic disease 1 gene', 'PKHD1 gene']
+Skipping question 52e62bae98d0239505000015 due to unexpected number of answers (2).
+Answers: ['longer than the general population', 'No clear results indicating improved life expectancy in professional athletes']
+Skipping question 5c89623bf9c2ba6b28000005 due to unexpected number of answers (2).
+Answers: ['HCC', 'hepatocelluar carcinoma']
+Skipping question 64403a5857b1c7a31500004c due to unexpected number of answers (2).
+Answers: ['three', 'III']
+Skipping question 67d7506e18b1e36f2e00003f due to unexpected number of answers (9).
+Answers: ['CATTCCT', "5'-CATTCCT-3'", 'MCAT element', "5'-CATTCCA/T-3'", 'GGAATG', '5′-GGAATG-3′', "MCAT element (5'-CATTCCT-3')", "M-CAT 5'-CATTCCT-3'", 'CATTCC']
+Skipping question 64468b0757b1c7a315000070 due to unexpected number of answers (5).
+Answers: ['expansion of the alanine-encoding (GCN)n trinucleotide repeat in the exon 1 of the polyadenosine (poly[A]) binding protein nuclear 1 gene', 'abnormal expansion of GCN repeat in PABPN1 gene', 'abnormal expansion of the GCN repeat in the polyadenosine binding protein nuclear 1 gene', 'GCA trinucleotide repeat in PABPN1 gene', 'short expansion of a GCG or GCA trinucleotide repeat in PABPN1 gene']
+Skipping question 5d374c727bc3fee31f00000d due to unexpected number of answers (2).
+Answers: ['LMNA', 'lamin A/C']
+Skipping question 58ea7248eda5a57672000002 due to unexpected number of answers (2).
+Answers: ['congenital insensitivity to pain', 'CIP']
+Skipping question 6432fc0457b1c7a31500001f due to unexpected number of answers (2).
+Answers: ['SERPING1', 'C1NH']
+Skipping question 67d48f6c18b1e36f2e000017 due to unexpected number of answers (3).
+Answers: ['SEGCOND', 'CondSigDetector', 'condsigdetector']
+Skipping question 516be1d6298dcd4e5100006a due to unexpected number of answers (2).
+Answers: ['autosomal dominant', 'autosomal recessive']
+Skipping question 5c89623bf9c2ba6b28000004 due to unexpected number of answers (2).
+Answers: ['c.19G>A', 'p.Val7Met']
+Skipping question 52fe52702059c6d71c000078 due to unexpected number of answers (2).
+Answers: ['Centromeres', 'CENPA is preferentially localized in eukaryotic centromeres']
+Skipping question 53551206a0726bee57000001 due to unexpected number of answers (2).
+Answers: ['Cardiotoxicity', 'Cardiac toxicity']
+Skipping question 6278ca4a56bf9aee6f00000c due to unexpected number of answers (2).
+Answers: ['L124', 'Omega-1 (Ω1) loop']
+Skipping question 54cf45e7f693c3b16b00000a due to unexpected number of answers (2).
+Answers: ['Calsequestrin', 'casq']
+Skipping question 5150b807d24251bc05000072 due to unexpected number of answers (3).
+Answers: ['none', '0', 'zero']
+Skipping question 64178fea690f196b51000028 due to unexpected number of answers (2).
+Answers: ['exon-51 amenable genetic mutations', 'exon 51-amenable patients']
+Skipping question 593fe5c270f9fc6f0f000021 due to unexpected number of answers (2).
+Answers: ['7, designated I to VII', 'I-VII']
+Skipping question 627a875a56bf9aee6f000023 due to unexpected number of answers (2).
+Answers: ['Subarachnoid hemorrhage (SAH)', 'Aneurysmal subarachnoid hemorrhage']
+Skipping question 5325fdf0600967d132000001 due to unexpected number of answers (2).
+Answers: ['Artificial urethral sphincter', 'AUS']
+Skipping question 5a9e202bde7cb99d40000002 due to unexpected number of answers (2).
+Answers: ['proximity extension immunoassay', 'PEA']
+Skipping question 52ece29f98d023950500002c due to unexpected number of answers (3).
+Answers: ['monocarboxylate transporter 8', 'TH monocarboxylate transporter 8 (MCT8) mutation is implicated in the TH resistance syndrome', 'MCT8']
+Skipping question 6277de0d56bf9aee6f000006 due to unexpected number of answers (3).
+Answers: ['Magnetic resonance imaging', 'MRI', 'MR']
+Skipping question 515db3d8298dcd4e51000015 due to unexpected number of answers (2).
+Answers: ['10 nanometers', '10 nm']
+Skipping question 54d649843706e89528000009 due to unexpected number of answers (2).
+Answers: ['poly(ADP-ribose) polymerase', 'PARP']
+Skipping question 64402e7757b1c7a315000044 due to unexpected number of answers (3).
+Answers: ['Nine per cohort', '9/cohort', '18 in total']
+Skipping question 65f8447fc4010b4d78000043 due to unexpected number of answers (2).
+Answers: ['The main cause of spillover events is the disruption of habitats of the reservoir species.', 'The main cause of spillover events is the interface between humans, wildlife, and domesticated animals, which is associated with high habitat fragmentation, biodiversity loss through land use change, high livestock densities, agricultural inputs, and wildlife hunting.']
+Skipping question 64403ab057b1c7a31500004d due to unexpected number of answers (2).
+Answers: ['two', '2']
+Skipping question 6630390b187cba990d000035 due to unexpected number of answers (3).
+Answers: ['PDGFRA', 'Platelet derived growth factor-alpha', 'Platelet derived growth factor-alpha (PDGFRA)']
+Skipping question 5519a7d5622b194345000015 due to unexpected number of answers (2).
+Answers: ['Light-harvesting pigment-protein complex of Photosystem II', 'LHCII']
+Skipping question 5c632542e842deac6700000d due to unexpected number of answers (2).
+Answers: ['Magnetic Resonance Imaging', 'MRI']
+Skipping question 5e764647c6a8763d23000016 due to unexpected number of answers (2).
+Answers: ['Vaxchora', 'CVD 103-HgR']
+Skipping question 593ff22b70f9fc6f0f000023 due to unexpected number of answers (2).
+Answers: ['four', '4']
+Skipping question 64179aac690f196b51000037 due to unexpected number of answers (2).
+Answers: ['28.1 years of age', '28.1 years (95% CI 25.1, 30.3)']
+Skipping question 601db60e1cb411341a000049 due to unexpected number of answers (2).
+Answers: ['D2', 'chromosome D2']
+Skipping question 6450ec0c57b1c7a31500008f due to unexpected number of answers (7).
+Answers: ['triplet guanine-adenine-adenine (GAA) repeat expansion in intron 1 of the FXN gene', 'triplet repeat in the FXN gene', 'GAA repeat expansion', 'GAA repeat expansion in intron 1 of the FXN gene', 'FXN Gene Mutation', 'riplet guanine-adenine-adenine (gaa) repeat expansion in intron 1 of the fxn gene', 'frataxin deficiency']
+Skipping question 606bfeb494d57fd879000074 due to unexpected number of answers (2).
+Answers: ['next generation sequencing', 'NGS']
+Skipping question 5a7d4721faa1ab7d2e000012 due to unexpected number of answers (2).
+Answers: ['Stabilizes', 'Protects']
+Skipping question 6451060c57b1c7a315000096 due to unexpected number of answers (5).
+Answers: ['mutations in the androgen receptor encoding gene (AR)', 'CAG repeat expansion mutation', 'CAG trinucleotide repeat expansion in the androgen receptor (AR) gene', 'a CAG trinucleotide repeat expansion', 'Androgen receptor gene mutations']
+Skipping question 65f7741fc4010b4d78000027 due to unexpected number of answers (3).
+Answers: ['13%', '13% mixed feature cases', 'about 13%']
+Skipping question 6433050157b1c7a315000024 due to unexpected number of answers (3).
+Answers: ['Conestat alfa', 'Ruconest', 'rhC1INH']
+Skipping question 5c34ad63da8336e21a000007 due to unexpected number of answers (2).
+Answers: ['non coding DNA', 'heterochromatin']
+Skipping question 56e6ec49edfc094c1f000005 due to unexpected number of answers (2).
+Answers: ['receptor activator of nuclear factor-κB ligand', 'RANKL']
+Skipping question 67dedd6818b1e36f2e000061 due to unexpected number of answers (2).
+Answers: ['MILTON', 'Machine learning with phenotype associations']
+Skipping question 58da1aa08acda34529000012 due to unexpected number of answers (2).
+Answers: ['Human chorionic gonadotropin', 'hCG']
+Skipping question 5c8fe1f10101eac87000000a due to unexpected number of answers (2).
+Answers: ['Promotes', 'Induces']
+Skipping question 65f7736fc4010b4d78000024 due to unexpected number of answers (6).
+Answers: ['endometrial cancer', 'ovarian cancer', 'gastric cancer', 'small bowell cancer', 'ureter cancer', 'urothelial cancers']
+Skipping question 58bc5e2202b8c60953000002 due to unexpected number of answers (2).
+Answers: ['ALS', 'amyotrophic lateral sclerosis']
+Skipping question 5c7839edd774d04240000003 due to unexpected number of answers (2).
+Answers: ['in HCC', 'Hepato cellular carcinoma']
+Skipping question 58c27b7102b8c60953000021 due to unexpected number of answers (2).
+Answers: ['the sharing of enhancer elements', 'enhancer sharing']
+Skipping question 626aeba1e764a53204000040 due to unexpected number of answers (2).
+Answers: ['Ionis Pharmaceuticals', 'Akcea Therapeutics']
+Skipping question 601f027f1cb411341a00006b due to unexpected number of answers (2).
+Answers: ['a disorder where the brain is located outside of the skull', 'failure of the cranial neural folds to close which leads to degeneration of the exposed brain tissue']
+Skipping question 5fe3130ca43ad3127800003e due to unexpected number of answers (2).
+Answers: ['Rheumatoid Arthritis', 'RA']
+Skipping question 5ad6e431133db5eb7800000e due to unexpected number of answers (2).
+Answers: ['Ishihara test', 'Ishihara']
+Skipping question 54db62a3034aea571d000001 due to unexpected number of answers (3).
+Answers: ['Sarcoplasmic reticulum Ca(2+)-ATPase', 'SERCA', 'serca2']
+Skipping question 6237ab873a8413c6530000b6 due to unexpected number of answers (2).
+Answers: ['induction', 'increase']
+Skipping question 67d34fb318b1e36f2e000007 due to unexpected number of answers (3).
+Answers: ['Pathogenic', 'pathogenic', 'pathogenic when large (>500 repeats)']
+Skipping question 64403be357b1c7a31500004e due to unexpected number of answers (2).
+Answers: ['24 weeks', '6 months']
+Skipping question 6441057657b1c7a315000052 due to unexpected number of answers (6).
+Answers: ['FLACC', 'Face, leg, activity, cry, and consolability', 'COMFORT Behavioural scale', 'Faces Pain Scale - Revised', 'FPS-R', 'FLACC-r']
+Skipping question 5c51fe8907ef653866000007 due to unexpected number of answers (2).
+Answers: ['2.7%', '1/38']
+Skipping question 5c74266a7c78d694710000a2 due to unexpected number of answers (2).
+Answers: ['mRNA processing', 'mRNA splicing']
+Skipping question 5d387aa8a1e159510500000f due to unexpected number of answers (2).
+Answers: ['cell respiratory burst', 'oxidative burst']
+Skipping question 606b7d6c94d57fd87900006f due to unexpected number of answers (2).
+Answers: ['MET', 'mesenchymal-epithelial transition']
+Skipping question 5a8980d2fcd1d6a10c00000d due to unexpected number of answers (2).
+Answers: ['Uncoupling protein 1', 'UCP1']

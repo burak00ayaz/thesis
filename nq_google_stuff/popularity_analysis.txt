@@ -1,0 +1,22 @@
+EXACT MATCH ACCURACY
+Total: 196, Correct: 166, Accuracy: 84.69%
+EVALUATION BY LABEL
+Label: TIME, Total: 34, Correct: 27, Accuracy: 79.41%
+Label: PERSON, Total: 118, Correct: 102, Accuracy: 86.44%
+Label: NUMERIC, Total: 11, Correct: 10, Accuracy: 90.91%
+Label: LOCATION, Total: 21, Correct: 18, Accuracy: 85.71%
+Label: ORGANIZATION, Total: 12, Correct: 9, Accuracy: 75.00%
+
+Accuracy by popularity bucket
+------------------------------------------------------------
+Popularity                Samples     Accuracy
+------------------------------------------------------------
+0–500                           4       75.00%
+500–1,000                       1      100.00%
+1,000–5,000                    13       92.31%
+5,000–10,000                   13       84.62%
+10,000–50,000                  24       87.50%
+50,000–100,000                  7       71.43%
+100,000+                        3      100.00%
+------------------------------------------------------------
+Missing popularity: 131
