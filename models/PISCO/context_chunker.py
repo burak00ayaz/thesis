@@ -118,3 +118,23 @@ def get_context_chunks(context: str) -> list[str]:
     # )
 
     return chunks
+
+def get_context_chunks_fixed_length(text: str, chunk_size=128) -> list[str]:
+    token_ids = tokenizer.encode(
+        text,
+        add_special_tokens=False
+    )
+
+    chunks = []
+
+    for i in range(0, len(token_ids), chunk_size):
+        chunk_ids = token_ids[i:i + chunk_size]
+
+        chunks.append(
+            tokenizer.decode(
+                chunk_ids,
+                skip_special_tokens=True
+            )
+        )
+
+    return chunks
