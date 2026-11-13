@@ -18,12 +18,19 @@ def get_triplets(split: str):
         if len(context_chunks) > 5:
             print(f"Skipping question {question['id']} due to too many context chunks ({len(context_chunks)}).")
             continue
+        
+        # flatten the two dimensional list of answers into a single list
+        answers = [answer for sublist in question["answer"] for answer in sublist]
+        if len(answers) != 1:
+            print(f"Skipping question {question['id']} due to unexpected number of answers ({len(answers)}).")
+            print(f"Answers: {answers}")
+            continue
 
         triplet = Triplet(
             dataset=Dataset.BIOASQ_FACTOID,
             question_id=question["id"],
             context=context_chunks,
             question=question["question"],
-            answer=question["answer"][0][0]
+            answer=answers[0]
         )
         yield triplet
