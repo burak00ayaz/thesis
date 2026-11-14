@@ -5,6 +5,9 @@ def triplets(dataset: Dataset, entity_questions=False, skip_until_id=None):
     if dataset == Dataset.SQUAD:
         from corpus.questions.SQUAD.squad import get_triplets
         generator = get_triplets(entity_mapping=False)
+    if dataset == Dataset.SQUAD_VALIDATION:
+        from corpus.questions.SQUAD.squad_validation import get_triplets
+        generator = get_triplets()
     elif dataset == Dataset.SQUAD_MAPPED:
         from corpus.questions.SQUAD.squad import get_triplets
         generator = get_triplets(entity_mapping=True)

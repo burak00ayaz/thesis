@@ -4,6 +4,7 @@ from dataclasses import dataclass
 class Dataset(Enum):
     SQUAD = "squad"
     SQUAD_MAPPED = "squad_mapped" #123 questions available now with entity mappings, but not all of them have been generated yet.
+    SQUAD_VALIDATION = "squad_validation"
     SYNTHWORLDS_RM = "synthworlds_rm"
     SYNTHWORLDS_SM = "synthworlds_sm"
     NQ = "nq"

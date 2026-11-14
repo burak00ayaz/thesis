@@ -21,8 +21,8 @@ BIOASQ_LABELS = ["GENE", "DISEASE", "CHEMICAL", "ORGANISM", "CELL_TYPE", "CELL_L
 # Script Configuration
 ##################################################################################################
 
-STOP_AFTER = 190
-DATASET = Dataset.BIOASQ_FACTOID
+STOP_AFTER = 500
+DATASET = Dataset.SQUAD_VALIDATION  # Change this to the desired dataset
 OUTPUT_FILE = Path(__file__).parent / f"entity_questions/{DATASET.name.lower()}.json"
 APPEND_MODE = True  # If True, append to existing file; if False, overwrite
 
@@ -45,7 +45,7 @@ count = 0
 for i, (triplet, _) in enumerate(triplets(DATASET, skip_until_id=skip_until_id)):
     print(f"Processing triplet {i}...")
     context = " ".join(triplet.context)
-    gliner_entities = detect_entities_gliner(context, labels=BIOASQ_LABELS, threshold=GLINER_THRESHOLD)
+    gliner_entities = detect_entities_gliner(context, labels=LABELS, threshold=GLINER_THRESHOLD)
     
     if triplet.answer in [entity.name for entity in gliner_entities]:
         detected_entity_gliner = next(entity for entity in gliner_entities if entity.name == triplet.answer)
@@ -71,8 +71,11 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     print(f"Saved {len(entity_questions.keys())} triplets with detected answer entities to {OUTPUT_FILE}")
 
 
-print(f"Total triplets processed: {i + 1}")
-print(f"Total triplets with detected answer entities: {count}")
+try:
+    print(f"Total triplets processed: {i + 1}")
+    print(f"Total triplets with detected answer entities: {count}")
+except NameError:
+    print("Error: Variables not defined.")
 
 # group detected entities by label
 grouped_entities = {}
