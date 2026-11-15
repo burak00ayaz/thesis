@@ -83,7 +83,7 @@ def split_oversized_segment(text: str, max_tokens: int) -> list[str]:
     ]
 
 
-def get_context_chunks(context: str) -> list[str]:
+def get_context_chunks_sentence_aware(context: str) -> list[str]:
     if token_len(context) <= CHUNK_SIZE:
         return [context]
 
@@ -138,3 +138,6 @@ def get_context_chunks_fixed_length(text: str, chunk_size=128) -> list[str]:
         )
 
     return chunks
+
+def get_context_chunks(context: str) -> list[str]:
+    return get_context_chunks_fixed_length(context, chunk_size=CHUNK_SIZE)
