@@ -1,0 +1,1027 @@
+Triplet 2:
+Question: In what decade did the LEAA conduct their investigation of crime and DST?
+Context: ['In the 1970s the US Law Enforcement Assistance Administration (LEAA) found a reduction of 10% to 13% in Washington, D.C.\'s violent crime rate during DST. However, the LEAA did not filter out other factors, and it examined only two cities and found crime reductions only in one and only in some crime categories; the DOT decided it was "impossible to conclude with any confidence that comparable benefits would be found nationwide". Outdoor lighting has a marginal and sometimes even contradictory influence on crime and fear of crime.']
+Answer: 1970s
+Entity Label: TIME
+{'chunk_index': 0, 'start': 7, 'end': 12, 'text': '1970s', 'value_text': '1970s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 90, 'end': 93, 'text': '10%', 'value_text': '10%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 97, 'end': 100, 'text': '13%', 'value_text': '13%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 227, 'end': 230, 'text': 'two', 'value_text': 'two', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 273, 'end': 276, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+Side Channel: 1970s|10%|13%|two|one
+
+--------------------------------------------------------------------------------
+
+Triplet 6:
+Question: What was the population of the state in 2015?
+Context: ["The United States Census Bureau estimates that the population of Montana was 1,032,949 on July 1, 2015, a 4.40% increase since the 2010 United States Census. The 2010 census put Montana's population at 989,415 which is an increase of 43,534 people, or 4.40 percent, since 2010.", "During the first decade of the new century, growth was mainly concentrated in Montana's seven largest counties, with the highest percentage growth in Gallatin County, which saw a 32 percent increase in its population from 2000-2010. The city seeing the largest percentage growth was Kalispell with 40.1 percent, and the city with the largest increase in actual residents was Billings with an increase in population of 14,323 from 2000-2010."]
+Answer: 1,032,949
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 77, 'end': 86, 'text': '1,032,949', 'value_text': '1,032,949', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 90, 'end': 102, 'text': 'July 1, 2015', 'value_text': 'July 1, 2015', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 106, 'end': 111, 'text': '4.40%', 'value_text': '4.40%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 131, 'end': 135, 'text': '2010', 'value_text': '2010', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 162, 'end': 166, 'text': '2010', 'value_text': '2010', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 202, 'end': 209, 'text': '989,415', 'value_text': '989,415', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 234, 'end': 247, 'text': '43,534 people', 'value_text': '43,534', 'category': 'number', 'unit': 'people'}
+{'chunk_index': 0, 'start': 252, 'end': 264, 'text': '4.40 percent', 'value_text': '4.40 percent', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 272, 'end': 276, 'text': '2010', 'value_text': '2010', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 289, 'end': 294, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 366, 'end': 371, 'text': 'seven', 'value_text': 'seven', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 457, 'end': 467, 'text': '32 percent', 'value_text': '32 percent', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 495, 'end': 509, 'text': 'from 2000-2010', 'value_text': 'from 2000-2010', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 576, 'end': 588, 'text': '40.1 percent', 'value_text': '40.1 percent', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 696, 'end': 702, 'text': '14,323', 'value_text': '14,323', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 703, 'end': 717, 'text': 'from 2000-2010', 'value_text': 'from 2000-2010', 'category': 'range', 'unit': None}
+Side Channel: 1,032,949|July 1, 2015|4.40%|2010|2010|989,415|43,534 people|4.40 percent|2010|first|seven|32 percent|from 2000-2010|40.1 percent|14,323|from 2000-2010
+
+--------------------------------------------------------------------------------
+
+Triplet 9:
+Question: When was Two Stars for Peace published?
+Context: ['Several websites assert that Israel is the 51st state due to the annual funding and defense support it receives from the United States. An example of this concept can be found in 2003 when Martine Rothblatt published a book called Two Stars for Peace that argued for the addition of Israel and the Palestinian territories surrounding it as the 51st state in the Union.', 'The American State of Canaan, is a book published by Prof. Alfred de Grazia, political science and sociologist, in March 2009, proposing the creation of the 51st and 52nd states from Israel and the Palestinian territories.']
+Answer: 2003
+Entity Label: TIME
+{'chunk_index': 0, 'start': 43, 'end': 47, 'text': '51st', 'value_text': '51st', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 179, 'end': 183, 'text': '2003', 'value_text': '2003', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 231, 'end': 234, 'text': 'Two', 'value_text': 'Two', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 344, 'end': 348, 'text': '51st', 'value_text': '51st', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 484, 'end': 494, 'text': 'March 2009', 'value_text': 'March 2009', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 526, 'end': 530, 'text': '51st', 'value_text': '51st', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 535, 'end': 539, 'text': '52nd', 'value_text': '52nd', 'category': 'ordinal', 'unit': None}
+Side Channel: 51st|2003|Two|51st|March 2009|51st|52nd
+
+--------------------------------------------------------------------------------
+
+Triplet 15:
+Question: How many high-tech enterprises are present in the Mianyang Hi-Tech Industrial Development Zone ?
+Context: ['Mianyang Hi-Tech Industrial Development Zone was established in 1992, with a planned area of 43 km2 (17 sq mi). The zone is situated 96 kilometers away from Chengdu, and is 8 km (5.0 mi) away from Mianyang Airport. Since its establishment, the zone accumulated 177.4 billion yuan of industrial output, 46.2 billion yuan of gross domestic product, fiscal revenue 6.768 billion yuan.', 'There are more than 136 high-tech enterprises in the zone and they accounted for more than 90% of the total industrial output.']
+Answer: 136
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 64, 'end': 68, 'text': '1992', 'value_text': '1992', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 93, 'end': 95, 'text': '43', 'value_text': '43', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 96, 'end': 99, 'text': 'km2', 'value_text': 'km2', 'category': 'identifier', 'unit': None}
+{'chunk_index': 0, 'start': 101, 'end': 103, 'text': '17', 'value_text': '17', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 133, 'end': 146, 'text': '96 kilometers', 'value_text': '96', 'category': 'number', 'unit': 'kilometers'}
+{'chunk_index': 0, 'start': 173, 'end': 177, 'text': '8 km', 'value_text': '8', 'category': 'number', 'unit': 'km'}
+{'chunk_index': 0, 'start': 179, 'end': 182, 'text': '5.0', 'value_text': '5.0', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 261, 'end': 274, 'text': '177.4 billion', 'value_text': '177.4 billion', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 302, 'end': 314, 'text': '46.2 billion', 'value_text': '46.2 billion', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 362, 'end': 375, 'text': '6.768 billion', 'value_text': '6.768 billion', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 402, 'end': 405, 'text': '136', 'value_text': '136', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 473, 'end': 476, 'text': '90%', 'value_text': '90%', 'category': 'percentage', 'unit': None}
+Side Channel: 1992|43|km2|17|96 kilometers|8 km|5.0|177.4 billion|46.2 billion|6.768 billion|136|90%
+
+--------------------------------------------------------------------------------
+
+Triplet 17:
+Question: What date was Live Aid?
+Context: ['At Live Aid, held at Wembley on 13 July 1985, in front of the biggest-ever TV audience of 1.9 billion, Queen performed some of their greatest hits, during which the sold-out stadium audience of 72,000 people clapped, sang, and swayed in unison.', 'The show\'s organisers, Bob Geldof and Midge Ure, other musicians such as Elton John, Cliff Richard and Dave Grohl, and music journalists writing for the BBC, CNN, Rolling Stone, MTV, The Telegraph among others, stated that Queen stole the show. An industry poll in 2005 ranked it the greatest rock performance of all time. Mercury\'s powerful, sustained note during the a cappella section came to be known as "The Note Heard Round the World".']
+Answer: 13 July 1985
+Entity Label: TIME
+{'chunk_index': 0, 'start': 32, 'end': 44, 'text': '13 July 1985', 'value_text': '13 July 1985', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 90, 'end': 101, 'text': '1.9 billion', 'value_text': '1.9 billion', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 194, 'end': 207, 'text': '72,000 people', 'value_text': '72,000', 'category': 'number', 'unit': 'people'}
+{'chunk_index': 0, 'start': 510, 'end': 514, 'text': '2005', 'value_text': '2005', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 13 July 1985|1.9 billion|72,000 people|2005
+
+--------------------------------------------------------------------------------
+
+Triplet 18:
+Question: How many people attended Broadway shows during the 2013-2014 season?
+Context: ['Forty of the city\'s theaters, with more than 500 seats each, are collectively known as Broadway, after the major thoroughfare that crosses the Times Square Theater District, sometimes referred to as "The Great White Way". According to The Broadway League, Broadway shows sold approximately US$1.27 billion worth of tickets in the 2013–2014 season, an 11.4% increase from US$1.139 billion in the 2012–2013 season.', "Attendance in 2013–2014 stood at 12.21 million, representing a 5.5% increase from the 2012–2013 season's 11.57 million."]
+Answer: 12.21 million
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 0, 'end': 5, 'text': 'Forty', 'value_text': 'Forty', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 45, 'end': 48, 'text': '500', 'value_text': '500', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 293, 'end': 305, 'text': '1.27 billion', 'value_text': '1.27 billion', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 330, 'end': 339, 'text': '2013–2014', 'value_text': '2013–2014', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 351, 'end': 356, 'text': '11.4%', 'value_text': '11.4%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 374, 'end': 387, 'text': '1.139 billion', 'value_text': '1.139 billion', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 395, 'end': 404, 'text': '2012–2013', 'value_text': '2012–2013', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 427, 'end': 436, 'text': '2013–2014', 'value_text': '2013–2014', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 446, 'end': 459, 'text': '12.21 million', 'value_text': '12.21 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 476, 'end': 480, 'text': '5.5%', 'value_text': '5.5%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 499, 'end': 508, 'text': '2012–2013', 'value_text': '2012–2013', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 518, 'end': 531, 'text': '11.57 million', 'value_text': '11.57 million', 'category': 'number', 'unit': None}
+Side Channel: Forty|500|1.27 billion|2013–2014|11.4%|1.139 billion|2012–2013|2013–2014|12.21 million|5.5%|2012–2013|11.57 million
+
+--------------------------------------------------------------------------------
+
+Triplet 19:
+Question: When did the era of planning start in Himachal Pradesh?
+Context: ['The era of planning in Himachal Pradesh started 1948 along with the rest of India. The first five-year plan allocated ₹ 52.7 million to Himachal. More than 50% of this expenditure was incurred on road construction since it was felt that without proper transport facilities, the process of planning and development could not be carried to the people, who mostly lived an isolated existence in far away areas. Himachal now ranks fourth in respect of per capita income among the states of the Indian Union.']
+Answer: 1948
+Entity Label: TIME
+{'chunk_index': 0, 'start': 48, 'end': 52, 'text': '1948', 'value_text': '1948', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 87, 'end': 97, 'text': 'first five', 'value_text': 'first five', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 120, 'end': 132, 'text': '52.7 million', 'value_text': '52.7 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 156, 'end': 159, 'text': '50%', 'value_text': '50%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 427, 'end': 433, 'text': 'fourth', 'value_text': 'fourth', 'category': 'ordinal', 'unit': None}
+Side Channel: 1948|first five|52.7 million|50%|fourth
+
+--------------------------------------------------------------------------------
+
+Triplet 20:
+Question: What is generally the hottest month in Hyderabad?
+Context: ['Hyderabad has a tropical wet and dry climate (Köppen Aw) bordering on a hot semi-arid climate (Köppen BSh). The annual mean temperature is 26.6 °C (79.9 °F); monthly mean temperatures are 21–33 °C (70–91 °F).', 'Summers (March–June) are hot and humid, with average highs in the mid-to-high 30s Celsius; maximum temperatures often exceed 40 °C (104 °F) between April and June. The coolest temperatures occur in December and January, when the lowest temperature occasionally dips to 10 °C (50 °F).', 'May is the hottest month, when daily temperatures range from 26 to 39 °C (79–102 °F); December, the coldest, has temperatures varying from 14.5 to 28 °C (57–82 °F).']
+Answer: May
+Entity Label: TIME
+{'chunk_index': 0, 'start': 139, 'end': 143, 'text': '26.6', 'value_text': '26.6', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 148, 'end': 152, 'text': '79.9', 'value_text': '79.9', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 188, 'end': 193, 'text': '21–33', 'value_text': '21–33', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 198, 'end': 203, 'text': '70–91', 'value_text': '70–91', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 334, 'end': 336, 'text': '40', 'value_text': '40', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 341, 'end': 344, 'text': '104', 'value_text': '104', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 478, 'end': 480, 'text': '10', 'value_text': '10', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 485, 'end': 487, 'text': '50', 'value_text': '50', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 549, 'end': 562, 'text': 'from 26 to 39', 'value_text': 'from 26 to 39', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 567, 'end': 573, 'text': '79–102', 'value_text': '79–102', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 627, 'end': 642, 'text': 'from 14.5 to 28', 'value_text': 'from 14.5 to 28', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 647, 'end': 652, 'text': '57–82', 'value_text': '57–82', 'category': 'range', 'unit': None}
+Side Channel: 26.6|79.9|21–33|70–91|40|104|10|50|from 26 to 39|79–102|from 14.5 to 28|57–82
+
+--------------------------------------------------------------------------------
+
+Triplet 22:
+Question: During what season is DST usually not observed because of the detriments of dark mornings?
+Context: ["Common agreement about the day's layout or schedule confers so many advantages that a standard DST schedule has generally been chosen over ad hoc efforts to get up earlier. The advantages of coordination are so great that many people ignore whether DST is in effect by altering their nominal work schedules to coordinate with television broadcasts or daylight. DST is commonly not observed during most of winter, because its mornings are darker; workers may have no sunlit leisure time, and children may need to leave for school in the dark.", 'Since DST is applied to many varying communities, its effects may be very different depending on their culture, light levels, geography, and climate; that is why it is hard to make generalized conclusions about the absolute effects of the practice. Some areas may adopt DST simply as a matter of coordination with others rather than for any direct benefits.']
+Answer: winter
+Entity Label: TIME
+Side Channel: 
+
+--------------------------------------------------------------------------------
+
+Triplet 37:
+Question: When did Vladimir Komarov die on impact from his spacecraft crash?
+Context: ['Meanwhile, the Soviet Union was having its own problems with Soyuz development. Engineers reported 200 design faults to party leaders, but their concerns "were overruled by political pressures for a series of space feats to mark the anniversary of Lenin\'s birthday. "[citation needed] On April 24, 1967, the single pilot of Soyuz 1, Vladimir Komarov, became the first in-flight spaceflight fatality.', "The mission was planned to be a three-day test, to include the first Soviet docking with an unpiloted Soyuz 2, but the mission was plagued with problems. Early on, Komarov's craft lacked sufficient electrical power because only one of two solar panels had deployed. Then the automatic attitude control system began malfunctioning and eventually failed completely, resulting in the craft spinning wildly. Komarov was able to stop the spin with the manual system, which was only partially effective. The flight controllers aborted his mission after only one day.", 'During the emergency re-entry, a fault in the landing parachute system caused the primary chute to fail, and the reserve chute became tangled with the drogue chute; Komarov was killed on impact. Fixing the spacecraft faults caused an eighteen-month delay before piloted Soyuz flights could resume.']
+Answer: April 24, 1967
+Entity Label: TIME
+{'chunk_index': 0, 'start': 99, 'end': 102, 'text': '200', 'value_text': '200', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 288, 'end': 302, 'text': 'April 24, 1967', 'value_text': 'April 24, 1967', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 330, 'end': 331, 'text': '1', 'value_text': '1', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 362, 'end': 367, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 432, 'end': 437, 'text': 'three', 'value_text': 'three', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 463, 'end': 468, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 508, 'end': 509, 'text': '2', 'value_text': '2', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 628, 'end': 631, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 635, 'end': 638, 'text': 'two', 'value_text': 'two', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 952, 'end': 959, 'text': 'one day', 'value_text': 'one', 'category': 'number_word', 'unit': 'day'}
+{'chunk_index': 0, 'start': 1195, 'end': 1203, 'text': 'eighteen', 'value_text': 'eighteen', 'category': 'number_word', 'unit': None}
+Side Channel: 200|April 24, 1967|1|first|three|first|2|one|two|one day|eighteen
+
+--------------------------------------------------------------------------------
+
+Triplet 42:
+Question: How many people helped Queen set a 1976 attendance record?
+Context: ["During 1976, Queen played one of their most famous gigs, a free concert in Hyde Park, London. A concert organised by the entrepreneur Richard Branson, it set an attendance record with 150,000 people confirmed in the audience. On 1 December 1976, Queen were the intended guests on London's early evening Today programme, but they pulled out at the last-minute, which saw their late replacement on the show, EMI labelmate the Sex Pistols, give their seminal interview.", 'During the A Day at the Races Tour in 1977, Queen performed sold-out shows at Madison Square Garden, New York, in February, and Earls Court, London, in June.']
+Answer: 150,000
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 7, 'end': 11, 'text': '1976', 'value_text': '1976', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 26, 'end': 29, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 184, 'end': 198, 'text': '150,000 people', 'value_text': '150,000', 'category': 'number', 'unit': 'people'}
+{'chunk_index': 0, 'start': 229, 'end': 244, 'text': '1 December 1976', 'value_text': '1 December 1976', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 505, 'end': 509, 'text': '1977', 'value_text': '1977', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 1976|one|150,000 people|1 December 1976|1977
+
+--------------------------------------------------------------------------------
+
+Triplet 50:
+Question: When did the Werhmacht cross the south border of Estonia?
+Context: ['After Germany invaded the Soviet Union on 22 June 1941, the Wehrmacht crossed the Estonian southern border on 7 July. The Red Army retreated behind the Pärnu River – Emajõgi line on 12 July. At the end of July the Germans resumed their advance in Estonia working in tandem with the Estonian Forest Brothers. Both German troops and Estonian partisans took Narva on 17 August and the Estonian capital Tallinn on 28 August.', 'After the Soviets were driven out from Estonia, German troops disarmed all the partisan groups.']
+Answer: 7 July
+Entity Label: TIME
+{'chunk_index': 0, 'start': 42, 'end': 54, 'text': '22 June 1941', 'value_text': '22 June 1941', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 110, 'end': 111, 'text': '7', 'value_text': '7', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 182, 'end': 184, 'text': '12', 'value_text': '12', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 364, 'end': 366, 'text': '17', 'value_text': '17', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 410, 'end': 412, 'text': '28', 'value_text': '28', 'category': 'number', 'unit': None}
+Side Channel: 22 June 1941|7|12|17|28
+
+--------------------------------------------------------------------------------
+
+Triplet 56:
+Question: When did the Karabakh War end?
+Context: ["The Karabakh war ended after a Russian-brokered cease-fire was put in place in 1994. The war was a success for the Karabakh Armenian forces who managed to capture 16% of Azerbaijan's internationally recognised territory including Nagorno-Karabakh itself. Since then, Armenia and Azerbaijan have held peace talks, mediated by the Organisation for Security and Co-operation in Europe (OSCE). The status of Karabakh has yet to be determined.", "The economies of both countries have been hurt in the absence of a complete resolution and Armenia's borders with Turkey and Azerbaijan remain closed. By the time both Azerbaijan and Armenia had finally agreed to a ceasefire in 1994, an estimated 30,000 people had been killed and over a million had been displaced."]
+Answer: 1994
+Entity Label: TIME
+{'chunk_index': 0, 'start': 79, 'end': 83, 'text': '1994', 'value_text': '1994', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 163, 'end': 166, 'text': '16%', 'value_text': '16%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 667, 'end': 671, 'text': '1994', 'value_text': '1994', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 686, 'end': 699, 'text': '30,000 people', 'value_text': '30,000', 'category': 'number', 'unit': 'people'}
+{'chunk_index': 0, 'start': 727, 'end': 734, 'text': 'million', 'value_text': 'million', 'category': 'number_word', 'unit': None}
+Side Channel: 1994|16%|1994|30,000 people|million
+
+--------------------------------------------------------------------------------
+
+Triplet 57:
+Question: How many US states have passed laws outlawing the death penalty?
+Context: ['Puerto Rico\'s constitution expressly forbids capital punishment, stating "The death penalty shall not exist", setting it apart from all U.S. states and territories other than Michigan, which also has a constitutional prohibition (eleven other states and the District of Columbia have abolished capital punishment through statutory law). However, capital punishment is still applicable to offenses committed in Puerto Rico, if they fall under the jurisdiction of the federal government, though federal death penalty prosecutions there have generated significant controversy.']
+Answer: eleven
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 230, 'end': 236, 'text': 'eleven', 'value_text': 'eleven', 'category': 'number_word', 'unit': None}
+Side Channel: eleven
+
+--------------------------------------------------------------------------------
+
+Triplet 58:
+Question: In 2011, how much time each day did Schwarzenegger say he lifted weights? 
+Context: ['Schwarzenegger continues to work out even today. When asked about his personal training during the 2011 Arnold Classic he said that he was still working out a half an hour with weights every day.']
+Answer: half an hour
+Entity Label: TIME
+{'chunk_index': 0, 'start': 99, 'end': 103, 'text': '2011', 'value_text': '2011', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 159, 'end': 163, 'text': 'half', 'value_text': 'half', 'category': 'number_word', 'unit': None}
+Side Channel: 2011|half
+
+--------------------------------------------------------------------------------
+
+Triplet 62:
+Question: The Mycenaean civilization deteriorated in what time period? 
+Context: ['Greece is home to the first advanced civilizations in Europe and is considered the birthplace of Western civilization,[citation clutter] beginning with the Cycladic civilization on the islands of the Aegean Sea at around 3200 BC, the Minoan civilization in Crete (2700–1500 BC), and then the Mycenaean civilization on the mainland (1900–1100 BC).', 'These civilizations possessed writing, the Minoans writing in an undeciphered script known as Linear A, and the Mycenaeans in Linear B, an early form of Greek. The Mycenaeans gradually absorbed the Minoans, but collapsed violently around 1200 BC, during a time of regional upheaval known as the Bronze Age collapse. This ushered in a period known as the Greek Dark Ages, from which written records are absent.']
+Answer: 1200 BC
+Entity Label: TIME
+{'chunk_index': 0, 'start': 22, 'end': 27, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 221, 'end': 225, 'text': '3200', 'value_text': '3200', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 264, 'end': 273, 'text': '2700–1500', 'value_text': '2700–1500', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 332, 'end': 341, 'text': '1900–1100', 'value_text': '1900–1100', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 585, 'end': 589, 'text': '1200', 'value_text': '1200', 'category': 'year_or_integer', 'unit': None}
+Side Channel: first|3200|2700–1500|1900–1100|1200
+
+--------------------------------------------------------------------------------
+
+Triplet 67:
+Question: Since 1976, how many Americans have been executed for crimes committed as juveniles?
+Context: ['Since 1642 (in the 13 colonies, the United States under the Articles of Confederation, and the current United States) an estimated 364 juvenile offenders have been put to death by the states and the federal government. The earliest known execution of a prisoner for crimes committed as a juvenile was Thomas Graunger in 1642. Twenty-two of the executions occurred after 1976, in seven states.', 'Due to the slow process of appeals, it was highly unusual for a condemned person to be under 18 at the time of execution. The youngest person to be executed in the 20th century was George Stinney, who was electrocuted in South Carolina at the age of 14 on June 16, 1944. The last execution of a juvenile may have been Leonard Shockley, who died in the Maryland gas chamber on April 10, 1959, at the age of 17.', 'No one has been under age 19 at time of execution since at least 1964. Since the reinstatement of the death penalty in 1976, 22 people have been executed for crimes committed under the age of 18. Twenty-one were 17 at the time of the crime. The last person to be executed for a crime committed as a juvenile was Scott Hain on April 3, 2003 in Oklahoma.']
+Answer: Twenty-two
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 6, 'end': 10, 'text': '1642', 'value_text': '1642', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 19, 'end': 21, 'text': '13', 'value_text': '13', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 131, 'end': 134, 'text': '364', 'value_text': '364', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 320, 'end': 324, 'text': '1642', 'value_text': '1642', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 326, 'end': 336, 'text': 'Twenty-two', 'value_text': 'Twenty-two', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 370, 'end': 374, 'text': '1976', 'value_text': '1976', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 379, 'end': 384, 'text': 'seven', 'value_text': 'seven', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 486, 'end': 488, 'text': '18', 'value_text': '18', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 557, 'end': 569, 'text': '20th century', 'value_text': '20th century', 'category': 'century', 'unit': None}
+{'chunk_index': 0, 'start': 643, 'end': 645, 'text': '14', 'value_text': '14', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 649, 'end': 662, 'text': 'June 16, 1944', 'value_text': 'June 16, 1944', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 769, 'end': 783, 'text': 'April 10, 1959', 'value_text': 'April 10, 1959', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 799, 'end': 801, 'text': '17', 'value_text': '17', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 806, 'end': 809, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 829, 'end': 831, 'text': '19', 'value_text': '19', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 868, 'end': 872, 'text': '1964', 'value_text': '1964', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 922, 'end': 926, 'text': '1976', 'value_text': '1976', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 928, 'end': 937, 'text': '22 people', 'value_text': '22', 'category': 'number', 'unit': 'people'}
+{'chunk_index': 0, 'start': 995, 'end': 997, 'text': '18', 'value_text': '18', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 999, 'end': 1009, 'text': 'Twenty-one', 'value_text': 'Twenty-one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 1015, 'end': 1017, 'text': '17', 'value_text': '17', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 1129, 'end': 1142, 'text': 'April 3, 2003', 'value_text': 'April 3, 2003', 'category': 'date', 'unit': None}
+Side Channel: 1642|13|364|1642|Twenty-two|1976|seven|18|20th century|14|June 16, 1944|April 10, 1959|17|one|19|1964|1976|22 people|18|Twenty-one|17|April 3, 2003
+
+--------------------------------------------------------------------------------
+
+Triplet 73:
+Question: When did Japan invade all of China?
+Context: ['In 1937, the Empire of Japan started a full-scale invasion of China after invading Manchuria in 1931, beginning the Second Sino-Japanese War (often considered a theatre of World War II). Their troops occupied Nanjing in December and carried out the systematic and brutal Nanking Massacre (the "Rape of Nanking"). Even children, the elderly, and nuns are reported to have suffered at the hands of the Imperial Japanese Army.', 'The total death toll, including estimates made by the International Military Tribunal for the Far East and the Nanjing War Crimes Tribunal, was between 300,000 and 350,000. The city itself was also severely damaged during the massacre. The Nanjing Massacre Memorial Hall was built in 1985 to commemorate this event.']
+Answer: 1937
+Entity Label: TIME
+{'chunk_index': 0, 'start': 3, 'end': 7, 'text': '1937', 'value_text': '1937', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 96, 'end': 100, 'text': '1931', 'value_text': '1931', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 116, 'end': 122, 'text': 'Second', 'value_text': 'Second', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 182, 'end': 184, 'text': 'II', 'value_text': 'II', 'category': 'roman_numeral', 'unit': None}
+{'chunk_index': 0, 'start': 568, 'end': 595, 'text': 'between 300,000 and 350,000', 'value_text': 'between 300,000 and 350,000', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 708, 'end': 712, 'text': '1985', 'value_text': '1985', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 1937|1931|Second|II|between 300,000 and 350,000|1985
+
+--------------------------------------------------------------------------------
+
+Triplet 81:
+Question: How many CDs has Kanye West sold?
+Context: ['West is one of the best-selling artists of all time, having sold more than 32 million albums and 100 million digital downloads worldwide. He has won a total of 21 Grammy Awards, making him one of the most awarded artists of all time and the most Grammy-awarded artist of his age.', 'Three of his albums rank on Rolling Stone\'s 2012 "500 Greatest Albums of All Time" list; two of his albums feature at first and eighth, respectively, in Pitchfork Media\'s The 100 Best Albums of 2010–2014. He has also been included in a number of Forbes annual lists. Time named him one of the 100 most influential people in the world in 2005 and 2015.']
+Answer: 32 million
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 8, 'end': 11, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 75, 'end': 85, 'text': '32 million', 'value_text': '32 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 97, 'end': 108, 'text': '100 million', 'value_text': '100 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 160, 'end': 162, 'text': '21', 'value_text': '21', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 189, 'end': 192, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 280, 'end': 285, 'text': 'Three', 'value_text': 'Three', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 324, 'end': 328, 'text': '2012', 'value_text': '2012', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 330, 'end': 333, 'text': '500', 'value_text': '500', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 369, 'end': 372, 'text': 'two', 'value_text': 'two', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 398, 'end': 403, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 408, 'end': 414, 'text': 'eighth', 'value_text': 'eighth', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 455, 'end': 458, 'text': '100', 'value_text': '100', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 474, 'end': 483, 'text': '2010–2014', 'value_text': '2010–2014', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 562, 'end': 565, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 573, 'end': 576, 'text': '100', 'value_text': '100', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 617, 'end': 621, 'text': '2005', 'value_text': '2005', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 626, 'end': 630, 'text': '2015', 'value_text': '2015', 'category': 'year_or_integer', 'unit': None}
+Side Channel: one|32 million|100 million|21|one|Three|2012|500|two|first|eighth|100|2010–2014|one|100|2005|2015
+
+--------------------------------------------------------------------------------
+
+Triplet 82:
+Question: When was a surrogate character mechanism implemented in Unicode 2.0?
+Context: ['In 1996, a surrogate character mechanism was implemented in Unicode 2.0, so that Unicode was no longer restricted to 16 bits. This increased the Unicode codespace to over a million code points, which allowed for the encoding of many historic scripts (e.g., Egyptian Hieroglyphs) and thousands of rarely used or obsolete characters that had not been anticipated as needing encoding.', 'Among the characters not originally intended for Unicode are rarely used Kanji or Chinese characters, many of which are part of personal and place names, making them rarely used, but much more essential than envisioned in the original architecture of Unicode.']
+Answer: 1996
+Entity Label: TIME
+{'chunk_index': 0, 'start': 3, 'end': 7, 'text': '1996', 'value_text': '1996', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 68, 'end': 71, 'text': '2.0', 'value_text': '2.0', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 117, 'end': 119, 'text': '16', 'value_text': '16', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 173, 'end': 180, 'text': 'million', 'value_text': 'million', 'category': 'number_word', 'unit': None}
+Side Channel: 1996|2.0|16|million
+
+--------------------------------------------------------------------------------
+
+Triplet 85:
+Question: What was the largest number to use Underground shelters in September  27, 1940?
+Context: ['Communal shelters never housed more than one seventh of Greater London residents, however. Peak use of the Underground as shelter was 177,000 on 27 September 1940, and a November 1940 census of London found that about 4% of residents used the Tube and other large shelters; 9% in public surface shelters; and 27% in private home shelters, implying that the remaining 60% of the city likely stayed at home.', 'The government distributed Anderson shelters until 1941 and that year began distributing the Morrison shelter, which could be used inside homes. :190']
+Answer: 177,000
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 41, 'end': 52, 'text': 'one seventh', 'value_text': 'one seventh', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 134, 'end': 141, 'text': '177,000', 'value_text': '177,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 145, 'end': 162, 'text': '27 September 1940', 'value_text': '27 September 1940', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 170, 'end': 183, 'text': 'November 1940', 'value_text': 'November 1940', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 218, 'end': 220, 'text': '4%', 'value_text': '4%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 274, 'end': 276, 'text': '9%', 'value_text': '9%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 309, 'end': 312, 'text': '27%', 'value_text': '27%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 367, 'end': 370, 'text': '60%', 'value_text': '60%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 457, 'end': 461, 'text': '1941', 'value_text': '1941', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 552, 'end': 555, 'text': '190', 'value_text': '190', 'category': 'number', 'unit': None}
+Side Channel: one seventh|177,000|27 September 1940|November 1940|4%|9%|27%|60%|1941|190
+
+--------------------------------------------------------------------------------
+
+Triplet 86:
+Question: In what year did Queen Anne die?
+Context: ["A tipping point in the evolution of the prime ministership came with the death of Anne in 1714 and the accession of George I to the throne. George spoke no English, spent much of his time at his home in Hanover, and had neither knowledge of, nor interest in, the details of English government. In these circumstances it was inevitable that the king's first minister would become the de facto head of the government."]
+Answer: 1714
+Entity Label: TIME
+{'chunk_index': 0, 'start': 90, 'end': 94, 'text': '1714', 'value_text': '1714', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 351, 'end': 356, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+Side Channel: 1714|first
+
+--------------------------------------------------------------------------------
+
+Triplet 88:
+Question: How many soldiers from Napoleon's army were reported missing?
+Context: ['Bonaparte began with an army of 13,000 men; 1,500 were reported missing, 1,200 died in combat, and thousands perished from disease—mostly bubonic plague. He failed to reduce the fortress of Acre, so he marched his army back to Egypt in May. To speed up the retreat, Bonaparte ordered plague-stricken men to be poisoned with opium; the number who died remains disputed, ranging from a low of 30 to a high of 580.', 'He also brought out 1,000 wounded men. Back in Egypt on 25 July, Bonaparte defeated an Ottoman amphibious invasion at Abukir.']
+Answer: 1,500
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 32, 'end': 38, 'text': '13,000', 'value_text': '13,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 44, 'end': 49, 'text': '1,500', 'value_text': '1,500', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 73, 'end': 78, 'text': '1,200', 'value_text': '1,200', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 391, 'end': 393, 'text': '30', 'value_text': '30', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 407, 'end': 410, 'text': '580', 'value_text': '580', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 432, 'end': 437, 'text': '1,000', 'value_text': '1,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 468, 'end': 470, 'text': '25', 'value_text': '25', 'category': 'number', 'unit': None}
+Side Channel: 13,000|1,500|1,200|30|580|1,000|25
+
+--------------------------------------------------------------------------------
+
+Triplet 90:
+Question: How many people per 100,000 were murdered in Richmond in 1990?
+Context: ["During the late 1980s and early 1990s, Richmond experienced a spike in overall crime, in particular, the city's murder rate. The city had 93 murders for the year of 1985, with a murder rate of 41.9 killings committed per 100,000 residents. Over the next decade, the city saw a major increase in total homicides.", 'In 1990 there were 114 murders, for a murder rate of 56.1 killings per 100,000 residents. There were 120 murders in 1995, resulting in a murder rate of 59.1 killings per 100,000 residents, one of the highest in the United States.']
+Answer: 56.1
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 11, 'end': 21, 'text': 'late 1980s', 'value_text': 'late 1980s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 26, 'end': 37, 'text': 'early 1990s', 'value_text': 'early 1990s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 138, 'end': 140, 'text': '93', 'value_text': '93', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 165, 'end': 169, 'text': '1985', 'value_text': '1985', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 193, 'end': 197, 'text': '41.9', 'value_text': '41.9', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 221, 'end': 228, 'text': '100,000', 'value_text': '100,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 315, 'end': 319, 'text': '1990', 'value_text': '1990', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 331, 'end': 334, 'text': '114', 'value_text': '114', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 365, 'end': 369, 'text': '56.1', 'value_text': '56.1', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 383, 'end': 390, 'text': '100,000', 'value_text': '100,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 413, 'end': 416, 'text': '120', 'value_text': '120', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 428, 'end': 432, 'text': '1995', 'value_text': '1995', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 464, 'end': 468, 'text': '59.1', 'value_text': '59.1', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 482, 'end': 489, 'text': '100,000', 'value_text': '100,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 501, 'end': 504, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+Side Channel: late 1980s|early 1990s|93|1985|41.9|100,000|1990|114|56.1|100,000|120|1995|59.1|100,000|one
+
+--------------------------------------------------------------------------------
+
+Triplet 92:
+Question: What percentage of extinction of species had recently happened??
+Context: ['The Early Triassic was between 250 million to 247 million years ago and was dominated by deserts as Pangaea had not yet broken up, thus the interior was nothing but arid. The Earth had just witnessed a massive die-off in which 95% of all life went extinct. The most common life on earth were Lystrosaurus, Labyrinthodont, and Euparkeria along with many other creatures that managed to survive the Great Dying.', 'Temnospondyli evolved during this time and would be the dominant predator for much of the Triassic.']
+Answer: 95%
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 31, 'end': 63, 'text': '250 million to 247 million years', 'value_text': '250 million to 247 million', 'category': 'range', 'unit': 'years'}
+{'chunk_index': 0, 'start': 227, 'end': 230, 'text': '95%', 'value_text': '95%', 'category': 'percentage', 'unit': None}
+Side Channel: 250 million to 247 million years|95%
+
+--------------------------------------------------------------------------------
+
+Triplet 94:
+Question: How many armies did the Chinese use in the Fifth Phase Offensive?
+Context: ['The Chinese counterattacked in April 1951, with the Fifth Phase Offensive, also known as the Chinese Spring Offensive, with three field armies (approximately 700,000 men).', 'The offensive\'s first thrust fell upon I Corps, which fiercely resisted in the Battle of the Imjin River (22–25 April 1951) and the Battle of Kapyong (22–25 April 1951), blunting the impetus of the offensive, which was halted at the "No-name Line" north of Seoul.', 'On 15 May 1951, the Chinese commenced the second impulse of the Spring Offensive and attacked the ROK Army and the U.S. X Corps in the east at the Soyang River. After initial success, they were halted by 20 May. At month\'s end, the U.S. Eighth Army counterattacked and regained "Line Kansas", just north of the 38th parallel.', 'The UN\'s "Line Kansas" halt and subsequent offensive action stand-down began the stalemate that lasted until the armistice of 1953.']
+Answer: three field armies
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 31, 'end': 41, 'text': 'April 1951', 'value_text': 'April 1951', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 52, 'end': 57, 'text': 'Fifth', 'value_text': 'Fifth', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 124, 'end': 129, 'text': 'three', 'value_text': 'three', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 158, 'end': 165, 'text': '700,000', 'value_text': '700,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 188, 'end': 193, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 278, 'end': 280, 'text': '22', 'value_text': '22', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 281, 'end': 294, 'text': '25 April 1951', 'value_text': '25 April 1951', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 323, 'end': 325, 'text': '22', 'value_text': '22', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 326, 'end': 339, 'text': '25 April 1951', 'value_text': '25 April 1951', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 439, 'end': 450, 'text': '15 May 1951', 'value_text': '15 May 1951', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 478, 'end': 484, 'text': 'second', 'value_text': 'second', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 556, 'end': 557, 'text': 'X', 'value_text': 'X', 'category': 'roman_numeral', 'unit': None}
+{'chunk_index': 0, 'start': 640, 'end': 642, 'text': '20', 'value_text': '20', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 673, 'end': 679, 'text': 'Eighth', 'value_text': 'Eighth', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 747, 'end': 751, 'text': '38th', 'value_text': '38th', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 888, 'end': 892, 'text': '1953', 'value_text': '1953', 'category': 'year_or_integer', 'unit': None}
+Side Channel: April 1951|Fifth|three|700,000|first|22|25 April 1951|22|25 April 1951|15 May 1951|second|X|20|Eighth|38th|1953
+
+--------------------------------------------------------------------------------
+
+Triplet 95:
+Question: How many roads lead out of the outer ring of Connaught Place?
+Context: ["At the heart of the city is the magnificent Rashtrapati Bhavan (formerly known as Viceroy's House) which sits atop Raisina Hill. The Secretariat, which houses ministries of the Government of India, flanks out of the Rashtrapati Bhavan. The Parliament House, designed by Herbert Baker, is located at the Sansad Marg, which runs parallel to the Rajpath. Connaught Place is a large, circular commercial area in New Delhi, modelled after the Royal Crescent in England.", 'Twelve separate roads lead out of the outer ring of Connaught Place, one of them being the Janpath.']
+Answer: Twelve
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 465, 'end': 471, 'text': 'Twelve', 'value_text': 'Twelve', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 534, 'end': 537, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+Side Channel: Twelve|one
+
+--------------------------------------------------------------------------------
+
+Triplet 100:
+Question: What is another name for Antiquity?
+Context: ['The Middle Ages is one of the three major periods in the most enduring scheme for analysing European history: classical civilisation, or Antiquity; the Middle Ages; and the Modern Period.']
+Answer: classical civilisation
+Entity Label: TIME
+{'chunk_index': 0, 'start': 19, 'end': 22, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 30, 'end': 35, 'text': 'three', 'value_text': 'three', 'category': 'number_word', 'unit': None}
+Side Channel: one|three
+
+--------------------------------------------------------------------------------
+
+Triplet 102:
+Question: By 2006 the GDP had dropped to what?
+Context: ['Quoted at constant 2002 prices, GDP fell from £12 million in 1999-2000 to £11 million in 2005-06. Imports are mainly from the UK and South Africa and amounted to £6.4 million in 2004-05 (quoted on an FOB basis). Exports are much smaller, amounting to £0.2 million in 2004-05.', 'Exports are mainly fish and coffee; Philatelic sales were £0.06 million in 2004-05. The limited number of visiting tourists spent about £0.4 million in 2004-05, representing a contribution to GDP of 3%.']
+Answer: £11 million
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 19, 'end': 23, 'text': '2002', 'value_text': '2002', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 46, 'end': 57, 'text': '£12 million', 'value_text': '£12 million', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 61, 'end': 70, 'text': '1999-2000', 'value_text': '1999-2000', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 74, 'end': 85, 'text': '£11 million', 'value_text': '£11 million', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 89, 'end': 96, 'text': '2005-06', 'value_text': '2005-06', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 162, 'end': 174, 'text': '£6.4 million', 'value_text': '£6.4 million', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 178, 'end': 185, 'text': '2004-05', 'value_text': '2004-05', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 251, 'end': 263, 'text': '£0.2 million', 'value_text': '£0.2 million', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 267, 'end': 274, 'text': '2004-05', 'value_text': '2004-05', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 334, 'end': 347, 'text': '£0.06 million', 'value_text': '£0.06 million', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 351, 'end': 358, 'text': '2004-05', 'value_text': '2004-05', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 412, 'end': 424, 'text': '£0.4 million', 'value_text': '£0.4 million', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 428, 'end': 435, 'text': '2004-05', 'value_text': '2004-05', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 475, 'end': 477, 'text': '3%', 'value_text': '3%', 'category': 'percentage', 'unit': None}
+Side Channel: 2002|£12 million|1999-2000|£11 million|2005-06|£6.4 million|2004-05|£0.2 million|2004-05|£0.06 million|2004-05|£0.4 million|2004-05|3%
+
+--------------------------------------------------------------------------------
+
+Triplet 103:
+Question: How many homes had been rebuilt?
+Context: ['Executive vice governor Wei Hong confirmed on November 21, 2008 that more than 90,000 people in total were dead or missing in the earthquake. He stated that 200,000 homes had been rebuilt, and 685,000 were under reconstruction, but 1.94 million households were still without permanent shelter. 1,300 schools had been reconstructed, with initial relocation of 25 townships, including Beichuan and Wenchuan, two of the most devastated areas.', 'The government spent $441 billion on relief and reconstruction efforts.']
+Answer: 200,000
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 46, 'end': 63, 'text': 'November 21, 2008', 'value_text': 'November 21, 2008', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 79, 'end': 92, 'text': '90,000 people', 'value_text': '90,000', 'category': 'number', 'unit': 'people'}
+{'chunk_index': 0, 'start': 157, 'end': 164, 'text': '200,000', 'value_text': '200,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 193, 'end': 200, 'text': '685,000', 'value_text': '685,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 232, 'end': 244, 'text': '1.94 million', 'value_text': '1.94 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 294, 'end': 299, 'text': '1,300', 'value_text': '1,300', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 359, 'end': 361, 'text': '25', 'value_text': '25', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 406, 'end': 409, 'text': 'two', 'value_text': 'two', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 461, 'end': 473, 'text': '$441 billion', 'value_text': '$441 billion', 'category': 'money', 'unit': None}
+Side Channel: November 21, 2008|90,000 people|200,000|685,000|1.94 million|1,300|25|two|$441 billion
+
+--------------------------------------------------------------------------------
+
+Triplet 107:
+Question: How many NCAA tournaments did the Notre Dame men's basketball team take part in?
+Context: ["The men's basketball team has over 1,600 wins, one of only 12 schools who have reached that mark, and have appeared in 28 NCAA tournaments. Former player Austin Carr holds the record for most points scored in a single game of the tournament with 61. Although the team has never won the NCAA Tournament, they were named by the Helms Athletic Foundation as national champions twice.", "The team has orchestrated a number of upsets of number one ranked teams, the most notable of which was ending UCLA's record 88-game winning streak in 1974. The team has beaten an additional eight number-one teams, and those nine wins rank second, to UCLA's 10, all-time in wins against the top team. The team plays in newly renovated Purcell Pavilion (within the Edmund P. Joyce Center), which reopened for the beginning of the 2009–2010 season.", 'The team is coached by Mike Brey, who, as of the 2014–15 season, his fifteenth at Notre Dame, has achieved a 332-165 record. In 2009 they were invited to the NIT, where they advanced to the semifinals but were beaten by Penn State who went on and beat Baylor in the championship.', "The 2010–11 team concluded its regular season ranked number seven in the country, with a record of 25–5, Brey's fifth straight 20-win season, and a second-place finish in the Big East. During the 2014-15 season, the team went 32-6 and won the ACC conference tournament, later advancing to the Elite 8, where the Fighting Irish lost on a missed buzzer-beater against then undefeated Kentucky.", 'Led by NBA draft picks Jerian Grant and Pat Connaughton, the Fighting Irish beat the eventual national champion Duke Blue Devils twice during the season. The 32 wins were the most by the Fighting Irish team since 1908-09.']
+Answer: 28
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 35, 'end': 40, 'text': '1,600', 'value_text': '1,600', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 47, 'end': 50, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 59, 'end': 61, 'text': '12', 'value_text': '12', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 119, 'end': 121, 'text': '28', 'value_text': '28', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 246, 'end': 248, 'text': '61', 'value_text': '61', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 374, 'end': 379, 'text': 'twice', 'value_text': 'twice', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 436, 'end': 439, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 505, 'end': 507, 'text': '88', 'value_text': '88', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 531, 'end': 535, 'text': '1974', 'value_text': '1974', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 571, 'end': 576, 'text': 'eight', 'value_text': 'eight', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 584, 'end': 587, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 605, 'end': 609, 'text': 'nine', 'value_text': 'nine', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 620, 'end': 626, 'text': 'second', 'value_text': 'second', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 638, 'end': 640, 'text': '10', 'value_text': '10', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 809, 'end': 818, 'text': '2009–2010', 'value_text': '2009–2010', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 876, 'end': 883, 'text': '2014–15', 'value_text': '2014–15', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 896, 'end': 905, 'text': 'fifteenth', 'value_text': 'fifteenth', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 936, 'end': 943, 'text': '332-165', 'value_text': '332-165', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 955, 'end': 959, 'text': '2009', 'value_text': '2009', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 1111, 'end': 1118, 'text': '2010–11', 'value_text': '2010–11', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 1167, 'end': 1172, 'text': 'seven', 'value_text': 'seven', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 1206, 'end': 1210, 'text': '25–5', 'value_text': '25–5', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 1219, 'end': 1224, 'text': 'fifth', 'value_text': 'fifth', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 1234, 'end': 1236, 'text': '20', 'value_text': '20', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 1255, 'end': 1261, 'text': 'second', 'value_text': 'second', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 1303, 'end': 1310, 'text': '2014-15', 'value_text': '2014-15', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 1333, 'end': 1337, 'text': '32-6', 'value_text': '32-6', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 1406, 'end': 1407, 'text': '8', 'value_text': '8', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 1628, 'end': 1633, 'text': 'twice', 'value_text': 'twice', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 1657, 'end': 1659, 'text': '32', 'value_text': '32', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 1712, 'end': 1719, 'text': '1908-09', 'value_text': '1908-09', 'category': 'range', 'unit': None}
+Side Channel: 1,600|one|12|28|61|twice|one|88|1974|eight|one|nine|second|10|2009–2010|2014–15|fifteenth|332-165|2009|2010–11|seven|25–5|fifth|20|second|2014-15|32-6|8|twice|32|1908-09
+
+--------------------------------------------------------------------------------
+
+Triplet 110:
+Question: When was oil discovered in the city limits?
+Context: ['Before World War II, Oklahoma City developed major stockyards, attracting jobs and revenue formerly in Chicago and Omaha, Nebraska. With the 1928 discovery of oil within the city limits (including under the State Capitol), Oklahoma City became a major center of oil production. Post-war growth accompanied the construction of the Interstate Highway System, which made Oklahoma City a major interchange as the convergence of I-35, I-40 and I-44. It was also aided by federal development of Tinker Air Force Base.']
+Answer: 1928
+Entity Label: TIME
+{'chunk_index': 0, 'start': 17, 'end': 19, 'text': 'II', 'value_text': 'II', 'category': 'roman_numeral', 'unit': None}
+{'chunk_index': 0, 'start': 141, 'end': 145, 'text': '1928', 'value_text': '1928', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 424, 'end': 428, 'text': 'I-35', 'value_text': 'I-35', 'category': 'identifier', 'unit': None}
+{'chunk_index': 0, 'start': 430, 'end': 434, 'text': 'I-40', 'value_text': 'I-40', 'category': 'identifier', 'unit': None}
+{'chunk_index': 0, 'start': 439, 'end': 443, 'text': 'I-44', 'value_text': 'I-44', 'category': 'identifier', 'unit': None}
+Side Channel: II|1928|I-35|I-40|I-44
+
+--------------------------------------------------------------------------------
+
+Triplet 112:
+Question: When did China join the Galileo project?
+Context: ['In September 2003, China intended to join the European Galileo positioning system project and was to invest €230 million (USD296 million, GBP160 million) in Galileo over the next few years. At the time, it was believed that China\'s "BeiDou" navigation system would then only be used by its armed forces.', 'In October 2004, China officially joined the Galileo project by signing the Agreement on the Cooperation in the Galileo Program between the "Galileo Joint Undertaking" (GJU) and the "National Remote Sensing Centre of China" (NRSCC). Based on the Sino-European Cooperation Agreement on Galileo program, China Galileo Industries (CGI), the prime contractor of the China’s involvement in Galileo programs, was founded in December 2004.', 'By April 2006, eleven cooperation projects within the Galileo framework had been signed between China and EU. However, the Hong Kong-based South China Morning Post reported in January 2008 that China was unsatisfied with its role in the Galileo project and was to compete with Galileo in the Asian market.']
+Answer: October 2004
+Entity Label: TIME
+{'chunk_index': 0, 'start': 3, 'end': 17, 'text': 'September 2003', 'value_text': 'September 2003', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 108, 'end': 120, 'text': '€230 million', 'value_text': '€230 million', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 122, 'end': 128, 'text': 'USD296', 'value_text': 'USD296', 'category': 'identifier', 'unit': None}
+{'chunk_index': 0, 'start': 129, 'end': 136, 'text': 'million', 'value_text': 'million', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 138, 'end': 144, 'text': 'GBP160', 'value_text': 'GBP160', 'category': 'identifier', 'unit': None}
+{'chunk_index': 0, 'start': 145, 'end': 152, 'text': 'million', 'value_text': 'million', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 307, 'end': 319, 'text': 'October 2004', 'value_text': 'October 2004', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 722, 'end': 735, 'text': 'December 2004', 'value_text': 'December 2004', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 740, 'end': 750, 'text': 'April 2006', 'value_text': 'April 2006', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 752, 'end': 758, 'text': 'eleven', 'value_text': 'eleven', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 913, 'end': 925, 'text': 'January 2008', 'value_text': 'January 2008', 'category': 'date', 'unit': None}
+Side Channel: September 2003|€230 million|USD296|million|GBP160|million|October 2004|December 2004|April 2006|eleven|January 2008
+
+--------------------------------------------------------------------------------
+
+Triplet 113:
+Question: When was the Smart Bodies initiative first released?
+Context: ['An example of a state initiative to promote nutrition literacy is Smart Bodies, a public-private partnership between the state’s largest university system and largest health insurer, Louisiana State Agricultural Center and Blue Cross and Blue Shield of Louisiana Foundation. Launched in 2005, this program promotes lifelong healthful eating patterns and physically active lifestyles for children and their families. It is an interactive educational program designed to help prevent childhood obesity through classroom activities that teach children healthful eating habits and physical exercise.']
+Answer: 2005
+Entity Label: TIME
+{'chunk_index': 0, 'start': 287, 'end': 291, 'text': '2005', 'value_text': '2005', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 2005
+
+--------------------------------------------------------------------------------
+
+Triplet 122:
+Question: How many students at Notre Dame received the Heisman Trophy?
+Context: ["Notre Dame rose to national prominence in the early 1900s for its Fighting Irish football team, especially under the guidance of the legendary coach Knute Rockne. The university's athletic teams are members of the NCAA Division I and are known collectively as the Fighting Irish.", 'The football team, an Independent, has accumulated eleven consensus national championships, seven Heisman Trophy winners, 62 members in the College Football Hall of Fame and 13 members in the Pro Football Hall of Fame and is considered one of the most famed and successful college football teams in history. Other ND teams, chiefly in the Atlantic Coast Conference, have accumulated 16 national championships. The Notre Dame Victory March is often regarded as the most famous and recognizable collegiate fight song.']
+Answer: seven
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 46, 'end': 57, 'text': 'early 1900s', 'value_text': 'early 1900s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 331, 'end': 337, 'text': 'eleven', 'value_text': 'eleven', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 372, 'end': 377, 'text': 'seven', 'value_text': 'seven', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 402, 'end': 404, 'text': '62', 'value_text': '62', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 454, 'end': 456, 'text': '13', 'value_text': '13', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 516, 'end': 519, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 663, 'end': 665, 'text': '16', 'value_text': '16', 'category': 'number', 'unit': None}
+Side Channel: early 1900s|eleven|seven|62|13|one|16
+
+--------------------------------------------------------------------------------
+
+Triplet 123:
+Question: Buckingham Palace was untouched during which war?
+Context: ["During World War I, the palace, then the home of King George V and Queen Mary, escaped unscathed. Its more valuable contents were evacuated to Windsor but the royal family remained in situ. The King imposed rationing at the palace, much to the dismay of his guests and household. To the King's later regret, David Lloyd George persuaded him to go further by ostentatiously locking the wine cellars and refraining from alcohol, to set a good example to the supposedly inebriated working class.", 'The workers continued to imbibe and the King was left unhappy at his enforced abstinence. In 1938, the north-west pavilion, designed by Nash as a conservatory, was converted into a swimming pool.']
+Answer: World War I
+Entity Label: TIME
+{'chunk_index': 0, 'start': 61, 'end': 62, 'text': 'V', 'value_text': 'V', 'category': 'roman_numeral', 'unit': None}
+{'chunk_index': 0, 'start': 586, 'end': 590, 'text': '1938', 'value_text': '1938', 'category': 'year_or_integer', 'unit': None}
+Side Channel: V|1938
+
+--------------------------------------------------------------------------------
+
+Triplet 125:
+Question: How many stations are in the Mexico City metro system?
+Context: ['Mexico City is served by the Sistema de Transporte Colectivo, a 225.9 km (140 mi) metro system, which is the largest in Latin America. The first portions were opened in 1969 and it has expanded to 12 lines with 195 stations. The metro is one of the busiest in the world transporting approximately 4.5 million people every day, surpassed only by subway lines in Moscow (7.5 million), Tokyo (5.9 million), and New York City (5.1 million).', "It is heavily subsidized, and has some of the lowest fares in the world, each trip costing 5.00 pesos from 05:00 am to midnight. Several stations display pre-Columbian artifacts and architecture that were discovered during the metro's construction. [citation needed] However, the metro covers less than half of the total urban area. The Metro stations are also differentiated by the use of icons and glyphs which were proposed for people who could not read.", 'The specific icons were developed based on historical (characters, sites, pre-Hispanic motifs), linguistic, symbolic (glyphs) or location references and has being emulated in further transportations alternatives in the City and in other Mexican cities. Mexico City is the only city in the world to use the icon reference and has become a popular culture trademark for the city.']
+Answer: 195
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 64, 'end': 72, 'text': '225.9 km', 'value_text': '225.9', 'category': 'number', 'unit': 'km'}
+{'chunk_index': 0, 'start': 74, 'end': 77, 'text': '140', 'value_text': '140', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 139, 'end': 144, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 169, 'end': 173, 'text': '1969', 'value_text': '1969', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 197, 'end': 199, 'text': '12', 'value_text': '12', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 211, 'end': 214, 'text': '195', 'value_text': '195', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 238, 'end': 241, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 297, 'end': 315, 'text': '4.5 million people', 'value_text': '4.5 million', 'category': 'number', 'unit': 'people'}
+{'chunk_index': 0, 'start': 369, 'end': 380, 'text': '7.5 million', 'value_text': '7.5 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 390, 'end': 401, 'text': '5.9 million', 'value_text': '5.9 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 423, 'end': 434, 'text': '5.1 million', 'value_text': '5.1 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 528, 'end': 532, 'text': '5.00', 'value_text': '5.00', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 544, 'end': 549, 'text': '05:00', 'value_text': '05:00', 'category': 'ratio', 'unit': None}
+{'chunk_index': 0, 'start': 740, 'end': 744, 'text': 'half', 'value_text': 'half', 'category': 'number_word', 'unit': None}
+Side Channel: 225.9 km|140|first|1969|12|195|one|4.5 million people|7.5 million|5.9 million|5.1 million|5.00|05:00|half
+
+--------------------------------------------------------------------------------
+
+Triplet 128:
+Question: What percentage of kids in the whole world get the BCG vaccine?
+Context: ["It is the most widely used vaccine worldwide, with more than 90% of all children being vaccinated. The immunity it induces decreases after about ten years. As tuberculosis is uncommon in most of Canada, the United Kingdom, and the United States, BCG is administered only to those people at high risk. Part of the reasoning against the use of the vaccine is that it makes the tuberculin skin test falsely positive, reducing the test's use in screening. A number of new vaccines are currently in development."]
+Answer: 90%
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 61, 'end': 64, 'text': '90%', 'value_text': '90%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 145, 'end': 154, 'text': 'ten years', 'value_text': 'ten', 'category': 'number_word', 'unit': 'years'}
+Side Channel: 90%|ten years
+
+--------------------------------------------------------------------------------
+
+Triplet 130:
+Question: On what day was the Richard Gilder Boathouse established?
+Context: ['Yale has numerous athletic facilities, including the Yale Bowl (the nation\'s first natural "bowl" stadium, and prototype for such stadiums as the Los Angeles Memorial Coliseum and the Rose Bowl), located at The Walter Camp Field athletic complex, and the Payne Whitney Gymnasium, the second-largest indoor athletic complex in the world. October 21, 2000, marked the dedication of Yale\'s fourth new boathouse in 157 years of collegiate rowing.', "The Richard Gilder Boathouse is named to honor former Olympic rower Virginia Gilder '79 and her father Richard Gilder '54, who gave $4 million towards the $7.5 million project. Yale also maintains the Gales Ferry site where the heavyweight men's team trains for the Yale-Harvard Boat Race."]
+Answer: October 21, 2000
+Entity Label: TIME
+{'chunk_index': 0, 'start': 77, 'end': 82, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 284, 'end': 290, 'text': 'second', 'value_text': 'second', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 337, 'end': 353, 'text': 'October 21, 2000', 'value_text': 'October 21, 2000', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 387, 'end': 393, 'text': 'fourth', 'value_text': 'fourth', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 411, 'end': 420, 'text': '157 years', 'value_text': '157', 'category': 'number', 'unit': 'years'}
+{'chunk_index': 0, 'start': 528, 'end': 530, 'text': '79', 'value_text': '79', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 562, 'end': 564, 'text': '54', 'value_text': '54', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 575, 'end': 585, 'text': '$4 million', 'value_text': '$4 million', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 598, 'end': 610, 'text': '$7.5 million', 'value_text': '$7.5 million', 'category': 'money', 'unit': None}
+Side Channel: first|second|October 21, 2000|fourth|157 years|79|54|$4 million|$7.5 million
+
+--------------------------------------------------------------------------------
+
+Triplet 132:
+Question: How many Finns speak Russian?
+Context: ['As the Grand Duchy of Finland was part of the Russian Empire from 1809 to 1918, a number of Russian speakers have remained in Finland. There are 33,400 Russian-speaking Finns, amounting to 0.6% of the population. Five thousand (0.1%) of them are late 19th century and 20th century immigrants or their descendants, and the remaining majority are recent immigrants who moved there in the 1990s and later.', '[citation needed] Russian is spoken by 1.4% of the population of Finland according to a 2014 estimate from the World Factbook.']
+Answer: 33,400
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 61, 'end': 78, 'text': 'from 1809 to 1918', 'value_text': 'from 1809 to 1918', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 145, 'end': 151, 'text': '33,400', 'value_text': '33,400', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 189, 'end': 193, 'text': '0.6%', 'value_text': '0.6%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 213, 'end': 226, 'text': 'Five thousand', 'value_text': 'Five thousand', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 228, 'end': 232, 'text': '0.1%', 'value_text': '0.1%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 251, 'end': 263, 'text': '19th century', 'value_text': '19th century', 'category': 'century', 'unit': None}
+{'chunk_index': 0, 'start': 268, 'end': 280, 'text': '20th century', 'value_text': '20th century', 'category': 'century', 'unit': None}
+{'chunk_index': 0, 'start': 386, 'end': 391, 'text': '1990s', 'value_text': '1990s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 442, 'end': 446, 'text': '1.4%', 'value_text': '1.4%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 491, 'end': 495, 'text': '2014', 'value_text': '2014', 'category': 'year_or_integer', 'unit': None}
+Side Channel: from 1809 to 1918|33,400|0.6%|Five thousand|0.1%|19th century|20th century|1990s|1.4%|2014
+
+--------------------------------------------------------------------------------
+
+Triplet 137:
+Question: What date did the Spanish force the Portuguese to abandon the location?
+Context: ['A Spanish expedition was sent from Buenos Aires, organized by the Spanish governor of that city, Bruno Mauricio de Zabala. On 22 January 1724, the Spanish forced the Portuguese to abandon the location and started populating the city, initially with six families moving in from Buenos Aires and soon thereafter by families arriving from the Canary Islands who were called by the locals "guanches", "guanchos" or "canarios". There was also one significant early Italian resident by the name of Jorge Burgues.']
+Answer: 22 January 1724
+Entity Label: TIME
+{'chunk_index': 0, 'start': 126, 'end': 141, 'text': '22 January 1724', 'value_text': '22 January 1724', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 249, 'end': 252, 'text': 'six', 'value_text': 'six', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 438, 'end': 441, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+Side Channel: 22 January 1724|six|one
+
+--------------------------------------------------------------------------------
+
+Triplet 142:
+Question: How many Somalis lived in Finland as of 2014?
+Context: ["While the distribution of Somalis per country in Europe is hard to measure because the Somali community on the continent has grown so quickly in recent years, an official 2010 estimate reported 108,000 Somalis living in the United Kingdom. Somalis in Britain are largely concentrated in the cities of London, Sheffield, Bristol, Birmingham, Cardiff, Liverpool, Manchester, Leeds, and Leicester, with London alone accounting for roughly 78% of Britain's Somali population.", 'There are also significant Somali communities in Sweden: 57,906 (2014); the Netherlands: 37,432 (2014); Norway: 38,413 (2015); Denmark: 18,645 (2014); and Finland: 16,721 (2014).']
+Answer: 16,721
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 171, 'end': 175, 'text': '2010', 'value_text': '2010', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 194, 'end': 201, 'text': '108,000', 'value_text': '108,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 436, 'end': 439, 'text': '78%', 'value_text': '78%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 529, 'end': 535, 'text': '57,906', 'value_text': '57,906', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 537, 'end': 541, 'text': '2014', 'value_text': '2014', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 561, 'end': 567, 'text': '37,432', 'value_text': '37,432', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 569, 'end': 573, 'text': '2014', 'value_text': '2014', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 584, 'end': 590, 'text': '38,413', 'value_text': '38,413', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 592, 'end': 596, 'text': '2015', 'value_text': '2015', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 608, 'end': 614, 'text': '18,645', 'value_text': '18,645', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 616, 'end': 620, 'text': '2014', 'value_text': '2014', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 636, 'end': 642, 'text': '16,721', 'value_text': '16,721', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 644, 'end': 648, 'text': '2014', 'value_text': '2014', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 2010|108,000|78%|57,906|2014|37,432|2014|38,413|2015|18,645|2014|16,721|2014
+
+--------------------------------------------------------------------------------
+
+Triplet 146:
+Question: How many Lenape lived in the area in 1700?
+Context: ['At the end of the Second Anglo-Dutch War, the English gained New Amsterdam (New York) in North America in exchange for Dutch control of Run, an Indonesian island. Several intertribal wars among the Native Americans and some epidemics brought on by contact with the Europeans caused sizable population losses for the Lenape between the years 1660 and 1670. By 1700, the Lenape population had diminished to 200.']
+Answer: 200
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 18, 'end': 24, 'text': 'Second', 'value_text': 'Second', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 341, 'end': 345, 'text': '1660', 'value_text': '1660', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 350, 'end': 354, 'text': '1670', 'value_text': '1670', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 359, 'end': 363, 'text': '1700', 'value_text': '1700', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 405, 'end': 408, 'text': '200', 'value_text': '200', 'category': 'number', 'unit': None}
+Side Channel: Second|1660|1670|1700|200
+
+--------------------------------------------------------------------------------
+
+Triplet 147:
+Question: How many police officers were part of the security operative?
+Context: ['The outreach director of HRTR, Susan Prager, is also the communication director of "Friends of Falun Gong", a quasi-government non-profit funded by fmr. Congressman Tom Lanto\'s wife and Ambassador Mark Palmer of NED. A major setback to the event was caused by footballer Diego Maradona, scheduled to open the relay through Buenos Aires, pulling out in an attempt to avoid the Olympic controversy.', 'Trying to avoid the scenes that marred the relay in the UK, France and the US, the city government designed a complex security operative to protect the torch relay, involving 1200 police officers and 3000 other people, including public employees and volunteers. Overall, the protests were peaceful in nature, although there were a few incidents such as the throwing of several water balloons in an attempt to extinguish the Olympic flame, and minor scuffles between Olympic protesters and supporters from Chinese immigrant communities.']
+Answer: 1200
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 572, 'end': 576, 'text': '1200', 'value_text': '1200', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 597, 'end': 601, 'text': '3000', 'value_text': '3000', 'category': 'number', 'unit': None}
+Side Channel: 1200|3000
+
+--------------------------------------------------------------------------------
+
+Triplet 149:
+Question: Since when has environmental damage in Thuringia been reduced?
+Context: ["Environmental damage in Thuringia has been reduced to a large extent after 1990. The condition of forests, rivers and air was improved by modernizing factories, houses (decline of coal heating) and cars, and contaminated areas such as the former Uranium surface mines around Ronneburg have been remediated. Today's environmental problems are the salination of the Werra river, caused by discharges of K+S salt mines around Unterbreizbach and overfertilisation in agriculture, damaging the soil and small rivers."]
+Answer: 1990
+Entity Label: TIME
+{'chunk_index': 0, 'start': 75, 'end': 79, 'text': '1990', 'value_text': '1990', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 1990
+
+--------------------------------------------------------------------------------
+
+Triplet 150:
+Question: How many seats did the Conservatives win?
+Context: ['In the 2010 general election on 6 May that year, Labour with 29.0% of the vote won the second largest number of seats (258). The Conservatives with 36.5% of the vote won the largest number of seats (307), but no party had an overall majority, meaning that Labour could still remain in power if they managed to form a coalition with at least one smaller party. However, the Labour Party would have had to form a coalition with more than one other smaller party to gain an overall majority; anything less would result in a minority government.', 'On 10 May 2010, after talks to form a coalition with the Liberal Democrats broke down, Brown announced his intention to stand down as Leader before the Labour Party Conference but a day later resigned as both Prime Minister and party leader.']
+Answer: 307
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 7, 'end': 11, 'text': '2010', 'value_text': '2010', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 32, 'end': 33, 'text': '6', 'value_text': '6', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 61, 'end': 66, 'text': '29.0%', 'value_text': '29.0%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 87, 'end': 93, 'text': 'second', 'value_text': 'second', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 119, 'end': 122, 'text': '258', 'value_text': '258', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 148, 'end': 153, 'text': '36.5%', 'value_text': '36.5%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 199, 'end': 202, 'text': '307', 'value_text': '307', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 341, 'end': 344, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 436, 'end': 439, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 545, 'end': 556, 'text': '10 May 2010', 'value_text': '10 May 2010', 'category': 'date', 'unit': None}
+Side Channel: 2010|6|29.0%|second|258|36.5%|307|one|one|10 May 2010
+
+--------------------------------------------------------------------------------
+
+Triplet 152:
+Question: According to the Maplecroft Child Labour Index how many countries post risks for child labour?
+Context: ['Maplecroft Child Labour Index 2012 survey reports 76 countries pose extreme child labour complicity risks for companies operating worldwide. The ten highest risk countries in 2012, ranked in decreasing order, were: Myanmar, North Korea, Somalia, Sudan, DR Congo, Zimbabwe, Afghanistan, Burundi, Pakistan and Ethiopia.', 'Of the major growth economies, Maplecroft ranked Philippines 25th riskiest, India 27th, China 36th, Viet Nam 37th, Indonesia 46th, and Brazil 54th - all of them rated to involve extreme risks of child labour uncertainties, to corporations seeking to invest in developing world and import products from emerging markets.']
+Answer: 76
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 30, 'end': 34, 'text': '2012', 'value_text': '2012', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 50, 'end': 52, 'text': '76', 'value_text': '76', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 145, 'end': 148, 'text': 'ten', 'value_text': 'ten', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 175, 'end': 179, 'text': '2012', 'value_text': '2012', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 379, 'end': 383, 'text': '25th', 'value_text': '25th', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 400, 'end': 404, 'text': '27th', 'value_text': '27th', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 412, 'end': 416, 'text': '36th', 'value_text': '36th', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 427, 'end': 431, 'text': '37th', 'value_text': '37th', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 443, 'end': 447, 'text': '46th', 'value_text': '46th', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 460, 'end': 464, 'text': '54th', 'value_text': '54th', 'category': 'ordinal', 'unit': None}
+Side Channel: 2012|76|ten|2012|25th|27th|36th|37th|46th|54th
+
+--------------------------------------------------------------------------------
+
+Triplet 154:
+Question: What was the literacy rate in Liberia in 2010?
+Context: ['In 2010, the literacy rate of Liberia was estimated at 60.8% (64.8% for males and 56.8% for females). In some areas primary and secondary education is free and compulsory from the ages of 6 to 16, though enforcement of attendance is lax. In other areas children are required to pay a tuition fee to attend school. On average, children attain 10 years of education (11 for boys and 8 for girls).', "The country's education sector is hampered by inadequate schools and supplies, as well as a lack of qualified teachers."]
+Answer: 60.8%
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 3, 'end': 7, 'text': '2010', 'value_text': '2010', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 55, 'end': 60, 'text': '60.8%', 'value_text': '60.8%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 62, 'end': 67, 'text': '64.8%', 'value_text': '64.8%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 82, 'end': 87, 'text': '56.8%', 'value_text': '56.8%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 188, 'end': 195, 'text': '6 to 16', 'value_text': '6 to 16', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 342, 'end': 350, 'text': '10 years', 'value_text': '10', 'category': 'number', 'unit': 'years'}
+{'chunk_index': 0, 'start': 365, 'end': 367, 'text': '11', 'value_text': '11', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 381, 'end': 382, 'text': '8', 'value_text': '8', 'category': 'number', 'unit': None}
+Side Channel: 2010|60.8%|64.8%|56.8%|6 to 16|10 years|11|8
+
+--------------------------------------------------------------------------------
+
+Triplet 156:
+Question: In what year do most  Scholars agree the Italian Unification ended?
+Context: ['Italian unification was the political and social movement that annexed different states of the Italian peninsula into the single state of Italy in the 19th century. There is a lack of consensus on the exact dates for the beginning and the end of this period, but many scholars agree that the process began with the end of Napoleonic rule and the Congress of Vienna in 1815, and approximately ended with the Franco-Prussian War in 1871, though the last città irredente did not join the Kingdom of Italy until after World War I.']
+Answer: 1871
+Entity Label: TIME
+{'chunk_index': 0, 'start': 151, 'end': 163, 'text': '19th century', 'value_text': '19th century', 'category': 'century', 'unit': None}
+{'chunk_index': 0, 'start': 368, 'end': 372, 'text': '1815', 'value_text': '1815', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 430, 'end': 434, 'text': '1871', 'value_text': '1871', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 19th century|1815|1871
+
+--------------------------------------------------------------------------------
+
+Triplet 159:
+Question: In 2014, other religions mad eup what percentage of the citys population?
+Context: ['According to a 2014 study by the Pew Research Center, 57% of the population of the city identified themselves as Christians, with 25% professing attendance at a variety of churches that could be considered Protestant, and 29% professing Roman Catholic beliefs. while 33% claim no religious affiliation. The same study says that other religions (including Judaism, Buddhism, Islam, and Hinduism) collectively make up about 10% of the population.']
+Answer: 10%
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 15, 'end': 19, 'text': '2014', 'value_text': '2014', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 54, 'end': 57, 'text': '57%', 'value_text': '57%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 130, 'end': 133, 'text': '25%', 'value_text': '25%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 222, 'end': 225, 'text': '29%', 'value_text': '29%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 267, 'end': 270, 'text': '33%', 'value_text': '33%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 422, 'end': 425, 'text': '10%', 'value_text': '10%', 'category': 'percentage', 'unit': None}
+Side Channel: 2014|57%|25%|29%|33%|10%
+
+--------------------------------------------------------------------------------
+
+Triplet 164:
+Question: In what year was the city annexed to the German Empire?
+Context: ['In 1871, after the end of the war, the city was annexed to the newly established German Empire as part of the Reichsland Elsass-Lothringen under the terms of the Treaty of Frankfurt. As part of Imperial Germany, Strasbourg was rebuilt and developed on a grand and representative scale, such as the Neue Stadt, or "new city" around the present Place de la République. Historian Rodolphe Reuss and Art historian Wilhelm von Bode were in charge of rebuilding the municipal archives, libraries and museums.', 'The University, founded in 1567 and suppressed during the French Revolution as a stronghold of German sentiment,[citation needed] was reopened in 1872 under the name Kaiser-Wilhelms-Universität.']
+Answer: 1871
+Entity Label: TIME
+{'chunk_index': 0, 'start': 3, 'end': 7, 'text': '1871', 'value_text': '1871', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 530, 'end': 534, 'text': '1567', 'value_text': '1567', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 649, 'end': 653, 'text': '1872', 'value_text': '1872', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 1871|1567|1872
+
+--------------------------------------------------------------------------------
+
+Triplet 165:
+Question: When did Victoria's mother die? 
+Context: ['In March 1861, Victoria\'s mother died, with Victoria at her side. Through reading her mother\'s papers, Victoria discovered that her mother had loved her deeply; she was heart-broken, and blamed Conroy and Lehzen for "wickedly" estranging her from her mother. To relieve his wife during her intense and deep grief, Albert took on most of her duties, despite being ill himself with chronic stomach trouble.', 'In August, Victoria and Albert visited their son, the Prince of Wales, who was attending army manoeuvres near Dublin, and spent a few days holidaying in Killarney. In November, Albert was made aware of gossip that his son had slept with an actress in Ireland. Appalled, Albert travelled to Cambridge, where his son was studying, to confront him. By the beginning of December, Albert was very unwell. He was diagnosed with typhoid fever by William Jenner, and died on 14 December 1861. Victoria was devastated.', 'She blamed her husband\'s death on worry over the Prince of Wales\'s philandering. He had been "killed by that dreadful business", she said. She entered a state of mourning and wore black for the remainder of her life. She avoided public appearances, and rarely set foot in London in the following years. Her seclusion earned her the nickname "widow of Windsor".']
+Answer: March 1861
+Entity Label: TIME
+{'chunk_index': 0, 'start': 3, 'end': 13, 'text': 'March 1861', 'value_text': 'March 1861', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 872, 'end': 888, 'text': '14 December 1861', 'value_text': '14 December 1861', 'category': 'date', 'unit': None}
+Side Channel: March 1861|14 December 1861
+
+--------------------------------------------------------------------------------
+
+Triplet 171:
+Question: When was Nri taken over by the British?
+Context: ['The Kingdom of Nri of the Igbo people consolidated in the 10th century and continued until it lost its sovereignty to the British in 1911. Nri was ruled by the Eze Nri, and the city of Nri is considered to be the foundation of Igbo culture. Nri and Aguleri, where the Igbo creation myth originates, are in the territory of the Umeuri clan. Members of the clan trace their lineages back to the patriarchal king-figure Eri.', 'In West Africa, the oldest bronzes made using the lost-wax process were from Igbo Ukwu, a city under Nri influence.']
+Answer: 1911
+Entity Label: TIME
+{'chunk_index': 0, 'start': 58, 'end': 70, 'text': '10th century', 'value_text': '10th century', 'category': 'century', 'unit': None}
+{'chunk_index': 0, 'start': 133, 'end': 137, 'text': '1911', 'value_text': '1911', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 10th century|1911
+
+--------------------------------------------------------------------------------
+
+Triplet 179:
+Question: How many students attended the medical center at KU in fall of 2013?
+Context: ['The University of Kansas Medical Center features three schools: the School of Medicine, School of Nursing, and School of Health Professions. Furthermore, each of the three schools has its own programs of graduate study. As of the Fall 2013 semester, there were 3,349 students enrolled at KU Med. The Medical Center also offers four year instruction at the Wichita campus, and features a medical school campus in Salina, Kansas that is devoted to rural health care.']
+Answer: 3,349
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 49, 'end': 54, 'text': 'three', 'value_text': 'three', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 166, 'end': 171, 'text': 'three', 'value_text': 'three', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 235, 'end': 239, 'text': '2013', 'value_text': '2013', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 261, 'end': 266, 'text': '3,349', 'value_text': '3,349', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 327, 'end': 336, 'text': 'four year', 'value_text': 'four', 'category': 'number_word', 'unit': 'year'}
+Side Channel: three|three|2013|3,349|four year
+
+--------------------------------------------------------------------------------
+
+Triplet 180:
+Question: What percentage of children ages 8-14 could read and write Spanish?
+Context: ['According to the Instituto Nacional de Estadística, Geografía e Informática (INEGI), 95.6% of the population over the age of 15 could read and write Spanish, and 97.3% of children of ages 8–14 could read and write Spanish. An estimated 93.5% of the population ages 6–14 attend an institution of education. Estimated 12.8% of residents of the state have obtained a college degree.', 'Average schooling is 8.5 years, which means that in general the average citizen over 15 years of age has gone as far as a second year in secondary education.']
+Answer: 97.3%
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 85, 'end': 90, 'text': '95.6%', 'value_text': '95.6%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 125, 'end': 127, 'text': '15', 'value_text': '15', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 162, 'end': 167, 'text': '97.3%', 'value_text': '97.3%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 188, 'end': 192, 'text': '8–14', 'value_text': '8–14', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 236, 'end': 241, 'text': '93.5%', 'value_text': '93.5%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 265, 'end': 269, 'text': '6–14', 'value_text': '6–14', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 316, 'end': 321, 'text': '12.8%', 'value_text': '12.8%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 401, 'end': 410, 'text': '8.5 years', 'value_text': '8.5', 'category': 'number', 'unit': 'years'}
+{'chunk_index': 0, 'start': 465, 'end': 473, 'text': '15 years', 'value_text': '15', 'category': 'number', 'unit': 'years'}
+{'chunk_index': 0, 'start': 502, 'end': 513, 'text': 'second year', 'value_text': 'second', 'category': 'ordinal', 'unit': 'year'}
+Side Channel: 95.6%|15|97.3%|8–14|93.5%|6–14|12.8%|8.5 years|15 years|second year
+
+--------------------------------------------------------------------------------
+
+Triplet 181:
+Question: About how many Samba schools are in Rio?
+Context: ['Samba Schools are large, social entities with thousands of members and a theme for their song and parade each year. In Rio Carnival, samba schoolsparade in the Sambadrome ("sambódromo" in Portuguese).', 'Some of the most famous include GRES Estação Primeira de Mangueira, GRES Portela, GRES Imperatriz Leopoldinense, GRES Beija-Flor de Nilópolis, GRES Mocidade Independente de Padre Miguel, and recently, Unidos da Tijuca and GRES União da Ilha do Governador. Local tourists pay $500–950, depending on the costume, to buy a Samba costume and dance in the parade.', 'Blocos are small informal groups with a definite theme in their samba, usually satirizing the political situation. About 30 schools in Rio gather hundreds of thousands of participants. More than 440 blocos operate in Rio. Bandas are samba musical bands, also called "street carnival bands", usually formed within a single neighborhood or musical back-ground. The Carnival industry chain amassed in 2012 almost US$1 billion in revenues.']
+Answer: 30
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 477, 'end': 484, 'text': '500–950', 'value_text': '500–950', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 681, 'end': 683, 'text': '30', 'value_text': '30', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 755, 'end': 758, 'text': '440', 'value_text': '440', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 958, 'end': 962, 'text': '2012', 'value_text': '2012', 'category': 'year_or_integer', 'unit': None}
+{'chunk_index': 0, 'start': 973, 'end': 982, 'text': '1 billion', 'value_text': '1 billion', 'category': 'number', 'unit': None}
+Side Channel: 500–950|30|440|2012|1 billion
+
+--------------------------------------------------------------------------------
+
+Triplet 187:
+Question: A study completed in what year found that nearly all of Alaska's native languages are at risk of becoming extinct?
+Context: ["The Alaska Native Language Center at the University of Alaska Fairbanks claims that at least 20 Alaskan native languages exist and there are also some languages with different dialects. Most of Alaska's native languages belong to either the Eskimo–Aleut or Na-Dene language families however some languages are thought to be isolates (e.g. Haida) or have not yet been classified (e.g. Tsimshianic).", "As of 2014[update] nearly all of Alaska's native languages were classified as either threatened, shifting, moribund, nearly extinct, or dormant languages."]
+Answer: 2014
+Entity Label: TIME
+{'chunk_index': 0, 'start': 93, 'end': 95, 'text': '20', 'value_text': '20', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 404, 'end': 408, 'text': '2014', 'value_text': '2014', 'category': 'year_or_integer', 'unit': None}
+Side Channel: 20|2014
+
+--------------------------------------------------------------------------------
+
+Triplet 192:
+Question: How many lower class were in Egypt in 1950s
+Context: ["At the time of the fall of the Egyptian monarchy in the early 1950s, less than half a million Egyptians were considered upper class and rich, four million middle class and 17 million lower class and poor. Fewer than half of all primary-school-age children attended school, most of them being boys. Nasser's policies changed this. Land reform and distribution, the dramatic growth in university education, and government support to national industries greatly improved social mobility and flattened the social curve.", "From academic year 1953-54 through 1965-66, overall public school enrolments more than doubled. Millions of previously poor Egyptians, through education and jobs in the public sector, joined the middle class. Doctors, engineers, teachers, lawyers, journalists, constituted the bulk of the swelling middle class in Egypt under Nasser. During the 1960s, the Egyptian economy went from sluggish to the verge of collapse, the society became less free, and Nasser's appeal waned considerably."]
+Answer: 17 million
+Entity Label: NUMERIC
+{'chunk_index': 0, 'start': 56, 'end': 67, 'text': 'early 1950s', 'value_text': 'early 1950s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 79, 'end': 83, 'text': 'half', 'value_text': 'half', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 86, 'end': 93, 'text': 'million', 'value_text': 'million', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 142, 'end': 154, 'text': 'four million', 'value_text': 'four million', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 172, 'end': 182, 'text': '17 million', 'value_text': '17 million', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 216, 'end': 220, 'text': 'half', 'value_text': 'half', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 535, 'end': 542, 'text': '1953-54', 'value_text': '1953-54', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 551, 'end': 558, 'text': '1965-66', 'value_text': '1965-66', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 861, 'end': 866, 'text': '1960s', 'value_text': '1960s', 'category': 'decade', 'unit': None}
+Side Channel: early 1950s|half|million|four million|17 million|half|1953-54|1965-66|1960s
+
+--------------------------------------------------------------------------------
+
+Triplet 193:
+Question: In what month and year did Plymouth see its highest temperature between 1971 and 2000?
+Context: ['Typically, the warmest day of the year (1971–2000) will achieve a temperature of 26.6 °C (80 °F), although in June 1976 the temperature reached 31.6 °C (89 °F), the site record. On average, 4.25 days of the year will report a maximum temperature of 25.1 °C (77 °F) or above.', 'During the winter half of the year, the coldest night will typically fall to −4.1 °C (25 °F) although in January 1979 the temperature fell to −8.8 °C (16 °F). Typically, 18.6 nights of the year will register an air frost.']
+Answer: June 1976
+Entity Label: TIME
+{'chunk_index': 0, 'start': 40, 'end': 49, 'text': '1971–2000', 'value_text': '1971–2000', 'category': 'range', 'unit': None}
+{'chunk_index': 0, 'start': 81, 'end': 85, 'text': '26.6', 'value_text': '26.6', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 90, 'end': 92, 'text': '80', 'value_text': '80', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 110, 'end': 119, 'text': 'June 1976', 'value_text': 'June 1976', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 144, 'end': 148, 'text': '31.6', 'value_text': '31.6', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 153, 'end': 155, 'text': '89', 'value_text': '89', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 190, 'end': 199, 'text': '4.25 days', 'value_text': '4.25', 'category': 'number', 'unit': 'days'}
+{'chunk_index': 0, 'start': 249, 'end': 253, 'text': '25.1', 'value_text': '25.1', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 258, 'end': 260, 'text': '77', 'value_text': '77', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 293, 'end': 297, 'text': 'half', 'value_text': 'half', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 352, 'end': 356, 'text': '−4.1', 'value_text': '−4.1', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 361, 'end': 363, 'text': '25', 'value_text': '25', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 380, 'end': 392, 'text': 'January 1979', 'value_text': 'January 1979', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 417, 'end': 421, 'text': '−8.8', 'value_text': '−8.8', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 426, 'end': 428, 'text': '16', 'value_text': '16', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 445, 'end': 449, 'text': '18.6', 'value_text': '18.6', 'category': 'number', 'unit': None}
+Side Channel: 1971–2000|26.6|80|June 1976|31.6|89|4.25 days|25.1|77|half|−4.1|25|January 1979|−8.8|16|18.6
+
+--------------------------------------------------------------------------------
+
+Triplet 195:
+Question: When did Elizabeth start to bear a coat of royal arms?
+Context: ["From 21 April 1944 until her accession, Elizabeth's arms consisted of a lozenge bearing the royal coat of arms of the United Kingdom differenced with a label of three points argent, the centre point bearing a Tudor rose and the first and third a cross of St George. Upon her accession, she inherited the various arms her father held as sovereign. The Queen also possesses royal standards and personal flags for use in the United Kingdom, Canada, Australia, New Zealand, Jamaica, Barbados, and elsewhere."]
+Answer: 21 April 1944
+Entity Label: TIME
+{'chunk_index': 0, 'start': 5, 'end': 18, 'text': '21 April 1944', 'value_text': '21 April 1944', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 161, 'end': 166, 'text': 'three', 'value_text': 'three', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 228, 'end': 233, 'text': 'first', 'value_text': 'first', 'category': 'ordinal', 'unit': None}
+{'chunk_index': 0, 'start': 238, 'end': 243, 'text': 'third', 'value_text': 'third', 'category': 'ordinal', 'unit': None}
+Side Channel: 21 April 1944|three|first|third
+
+--------------------------------------------------------------------------------
+
+Triplet 197:
+Question: The Skylab 1 was launched on which date?
+Context: ['The United States launched the orbital workstation Skylab 1 on May 14, 1973. It weighed 169,950 pounds (77,090 kg), was 58 feet (18 m) long by 21.7 feet (6.6 m) in diameter, with a habitable volume of 10,000 cubic feet (280 m3). Skylab was damaged during the ascent to orbit, losing one of its solar panels and a meteoroid thermal shield.', "Subsequent manned missions repaired the station, and the final mission's crew, Skylab 4, set the Space Race endurance record with 84 days in orbit when the mission ended on February 8, 1974. Skylab stayed in orbit another five years before reentering the Earth's atmosphere over the Indian Ocean and Western Australia on July 11, 1979."]
+Answer: May 14, 1973
+Entity Label: TIME
+{'chunk_index': 0, 'start': 58, 'end': 59, 'text': '1', 'value_text': '1', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 63, 'end': 75, 'text': 'May 14, 1973', 'value_text': 'May 14, 1973', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 88, 'end': 102, 'text': '169,950 pounds', 'value_text': '169,950 pounds', 'category': 'money', 'unit': None}
+{'chunk_index': 0, 'start': 104, 'end': 113, 'text': '77,090 kg', 'value_text': '77,090', 'category': 'number', 'unit': 'kg'}
+{'chunk_index': 0, 'start': 120, 'end': 127, 'text': '58 feet', 'value_text': '58', 'category': 'number', 'unit': 'feet'}
+{'chunk_index': 0, 'start': 129, 'end': 131, 'text': '18', 'value_text': '18', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 143, 'end': 152, 'text': '21.7 feet', 'value_text': '21.7', 'category': 'number', 'unit': 'feet'}
+{'chunk_index': 0, 'start': 154, 'end': 157, 'text': '6.6', 'value_text': '6.6', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 201, 'end': 207, 'text': '10,000', 'value_text': '10,000', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 220, 'end': 223, 'text': '280', 'value_text': '280', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 224, 'end': 226, 'text': 'm3', 'value_text': 'm3', 'category': 'identifier', 'unit': None}
+{'chunk_index': 0, 'start': 283, 'end': 286, 'text': 'one', 'value_text': 'one', 'category': 'number_word', 'unit': None}
+{'chunk_index': 0, 'start': 425, 'end': 426, 'text': '4', 'value_text': '4', 'category': 'number', 'unit': None}
+{'chunk_index': 0, 'start': 469, 'end': 476, 'text': '84 days', 'value_text': '84', 'category': 'number', 'unit': 'days'}
+{'chunk_index': 0, 'start': 512, 'end': 528, 'text': 'February 8, 1974', 'value_text': 'February 8, 1974', 'category': 'date', 'unit': None}
+{'chunk_index': 0, 'start': 561, 'end': 571, 'text': 'five years', 'value_text': 'five', 'category': 'number_word', 'unit': 'years'}
+{'chunk_index': 0, 'start': 660, 'end': 673, 'text': 'July 11, 1979', 'value_text': 'July 11, 1979', 'category': 'date', 'unit': None}
+Side Channel: 1|May 14, 1973|169,950 pounds|77,090 kg|58 feet|18|21.7 feet|6.6|10,000|280|m3|one|4|84 days|February 8, 1974|five years|July 11, 1979
+
+--------------------------------------------------------------------------------
+
+Triplet 198:
+Question: When did the incidence of TB in Europe reach its highest point?
+Context: ['In Europe, rates of tuberculosis began to rise in the early 1600s to a peak level in the 1800s, when it caused nearly 25% of all deaths. By the 1950s, mortality had decreased nearly 90%.', 'Improvements in public health began significantly reducing rates of tuberculosis even before the arrival of streptomycin and other antibiotics, although the disease remained a significant threat to public health such that when the Medical Research Council was formed in Britain in 1913, its initial focus was tuberculosis research.']
+Answer: 1800s
+Entity Label: TIME
+{'chunk_index': 0, 'start': 54, 'end': 65, 'text': 'early 1600s', 'value_text': 'early 1600s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 89, 'end': 94, 'text': '1800s', 'value_text': '1800s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 118, 'end': 121, 'text': '25%', 'value_text': '25%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 144, 'end': 149, 'text': '1950s', 'value_text': '1950s', 'category': 'decade', 'unit': None}
+{'chunk_index': 0, 'start': 182, 'end': 185, 'text': '90%', 'value_text': '90%', 'category': 'percentage', 'unit': None}
+{'chunk_index': 0, 'start': 468, 'end': 472, 'text': '1913', 'value_text': '1913', 'category': 'year_or_integer', 'unit': None}
+Side Channel: early 1600s|1800s|25%|1950s|90%|1913
+
+--------------------------------------------------------------------------------
+

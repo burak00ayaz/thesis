@@ -24,7 +24,53 @@ def deliver_evaluation_by_label(results: list[ResultEntryDB]):
         print(f"Label: {label}, Total: {total}, Correct: {correct}, Accuracy: {accuracy:.2%}")
 
 
+def eval_numerical_results():
+    PATHS = {
+        "squad": [
+            "data/numerical/pisco.db",
+            "data/numerical/pisco_lsc.db",
+            "data/numerical/xrag.db",
+            "data/numerical/xrag_lsc.db",
+        ]
+    }
+    for dataset, db_paths in PATHS.items():
+        print("=" * 50)
+        print(f"{dataset.upper()} DATASET RESULTS")
+        for db_path in db_paths:
+            print("-" * 50)
+            print(f"Evaluating results from database: {db_path}")
+            results_service = ResultsService(db_path)
+            results = results_service.get_all_results()
+            deliver_general_exact_match_accuracy(results)
+            deliver_evaluation_by_label(results)
+        print("=" * 50)
+        print("\n\n")
+
+def eval_ranked_ner_results():
+    PATH = {
+        "squad": [
+            "data/ranked_ner/pisco_ranked_ner_filtered.db",
+            "data/ranked_ner/pisco_ranked_ner.db",
+            "data/ranked_ner/pisco_vanilla.db",
+        ]
+    }
+    for dataset, db_paths in PATH.items():
+        print("=" * 50)
+        print(f"{dataset.upper()} DATASET RESULTS")
+        for db_path in db_paths:
+            print("-" * 50)
+            print(f"Evaluating results from database: {db_path}")
+            results_service = ResultsService(db_path)
+            results = results_service.get_all_results()
+            deliver_general_exact_match_accuracy(results)
+            deliver_evaluation_by_label(results)
+        print("=" * 50)
+        print("\n\n")
+
+
 if __name__ == "__main__":
+    eval_ranked_ner_results()
+    exit(0)
     RESULTS_DB_PATHS = {
         "nq": [
             "data/mistral_nq.db",

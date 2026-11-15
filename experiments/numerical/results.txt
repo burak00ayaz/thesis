@@ -1,0 +1,32 @@
+(.venv) burak@nlp-seminar:~/thesis$ python3 -m evaluation.evaluation
+==================================================
+SQUAD DATASET RESULTS
+--------------------------------------------------
+Evaluating results from database: data/numerical/pisco.db
+EXACT MATCH ACCURACY
+Total: 62, Correct: 47, Accuracy: 75.81%
+EVALUATION BY LABEL
+Label: TIME, Total: 31, Correct: 26, Accuracy: 83.87%
+Label: NUMERIC, Total: 31, Correct: 21, Accuracy: 67.74%
+--------------------------------------------------
+Evaluating results from database: data/numerical/pisco_lsc.db
+EXACT MATCH ACCURACY
+Total: 62, Correct: 52, Accuracy: 83.87%
+EVALUATION BY LABEL
+Label: TIME, Total: 31, Correct: 28, Accuracy: 90.32%
+Label: NUMERIC, Total: 31, Correct: 24, Accuracy: 77.42%
+--------------------------------------------------
+Evaluating results from database: data/numerical/xrag.db
+EXACT MATCH ACCURACY
+Total: 62, Correct: 16, Accuracy: 25.81%
+EVALUATION BY LABEL
+Label: TIME, Total: 31, Correct: 15, Accuracy: 48.39%
+Label: NUMERIC, Total: 31, Correct: 1, Accuracy: 3.23%
+--------------------------------------------------
+Evaluating results from database: data/numerical/xrag_lsc.db
+EXACT MATCH ACCURACY
+Total: 62, Correct: 38, Accuracy: 61.29%
+EVALUATION BY LABEL
+Label: TIME, Total: 31, Correct: 23, Accuracy: 74.19%
+Label: NUMERIC, Total: 31, Correct: 15, Accuracy: 48.39%
+==================================================
