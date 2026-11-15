@@ -6,3 +6,4 @@ models/AutoCompressors/
 .env
 todo.md
 corpus/questions/Granola/articles/data
+tf_idf/kilt21M.sqlite
