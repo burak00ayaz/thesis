@@ -6,6 +6,7 @@ from results_db.results_service import ResultsService, ResultEntry
 from metrics.normalized_indel import substring_aligned_normalized_indel
 import copy
 from evaluation.util import normalize_string
+from experiment_runner.config import entity_questions, entity_labels
 
 def run_experiment(
     run_id: str,
@@ -17,7 +18,7 @@ def run_experiment(
 ):
     results_service = ResultsService(results_database_path)
     model = get_model(model_enum)
-    ds = triplets(dataset, entity_questions=True)
+    ds = triplets(dataset, entity_questions=entity_questions)
 
     if lexical_side_channel_method_enum is not None:
         lsc_method = get_lexical_side_channel_method(lexical_side_channel_method_enum)
@@ -27,15 +28,17 @@ def run_experiment(
     side_channels = []
     answer_labels = []
     for i, (triplet, answer_label) in enumerate(ds):
+        if entity_questions and answer_label not in entity_labels:
+            continue
         if count is not None and i >= count:
             break
         original_triplets.append(triplet)
         answer_labels.append(answer_label)
         triplet = copy.deepcopy(triplet)
-        print(f"LSC generation: {i+1}/{count if count is not None else 'all'}: {triplet.question_id}")
 
         input_question = triplet.question
         if lexical_side_channel_method_enum is not None:
+            print(f"LSC generation: {i+1}/{count if count is not None else 'all'}: {triplet.question_id}")
             side_channel = lsc_method.process(triplet.context)
             input_question = f"{side_channel} {triplet.question}"
             side_channels.append(side_channel)
@@ -65,7 +68,7 @@ def run_experiment(
             model=model,
             lexical_side_channel_method=lexical_side_channel_method_enum.value if lexical_side_channel_method_enum is not None else None,
             lexical_side_channel_output=side_channels[i] if lexical_side_channel_method_enum is not None else None,
-            model_output=output,
+            model_output=outputs[i],
             answer_in_output=exact_match,
             normalized_indel=normalized_indel,
             indel_substring=closest_substring,

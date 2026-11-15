@@ -5,6 +5,7 @@ from lexical_side_channel.lsc import LexicalSideChannelBaseline, get_lexical_sid
 from results_db.results_service import ResultsService, ResultEntry
 from metrics.normalized_indel import substring_aligned_normalized_indel
 from evaluation.util import normalize_string
+from experiment_runner.config import entity_questions, entity_labels
 
 def run_experiment(
     run_id: str,
@@ -16,13 +17,15 @@ def run_experiment(
 ):
     results_service = ResultsService(results_database_path)
     model = get_model(model_enum)
-    triplets_dataset = triplets(dataset, entity_questions=True)
+    triplets_dataset = triplets(dataset, entity_questions=entity_questions)
 
 
     if lexical_side_channel_method_enum is not None:
         lsc_method = get_lexical_side_channel_method(lexical_side_channel_method_enum)
 
     for i, (triplet, answer_label) in enumerate(triplets_dataset):
+        if entity_questions and answer_label not in entity_labels:
+            continue
 
         if count is not None and i >= count:
             break
