@@ -23,9 +23,13 @@ def filtering_wrapper(triplets, dataset: Dataset, filter_entity_questions=False)
     else:
         entity_questions = _load_entity_questions(dataset)
         entity_question_ids = set(entity_questions.keys())
+        last_entity_question = list(entity_questions.keys())[-1] if entity_question_ids else None
         for triplet in triplets:
             if triplet.question_id in entity_question_ids:
                 yield (triplet, entity_questions[triplet.question_id]["label"])
+                if triplet.question_id == last_entity_question:
+                    break
+
 
 def skip_until_wrapper(triplets, skip_until_id):
     """
