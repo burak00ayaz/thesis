@@ -197,10 +197,171 @@ def pisco_chunks_length_analysis():
     average_token_length = total_token_count / total_context_chunk_count if total_context_chunk_count > 0 else 0.0
     print(f"Average Token Length for PISCO Chunks: {average_token_length:.2f}")
 
-    
+def squad_pisco_popularity_analysis():
+    DB_PATH = "data/squad_validation/pisco_squad_chunked_multi_answer.db"
+    results_service = ResultsService(DB_PATH)
+    results = results_service.get_all_results()
+
+    from corpus.questions.SQUAD.squad_validation import get_by_question_id
+    import json
+    json_path = "evaluation/wikilinker/entity_inlink_popularity.json"
+
+    with open(json_path, "r") as f:
+        inlink_popularities = json.load(f)
+
+    popularity_scores = []
+    wiki_resolved_count = 0
+    wiki_resolved_results = []
+
+    for i, result in enumerate(results):
+        if result.question_id in inlink_popularities.keys():
+            wiki_resolved_results.append({
+                "result": result,
+                "popularity": inlink_popularities[result.question_id]["popularity"]
+            })
+
+
+
+import json
+from pathlib import Path
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+
+def squad_pisco_popularity_analysis_gpt(is_correct_fn, n_bins=10):
+    DB_PATH = "data/squad_validation/mistral_squad_multi_answer.db"
+    JSON_PATH = "evaluation/wikilinker/entity_inlink_popularity.json"
+
+    results_service = ResultsService(DB_PATH)
+    results = results_service.get_all_results()
+
+    with open(JSON_PATH, "r") as f:
+        inlink_popularities = json.load(f)
+
+    # Join evaluation results with entity popularity
+    rows = []
+
+    for result in results:
+        entity_data = inlink_popularities.get(result.question_id)
+        if not entity_data:
+            continue
+
+        popularity = entity_data.get("popularity")
+        incoming_links = entity_data.get("incoming_links")
+
+        if popularity is None or incoming_links is None:
+            continue
+
+        rows.append({
+            "question_id": result.question_id,
+            "popularity": float(popularity),
+            "incoming_links": int(incoming_links),
+            "correct": int(is_correct_fn(result)),
+        })
+
+    df = pd.DataFrame(rows)
+
+    if df.empty:
+        print("No questions with valid popularity scores.")
+        return None
+
+    # Quantile-based popularity buckets
+    df["bucket"] = pd.qcut(
+        df["popularity"],
+        q=n_bins,
+        duplicates="drop",
+    )
+
+    summary = (
+        df.groupby("bucket", observed=True)
+        .agg(
+            count=("correct", "size"),
+            correct=("correct", "sum"),
+            accuracy=("correct", "mean"),
+            median_links=("incoming_links", "median"),
+            min_links=("incoming_links", "min"),
+            max_links=("incoming_links", "max"),
+        )
+        .reset_index()
+    )
+
+    summary["accuracy_pct"] = summary["accuracy"] * 100
+
+    # Wilson 95% confidence intervals
+    z = 1.96
+    p = summary["accuracy"].to_numpy()
+    n = summary["count"].to_numpy()
+
+    denominator = 1 + z**2 / n
+    center = (p + z**2 / (2 * n)) / denominator
+    margin = (
+        z * np.sqrt(p * (1 - p) / n + z**2 / (4 * n**2))
+        / denominator
+    )
+
+    lower = (center - margin) * 100
+    upper = (center + margin) * 100
+
+    # Plot
+    fig, ax = plt.subplots(figsize=(10, 5))
+
+    x = np.arange(len(summary))
+    y = summary["accuracy_pct"].to_numpy()
+
+    ax.errorbar(
+        x, y,
+        yerr=[y - lower, upper - y],
+        fmt="o-",
+        capsize=4,
+        linewidth=2,
+        markersize=6,
+    )
+
+    labels = [
+        f"{int(row.min_links):,}–{int(row.max_links):,}"
+        for row in summary.itertuples()
+    ]
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels, rotation=45, ha="right")
+    ax.set_xlabel("Entity popularity (incoming Wikipedia links)")
+    ax.set_ylabel("PISCO answer accuracy (%)")
+    ax.set_title("PISCO Accuracy by Answer Entity Popularity")
+    ax.set_ylim(0, 100)
+    ax.grid(axis="y", alpha=0.3)
+
+    fig.tight_layout()
+
+    output_path = Path(
+        "evaluation/wikilinker/mistral_accuracy_vs_popularity.png"
+    )
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(output_path, dpi=200, bbox_inches="tight")
+    plt.show()
+
+    print(f"Total evaluated questions: {len(results)}")
+    print(f"Popularity-resolved questions: {len(df)}")
+    print(f"Coverage: {len(df) / len(results):.1%}")
+    print(f"Overall resolved accuracy: {df['correct'].mean():.1%}")
+
+    print(
+        summary[
+            ["count", "correct", "accuracy_pct",
+             "min_links", "max_links"]
+        ].to_string(index=False)
+    )
+
+    return summary
+
+
 
 if __name__ == "__main__":
-    squad_entity_centric_analysis()
+    squad_pisco_popularity_analysis_gpt(
+        is_correct_fn=lambda r: r.answer_in_output,
+        n_bins=10,
+    )
     exit(0)
     RESULTS_DB_PATHS = {
         "nq": [
