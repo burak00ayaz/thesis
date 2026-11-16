@@ -83,8 +83,9 @@ def split_oversized_segment(text: str, max_tokens: int) -> list[str]:
     ]
 
 
-def get_context_chunks_sentence_aware(context: str) -> list[str]:
-    if token_len(context) <= CHUNK_SIZE:
+
+def get_context_chunks_sentence_aware(context: str, chunk_size: int = CHUNK_SIZE) -> list[str]:
+    if token_len(context) <= chunk_size:
         return [context]
 
     sentences = sent_tokenize(context)
@@ -95,13 +96,13 @@ def get_context_chunks_sentence_aware(context: str) -> list[str]:
     for sentence in sentences:
         sentence_parts = split_oversized_segment(
             sentence,
-            CHUNK_SIZE,
+            chunk_size,
         )
 
         for part in sentence_parts:
             candidate = " ".join(current + [part])
 
-            if token_len(candidate) <= CHUNK_SIZE:
+            if token_len(candidate) <= chunk_size:
                 current.append(part)
             else:
                 if current:
@@ -139,5 +140,31 @@ def get_context_chunks_fixed_length(text: str, chunk_size=128) -> list[str]:
 
     return chunks
 
+
+def get_context_chunks_word_aware(text: str, chunk_size=128) -> list[str]:
+    words = re.findall(r'\S+\s*|\s+', text)
+
+    chunks = []
+    current_chunk = ""
+
+    for word in words:
+        candidate = current_chunk + word
+
+        if len(tokenizer.encode(candidate, add_special_tokens=False)) <= chunk_size:
+            current_chunk = candidate
+        else:
+            if current_chunk:
+                chunks.append(current_chunk)
+
+            if len(tokenizer.encode(word, add_special_tokens=False)) > chunk_size:
+                raise ValueError(f"Word exceeds chunk_size: {word!r}")
+
+            current_chunk = word
+
+    if current_chunk:
+        chunks.append(current_chunk)
+
+    return chunks
+
 def get_context_chunks(context: str) -> list[str]:
-    return get_context_chunks_fixed_length(context, chunk_size=CHUNK_SIZE)
+    return get_context_chunks_sentence_aware(context, chunk_size=CHUNK_SIZE)
