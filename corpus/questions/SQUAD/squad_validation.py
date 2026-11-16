@@ -35,18 +35,61 @@ def is_single_answer(question_id: str) -> bool:
 
 # load the SQuAD dataset using the Hugging Face datasets library
 def get_triplets():
+    from models.PISCO.context_chunker import get_context_chunks
+
     for i, question in enumerate(ds):
-        if is_single_answer(question['id']):
+        if is_single_answer(question['id']) or True:  # Include all questions for validation
+            context_chunks = get_context_chunks(question['context'])
             yield Triplet(
                 dataset=Dataset.SQUAD_VALIDATION,
                 question_id=question['id'],
-                context=[question['context']],
+                context=context_chunks,
                 question=question['question'],
                 answer=question['answers']['text'][0]  # Assuming single answer
             )
 
 
 if __name__ == "__main__":
-    get_triplets()
+    from models.PISCO.context_chunker import get_context_chunks
+    from transformers import AutoTokenizer
 
+    # tokenizer of the PISCO backbone model
+    tokenizer = AutoTokenizer.from_pretrained(
+        "mistralai/Mistral-7B-Instruct-v0.2"
+    )
 
+    def token_len(text: str) -> int:
+        return len(
+            tokenizer.encode(
+                text,
+                add_special_tokens=False,
+            )
+        )
+
+    total_token_count = 0
+    total_question_count = 0
+    token_lengths = []
+
+    for i, triplet in enumerate(get_triplets()):
+        context = " ".join(triplet.context)
+        token_length = token_len(context)
+        print(f"Token length: {token_length}")
+        total_token_count += token_length
+        total_question_count += 1
+        token_lengths.append(token_length)
+
+    average_token_length = total_token_count / total_question_count if total_question_count > 0 else 0
+    print(f"Average token length of contexts: {average_token_length}")
+
+    median_token_length = sorted(token_lengths)[len(token_lengths) // 2] if token_lengths else 0
+    print(f"Median token length of contexts: {median_token_length}")
+
+    # plot the distribution of token lengths and save plot as a PNG file
+    import matplotlib.pyplot as plt
+
+    plt.hist(token_lengths, bins=30, edgecolor='black')
+    plt.xlabel('Token Length')
+    plt.ylabel('Frequency')
+    plt.title('Distribution of Context Token Lengths in SQuAD Validation')
+
+    plt.savefig("squad_validation_token_lengths.png")
