@@ -24,23 +24,205 @@ def deliver_evaluation_by_label(results: list[ResultEntryDB]):
         print(f"Label: {label}, Total: {total}, Correct: {correct}, Accuracy: {accuracy:.2%}")
 
 
+def squad_validation_multi_answer_eval():
+    DB_PATH = "data/squad_validation/pisco_squad_chunked.db"
+    DB_OUT_PATH = "data/squad_validation/pisco_squad_chunked_multi_answer.db"
+    results_service = ResultsService(DB_PATH)
+    results = results_service.get_all_results()
+    results_service_out = ResultsService(DB_OUT_PATH)
+    
+    from corpus.questions.SQUAD.squad_validation import get_by_question_id
+    from corpus.types import Triplet, Dataset
+    from evaluation.util import normalize_string
+    from models.model import Model
+    correct_count = 0
+    total_count = len(results)
+    
+    for i, result in enumerate(results):
+        print(f"Evaluating result with index {i}/{total_count}")
+        model_output = result.model_output
+        answers = get_by_question_id(result.question_id)["answers"]["text"]
+        normalized_model_output = normalize_string(model_output)
+        normalized_answers = [normalize_string(ans) for ans in answers]
+        exact_match = any(ans in normalized_model_output for ans in normalized_answers)
+        if exact_match:
+            correct_count += 1
+
+        # Save the result to the output database
+        result_entry = ResultEntryDB(
+            run_id=result.run_id,
+            dataset=result.dataset,
+            question_id=result.question_id,
+            context=result.context,
+            question=result.question,
+            answer='; '.join(answers),  # Store all answers as a single string
+            answer_label=result.answer_label,
+            model=result.model,
+            soft_compression=result.soft_compression,
+            compression_ratio=result.compression_ratio,
+            lexical_side_channel_method=result.lexical_side_channel_method,
+            lexical_side_channel_output=result.lexical_side_channel_output,
+            model_output=result.model_output,
+            answer_in_output=exact_match,
+            normalized_indel=None,
+            indel_substring=None,
+        )
+        results_service_out.add_result_db(result_entry)
+
+    accuracy = correct_count / total_count if total_count > 0 else 0.0
+    print(f"SQUAD Validation Multi-Answer Evaluation")
+    print(f"Total: {total_count}, Correct: {correct_count}, Accuracy: {accuracy:.2%}")
+
+def squad_validation_filter_token_length(): 
+    DB_PATH = "data/squad_validation/pisco_squad_multi_answer.db"
+    results_service = ResultsService(DB_PATH)
+    results = results_service.get_all_results()
+
+    from transformers import AutoTokenizer
+
+    # tokenizer of the PISCO backbone model
+    tokenizer = AutoTokenizer.from_pretrained(
+        "mistralai/Mistral-7B-Instruct-v0.2"
+    )
+
+    def token_len(text: str) -> int:
+        return len(
+            tokenizer.encode(
+                text,
+                add_special_tokens=False,
+            )
+        )
+
+    filtered_results = []
+    accepted_range = (0, 140)  # Define the accepted token length range
+    for i, result in enumerate(results):
+        print(f"Processing result {i + 1}/{len(results)}", end="\r")
+        context = " ".join(result.context)
+        token_length = token_len(context)
+        if accepted_range[0] <= token_length <= accepted_range[1]:
+            filtered_results.append(result)
+
+    # calculate accuracy for the filtered results
+    total = len(filtered_results)
+    correct = sum(1 for r in filtered_results if r.answer_in_output)
+    accuracy = correct / total if total > 0 else 0.0
+    print(f"\nFiltered EXACT MATCH ACCURACY")
+    print(f"Total: {total}, Correct: {correct}, Accuracy: {accuracy:.2%}")
+    print(f"Filtered results: {len(filtered_results)} out of {len(results)}")
+
+
+def squad_entity_centric_analysis():
+    DB_PATH = "data/squad_validation/pisco_squad_chunked_multi_answer.db"
+    results_service = ResultsService(DB_PATH)
+    results = results_service.get_all_results()
+    results = results[:3000]
+
+    def get_result_by_question_id(question_id: str) -> ResultEntryDB:
+        for result in results:
+            if result.question_id == question_id:
+                return result
+        return None  # Return None if no result is found for the given question_id
+
+    import json
+    json_path = "corpus/filtering/entity_questions/squad_validation.json"
+    with open(json_path, "r") as f:
+        entity_questions = json.load(f)
+
+    entity_question_results = {}
+
+    for question_id, entity_question in entity_questions.items():
+        result = get_result_by_question_id(question_id)
+
+        if result is not None:
+            entity_question_results[question_id] = {
+                "correct_answer": result.answer_in_output,
+                "entity_question": entity_question,
+            }
+        
+    # analyze by entity type
+    entity_type_to_results = {}
+    for question_id, data in entity_question_results.items():
+        entity_type = data["entity_question"]["label"]
+        if entity_type not in entity_type_to_results:
+            entity_type_to_results[entity_type] = []
+        entity_type_to_results[entity_type].append(data["correct_answer"])
+
+    # general accuracy
+    total = len(entity_question_results)
+    correct = sum(1 for data in entity_question_results.values() if data["correct_answer"])
+    accuracy = correct / total if total > 0 else 0.0
+    print(f"General Accuracy for Entity-Centric Questions:")
+    print(f"Total: {total}, Correct: {correct}, Accuracy: {accuracy:.2%}")
+        
+    print(f"Entity-Centric Analysis:")
+    for entity_type, correctness_list in entity_type_to_results.items():
+        total = len(correctness_list)
+        correct = sum(1 for is_correct in correctness_list if is_correct)
+        accuracy = correct / total if total > 0 else 0.0
+        print(f"Entity Type: {entity_type}, Total: {total}, Correct: {correct}, Accuracy: {accuracy:.2%}")
+
+
+def pisco_chunks_length_analysis():
+    DB_PATH = "data/squad_validation/pisco_squad_chunked.db"
+    results_service = ResultsService(DB_PATH)
+    results = results_service.get_all_results()
+
+    from transformers import AutoTokenizer
+
+    # tokenizer of the PISCO backbone model
+    tokenizer = AutoTokenizer.from_pretrained(
+        "mistralai/Mistral-7B-Instruct-v0.2"
+    )
+
+    def token_len(text: str) -> int:
+        return len(
+            tokenizer.encode(
+                text,
+                add_special_tokens=False,
+            )
+        )
+
+    total_token_count = 0
+    total_context_chunk_count = 0
+    token_lengths = []
+
+    for i, result in enumerate(results):
+        for context_chunk in result.context:
+            token_length = token_len(context_chunk)
+            print(f"Token length: {token_length}")
+            total_token_count += token_length
+            total_context_chunk_count += 1
+            token_lengths.append(token_length)
+
+    average_token_length = total_token_count / total_context_chunk_count if total_context_chunk_count > 0 else 0.0
+    print(f"Average Token Length for PISCO Chunks: {average_token_length:.2f}")
+
+    
+
 if __name__ == "__main__":
+    squad_entity_centric_analysis()
+    exit(0)
     RESULTS_DB_PATHS = {
         "nq": [
-            "data/mistral_nq.db",
-            "data/pisco_nq.db",
-            "data/xrag_nq.db",
+            "data/entity_questions/mistral_nq.db",
+            "data/entity_questions/pisco_nq.db",
+            "data/entity_questions/xrag_nq.db",
         ],
         "bioasq": [
-            "data/mistral_bioasq.db",
-            "data/pisco_bioasq.db",
-            "data/xrag_bioasq.db",
+            "data/entity_questions/mistral_bioasq.db",
+            "data/entity_questions/pisco_bioasq.db",
+            "data/entity_questions/xrag_bioasq.db",
         ],
         "squad": [
-            "data/mistral_squad.db",
-            "data/pisco_squad.db",
-            "data/xrag_squad.db",
+            "data/entity_questions/mistral_squad.db",
+            "data/entity_questions/pisco_squad.db",
+            "data/entity_questions/xrag_squad.db",
         ],
+        "squad_validation": [
+            "data/squad_validation/pisco_squad_multi_answer.db",
+            "data/squad_validation/mistral_squad_multi_answer.db",
+            "data/squad_validation/pisco_squad_chunked_multi_answer.db",
+        ]
     }
     for dataset, db_paths in RESULTS_DB_PATHS.items():
         print("=" * 50)
@@ -50,6 +232,7 @@ if __name__ == "__main__":
             print(f"Evaluating results from database: {db_path}")
             results_service = ResultsService(db_path)
             results = results_service.get_all_results()
+            results = results[:3000]  # Limit to first 3000 results for evaluation
             deliver_general_exact_match_accuracy(results)
             deliver_evaluation_by_label(results)
         print("=" * 50)

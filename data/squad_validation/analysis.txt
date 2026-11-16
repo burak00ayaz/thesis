@@ -1,0 +1,56 @@
+==================================================
+Entity-centric Analysis
+--------------------------------------------------
+pisco_squad_multi_answer.db
+General Accuracy for Entity-Centric Questions:
+Total: 510, Correct: 362, Accuracy: 70.98%
+Entity-Centric Analysis:
+Entity Type: TIME, Total: 65, Correct: 45, Accuracy: 69.23%
+Entity Type: PERSON, Total: 177, Correct: 126, Accuracy: 71.19%
+Entity Type: NUMERIC, Total: 73, Correct: 42, Accuracy: 57.53%
+Entity Type: ORGANIZATION, Total: 104, Correct: 76, Accuracy: 73.08%
+Entity Type: LOCATION, Total: 91, Correct: 73, Accuracy: 80.22%
+
+mistral_squad_multi_answer.db
+General Accuracy for Entity-Centric Questions:
+Total: 510, Correct: 491, Accuracy: 96.27%
+Entity-Centric Analysis:
+Entity Type: TIME, Total: 65, Correct: 62, Accuracy: 95.38%
+Entity Type: PERSON, Total: 177, Correct: 175, Accuracy: 98.87%
+Entity Type: NUMERIC, Total: 73, Correct: 65, Accuracy: 89.04%
+Entity Type: ORGANIZATION, Total: 104, Correct: 100, Accuracy: 96.15%
+Entity Type: LOCATION, Total: 91, Correct: 89, Accuracy: 97.80%
+
+pisco_squad_chunked_multi_answer.db
+General Accuracy for Entity-Centric Questions:
+Total: 510, Correct: 417, Accuracy: 81.76%
+Entity-Centric Analysis:
+Entity Type: TIME, Total: 65, Correct: 47, Accuracy: 72.31%
+Entity Type: PERSON, Total: 177, Correct: 150, Accuracy: 84.75%
+Entity Type: NUMERIC, Total: 73, Correct: 56, Accuracy: 76.71%
+Entity Type: ORGANIZATION, Total: 104, Correct: 83, Accuracy: 79.81%
+Entity Type: LOCATION, Total: 91, Correct: 81, Accuracy: 89.01%
+
+
+
+==================================================
+SQUAD_VALIDATION DATASET RESULTS
+--------------------------------------------------
+Evaluating results from database: data/squad_validation/pisco_squad_multi_answer.db
+EXACT MATCH ACCURACY
+Total: 3000, Correct: 1822, Accuracy: 60.73%
+EVALUATION BY LABEL
+Label: None, Total: 3000, Correct: 1822, Accuracy: 60.73%
+--------------------------------------------------
+Evaluating results from database: data/squad_validation/mistral_squad_multi_answer.db
+EXACT MATCH ACCURACY
+Total: 3000, Correct: 2682, Accuracy: 89.40%
+EVALUATION BY LABEL
+Label: None, Total: 3000, Correct: 2682, Accuracy: 89.40%
+--------------------------------------------------
+Evaluating results from database: data/squad_validation/pisco_squad_chunked_multi_answer.db
+EXACT MATCH ACCURACY
+Total: 3000, Correct: 2154, Accuracy: 71.80%
+EVALUATION BY LABEL
+Label: None, Total: 3000, Correct: 2154, Accuracy: 71.80%
+==================================================
